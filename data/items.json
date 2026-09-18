@@ -1,5 +1,104 @@
 [
   {
+    "description": "Drift-prevention session-init convention card for fresh Claude Code sessions. Injects a self-contained card so a new ses",
+    "id": "hermes-labs-ai/hermes-prime",
+    "language": "Shell",
+    "name": "hermes-labs-ai/hermes-prime",
+    "stars": 1,
+    "updated_at": "2026-09-18T01:29:26Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-prime"
+  },
+  {
+    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 0,
+    "updated_at": "2026-09-18T01:26:43Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 427,
+    "updated_at": "2026-09-18T01:27:46Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Turn messy thoughts into human-sounding X posts. Idea first, AI second.",
+    "id": "zhouey314-cloud/thought-to-x",
+    "language": "Python",
+    "name": "zhouey314-cloud/thought-to-x",
+    "stars": 1,
+    "updated_at": "2026-09-18T01:21:11Z",
+    "url": "https://github.com/zhouey314-cloud/thought-to-x"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 5,
+    "updated_at": "2026-09-18T01:20:27Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "letra-ia: jogo aberto e gratuito de letramento em IA. Aprenda a usar Claude, ChatGPT e Gemini. Feito por Rafael Craice (",
+    "id": "craice/letra-ia",
+    "language": "Svelte",
+    "name": "craice/letra-ia",
+    "stars": 0,
+    "updated_at": "2026-09-18T01:19:31Z",
+    "url": "https://github.com/craice/letra-ia"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11522,
+    "updated_at": "2026-09-18T01:21:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f 100% offline polyglot AI-engineering lab (Rust + Ruby + Lua). Spec-driven CLI for RAG, agents, skills, RFC/HITL, prom",
+    "id": "silvalnk/ai-devassist-cli",
+    "language": "Rust",
+    "name": "silvalnk/ai-devassist-cli",
+    "stars": 0,
+    "updated_at": "2026-09-18T01:17:58Z",
+    "url": "https://github.com/silvalnk/ai-devassist-cli"
+  },
+  {
+    "description": "Open-source skill (MIT) that gives AI agents a marketer's mindset: volume floors, kill rules, positioning, offers, outre",
+    "id": "axelfreeman/marketing-mindset",
+    "language": "HTML",
+    "name": "axelfreeman/marketing-mindset",
+    "stars": 31,
+    "updated_at": "2026-09-18T01:17:34Z",
+    "url": "https://github.com/axelfreeman/marketing-mindset"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-09-18T01:17:16Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T01:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
     "id": "nuttaruj/rolepod",
     "language": "Shell",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28004,
-    "updated_at": "2026-09-18T01:14:33Z",
+    "updated_at": "2026-09-18T01:15:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -63,15 +162,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "HTML",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-09-18T01:10:35Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
     "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
     "id": "weicyang/llm-eng-cards",
     "language": "HTML",
@@ -88,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-09-18T01:09:46Z",
     "url": "https://github.com/simota/nanika-skill"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22102,
+    "updated_at": "2026-09-18T01:08:22Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
@@ -153,15 +252,6 @@
     "url": "https://github.com/graysonchalmers/Skills-Public"
   },
   {
-    "description": "Open-source skill (MIT) that gives AI agents a marketer's mindset: volume floors, kill rules, positioning, offers, outre",
-    "id": "axelfreeman/marketing-mindset",
-    "language": "HTML",
-    "name": "axelfreeman/marketing-mindset",
-    "stars": 31,
-    "updated_at": "2026-09-18T01:02:40Z",
-    "url": "https://github.com/axelfreeman/marketing-mindset"
-  },
-  {
     "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
     "id": "randolfglorious1317/skillpack",
     "language": "TypeScript",
@@ -225,15 +315,6 @@
     "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T01:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -295,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T00:58:03Z",
     "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Drift-prevention session-init convention card for fresh Claude Code sessions. Injects a self-contained card so a new ses",
-    "id": "hermes-labs-ai/hermes-prime",
-    "language": "Shell",
-    "name": "hermes-labs-ai/hermes-prime",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:57:57Z",
-    "url": "https://github.com/hermes-labs-ai/hermes-prime"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T00:52:53Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:52:41Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:52:30Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-18T00:51:57Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:51:35Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:51:05Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 142,
-    "updated_at": "2026-09-18T00:50:48Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:50:46Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:50:33Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
