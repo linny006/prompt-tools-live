@@ -1,11 +1,29 @@
 [
   {
+    "description": "Multi-language (EN/HU) spec-driven development framework, fine-tuned for enterprise SDLC. Not an empty spec kit but a re",
+    "id": "berkiadam/berkispec",
+    "language": "Python",
+    "name": "berkiadam/berkispec",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:46:17Z",
+    "url": "https://github.com/berkiadam/berkispec"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T13:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34775,
-    "updated_at": "2026-09-18T13:44:42Z",
+    "updated_at": "2026-09-18T13:46:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3841,
-    "updated_at": "2026-09-18T13:36:21Z",
+    "updated_at": "2026-09-18T13:46:56Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:32:37Z",
     "url": "https://github.com/pedromvgomes/agentic-toolkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T13:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:27:23Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Multi-language (EN/HU) spec-driven development framework, fine-tuned for enterprise SDLC. Not an empty spec kit but a re",
-    "id": "berkiadam/berkispec",
-    "language": "Python",
-    "name": "berkiadam/berkispec",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:27:10Z",
-    "url": "https://github.com/berkiadam/berkispec"
   },
   {
     "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
@@ -328,7 +328,7 @@
     "id": "Open-Less/openless",
     "language": "Rust",
     "name": "Open-Less/openless",
-    "stars": 3576,
+    "stars": 3577,
     "updated_at": "2026-09-18T13:18:14Z",
     "url": "https://github.com/Open-Less/openless"
   },

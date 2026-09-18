@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 13:45 UTC
+> ⏰ Last updated: 2026-09-18 13:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34775 | TypeScript | 2026-09-18 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 2 | [TeFuirnever/numployee](https://github.com/TeFuirnever/numployee) | 0 | HTML | 2026-09-18 |  |
-| 3 | [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 3 | Markdown | 2026-09-18 | A delivery-discipline behavior layer for AI agents — turns “the agent says it's done” into “the agent proves it's done”: |
-| 4 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 22 | TypeScript | 2026-09-18 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
-| 5 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 120004 | Jupyter Notebook | 2026-09-18 | 21 Lessons, Get Started Building with Generative AI  |
-| 6 | [tmolavi/geo-scope](https://github.com/tmolavi/geo-scope) | 2 | Python | 2026-09-18 | Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research. |
-| 7 | [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) | 0 | JavaScript | 2026-09-18 | Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its |
-| 8 | [shenA2024/whale-persona](https://github.com/shenA2024/whale-persona) | 1 | JavaScript | 2026-09-18 | 多宿主人设引擎：一份 config.json 让 DSH 与 ZCode 共用同一套人设、工作契约、思维链语言与长期记忆；记忆由 AI 提议、人工确认后才生效（代码强制）。A persona engine for AI coding har |
-| 9 | [D3vle0/better-prompt](https://github.com/D3vle0/better-prompt) | 0 | TypeScript | 2026-09-18 | BetterPrompt - 프롬프트 실시간 진단 & AI 보정 브라우저 익스텐션 |
-| 10 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-09-18 | Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context |
-| 11 | [microsoft/apm](https://github.com/microsoft/apm) | 3841 | Python | 2026-09-18 | Agent Package Manager |
-| 12 | [Goldziher/prompt-template](https://github.com/Goldziher/prompt-template) | 26 | Python | 2026-09-18 | Flexible and lightweight library for creating prompt templates |
-| 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22119 | Python | 2026-09-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 14 | [dgaramos/dr-agents](https://github.com/dgaramos/dr-agents) | 0 | Shell | 2026-09-18 | Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery. |
-| 15 | [pedromvgomes/agentic-toolkit](https://github.com/pedromvgomes/agentic-toolkit) | 0 | Go | 2026-09-18 | CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 17 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 936 | Swift | 2026-09-18 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 18 | [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://github.com/jplenio/ComfyUI-MiniMax-Music-Production-Toolkit) | 53 | Python | 2026-09-18 | Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generation, Metadata |
-| 19 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-09-18 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
-| 20 | [rokokol/skill-authoring-skill](https://github.com/rokokol/skill-authoring-skill) | 0 | Shell | 2026-09-18 | How a good skill is written, and the gate that checks it |
-| 21 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-18 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
-| 22 | [berkiadam/berkispec](https://github.com/berkiadam/berkispec) | 1 | Python | 2026-09-18 | Multi-language (EN/HU) spec-driven development framework, fine-tuned for enterprise SDLC. Not an empty spec kit but a re |
+| 1 | [berkiadam/berkispec](https://github.com/berkiadam/berkispec) | 1 | Python | 2026-09-18 | Multi-language (EN/HU) spec-driven development framework, fine-tuned for enterprise SDLC. Not an empty spec kit but a re |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34775 | TypeScript | 2026-09-18 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 4 | [TeFuirnever/numployee](https://github.com/TeFuirnever/numployee) | 0 | HTML | 2026-09-18 |  |
+| 5 | [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 3 | Markdown | 2026-09-18 | A delivery-discipline behavior layer for AI agents — turns “the agent says it's done” into “the agent proves it's done”: |
+| 6 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 22 | TypeScript | 2026-09-18 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
+| 7 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 120004 | Jupyter Notebook | 2026-09-18 | 21 Lessons, Get Started Building with Generative AI  |
+| 8 | [tmolavi/geo-scope](https://github.com/tmolavi/geo-scope) | 2 | Python | 2026-09-18 | Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research. |
+| 9 | [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) | 0 | JavaScript | 2026-09-18 | Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its |
+| 10 | [shenA2024/whale-persona](https://github.com/shenA2024/whale-persona) | 1 | JavaScript | 2026-09-18 | 多宿主人设引擎：一份 config.json 让 DSH 与 ZCode 共用同一套人设、工作契约、思维链语言与长期记忆；记忆由 AI 提议、人工确认后才生效（代码强制）。A persona engine for AI coding har |
+| 11 | [D3vle0/better-prompt](https://github.com/D3vle0/better-prompt) | 0 | TypeScript | 2026-09-18 | BetterPrompt - 프롬프트 실시간 진단 & AI 보정 브라우저 익스텐션 |
+| 12 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-09-18 | Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context |
+| 13 | [microsoft/apm](https://github.com/microsoft/apm) | 3841 | Python | 2026-09-18 | Agent Package Manager |
+| 14 | [Goldziher/prompt-template](https://github.com/Goldziher/prompt-template) | 26 | Python | 2026-09-18 | Flexible and lightweight library for creating prompt templates |
+| 15 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22119 | Python | 2026-09-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 16 | [dgaramos/dr-agents](https://github.com/dgaramos/dr-agents) | 0 | Shell | 2026-09-18 | Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery. |
+| 17 | [pedromvgomes/agentic-toolkit](https://github.com/pedromvgomes/agentic-toolkit) | 0 | Go | 2026-09-18 | CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo |
+| 18 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 936 | Swift | 2026-09-18 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 19 | [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://github.com/jplenio/ComfyUI-MiniMax-Music-Production-Toolkit) | 53 | Python | 2026-09-18 | Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generation, Metadata |
+| 20 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-09-18 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
+| 21 | [rokokol/skill-authoring-skill](https://github.com/rokokol/skill-authoring-skill) | 0 | Shell | 2026-09-18 | How a good skill is written, and the gate that checks it |
+| 22 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-18 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
 | 23 | [Brhiza/mingyu](https://github.com/Brhiza/mingyu) | 430 | TypeScript | 2026-09-18 | 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。 |
 | 24 | [GktuOktay/claude-agency](https://github.com/GktuOktay/claude-agency) | 0 | Shell | 2026-09-18 | Claude Code enterprise multi-agent system — 139 skills, 38 subagents, hooks-based quality gates, MCP integration |
 | 25 | [Atheerameer/agentic-cli-blueprint-library](https://github.com/Atheerameer/agentic-cli-blueprint-library) | 0 | HTML | 2026-09-18 | Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts |
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 35 | [hydrz/dev-skills](https://github.com/hydrz/dev-skills) | 0 | JavaScript | 2026-09-18 | ⚡️ 专为 AI 编程助手打造的模块化开发者技能与工程工作流合集 |
 | 36 | [AltairaLabs/PromptKit](https://github.com/AltairaLabs/PromptKit) | 9 | Go | 2026-09-18 | Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int |
-| 37 | [Open-Less/openless](https://github.com/Open-Less/openless) | 3576 | Rust | 2026-09-18 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
+| 37 | [Open-Less/openless](https://github.com/Open-Less/openless) | 3577 | Rust | 2026-09-18 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
 | 38 | [FuHehe12/cc-wire-analyzer](https://github.com/FuHehe12/cc-wire-analyzer) | 3 | HTML | 2026-09-18 | Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke |
 | 39 | [WestFox-AwA/dsh-prompt-optimizer](https://github.com/WestFox-AwA/dsh-prompt-optimizer) | 62 | JavaScript | 2026-09-18 | DSH Web 插件 · 提示词优化器：把用户的一句话补全成完整具体的要求说明（面向 PTC 模式）。0.4 = 需求补全器——只补内容，不写流程/步骤/验收清单/验证纪律/禁令。 |
 | 40 | [hhakahhhaj-blip/WhisperDeck](https://github.com/hhakahhhaj-blip/WhisperDeck) | 0 | Python | 2026-09-18 | Transcribe voice memos locally with trim, tag, and export tools—no cloud uploads, ever. |
