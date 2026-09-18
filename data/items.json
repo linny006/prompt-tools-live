@@ -1,5 +1,50 @@
 [
   {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Markdown",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-18T05:12:32Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-18T05:11:07Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4813,
+    "updated_at": "2026-09-18T05:12:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "MCP & Agent \u5171\u4eab\u96c6\u7fa4\uff1aLLM \u7f51\u5173\uff08\u591a\u5382\u5546\u7edf\u4e00\u63a5\u5165 + \u590d\u6742\u5ea6\u8def\u7531\uff09/ RAG\uff08\u8bed\u4e49\u5207\u5206 + \u4e09\u540e\u7aef + \u6df7\u5408\u91cd\u6392\uff09/ \u8bb0\u5fc6 / Prompt \u6ce8\u518c\u4e2d\u5fc3 / MCP \u5de5\u5177\u534f\u8bae\u3002\u4f9b\u8de8\u5883\u7535\u5546 AI \u751f\u6001\u7684\u6240\u6709\u4e1a\u52a1 Agent \u590d\u7528\u3002",
+    "id": "rchzc/ecom-agent-shared",
+    "language": "Python",
+    "name": "rchzc/ecom-agent-shared",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:09:48Z",
+    "url": "https://github.com/rchzc/ecom-agent-shared"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T05:09:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u6c34\u4ed9\u7684AI\u63d0\u793a\u8bcd\uff5c5,000+ \u4e2d\u6587 AI \u7ed8\u753b\u63d0\u793a\u8bcd\u5e93\uff1a\u68c0\u7d22 / \u5206\u7c7b / \u4e00\u952e\u590d\u5236\u3002\u63d0\u793a\u8bcd\u8986\u76d6 ChatGPT\u3001Grok\u3001Gemini\u3001Midjourney\u3001Stable Diffusion\u3001Flux\u3001\u5373\u68a6\u3001\u53ef\u7075\u3001\u8c46\u5305\u3001\u6d77\u87ba\u3001\u6587\u5fc3\u4e00\u683c\u7b49",
     "id": "BaYue-SYJ/shuixian-prompts",
     "language": "JavaScript",
@@ -16,15 +61,6 @@
     "stars": 5,
     "updated_at": "2026-09-18T05:06:40Z",
     "url": "https://github.com/SRCarlo/genai-course"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Markdown",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 3,
-    "updated_at": "2026-09-18T05:06:36Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T05:00:53Z",
     "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T05:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T04:52:39Z",
     "url": "https://github.com/pickerrelict689/ai_agent_cli_guide"
-  },
-  {
-    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
-    "id": "Scenic-urochordate607/claude-emotion-prompting",
-    "language": "\u2014",
-    "name": "Scenic-urochordate607/claude-emotion-prompting",
-    "stars": 1,
-    "updated_at": "2026-09-18T04:52:29Z",
-    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s architecture with source-level research, code citations, and a 14-chapter deep dive into its TypeS",
-    "id": "flunkymercenary747/Claude-code-research",
-    "language": "\u2014",
-    "name": "flunkymercenary747/Claude-code-research",
-    "stars": 1,
-    "updated_at": "2026-09-18T04:52:10Z",
-    "url": "https://github.com/flunkymercenary747/Claude-code-research"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-09-18T04:52:06Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
   }
 ]
