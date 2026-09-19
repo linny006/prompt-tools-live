@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
+    "id": "FuHehe12/cc-wire-analyzer",
+    "language": "HTML",
+    "name": "FuHehe12/cc-wire-analyzer",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:44:37Z",
+    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+  },
+  {
+    "description": "Desktop prompt manager for macOS \u2014 local-first storage, MCP server feeds your prompt library straight to AI agents",
+    "id": "n23eos/prompt_manager_with_mpc",
+    "language": "JavaScript",
+    "name": "n23eos/prompt_manager_with_mpc",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:43:53Z",
+    "url": "https://github.com/n23eos/prompt_manager_with_mpc"
+  },
+  {
+    "description": "\u2696\ufe0f Multi-agent AI debate system built with LangChain \u2014 two LLMs argue opposing sides of any topic across multiple rounds",
+    "id": "Saim-Chaudhary/AI-Debate-System",
+    "language": "Python",
+    "name": "Saim-Chaudhary/AI-Debate-System",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:43:31Z",
+    "url": "https://github.com/Saim-Chaudhary/AI-Debate-System"
+  },
+  {
+    "description": "\u628a\u4e2d\u6587\u753b\u9762\u63cf\u8ff0\u8f6c\u6210\u4e94\u5757\u7ed3\u6784\u5316\u82f1\u6587\u63d0\u793a\u8bcd\u7684 ComfyUI \u8282\u70b9\uff5c\u672c\u5730 Qwen3-4B + \u672f\u8bed\u5e93\u68c0\u7d22(RAG) + \u63a5\u5730\u68c0\u67e5\uff5c\u5b8c\u5168\u79bb\u7ebf",
+    "id": "haiweizhao27/ComfyUI-Anima-Prompt-Writer",
+    "language": "Python",
+    "name": "haiweizhao27/ComfyUI-Anima-Prompt-Writer",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:41:06Z",
+    "url": "https://github.com/haiweizhao27/ComfyUI-Anima-Prompt-Writer"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
+    "id": "fernando-bertholdo/4-successful-AI-life",
+    "language": "Shell",
+    "name": "fernando-bertholdo/4-successful-AI-life",
+    "stars": 2,
+    "updated_at": "2026-09-19T06:40:18Z",
+    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
+  },
+  {
+    "description": "Generates 3:4 Xiaohongshu-style images from short text. 8 built-in style presets; if one image API fails, the next provi",
+    "id": "ivercurry99/yy-text2-xhs-img",
+    "language": "Python",
+    "name": "ivercurry99/yy-text2-xhs-img",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:39:52Z",
+    "url": "https://github.com/ivercurry99/yy-text2-xhs-img"
+  },
+  {
+    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.16 npm \u901a\u9053\u5b9e\u53d1\u00b7202\u5224\u6210\u529f\u00b7\u5e26\u91cd\u8bd5\u56de\u8bfb\u00b7readme \u56de\u5f52\uff1b\u53d1\u7248\u95f8 A/B/C/D/D-\u914d\u5957/D-import/E/F\uff1b\u968f\u5305\u95e8",
+    "id": "winsonpong98-cloud/dsh-distillation-director",
+    "language": "Python",
+    "name": "winsonpong98-cloud/dsh-distillation-director",
+    "stars": 2,
+    "updated_at": "2026-09-19T06:39:38Z",
+    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
+  },
+  {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 153 commands, 88 agents, 117 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:38:57Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "Automated MiniMax H3 official prompt skill with local Qwen3.8 vision optimization for ComfyUI",
+    "id": "basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal",
+    "language": "Python",
+    "name": "basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:38:39Z",
+    "url": "https://github.com/basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal"
+  },
+  {
+    "description": "Hands-on labs and courseware for Generative AI for Video Creation (C1373) \u2014 8 connected practical activities from Build ",
+    "id": "tertiarycourses/C1373-Generative-AI-for-Video-Creation",
+    "language": "Python",
+    "name": "tertiarycourses/C1373-Generative-AI-for-Video-Creation",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:38:04Z",
+    "url": "https://github.com/tertiarycourses/C1373-Generative-AI-for-Video-Creation"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T06:37:02Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Diagnose a past Claude Code or Codex session and see what to change.",
     "id": "shinpr/agent-clinic",
     "language": "\u2014",
@@ -7,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T06:36:00Z",
     "url": "https://github.com/shinpr/agent-clinic"
-  },
-  {
-    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
-    "id": "FuHehe12/cc-wire-analyzer",
-    "language": "HTML",
-    "name": "FuHehe12/cc-wire-analyzer",
-    "stars": 3,
-    "updated_at": "2026-09-19T06:33:50Z",
-    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
   },
   {
     "description": "AI Workflow Builder -- visual drag-and-drop tool to chain prompts into flowcharts. Build, connect, and export AI prompt ",
@@ -36,24 +126,6 @@
     "url": "https://github.com/ucsandman/Agnostic-AI"
   },
   {
-    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
-    "id": "fernando-bertholdo/4-successful-AI-life",
-    "language": "Shell",
-    "name": "fernando-bertholdo/4-successful-AI-life",
-    "stars": 2,
-    "updated_at": "2026-09-19T06:31:28Z",
-    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T06:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Prompt Engineering (R-T-C-C-E-O)",
     "id": "vikrantkalyan23/prompt-engineering",
     "language": "\u2014",
@@ -72,21 +144,12 @@
     "url": "https://github.com/shenA2024/whale-persona"
   },
   {
-    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.15 \u53d1 npm \u524d\u5143\u6570\u636e\u81ea\u68c0\u00b7desc \u7248\u672c\u540c\u4ee3\u95f8\uff1b\u53d1\u7248\u95f8 A/B/C/D/D-\u914d\u5957/D-import/E/F\uff1b\u968f\u5305\u95e8\u7981\u4e0e\u5de5\u5177 38 ",
-    "id": "winsonpong98-cloud/dsh-distillation-director",
-    "language": "Python",
-    "name": "winsonpong98-cloud/dsh-distillation-director",
-    "stars": 2,
-    "updated_at": "2026-09-19T06:25:41Z",
-    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
-  },
-  {
     "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
     "id": "hraness/gobstopper",
     "language": "Rust",
     "name": "hraness/gobstopper",
     "stars": 2,
-    "updated_at": "2026-09-19T06:26:57Z",
+    "updated_at": "2026-09-19T06:41:36Z",
     "url": "https://github.com/hraness/gobstopper"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T06:07:56Z",
+    "updated_at": "2026-09-19T06:38:44Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
   },
   {
-    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 153 commands, 88 agents, 117 skills, 23 rol",
-    "id": "adnanmokhtar/refract",
-    "language": "Shell",
-    "name": "adnanmokhtar/refract",
-    "stars": 1,
-    "updated_at": "2026-09-19T05:45:43Z",
-    "url": "https://github.com/adnanmokhtar/refract"
-  },
-  {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
     "id": "sou350121/Agent-Playbook",
     "language": "PowerShell",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T05:43:40Z",
     "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:43:29Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-19T05:43:11Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:42:55Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:42:11Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:42:11Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:41:59Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
   }
 ]
