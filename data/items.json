@@ -1,10 +1,100 @@
 [
   {
+    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
+    "id": "toverux/cantrips",
+    "language": "Shell",
+    "name": "toverux/cantrips",
+    "stars": 3,
+    "updated_at": "2026-09-19T14:45:13Z",
+    "url": "https://github.com/toverux/cantrips"
+  },
+  {
+    "description": "A bilingual AI productivity hub featuring handpicked AI tools, practical prompt libraries, curated resource navigation, ",
+    "id": "erick-ic/ichenghub",
+    "language": "TypeScript",
+    "name": "erick-ic/ichenghub",
+    "stars": 2,
+    "updated_at": "2026-09-19T14:44:23Z",
+    "url": "https://github.com/erick-ic/ichenghub"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:42:19Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
+    "id": "ubik-dsh/deepseek-harness-skills",
+    "language": "Python",
+    "name": "ubik-dsh/deepseek-harness-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:42:08Z",
+    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "Design, compile, and audit production-grade Crack interactive story chats from story.md and characters.md into platform-",
+    "id": "CREE1116/crack-story-architect",
+    "language": "Python",
+    "name": "CREE1116/crack-story-architect",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:41:26Z",
+    "url": "https://github.com/CREE1116/crack-story-architect"
+  },
+  {
+    "description": "CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p",
+    "id": "truss44/files2prompt",
+    "language": "TypeScript",
+    "name": "truss44/files2prompt",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:41:46Z",
+    "url": "https://github.com/truss44/files2prompt"
+  },
+  {
+    "description": "Curated AI skills for open data workflows \u2014 tool-agnostic instructions following the Agent Skills open standard",
+    "id": "ondata/skills",
+    "language": "Python",
+    "name": "ondata/skills",
+    "stars": 6,
+    "updated_at": "2026-09-19T14:39:34Z",
+    "url": "https://github.com/ondata/skills"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-09-19T14:39:21Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Generate reference-conditioned covers and editorial illustrations from your own IP, with semantic direction and multi-fo",
+    "id": "opc8838-hub/ip-visual-director",
+    "language": "Python",
+    "name": "opc8838-hub/ip-visual-director",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:38:45Z",
+    "url": "https://github.com/opc8838-hub/ip-visual-director"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T14:38:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Entorno modular y orquestador local para inicializar proyectos de Ciencia de Datos, Modelado, Documentaci\u00f3n y Desarrollo",
     "id": "AngelTLH/agentias",
     "language": "HTML",
     "name": "AngelTLH/agentias",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-19T14:38:15Z",
     "url": "https://github.com/AngelTLH/agentias"
   },
@@ -16,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-19T14:37:36Z",
     "url": "https://github.com/clayy-esc/SurveyNexus"
+  },
+  {
+    "description": "Give your AI coding agent a memory that survives across sessions and projects. \u8de8\u9879\u76ee\u7ecf\u9a8c\u6c89\u6dc0\u673a\u5236\u3002",
+    "id": "Y545329005/agent-learn",
+    "language": "Python",
+    "name": "Y545329005/agent-learn",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:41:17Z",
+    "url": "https://github.com/Y545329005/agent-learn"
   },
   {
     "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
@@ -90,15 +189,6 @@
     "url": "https://github.com/NehaKhann/ai-engineering-journey"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T14:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -135,15 +225,6 @@
     "url": "https://github.com/Siddarthb07/cursor-llm-council"
   },
   {
-    "description": "Curated AI skills for open data workflows \u2014 tool-agnostic instructions following the Agent Skills open standard",
-    "id": "ondata/skills",
-    "language": "Python",
-    "name": "ondata/skills",
-    "stars": 6,
-    "updated_at": "2026-09-19T14:27:25Z",
-    "url": "https://github.com/ondata/skills"
-  },
-  {
     "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
     "id": "b0ir/prompt-evaluator",
     "language": "Python",
@@ -160,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-09-19T14:24:51Z",
     "url": "https://github.com/AKzar1el/god-prompt"
-  },
-  {
-    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
-    "id": "toverux/cantrips",
-    "language": "Shell",
-    "name": "toverux/cantrips",
-    "stars": 3,
-    "updated_at": "2026-09-19T14:24:57Z",
-    "url": "https://github.com/toverux/cantrips"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -220,7 +292,7 @@
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4505,
+    "stars": 4506,
     "updated_at": "2026-09-19T14:22:08Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
@@ -232,24 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T14:21:02Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 22,
-    "updated_at": "2026-09-19T14:32:03Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
-    "id": "ubik-dsh/deepseek-harness-skills",
-    "language": "Python",
-    "name": "ubik-dsh/deepseek-harness-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:18:37Z",
-    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
   },
   {
     "description": "\u628a\u4e00\u5f20\u56fe\u7247\u9006\u63a8\u6210\u751f\u6210\u63d0\u793a\u8bcd\uff08Image to Prompt\uff09\uff1a\u4e2d\u82f1\u53cc\u8bed\u91cd\u5efa\u63d0\u793a\u8bcd + \u98ce\u683c\u6807\u7b7e + \u7ed3\u6784\u5316 JSON prompt\uff0c\u96f6\u4f9d\u8d56\u6821\u9a8c\u811a\u672c | Forensic image-to-prompt reconstruction. AGP",
@@ -277,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T14:17:19Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "A bilingual AI productivity hub featuring handpicked AI tools, practical prompt libraries, curated resource navigation, ",
-    "id": "erick-ic/ichenghub",
-    "language": "TypeScript",
-    "name": "erick-ic/ichenghub",
-    "stars": 2,
-    "updated_at": "2026-09-19T14:15:20Z",
-    "url": "https://github.com/erick-ic/ichenghub"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -328,7 +373,7 @@
     "id": "ucsandman/Agnostic-AI",
     "language": "JavaScript",
     "name": "ucsandman/Agnostic-AI",
-    "stars": 16,
+    "stars": 17,
     "updated_at": "2026-09-19T14:08:55Z",
     "url": "https://github.com/ucsandman/Agnostic-AI"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T14:03:45Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 48718,
-    "updated_at": "2026-09-19T14:01:55Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:00:43Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-19T14:01:00Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5997,
-    "updated_at": "2026-09-19T13:58:30Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:54:01Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
   }
 ]
