@@ -1,12 +1,102 @@
 [
   {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:29:44Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:29:32Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:29:11Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
     "id": "bjcoombs/ai-native-toolkit",
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-19T00:15:20Z",
+    "updated_at": "2026-09-19T00:30:12Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
+    "id": "PLLima/ai-resume-agent",
+    "language": "Python",
+    "name": "PLLima/ai-resume-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:22:08Z",
+    "url": "https://github.com/PLLima/ai-resume-agent"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 52,
+    "updated_at": "2026-09-19T00:21:36Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.11 \u5224\u636e\u5355\u4e00\u6765\u6e90\u00b7\u968f\u5305\u6e05\u5355\u53cc\u5411\u6bd4\u5bf9\u00b7\u5bf9\u5916\u6570\u5b57\u53ef\u590d\u7b97\uff1b\u53d1\u7248\u95f8 A/B/C/D/D-\u914d\u5957/D-import/E/F\uff1b\u968f\u5305\u95e8\u7981\u4e0e\u5de5\u5177 37 ",
+    "id": "winsonpong98-cloud/dsh-distillation-director",
+    "language": "Python",
+    "name": "winsonpong98-cloud/dsh-distillation-director",
+    "stars": 2,
+    "updated_at": "2026-09-19T00:19:05Z",
+    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 936,
+    "updated_at": "2026-09-19T00:19:03Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-09-19T00:18:14Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-09-19T00:16:18Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T00:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -45,13 +135,13 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-19T00:07:48Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4816,
+    "updated_at": "2026-09-19T00:07:58Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
@@ -95,7 +185,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-09-19T00:01:39Z",
+    "updated_at": "2026-09-19T00:19:37Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 123,
     "updated_at": "2026-09-19T00:00:52Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T00:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
@@ -189,15 +270,6 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:46:14Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -205,24 +277,6 @@
     "stars": 11538,
     "updated_at": "2026-09-18T23:47:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:44:08Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.10 \u968f\u5305\u6e05\u5355\uff0b\u5b89\u88c5\u4fa7\u53cc\u5411\u6bd4\u5bf9\uff1a\u5305\u5185\u81ea\u5e26\u6210\u5458\u6e05\u5355\uff0c\u88c5\u5b8c\u53ef\u67e5\u300c\u7f3a\u4ef6\uff0f\u9648\u65e7\u4ef6\uff0f\u5185\u5bb9\u4e0d\u7b26\u300d\uff0c\u89e3\u51b3\u8986\u76d6\u5b89\u88c5\u4e0d\u5220\u65e7\u6587\u4ef6\uff1b\u53d1\u7248\u95f8 A/B/C/D/D",
-    "id": "winsonpong98-cloud/dsh-distillation-director",
-    "language": "Python",
-    "name": "winsonpong98-cloud/dsh-distillation-director",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:43:39Z",
-    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
   },
   {
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T23:19:02Z",
     "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:19:00Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:18:19Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:18:11Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:18:01Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:17:45Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:17:38Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   }
 ]
