@@ -1,12 +1,30 @@
 [
   {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
+    "description": "Entorno modular y orquestador local para inicializar proyectos de Ciencia de Datos, Modelado, Documentaci\u00f3n y Desarrollo",
+    "id": "AngelTLH/agentias",
+    "language": "HTML",
+    "name": "AngelTLH/agentias",
+    "stars": 2,
+    "updated_at": "2026-09-19T14:38:15Z",
+    "url": "https://github.com/AngelTLH/agentias"
+  },
+  {
+    "description": "Google AI Professional Capstone Project: Vibe Coded Application",
+    "id": "clayy-esc/SurveyNexus",
     "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3030,
-    "updated_at": "2026-09-19T14:29:06Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
+    "name": "clayy-esc/SurveyNexus",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:37:36Z",
+    "url": "https://github.com/clayy-esc/SurveyNexus"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-09-19T14:36:46Z",
+    "url": "https://github.com/aidyou/chatspeed"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -14,8 +32,89 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-19T14:28:53Z",
+    "updated_at": "2026-09-19T14:36:12Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Prompt-Driven Engineering \u2014 \u3042\u3089\u3086\u308b\u9818\u57df\u3068\u958b\u767a\u30d7\u30ed\u30bb\u30b9\u306bAI\u3092\u7d44\u307f\u8fbc\u3080\u305f\u3081\u306e\u5b9f\u8df5\u30ca\u30ec\u30c3\u30b8\u30d9\u30fc\u30b9 (domains x SDLC phases knowledge base)",
+    "id": "zixuniaowu/PDE-AI-Knowledge-Base",
+    "language": "TypeScript",
+    "name": "zixuniaowu/PDE-AI-Knowledge-Base",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:35:56Z",
+    "url": "https://github.com/zixuniaowu/PDE-AI-Knowledge-Base"
+  },
+  {
+    "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 3,
+    "updated_at": "2026-09-19T14:33:15Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:32:51Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-09-19T14:31:38Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:31:32Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Structured, hands-on AI engineering repository covering LLMs, fine-tuning, LoRA/QLoRA, RLHF, RAG, AI agents, and real-wo",
+    "id": "NehaKhann/ai-engineering-journey",
+    "language": "Jupyter Notebook",
+    "name": "NehaKhann/ai-engineering-journey",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:30:25Z",
+    "url": "https://github.com/NehaKhann/ai-engineering-journey"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T14:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-19T14:30:25Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3030,
+    "updated_at": "2026-09-19T14:29:06Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T14:26:38Z",
     "url": "https://github.com/b0ir/prompt-evaluator"
-  },
-  {
-    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 1,
-    "updated_at": "2026-09-19T14:25:19Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
   },
   {
     "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
@@ -149,7 +239,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 22,
-    "updated_at": "2026-09-19T14:19:42Z",
+    "updated_at": "2026-09-19T14:32:03Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T14:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A bilingual AI productivity hub featuring handpicked AI tools, practical prompt libraries, curated resource navigation, ",
     "id": "erick-ic/ichenghub",
     "language": "TypeScript",
@@ -205,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T14:15:20Z",
     "url": "https://github.com/erick-ic/ichenghub"
-  },
-  {
-    "description": "Google AI Professional Capstone Project: Vibe Coded Application",
-    "id": "clayy-esc/SurveyNexus",
-    "language": "TypeScript",
-    "name": "clayy-esc/SurveyNexus",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:15:11Z",
-    "url": "https://github.com/clayy-esc/SurveyNexus"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T13:54:01Z",
     "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "Agent Skill that turns scripts into paste-ready AI video prompts: one prompt per 10-second clip, with timed shots, @ ref",
-    "id": "Apoorve8055/script-to-video-prompts",
-    "language": "PowerShell",
-    "name": "Apoorve8055/script-to-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:52:19Z",
-    "url": "https://github.com/Apoorve8055/script-to-video-prompts"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:52:02Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:51:20Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:51:17Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:51:09Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-19T13:49:32Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:49:26Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-19T13:49:05Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
   }
 ]
