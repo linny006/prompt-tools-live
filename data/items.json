@@ -1,21 +1,12 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4816,
-    "updated_at": "2026-09-19T08:44:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
     "stars": 1,
-    "updated_at": "2026-09-19T08:44:09Z",
-    "url": "https://github.com/janzong/agent-charters"
+    "updated_at": "2026-09-19T08:59:07Z",
+    "url": "https://github.com/jason3e7/ai-101"
   },
   {
     "description": "A.I. Sorcery",
@@ -23,8 +14,134 @@
     "language": "Python",
     "name": "4ndr0666/gpt",
     "stars": 24,
-    "updated_at": "2026-09-19T08:43:56Z",
+    "updated_at": "2026-09-19T08:58:18Z",
     "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "\u591a\u5bbf\u4e3b\u4eba\u8bbe\u5f15\u64ce\uff1a\u4e00\u4efd config.json \u8ba9 DSH \u4e0e ZCode \u5171\u7528\u540c\u4e00\u5957\u4eba\u8bbe\u3001\u5de5\u4f5c\u5951\u7ea6\u3001\u601d\u7ef4\u94fe\u8bed\u8a00\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b\u8bb0\u5fc6\u7531 AI \u63d0\u8bae\u3001\u4eba\u5de5\u786e\u8ba4\u540e\u624d\u751f\u6548\uff08\u4ee3\u7801\u5f3a\u5236\uff09\u3002A persona engine for AI coding har",
+    "id": "shenA2024/whale-persona",
+    "language": "JavaScript",
+    "name": "shenA2024/whale-persona",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:57:21Z",
+    "url": "https://github.com/shenA2024/whale-persona"
+  },
+  {
+    "description": "A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences.",
+    "id": "boloagegit/TurnStage",
+    "language": "TypeScript",
+    "name": "boloagegit/TurnStage",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:59:45Z",
+    "url": "https://github.com/boloagegit/TurnStage"
+  },
+  {
+    "description": "Rebuild a published paper's research process in first person, then audit your own hallucinations. 9-stage prompt pipelin",
+    "id": "yccshen/reverse-research-simulation",
+    "language": "\u2014",
+    "name": "yccshen/reverse-research-simulation",
+    "stars": 1,
+    "updated_at": "2026-09-19T08:56:46Z",
+    "url": "https://github.com/yccshen/reverse-research-simulation"
+  },
+  {
+    "description": "18+ only\uff5c\u6587\u751f\u56fe\u63d0\u793a\u8bcd\u6559\u5b66\u7ad9\uff1afigure-photo / youth-seduction / erotic \u4e09\u7ebf\u5bfc\u6f14\u53f0 \u00b7 \u7ef4\u5ea6\u4f53\u7cfb \u00b7 \u5199\u6cd5\u89c4\u5219 \u00b7 \u7ec4\u5408\u56fe\u5e93\u3002\u542b\u9732\u9aa8\u63d0\u793a\u8bcd\u6587\u672c\uff0c\u7981\u6b62\u672a\u6210\u5e74\uff1b\u4e0d\u968f\u4ed3\u5e93\u5206\u53d1\u56fe\u7247\u3002Adult-orie",
+    "id": "Emily-Power/krea2_guide_site",
+    "language": "JavaScript",
+    "name": "Emily-Power/krea2_guide_site",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:56:16Z",
+    "url": "https://github.com/Emily-Power/krea2_guide_site"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2008,
+    "updated_at": "2026-09-19T08:52:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:52:40Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
+    "id": "PromptBranch/promptbranch",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch",
+    "stars": 2,
+    "updated_at": "2026-09-19T08:52:55Z",
+    "url": "https://github.com/PromptBranch/promptbranch"
+  },
+  {
+    "description": "A Claude Code skill for MiniMax H3 \u2014 the open-weight omni-modal video model. Prompt framework, ComfyUI model/quant refer",
+    "id": "teskor-hub/minimax-h3-skill",
+    "language": "Python",
+    "name": "teskor-hub/minimax-h3-skill",
+    "stars": 9,
+    "updated_at": "2026-09-19T08:51:40Z",
+    "url": "https://github.com/teskor-hub/minimax-h3-skill"
+  },
+  {
+    "description": "49 prompts for Mistral Vibe Work, scheduled tasks and Chat. Filed by the mode each one can honestly run in, and checked.",
+    "id": "kesslernity/awesome-mistral-vibe-prompts",
+    "language": "Python",
+    "name": "kesslernity/awesome-mistral-vibe-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:50:51Z",
+    "url": "https://github.com/kesslernity/awesome-mistral-vibe-prompts"
+  },
+  {
+    "description": "A clan of orcs that crafts and orchestrates the software development lifecycle for AI coding agents.",
+    "id": "karloows/orchraft",
+    "language": "Shell",
+    "name": "karloows/orchraft",
+    "stars": 2,
+    "updated_at": "2026-09-19T08:50:34Z",
+    "url": "https://github.com/karloows/orchraft"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-19T08:49:37Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "Slash commands, mental frameworks, and prompt engineering resources for Claude Code \u2014 grounded in LLM research",
+    "id": "rolandtolnay/llm-toolkit",
+    "language": "Python",
+    "name": "rolandtolnay/llm-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-19T08:47:16Z",
+    "url": "https://github.com/rolandtolnay/llm-toolkit"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4816,
+    "updated_at": "2026-09-19T08:52:30Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T08:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
@@ -68,7 +185,7 @@
     "language": "Shell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-19T08:38:14Z",
+    "updated_at": "2026-09-19T08:59:02Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -122,7 +239,7 @@
     "language": "TypeScript",
     "name": "timurgaleev/vibestack",
     "stars": 6,
-    "updated_at": "2026-09-19T08:35:47Z",
+    "updated_at": "2026-09-19T08:49:36Z",
     "url": "https://github.com/timurgaleev/vibestack"
   },
   {
@@ -140,17 +257,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T08:34:46Z",
+    "updated_at": "2026-09-19T08:57:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "18+ only\uff5c\u6587\u751f\u56fe\u63d0\u793a\u8bcd\u6559\u5b66\u7ad9\uff1afigure-photo / youth-seduction / erotic \u4e09\u7ebf\u5bfc\u6f14\u53f0 \u00b7 \u7ef4\u5ea6\u4f53\u7cfb \u00b7 \u5199\u6cd5\u89c4\u5219 \u00b7 \u7ec4\u5408\u56fe\u5e93\u3002\u542b\u9732\u9aa8\u63d0\u793a\u8bcd\u6587\u672c\uff0c\u7981\u6b62\u672a\u6210\u5e74\uff1b\u4e0d\u968f\u4ed3\u5e93\u5206\u53d1\u56fe\u7247\u3002Adult-orie",
-    "id": "Emily-Power/krea2_guide_site",
-    "language": "JavaScript",
-    "name": "Emily-Power/krea2_guide_site",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:31:35Z",
-    "url": "https://github.com/Emily-Power/krea2_guide_site"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -160,15 +268,6 @@
     "stars": 122,
     "updated_at": "2026-09-19T08:30:39Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T08:30:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable agent skills and reusable agentic workflows for any SKILL.md-compatible assistant",
@@ -207,15 +306,6 @@
     "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
-    "description": "\u591a\u5bbf\u4e3b\u4eba\u8bbe\u5f15\u64ce\uff1a\u4e00\u4efd config.json \u8ba9 DSH \u4e0e ZCode \u5171\u7528\u540c\u4e00\u5957\u4eba\u8bbe\u3001\u5de5\u4f5c\u5951\u7ea6\u3001\u601d\u7ef4\u94fe\u8bed\u8a00\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b\u8bb0\u5fc6\u7531 AI \u63d0\u8bae\u3001\u4eba\u5de5\u786e\u8ba4\u540e\u624d\u751f\u6548\uff08\u4ee3\u7801\u5f3a\u5236\uff09\u3002A persona engine for AI coding har",
-    "id": "shenA2024/whale-persona",
-    "language": "JavaScript",
-    "name": "shenA2024/whale-persona",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:25:12Z",
-    "url": "https://github.com/shenA2024/whale-persona"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -241,15 +331,6 @@
     "stars": 23,
     "updated_at": "2026-09-19T08:18:52Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "HTML",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-09-19T08:18:36Z",
-    "url": "https://github.com/jason3e7/ai-101"
   },
   {
     "description": "Prompt Engineering for Software Development is a research repository that evaluates prompt engineering for software deve",
@@ -347,7 +428,7 @@
     "language": "JavaScript",
     "name": "rikilamadrid/pathfinder",
     "stars": 1,
-    "updated_at": "2026-09-19T08:33:08Z",
+    "updated_at": "2026-09-19T08:48:21Z",
     "url": "https://github.com/rikilamadrid/pathfinder"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 12,
     "updated_at": "2026-09-19T08:03:31Z",
     "url": "https://github.com/Novadiem-Studio/bureau"
-  },
-  {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 30,
-    "updated_at": "2026-09-19T08:03:47Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
-    "description": "AI-Psychiatry is a Claude plugin that gives AI coding agents an executive-function layer to detect and control attention",
-    "id": "ihabkhaled/AI-Psychiatry",
-    "language": "Python",
-    "name": "ihabkhaled/AI-Psychiatry",
-    "stars": 3,
-    "updated_at": "2026-09-19T08:02:52Z",
-    "url": "https://github.com/ihabkhaled/AI-Psychiatry"
-  },
-  {
-    "description": "A curated, cross-referenced encyclopedia of 1100+ open-source agent skills (native languages kept) and 1600+ indexed ski",
-    "id": "findscripter/everything-skills",
-    "language": "JavaScript",
-    "name": "findscripter/everything-skills",
-    "stars": 3,
-    "updated_at": "2026-09-19T08:02:34Z",
-    "url": "https://github.com/findscripter/everything-skills"
-  },
-  {
-    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
-    "id": "kwokwile/awesome-aigc-tools",
-    "language": "TypeScript",
-    "name": "kwokwile/awesome-aigc-tools",
-    "stars": 2,
-    "updated_at": "2026-09-19T08:01:06Z",
-    "url": "https://github.com/kwokwile/awesome-aigc-tools"
-  },
-  {
-    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
-    "id": "luckyrjain/software-builder",
-    "language": "Python",
-    "name": "luckyrjain/software-builder",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:11:52Z",
-    "url": "https://github.com/luckyrjain/software-builder"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28036,
-    "updated_at": "2026-09-19T08:08:54Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Curated, auditable Agent Skills for algorithm engineers using Pi and OpenCode \u2014 training, evals, debugging, security and",
-    "id": "123abc-123/useful-agent-skills",
-    "language": "HTML",
-    "name": "123abc-123/useful-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:57:08Z",
-    "url": "https://github.com/123abc-123/useful-agent-skills"
-  },
-  {
-    "description": "Think a decision through, one question at a time. Explains the decision in plain English, then asks a single question wh",
-    "id": "dbhq-uk/headwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/headwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:55:05Z",
-    "url": "https://github.com/dbhq-uk/headwork-skill"
-  },
-  {
-    "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
-    "id": "mifdlaldev/mifdlaldev",
-    "language": "\u2014",
-    "name": "mifdlaldev/mifdlaldev",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:52:57Z",
-    "url": "https://github.com/mifdlaldev/mifdlaldev"
   }
 ]
