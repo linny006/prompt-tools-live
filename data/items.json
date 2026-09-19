@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
+    "id": "tmolavi/geo-scope",
+    "language": "Python",
+    "name": "tmolavi/geo-scope",
+    "stars": 2,
+    "updated_at": "2026-09-18T23:59:53Z",
+    "url": "https://github.com/tmolavi/geo-scope"
+  },
+  {
+    "description": "A curated collection of advanced prompt templates for Claude and other LLMs, featuring systematic analysis    frameworks",
+    "id": "aarora79/my-ai-assets",
+    "language": "Python",
+    "name": "aarora79/my-ai-assets",
+    "stars": 22,
+    "updated_at": "2026-09-18T23:58:39Z",
+    "url": "https://github.com/aarora79/my-ai-assets"
+  },
+  {
     "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
     "id": "ralphmoran/ticket-lens",
     "language": "JavaScript",
     "name": "ralphmoran/ticket-lens",
     "stars": 3,
-    "updated_at": "2026-09-18T23:47:05Z",
+    "updated_at": "2026-09-18T23:58:16Z",
     "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-09-18T23:56:54Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+    "id": "kaderkck/hewn-forge",
+    "language": "HTML",
+    "name": "kaderkck/hewn-forge",
+    "stars": 118,
+    "updated_at": "2026-09-18T23:56:47Z",
+    "url": "https://github.com/kaderkck/hewn-forge"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-18T23:52:41Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 122,
+    "updated_at": "2026-09-18T23:51:48Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T23:47:14Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11538,
-    "updated_at": "2026-09-18T23:45:02Z",
+    "updated_at": "2026-09-18T23:47:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T23:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Lint AGENTS.md, CLAUDE.md and .cursor/rules for the problems that make an AI coding agent ignore them: dead path referen",
     "id": "duke5am/agent-config-lint",
     "language": "Python",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-18T23:39:30Z",
+    "updated_at": "2026-09-18T23:54:22Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-18T23:46:15Z",
+    "updated_at": "2026-09-18T23:51:42Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T23:12:39Z",
     "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-18T23:12:24Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:12:23Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-18T23:12:15Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:12:07Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:11:57Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:11:52Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
