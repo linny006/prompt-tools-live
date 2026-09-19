@@ -1,5 +1,59 @@
 [
   {
+    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 2,
+    "updated_at": "2026-09-19T01:44:34Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "TikTok e-commerce video generation, replication, and analysis SKILL",
+    "id": "Clipcat-ai/clipcat-skill",
+    "language": "\u2014",
+    "name": "Clipcat-ai/clipcat-skill",
+    "stars": 163,
+    "updated_at": "2026-09-19T01:43:26Z",
+    "url": "https://github.com/Clipcat-ai/clipcat-skill"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:43:15Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
+    "description": "564 documented music styles with BPM, weirdness and style influence \u2014 the open CC0 layer behind MUSAI, an AI songwriter ",
+    "id": "samuelgrupolimex-prog/suno-style-recipes",
+    "language": "Python",
+    "name": "samuelgrupolimex-prog/suno-style-recipes",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:42:57Z",
+    "url": "https://github.com/samuelgrupolimex-prog/suno-style-recipes"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T01:42:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-19T01:42:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-09-19T01:39:22Z",
+    "updated_at": "2026-09-19T01:43:53Z",
     "url": "https://github.com/dgaramos/dr-agents"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-19T01:42:34Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
     "id": "bjcoombs/ai-native-toolkit",
     "language": "Python",
@@ -70,24 +115,6 @@
     "stars": 30,
     "updated_at": "2026-09-19T01:40:03Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-09-19T01:39:18Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T01:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T00:38:59Z",
     "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2423,
-    "updated_at": "2026-09-19T00:35:10Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-19T00:34:44Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": ".cursorrules \u2014 independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev",
-    "id": "api-evangelist/cursorrules",
-    "language": "\u2014",
-    "name": "api-evangelist/cursorrules",
-    "stars": 0,
-    "updated_at": "2026-09-19T00:34:36Z",
-    "url": "https://github.com/api-evangelist/cursorrules"
   }
 ]
