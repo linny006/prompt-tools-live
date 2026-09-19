@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T03:59:37Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 30,
+    "updated_at": "2026-09-19T04:00:13Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Your AI coding harness, ported to every client you use. Capture Claude Code (or Codex) rules, hooks, skills, subagents, ",
+    "id": "ucsandman/Agnostic-AI",
+    "language": "JavaScript",
+    "name": "ucsandman/Agnostic-AI",
+    "stars": 12,
+    "updated_at": "2026-09-19T03:56:44Z",
+    "url": "https://github.com/ucsandman/Agnostic-AI"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 9,
+    "updated_at": "2026-09-19T03:49:14Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:47:30Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Think a decision through, one question at a time. Explains the decision in plain English, then asks a single question wh",
+    "id": "dbhq-uk/headwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/headwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:46:48Z",
+    "url": "https://github.com/dbhq-uk/headwork-skill"
+  },
+  {
+    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff08SPEC v0.5 \u4f9d\u636e\u9a71\u52a8\u67b6\u6784\uff09\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u6210\u300e\u5e26\u4f9d\u636e\u7684\u6267\u884c\u6307\u4ee4\u300f\u2014\u2014\u4f9d\u636e\u53ea\u642c\u4e0d\u9020\uff08\u539f\u8bdd\uff0f\u4f1a\u8bdd\u4e0a\u4e0b\u6587\uff0f\u9879\u76ee\u6587\u4ef6\uff0c\u6bcf\u6761\u4e8b\u5b9e\u5e26\u51fa\u5904\uff09\uff0c\u53ea\u8865\u4e94\u7c7b\u7f3a\u53e3\uff08\u6307\u4ee3\u5b9a\u4f4d\uff0f\u9a8c\u6536\u5224\u636e\uff0f\u7ea6\u675f\u8fb9\u754c\uff0f\u9690\u542b\u51b3\u5b9a\uff0f\u5165\u53e3\u951a\u70b9",
+    "id": "WestFox-AwA/dsh-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "WestFox-AwA/dsh-prompt-optimizer",
+    "stars": 63,
+    "updated_at": "2026-09-19T03:46:09Z",
+    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T03:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
     "id": "aliasunder/agent-skills",
     "language": "HTML",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T03:45:11Z",
     "url": "https://github.com/dgaramos/dr-agents"
-  },
-  {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 30,
-    "updated_at": "2026-09-19T03:43:20Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
@@ -180,15 +243,6 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T03:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
     "id": "SHENG5411/grimoire-of-tools",
     "language": "HTML",
@@ -261,15 +315,6 @@
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-19T03:14:08Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "OpenCode's philosophy for Claude Code. Install it, and Claude Code thinks different. No commands, no agents \u2014 just a sys",
     "id": "juandarn/rawcode",
     "language": "Python",
@@ -331,15 +376,6 @@
     "stars": 68,
     "updated_at": "2026-09-19T02:56:15Z",
     "url": "https://github.com/tronghieu/agent-skills"
-  },
-  {
-    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff08SPEC v0.5 \u4f9d\u636e\u9a71\u52a8\u67b6\u6784\uff09\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u6210\u300e\u5e26\u4f9d\u636e\u7684\u6267\u884c\u6307\u4ee4\u300f\u2014\u2014\u4f9d\u636e\u53ea\u642c\u4e0d\u9020\uff08\u539f\u8bdd\uff0f\u4f1a\u8bdd\u4e0a\u4e0b\u6587\uff0f\u9879\u76ee\u6587\u4ef6\uff0c\u6bcf\u6761\u4e8b\u5b9e\u5e26\u51fa\u5904\uff09\uff0c\u53ea\u8865\u4e94\u7c7b\u7f3a\u53e3\uff08\u6307\u4ee3\u5b9a\u4f4d\uff0f\u9a8c\u6536\u5224\u636e\uff0f\u7ea6\u675f\u8fb9\u754c\uff0f\u9690\u542b\u51b3\u5b9a\uff0f\u5165\u53e3\u951a\u70b9",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "JavaScript",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 63,
-    "updated_at": "2026-09-19T02:55:58Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
   },
   {
     "description": "564 documented music styles with BPM, weirdness and style influence \u2014 the open CC0 layer behind MUSAI, an AI songwriter ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T02:44:15Z",
     "url": "https://github.com/liao96312/tieba-patterns"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:44:10Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
-    "id": "2148-wq/DLSS5-for-Nuke",
-    "language": "C++",
-    "name": "2148-wq/DLSS5-for-Nuke",
-    "stars": 1,
-    "updated_at": "2026-09-19T02:44:09Z",
-    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:43:11Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Evidence-driven Agent Skill for systematic learning: retrieval, discrimination, transfer, performance, and long-term con",
-    "id": "davidme6/ai-learning-method",
-    "language": "Python",
-    "name": "davidme6/ai-learning-method",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:42:32Z",
-    "url": "https://github.com/davidme6/ai-learning-method"
   }
 ]
