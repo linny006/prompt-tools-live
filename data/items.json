@@ -1,12 +1,30 @@
 [
   {
-    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
-    "id": "luckyrjain/software-builder",
-    "language": "Python",
-    "name": "luckyrjain/software-builder",
+    "description": "Prompt Engineering",
+    "id": "vikrantkalyan23/prompt-engineering",
+    "language": "\u2014",
+    "name": "vikrantkalyan23/prompt-engineering",
     "stars": 0,
-    "updated_at": "2026-09-19T06:12:08Z",
-    "url": "https://github.com/luckyrjain/software-builder"
+    "updated_at": "2026-09-19T06:30:01Z",
+    "url": "https://github.com/vikrantkalyan23/prompt-engineering"
+  },
+  {
+    "description": "\u591a\u5bbf\u4e3b\u4eba\u8bbe\u5f15\u64ce\uff1a\u4e00\u4efd config.json \u8ba9 DSH \u4e0e ZCode \u5171\u7528\u540c\u4e00\u5957\u4eba\u8bbe\u3001\u5de5\u4f5c\u5951\u7ea6\u3001\u601d\u7ef4\u94fe\u8bed\u8a00\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b\u8bb0\u5fc6\u7531 AI \u63d0\u8bae\u3001\u4eba\u5de5\u786e\u8ba4\u540e\u624d\u751f\u6548\uff08\u4ee3\u7801\u5f3a\u5236\uff09\u3002A persona engine for AI coding har",
+    "id": "shenA2024/whale-persona",
+    "language": "JavaScript",
+    "name": "shenA2024/whale-persona",
+    "stars": 4,
+    "updated_at": "2026-09-19T06:27:22Z",
+    "url": "https://github.com/shenA2024/whale-persona"
+  },
+  {
+    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.15 \u53d1 npm \u524d\u5143\u6570\u636e\u81ea\u68c0\u00b7desc \u7248\u672c\u540c\u4ee3\u95f8\uff1b\u53d1\u7248\u95f8 A/B/C/D/D-\u914d\u5957/D-import/E/F\uff1b\u968f\u5305\u95e8\u7981\u4e0e\u5de5\u5177 38 ",
+    "id": "winsonpong98-cloud/dsh-distillation-director",
+    "language": "Python",
+    "name": "winsonpong98-cloud/dsh-distillation-director",
+    "stars": 2,
+    "updated_at": "2026-09-19T06:25:41Z",
+    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
   },
   {
     "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
@@ -14,8 +32,62 @@
     "language": "Rust",
     "name": "hraness/gobstopper",
     "stars": 2,
-    "updated_at": "2026-09-19T06:11:54Z",
+    "updated_at": "2026-09-19T06:26:57Z",
     "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:23:40Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Claude Code plugin: know your unknowns \u2014 blind-spot passes, domain primers, pre-implementation interviews, tweak-likelih",
+    "id": "ajitta/know-your-unknowns",
+    "language": "Python",
+    "name": "ajitta/know-your-unknowns",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:23:24Z",
+    "url": "https://github.com/ajitta/know-your-unknowns"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
+    "id": "fernando-bertholdo/4-successful-AI-life",
+    "language": "Shell",
+    "name": "fernando-bertholdo/4-successful-AI-life",
+    "stars": 2,
+    "updated_at": "2026-09-19T06:22:17Z",
+    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:22:49Z",
+    "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 52,
+    "updated_at": "2026-09-19T06:15:53Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-19T06:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library: 419 cases checked against their original posts, 257 cross-model retests wi",
@@ -77,7 +149,7 @@
     "language": "JavaScript",
     "name": "gturkmenlabs/Meta-prompt-google-extension",
     "stars": 0,
-    "updated_at": "2026-09-19T06:11:42Z",
+    "updated_at": "2026-09-19T06:23:47Z",
     "url": "https://github.com/gturkmenlabs/Meta-prompt-google-extension"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T06:01:05Z",
     "url": "https://github.com/ftvision/agent-prompt-observatory"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-19T06:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-19T05:56:28Z",
+    "updated_at": "2026-09-19T06:20:13Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
   },
   {
-    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
-    "id": "fernando-bertholdo/4-successful-AI-life",
-    "language": "Shell",
-    "name": "fernando-bertholdo/4-successful-AI-life",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:44:54Z",
-    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
-  },
-  {
     "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
     "id": "conniving-catechist742/ai-prompt-studio",
     "language": "Python",
@@ -387,15 +441,6 @@
     "url": "https://github.com/kerasum2704/discipline-duel-v1"
   },
   {
-    "description": "\u591a\u5bbf\u4e3b\u4eba\u8bbe\u5f15\u64ce\uff1a\u4e00\u4efd config.json \u8ba9 DSH \u4e0e ZCode \u5171\u7528\u540c\u4e00\u5957\u4eba\u8bbe\u3001\u5de5\u4f5c\u5951\u7ea6\u3001\u601d\u7ef4\u94fe\u8bed\u8a00\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b\u8bb0\u5fc6\u7531 AI \u63d0\u8bae\u3001\u4eba\u5de5\u786e\u8ba4\u540e\u624d\u751f\u6548\uff08\u4ee3\u7801\u5f3a\u5236\uff09\u3002A persona engine for AI coding har",
-    "id": "shenA2024/whale-persona",
-    "language": "JavaScript",
-    "name": "shenA2024/whale-persona",
-    "stars": 4,
-    "updated_at": "2026-09-19T05:41:47Z",
-    "url": "https://github.com/shenA2024/whale-persona"
-  },
-  {
     "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
     "id": "Despairing-taka262/xios-aim-assist-script",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T05:41:44Z",
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-19T05:41:32Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
-    "description": "AI dotfiles",
-    "id": "manusa/ai",
-    "language": "Shell",
-    "name": "manusa/ai",
-    "stars": 1,
-    "updated_at": "2026-09-19T05:40:50Z",
-    "url": "https://github.com/manusa/ai"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:39:01Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:38:49Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-09-19T05:38:31Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
   }
 ]
