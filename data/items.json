@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-20T20:43:59Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
+    "id": "karunmehta-aigp/AI-Governance",
+    "language": "\u2014",
+    "name": "karunmehta-aigp/AI-Governance",
+    "stars": 3,
+    "updated_at": "2026-09-20T20:42:49Z",
+    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Safety-oriented agentic data engineering system: medallion ETL, governed read-only SQL analytics, and deterministic exec",
+    "id": "Toukennn/Autonomous-data-engineer-agent",
+    "language": "Python",
+    "name": "Toukennn/Autonomous-data-engineer-agent",
+    "stars": 1,
+    "updated_at": "2026-09-20T20:42:20Z",
+    "url": "https://github.com/Toukennn/Autonomous-data-engineer-agent"
+  },
+  {
+    "description": "Two lines of code to give your LLM eyes. One attribute.",
+    "id": "askable-ui/askable",
+    "language": "TypeScript",
+    "name": "askable-ui/askable",
+    "stars": 12,
+    "updated_at": "2026-09-20T20:42:12Z",
+    "url": "https://github.com/askable-ui/askable"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 378,
+    "updated_at": "2026-09-20T20:44:01Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-20T20:38:35Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 58,
+    "updated_at": "2026-09-20T20:38:19Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "A guild of specialist agent prompts for Claude Code, and an inspector that can stop the job. Sharpen a prompt, review th",
+    "id": "emtcmca/guildproof",
+    "language": "Python",
+    "name": "emtcmca/guildproof",
+    "stars": 2,
+    "updated_at": "2026-09-20T20:38:03Z",
+    "url": "https://github.com/emtcmca/guildproof"
+  },
+  {
+    "description": "Universal Agent Skills Operating System: 14,855+ skills across 251 domains and 15 super-domains for Claude, Cursor, Code",
+    "id": "Mr-Nobody-Anonymous/All-skills",
+    "language": "JavaScript",
+    "name": "Mr-Nobody-Anonymous/All-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:37:27Z",
+    "url": "https://github.com/Mr-Nobody-Anonymous/All-skills"
+  },
+  {
+    "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists,",
+    "id": "IonDen/skills",
+    "language": "Python",
+    "name": "IonDen/skills",
+    "stars": 1,
+    "updated_at": "2026-09-20T20:44:44Z",
+    "url": "https://github.com/IonDen/skills"
+  },
+  {
+    "description": "Local AI tool that auto-generates code documentation and formatting for python/c/c++ files using Ollama and Qwen",
+    "id": "nhsimpson5/local-model-auto-code-docs",
+    "language": "Python",
+    "name": "nhsimpson5/local-model-auto-code-docs",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:32:01Z",
+    "url": "https://github.com/nhsimpson5/local-model-auto-code-docs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T20:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
     "id": "kish21/product-playbook",
     "language": "Python",
@@ -49,7 +157,7 @@
     "id": "nahid-sparktales/agent-dispatcher",
     "language": "Python",
     "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 38,
+    "stars": 39,
     "updated_at": "2026-09-20T20:21:00Z",
     "url": "https://github.com/nahid-sparktales/agent-dispatcher"
   },
@@ -72,15 +180,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-20T20:17:19Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
-  },
-  {
     "description": "Matt Pocock \u6280\u80fd\u96c6\u7684\u4e2d\u6587\u7ffb\u8bd1\u7248 \u2014 \u5730\u9053\u4e2d\u6587\uff0c\u539f\u6c41\u539f\u5473\u7684\u6280\u672f\u672f\u8bed\u3002\u57fa\u4e8e mattpocock/skills \u590d\u523b\u3002\u6bcf\u65e5\u4e2d\u534812\u70b9\u949f\u540c\u6b65",
     "id": "devcxl/mattpocock-skills-zh",
     "language": "Shell",
@@ -90,15 +189,6 @@
     "url": "https://github.com/devcxl/mattpocock-skills-zh"
   },
   {
-    "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists,",
-    "id": "IonDen/skills",
-    "language": "Python",
-    "name": "IonDen/skills",
-    "stars": 1,
-    "updated_at": "2026-09-20T20:21:23Z",
-    "url": "https://github.com/IonDen/skills"
-  },
-  {
     "description": "an entire Nix based system for interacting with local, TINY, FOSS models with open hardware where possible, leveraging t",
     "id": "harryprayiv/open-slop",
     "language": "Nix",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T20:15:35Z",
     "url": "https://github.com/harryprayiv/open-slop"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T20:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
@@ -142,15 +223,6 @@
     "stars": 15,
     "updated_at": "2026-09-20T20:13:44Z",
     "url": "https://github.com/Thanatos9404/llmslim"
-  },
-  {
-    "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
-    "id": "karunmehta-aigp/AI-Governance",
-    "language": "\u2014",
-    "name": "karunmehta-aigp/AI-Governance",
-    "stars": 3,
-    "updated_at": "2026-09-20T20:11:24Z",
-    "url": "https://github.com/karunmehta-aigp/AI-Governance"
   },
   {
     "description": "Agent skills for Claude Code that take their rules from your project's own docs and stop rather than guess. Guardrails a",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-09-20T20:06:12Z",
+    "updated_at": "2026-09-20T20:34:53Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
@@ -328,7 +400,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 106943,
+    "stars": 106945,
     "updated_at": "2026-09-20T19:57:47Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -340,15 +412,6 @@
     "stars": 8,
     "updated_at": "2026-09-20T19:57:05Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Universal Agent Skills Operating System: 14,855+ skills across 251 domains and 15 super-domains for Claude, Cursor, Code",
-    "id": "Mr-Nobody-Anonymous/All-skills",
-    "language": "JavaScript",
-    "name": "Mr-Nobody-Anonymous/All-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:54:43Z",
-    "url": "https://github.com/Mr-Nobody-Anonymous/All-skills"
   },
   {
     "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T19:52:07Z",
     "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 5,
-    "updated_at": "2026-09-20T19:52:01Z",
-    "url": "https://github.com/narumiruna/aru"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:52:00Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:51:53Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:51:43Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "JavaScript",
-    "name": "ericrisco/rsc-harness",
-    "stars": 86,
-    "updated_at": "2026-09-20T19:51:26Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
-  },
-  {
-    "description": "Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo",
-    "id": "assafkip/voice-loop",
-    "language": "Python",
-    "name": "assafkip/voice-loop",
-    "stars": 6,
-    "updated_at": "2026-09-20T19:50:13Z",
-    "url": "https://github.com/assafkip/voice-loop"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:50:05Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
   }
 ]
