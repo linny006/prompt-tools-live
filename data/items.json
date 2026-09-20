@@ -1,21 +1,93 @@
 [
   {
+    "description": "A modern AI prompt manager for saving, organizing, searching, and reusing prompts in a private personal library. Create ",
+    "id": "imhamiddev/Prompt-saver",
+    "language": "TypeScript",
+    "name": "imhamiddev/Prompt-saver",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:45:22Z",
+    "url": "https://github.com/imhamiddev/Prompt-saver"
+  },
+  {
+    "description": "\u628a\u4efb\u610f\u516c\u53f8 .pptx \u6a21\u677f\u63d0\u70bc\u6210\u53ef\u590d\u7528\u7684\u516c\u53f8\u4e13\u5c5e AI Skill\u2014\u2014\u89c6\u89c9\u6c38\u8fdc\u7167\u6a21\u677f\uff08\u914d\u8272/LOGO/\u5b57\u4f53/\u7248\u5f0f/\u54c1\u724c\u5143\u7d20\uff09\uff0c\u5185\u5bb9\u6bcf\u6b21\u6362\u65b0\u3002\u4e24\u5c42\u67b6\u6784\u5143\u6280\u80fd\uff1a\u7b2c1\u5c42\u751f\u6210\u5668\u53ef\u5206\u4eab\uff0c\u7b2c2\u5c42\u4ea7\u7269\u81ea\u5e26\u6267\u884c\u4ee3\u7801\uff0c\u652f\u6301 WorkBuddy \u53ca\u4efb\u610f SK",
+    "id": "SongYouAI/ppt-template-extractor",
+    "language": "Python",
+    "name": "SongYouAI/ppt-template-extractor",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:43:56Z",
+    "url": "https://github.com/SongYouAI/ppt-template-extractor"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:43:04Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-20T08:30:14Z",
+    "updated_at": "2026-09-20T08:42:31Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
     "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 2,
-    "updated_at": "2026-09-20T08:28:35Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 38,
+    "updated_at": "2026-09-20T08:41:00Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "Offline-first Windows desktop prompt library for reusable LLM prompts, skills, workflows and Markdown export",
+    "id": "file-bricks/promptboard",
+    "language": "Python",
+    "name": "file-bricks/promptboard",
+    "stars": 3,
+    "updated_at": "2026-09-20T08:39:11Z",
+    "url": "https://github.com/file-bricks/promptboard"
+  },
+  {
+    "description": "\u628a\u9898\u76ee\u4e22\u7ed9 AI\uff0c\u8ba9\u5b83\u7528\u5927\u767d\u8bdd\u3001\u751f\u6d3b\u4f8b\u5b50\u548c\u201c\u4e3a\u4ec0\u4e48\u201d\uff0c\u4e00\u76f4\u8bb2\u5230\u4f60\u61c2 | Simple & sustainable AI learning prompts",
+    "id": "FanBroWell/simple-learning-prompts",
+    "language": "Python",
+    "name": "FanBroWell/simple-learning-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:39:02Z",
+    "url": "https://github.com/FanBroWell/simple-learning-prompts"
+  },
+  {
+    "description": "Universal Prompt System v1.0",
+    "id": "YaPlay/universal-prompt-system",
+    "language": "Python",
+    "name": "YaPlay/universal-prompt-system",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:44:23Z",
+    "url": "https://github.com/YaPlay/universal-prompt-system"
+  },
+  {
+    "description": "Battleship against Jev, a model that answers in probabilities instead of text. Web game plus a CLI arena that plays it a",
+    "id": "sah1l/jev-battleship",
+    "language": "JavaScript",
+    "name": "sah1l/jev-battleship",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:37:10Z",
+    "url": "https://github.com/sah1l/jev-battleship"
+  },
+  {
+    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
+    "id": "coilyco-flight-deck/housecast",
+    "language": "Python",
+    "name": "coilyco-flight-deck/housecast",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:35:42Z",
+    "url": "https://github.com/coilyco-flight-deck/housecast"
   },
   {
     "description": "Composable, evidence-grounded AI research Skills with a personal Reasoning DNA runtime.",
@@ -23,8 +95,80 @@
     "language": "Python",
     "name": "1second1/personal-research-skills",
     "stars": 1,
-    "updated_at": "2026-09-20T08:28:04Z",
+    "updated_at": "2026-09-20T08:35:15Z",
     "url": "https://github.com/1second1/personal-research-skills"
+  },
+  {
+    "description": "A collection of GPT system prompts and various prompt injection/leaking knowledge.",
+    "id": "LouisShark/chatgpt_system_prompt",
+    "language": "HTML",
+    "name": "LouisShark/chatgpt_system_prompt",
+    "stars": 10771,
+    "updated_at": "2026-09-20T08:35:11Z",
+    "url": "https://github.com/LouisShark/chatgpt_system_prompt"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 2,
+    "updated_at": "2026-09-20T08:35:09Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-09-20T08:33:23Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 936,
+    "updated_at": "2026-09-20T08:33:00Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\u534a\u8c03\u62fc\u8d34\u6d77\u62a5\u4e13\u4e1a Prompt \u751f\u6210\u5668\uff1a\u8f93\u5165\u4efb\u610f\u53c2\u8003\u56fe\uff0c\u6309\u9ad8/\u4f4e\u5bf9\u6bd4\u5ea6\u53cc\u8def\u7ebf\u8f93\u51fa\u7ed3\u6784\u5316\u4e2d\u6587 prompt\uff0c\u751f\u6210\u5355\u8272\u534a\u8c03\u7f51\u70b9 + \u4e1d\u7f51\u5370\u5237 + \u6742\u5fd7\u62fc\u8d34\u98ce\u683c\u6d77\u62a5\u3002\u542b\u7ecf\u5b9e\u6d4b\u7684\u53bb\u6c34\u5370\u811a\u672c\u3002",
+    "id": "caojingzhi1015-bit/halftone-pop",
+    "language": "Python",
+    "name": "caojingzhi1015-bit/halftone-pop",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:32:26Z",
+    "url": "https://github.com/caojingzhi1015-bit/halftone-pop"
+  },
+  {
+    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
+    "id": "file-bricks/ProfiPrompt",
+    "language": "Python",
+    "name": "file-bricks/ProfiPrompt",
+    "stars": 3,
+    "updated_at": "2026-09-20T08:30:41Z",
+    "url": "https://github.com/file-bricks/ProfiPrompt"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:30:30Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T08:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
@@ -34,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T08:27:40Z",
     "url": "https://github.com/joeblackwaslike/lessons-learned"
-  },
-  {
-    "description": "Battleship against Jev, a model that answers in probabilities instead of text. Web game plus a CLI arena that plays it a",
-    "id": "sah1l/jev-battleship",
-    "language": "JavaScript",
-    "name": "sah1l/jev-battleship",
-    "stars": 0,
-    "updated_at": "2026-09-20T08:27:39Z",
-    "url": "https://github.com/sah1l/jev-battleship"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -70,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T08:24:31Z",
     "url": "https://github.com/fauzanazz/agent-skills"
-  },
-  {
-    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-20T08:28:21Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
   },
   {
     "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
@@ -151,15 +277,6 @@
     "stars": 28050,
     "updated_at": "2026-09-20T08:16:45Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T08:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Non-WSQ C695 courseware and 10 hands-on activities for building, governing and evaluating Codex agentic coding workflows",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T07:53:11Z",
     "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
-    "description": "Universal Prompt System v1.0",
-    "id": "YaPlay/universal-prompt-system",
-    "language": "Python",
-    "name": "YaPlay/universal-prompt-system",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:51:58Z",
-    "url": "https://github.com/YaPlay/universal-prompt-system"
-  },
-  {
-    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
-    "id": "LouisLau-art/multi-agent-skills-catalog",
-    "language": "Python",
-    "name": "LouisLau-art/multi-agent-skills-catalog",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:50:05Z",
-    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
-  },
-  {
-    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
-    "id": "pranavkafle/serpapi-mcp-catalog",
-    "language": "Python",
-    "name": "pranavkafle/serpapi-mcp-catalog",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:46:13Z",
-    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Template can\u00f4nico para o Google Antigravity 2.0 com governan\u00e7a multiagente determin\u00edstica (GOA, MAPA, PAS, REV, COR), is",
-    "id": "ph00k4/antigravity-starter-kit",
-    "language": "\u2014",
-    "name": "ph00k4/antigravity-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:43:28Z",
-    "url": "https://github.com/ph00k4/antigravity-starter-kit"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:43:23Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:41:32Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:40:45Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:40:45Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:38:55Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:38:53Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:38:30Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:38:22Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:38:19Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
   }
 ]
