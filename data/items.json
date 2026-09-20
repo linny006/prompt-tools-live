@@ -1,21 +1,21 @@
 [
   {
-    "description": "An LLM has no memory. This shows you the history a chat app resends on every call, and lets you edit it",
-    "id": "GitHubStig/llm-inspector",
-    "language": "HTML",
-    "name": "GitHubStig/llm-inspector",
+    "description": "How to design an agent team for a real project: role cuts, task contracts, model tiers and the failure modes to design a",
+    "id": "turuncfatih/agent-team-playbook",
+    "language": "Python",
+    "name": "turuncfatih/agent-team-playbook",
     "stars": 0,
-    "updated_at": "2026-09-20T12:44:24Z",
-    "url": "https://github.com/GitHubStig/llm-inspector"
+    "updated_at": "2026-09-20T13:00:00Z",
+    "url": "https://github.com/turuncfatih/agent-team-playbook"
   },
   {
-    "description": "Agent Skill for SpicyAPI \u2014 teaches Claude to operate the generation API through the SDK, CLI or MCP server.",
-    "id": "Spicy-API/spicy-skill",
-    "language": "TypeScript",
-    "name": "Spicy-API/spicy-skill",
+    "description": "A modular framework for using AI as a disciplined research collaborator \u2014 not an answer generator.",
+    "id": "afadlih/research-operating-system",
+    "language": "\u2014",
+    "name": "afadlih/research-operating-system",
     "stars": 0,
-    "updated_at": "2026-09-20T12:42:50Z",
-    "url": "https://github.com/Spicy-API/spicy-skill"
+    "updated_at": "2026-09-20T12:59:58Z",
+    "url": "https://github.com/afadlih/research-operating-system"
   },
   {
     "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "ubik-dsh/deepseek-harness-skills",
     "stars": 0,
-    "updated_at": "2026-09-20T12:41:33Z",
+    "updated_at": "2026-09-20T12:56:49Z",
     "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-20T12:56:12Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
+    "id": "anyuer678/chatez",
+    "language": "TypeScript",
+    "name": "anyuer678/chatez",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:53:32Z",
+    "url": "https://github.com/anyuer678/chatez"
+  },
+  {
+    "description": "Teach your coding agent to stop burning context. Jev (System One) via OpenRouter or TypeSafe: 325ms, 0.000013 USD per de",
+    "id": "lazniak/jevskill",
+    "language": "Python",
+    "name": "lazniak/jevskill",
+    "stars": 1,
+    "updated_at": "2026-09-20T12:51:30Z",
+    "url": "https://github.com/lazniak/jevskill"
   },
   {
     "description": "A portable persona engine that stops brand voice from decaying inside AI agents. Compiles a token-budgeted voice pack fr",
@@ -32,8 +59,98 @@
     "language": "JavaScript",
     "name": "Kunci-Tech/voicepack",
     "stars": 0,
-    "updated_at": "2026-09-20T12:40:38Z",
+    "updated_at": "2026-09-20T12:51:07Z",
     "url": "https://github.com/Kunci-Tech/voicepack"
+  },
+  {
+    "description": "A desktop report generation app that turns meeting audio and YouTube content into structured AI reports and talk to your",
+    "id": "MAhmad25/AI-Meeting-Video-Assistant-with-RAG",
+    "language": "TypeScript",
+    "name": "MAhmad25/AI-Meeting-Video-Assistant-with-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:51:04Z",
+    "url": "https://github.com/MAhmad25/AI-Meeting-Video-Assistant-with-RAG"
+  },
+  {
+    "description": "Curated, auditable Agent Skills for algorithm engineers using Pi and OpenCode \u2014 training, evals, debugging, security and",
+    "id": "123abc-123/useful-agent-skills",
+    "language": "HTML",
+    "name": "123abc-123/useful-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:50:30Z",
+    "url": "https://github.com/123abc-123/useful-agent-skills"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-20T12:50:29Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "Python",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-20T12:50:19Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "Agent Skill for SpicyAPI \u2014 teaches Claude to operate the generation API through the SDK, CLI or MCP server.",
+    "id": "Spicy-API/spicy-skill",
+    "language": "TypeScript",
+    "name": "Spicy-API/spicy-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:49:40Z",
+    "url": "https://github.com/Spicy-API/spicy-skill"
+  },
+  {
+    "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
+    "id": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
+    "language": "JavaScript",
+    "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:49:30Z",
+    "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-09-20T12:48:34Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e\uff0f\u5224\u636e\u7248\u672c\u5316+\u91d1\u6837\u672c\u56de\u5f52+\u6307\u7eb9\uff08v3.1 \u5224\u636e\u53ef\u4fe1\u5ea6\u6279\uff09\uff0f368 \u6761 29 \u7c7b\u75c7\u72b6\u7d22\u5f15\u7ec6\u5219\uff1b\u542b\u6d41\u7a0b\u5305\uff089 \u7c7b\u5de5\u4f5c\u6d41",
+    "id": "zxc663/shisan-xinuo-workflow",
+    "language": "Python",
+    "name": "zxc663/shisan-xinuo-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-20T12:47:45Z",
+    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T12:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An LLM has no memory. This shows you the history a chat app resends on every call, and lets you edit it",
+    "id": "GitHubStig/llm-inspector",
+    "language": "HTML",
+    "name": "GitHubStig/llm-inspector",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:44:24Z",
+    "url": "https://github.com/GitHubStig/llm-inspector"
   },
   {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
@@ -63,24 +180,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "A modular framework for using AI as a disciplined research collaborator \u2014 not an answer generator.",
-    "id": "afadlih/research-operating-system",
-    "language": "\u2014",
-    "name": "afadlih/research-operating-system",
-    "stars": 0,
-    "updated_at": "2026-09-20T12:37:37Z",
-    "url": "https://github.com/afadlih/research-operating-system"
-  },
-  {
-    "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e\uff0f\u5224\u636e\u7248\u672c\u5316+\u91d1\u6837\u672c\u56de\u5f52+\u6307\u7eb9\uff08v3.1 \u5224\u636e\u53ef\u4fe1\u5ea6\u6279\uff09\uff0f368 \u6761 29 \u7c7b\u75c7\u72b6\u7d22\u5f15\u7ec6\u5219\uff1b\u542b\u6d41\u7a0b\u5305\uff089 \u7c7b\u5de5\u4f5c\u6d41",
-    "id": "zxc663/shisan-xinuo-workflow",
-    "language": "Python",
-    "name": "zxc663/shisan-xinuo-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-20T12:37:32Z",
-    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
     "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
     "id": "tryAGI/Vellum",
     "language": "C#",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T12:35:17Z",
     "url": "https://github.com/tryAGI/Vellum"
-  },
-  {
-    "description": "Curated, auditable Agent Skills for algorithm engineers using Pi and OpenCode \u2014 training, evals, debugging, security and",
-    "id": "123abc-123/useful-agent-skills",
-    "language": "HTML",
-    "name": "123abc-123/useful-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T12:34:27Z",
-    "url": "https://github.com/123abc-123/useful-agent-skills"
   },
   {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
@@ -108,15 +198,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/MasterMind",
-    "language": "Python",
-    "name": "Ntizar/MasterMind",
-    "stars": 2,
-    "updated_at": "2026-09-20T12:34:07Z",
-    "url": "https://github.com/Ntizar/MasterMind"
-  },
-  {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
     "id": "AKzar1el/god-prompt-mcp",
     "language": "TypeScript",
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T12:33:27Z",
     "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
-    "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
-    "id": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "language": "JavaScript",
-    "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "stars": 0,
-    "updated_at": "2026-09-20T12:33:01Z",
-    "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
   },
   {
     "description": "An open collection of practical AI prompts, ideas, and resources for learning, creating, researching, and working smarte",
@@ -153,15 +225,6 @@
     "url": "https://github.com/Vvv1940905115/my-gzh"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T12:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T12:29:27Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-20T12:27:11Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T12:23:10Z",
     "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 22,
-    "updated_at": "2026-09-20T12:42:28Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T12:12:32Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Teach your coding agent to stop burning context. Jev (System One) via OpenRouter or TypeSafe: 325ms, 0.000013 USD per de",
-    "id": "lazniak/jevskill",
-    "language": "Python",
-    "name": "lazniak/jevskill",
-    "stars": 1,
-    "updated_at": "2026-09-20T12:12:08Z",
-    "url": "https://github.com/lazniak/jevskill"
   },
   {
     "description": "\u7528 AI \u7a33\u5b9a\u4ea7\u51fa\u9876\u7ea7 UI \u8bbe\u8ba1\u7684\u53ef\u590d\u7528\u751f\u4ea7\u7cfb\u7edf / A reusable harness for producing top-tier UI design with AI",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:53:10Z",
     "url": "https://github.com/eddy-decastro/Assistant_de_recherche_de_stage_IA"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 8,
-    "updated_at": "2026-09-20T11:50:14Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-20T11:57:15Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
-    "id": "randolfglorious1317/skillpack",
-    "language": "TypeScript",
-    "name": "randolfglorious1317/skillpack",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:43:57Z",
-    "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
-    "id": "unmanageable-mauiisland8443/PromptLedger",
-    "language": "\u2014",
-    "name": "unmanageable-mauiisland8443/PromptLedger",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:43:46Z",
-    "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
   }
 ]
