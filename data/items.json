@@ -1,5 +1,95 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-20T06:41:15Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A clan of orcs that crafts and orchestrates the software development lifecycle for AI coding agents.",
+    "id": "karloows/orchraft",
+    "language": "Shell",
+    "name": "karloows/orchraft",
+    "stars": 2,
+    "updated_at": "2026-09-20T06:41:15Z",
+    "url": "https://github.com/karloows/orchraft"
+  },
+  {
+    "description": "Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo",
+    "id": "assafkip/voice-loop",
+    "language": "Python",
+    "name": "assafkip/voice-loop",
+    "stars": 6,
+    "updated_at": "2026-09-20T06:37:16Z",
+    "url": "https://github.com/assafkip/voice-loop"
+  },
+  {
+    "description": "Nano Banana Pro prompts: tested prompt recipes with example renders, aspect ratios, the model id (gemini-3-pro-image-pre",
+    "id": "apimart-awesome-ai-api-proxy/nano-banana-pro-prompts",
+    "language": "Python",
+    "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:36:24Z",
+    "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-prompts"
+  },
+  {
+    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library: 419 cases checked against their original posts, 257 cross-model retests wi",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 4,
+    "updated_at": "2026-09-20T06:35:31Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
+  },
+  {
+    "description": "A.I. Sorcery",
+    "id": "4ndr0666/gpt",
+    "language": "Python",
+    "name": "4ndr0666/gpt",
+    "stars": 24,
+    "updated_at": "2026-09-20T06:35:25Z",
+    "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "Production-grade screenplay studio: converts bullet points & images into strict single-line, timecoded video prompts for",
+    "id": "wobushannes/Drehbuch--Referenzanker-Generator",
+    "language": "TypeScript",
+    "name": "wobushannes/Drehbuch--Referenzanker-Generator",
+    "stars": 27,
+    "updated_at": "2026-09-20T06:35:24Z",
+    "url": "https://github.com/wobushannes/Drehbuch--Referenzanker-Generator"
+  },
+  {
+    "description": "gpt image2.5 API prompt gallery (GPT Image 2.5 / gpt-image-2.5 / gptimage2.5 / image2.5 api): 12 tested prompt recipes w",
+    "id": "APIMART-12W22W/gpt-image2.5-api-prompt-gallery",
+    "language": "Python",
+    "name": "APIMART-12W22W/gpt-image2.5-api-prompt-gallery",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:33:55Z",
+    "url": "https://github.com/APIMART-12W22W/gpt-image2.5-api-prompt-gallery"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T06:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u81ea\u52a8\u5316\u5de5\u5177\uff1aOCR + \u754c\u9762\u7ed3\u6784\u5316\u5206\u6790 + \u6d4f\u89c8\u5668\u81ea\u52a8\u5316\uff0c\u4e3a LLM \u63a5\u4e0a\u300c\u624b\u548c\u811a\u300d\uff0c\u542b\u4f1a\u8bdd\u8bb0\u5fc6\u3001\u7b56\u7565\u914d\u7f6e\u5316\u4e0e\u4eba\u5de5\u5ba1\u6279\u95f8\u95e8\u3002",
+    "id": "2690453238/Ai-auto-reply-tool",
+    "language": "Python",
+    "name": "2690453238/Ai-auto-reply-tool",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:30:21Z",
+    "url": "https://github.com/2690453238/Ai-auto-reply-tool"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -27,15 +117,6 @@
     "url": "https://github.com/papada1472/refinzi"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T06:27:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
     "id": "AKzar1el/god-prompt-mcp",
     "language": "TypeScript",
@@ -50,17 +131,8 @@
     "language": "Python",
     "name": "naodeng/awesome-qa-skills",
     "stars": 219,
-    "updated_at": "2026-09-20T06:26:03Z",
+    "updated_at": "2026-09-20T06:30:38Z",
     "url": "https://github.com/naodeng/awesome-qa-skills"
-  },
-  {
-    "description": "A.I. Sorcery",
-    "id": "4ndr0666/gpt",
-    "language": "Python",
-    "name": "4ndr0666/gpt",
-    "stars": 24,
-    "updated_at": "2026-09-20T06:24:46Z",
-    "url": "https://github.com/4ndr0666/gpt"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T06:23:13Z",
+    "updated_at": "2026-09-20T06:36:46Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/Sungmin-Cho/deep-suite"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-20T06:20:12Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -149,7 +212,7 @@
     "language": "JavaScript",
     "name": "supervised-nl/doppelganger",
     "stars": 0,
-    "updated_at": "2026-09-20T06:19:00Z",
+    "updated_at": "2026-09-20T06:38:28Z",
     "url": "https://github.com/supervised-nl/doppelganger"
   },
   {
@@ -256,7 +319,7 @@
     "id": "nahid-sparktales/agent-dispatcher",
     "language": "Python",
     "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-09-20T06:02:55Z",
     "url": "https://github.com/nahid-sparktales/agent-dispatcher"
   },
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T05:48:01Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-20T05:47:43Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-09-20T05:47:02Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-09-20T05:46:59Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-20T05:46:56Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-09-20T05:45:49Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-20T05:45:41Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Hebdo sur les agents IA",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 1,
-    "updated_at": "2026-09-20T05:45:23Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
   }
 ]
