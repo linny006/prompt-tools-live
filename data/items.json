@@ -1,5 +1,131 @@
 [
   {
+    "description": "Your coding agent starts every session knowing nothing about your project. One line, and it writes its own memory from y",
+    "id": "NirDiamant/Agentic_Engineering",
+    "language": "Python",
+    "name": "NirDiamant/Agentic_Engineering",
+    "stars": 30,
+    "updated_at": "2026-09-20T22:45:03Z",
+    "url": "https://github.com/NirDiamant/Agentic_Engineering"
+  },
+  {
+    "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strateg",
+    "id": "NirDiamant/Prompt_Engineering",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Prompt_Engineering",
+    "stars": 7858,
+    "updated_at": "2026-09-20T22:44:59Z",
+    "url": "https://github.com/NirDiamant/Prompt_Engineering"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:43:45Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 74,
+    "updated_at": "2026-09-20T22:43:16Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Safety-oriented agentic data engineering system: medallion ETL, governed read-only SQL analytics, and deterministic exec",
+    "id": "Toukennn/Autonomous-data-engineer-agent",
+    "language": "Python",
+    "name": "Toukennn/Autonomous-data-engineer-agent",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:40:53Z",
+    "url": "https://github.com/Toukennn/Autonomous-data-engineer-agent"
+  },
+  {
+    "description": "Meta-prompt system that writes prompts: raw idea in \u2014 a polished, model-specific prompt out. Cross-model (Claude, Gemini",
+    "id": "sanic732/P2P",
+    "language": "Python",
+    "name": "sanic732/P2P",
+    "stars": 19,
+    "updated_at": "2026-09-20T22:40:09Z",
+    "url": "https://github.com/sanic732/P2P"
+  },
+  {
+    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
+    "id": "jthiruveedula/agentkit",
+    "language": "Python",
+    "name": "jthiruveedula/agentkit",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:39:39Z",
+    "url": "https://github.com/jthiruveedula/agentkit"
+  },
+  {
+    "description": "You say it. AutoCode ships it. 48 skills. Code to deployment in one session. I-Lang v5.0 judgment + secret-safe deploys.",
+    "id": "ilang-ai/autocode",
+    "language": "Shell",
+    "name": "ilang-ai/autocode",
+    "stars": 103,
+    "updated_at": "2026-09-20T22:39:01Z",
+    "url": "https://github.com/ilang-ai/autocode"
+  },
+  {
+    "description": "Reusable agent skills for evidence-backed research, approval-gated publishing, schema-validated records, and durable con",
+    "id": "KyleBrierley/agent-ops-skills",
+    "language": "Python",
+    "name": "KyleBrierley/agent-ops-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:34:36Z",
+    "url": "https://github.com/KyleBrierley/agent-ops-skills"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:33:08Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2014,
+    "updated_at": "2026-09-20T22:33:07Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:32:54Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:30:30Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T22:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "22 host-agnostic agent skills: independent verification, code and security review, prompt engineering, and build and wri",
     "id": "emtcmca/guildproof-skills",
     "language": "JavaScript",
@@ -54,15 +180,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
-    "id": "jthiruveedula/agentkit",
-    "language": "Python",
-    "name": "jthiruveedula/agentkit",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:28:38Z",
-    "url": "https://github.com/jthiruveedula/agentkit"
-  },
-  {
     "description": "Base de conocimiento en espa\u00f1ol e ingl\u00e9s para Claude Code y la API de Claude \u2014 documentaci\u00f3n curada, ejercicios de arqui",
     "id": "MKoci85/claude-architect-academy",
     "language": "JavaScript",
@@ -86,7 +203,7 @@
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-20T22:23:04Z",
+    "updated_at": "2026-09-20T22:39:46Z",
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
@@ -124,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T22:17:07Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T22:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -180,15 +288,6 @@
     "url": "https://github.com/kimsanguine/AI_Human"
   },
   {
-    "description": "Safety-oriented agentic data engineering system: medallion ETL, governed read-only SQL analytics, and deterministic exec",
-    "id": "Toukennn/Autonomous-data-engineer-agent",
-    "language": "Python",
-    "name": "Toukennn/Autonomous-data-engineer-agent",
-    "stars": 1,
-    "updated_at": "2026-09-20T22:13:02Z",
-    "url": "https://github.com/Toukennn/Autonomous-data-engineer-agent"
-  },
-  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
@@ -221,7 +320,7 @@
     "language": "Python",
     "name": "lazniak/jevskill",
     "stars": 1,
-    "updated_at": "2026-09-20T22:08:13Z",
+    "updated_at": "2026-09-20T22:43:52Z",
     "url": "https://github.com/lazniak/jevskill"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-20T21:58:09Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:58:01Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:57:51Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-20T21:57:49Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 142,
-    "updated_at": "2026-09-20T21:56:18Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-20T22:06:53Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:55:30Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Nine portable system prompts for tutoring, coaching, and planning, model-agnostic and validated on every commit. Include",
-    "id": "mahdi-barzegar-nazari/prompt-library",
-    "language": "Python",
-    "name": "mahdi-barzegar-nazari/prompt-library",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:54:35Z",
-    "url": "https://github.com/mahdi-barzegar-nazari/prompt-library"
-  },
-  {
-    "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
-    "id": "sanlee-ys/defense-news-classifier",
-    "language": "Python",
-    "name": "sanlee-ys/defense-news-classifier",
-    "stars": 1,
-    "updated_at": "2026-09-20T21:54:27Z",
-    "url": "https://github.com/sanlee-ys/defense-news-classifier"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2313,
-    "updated_at": "2026-09-20T21:54:12Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-20T21:53:31Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-20T21:53:26Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
