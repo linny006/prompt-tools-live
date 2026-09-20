@@ -1,5 +1,77 @@
 [
   {
+    "description": "\uae38\uac8c \uc4f0\uc9c0 \ub9d0\uace0, \ub05d\uae4c\uc9c0 \uc2e4\ud589\ub418\uac8c. \uac70\uce5c \uc694\uccad\uc744 \uacb0\uacfc\u00b7\uac80\uc99d\uae4c\uc9c0 \ub2eb\ud78c \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8\ub85c \ubc14\uafb8\ub294 \uc2a4\ud0ac.",
+    "id": "HeiTuz/MPW",
+    "language": "Python",
+    "name": "HeiTuz/MPW",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:45:14Z",
+    "url": "https://github.com/HeiTuz/MPW"
+  },
+  {
+    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
+    "id": "Scenic-urochordate607/claude-emotion-prompting",
+    "language": "\u2014",
+    "name": "Scenic-urochordate607/claude-emotion-prompting",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:45:04Z",
+    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
+  },
+  {
+    "description": "Analyze Claude Code\u2019s architecture with source-level research, code citations, and a 14-chapter deep dive into its TypeS",
+    "id": "flunkymercenary747/Claude-code-research",
+    "language": "\u2014",
+    "name": "flunkymercenary747/Claude-code-research",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:44:45Z",
+    "url": "https://github.com/flunkymercenary747/Claude-code-research"
+  },
+  {
+    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
+    "id": "dinho-afsn/agentic-harness-patterns-skill",
+    "language": "\u2014",
+    "name": "dinho-afsn/agentic-harness-patterns-skill",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:44:39Z",
+    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
+  },
+  {
+    "description": "Explore AI agent CLI tools with clear guides to Claude Code, Codex, OpenCode, and Qwen CLI for practical use and workflo",
+    "id": "pickerrelict689/ai_agent_cli_guide",
+    "language": "\u2014",
+    "name": "pickerrelict689/ai_agent_cli_guide",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:44:38Z",
+    "url": "https://github.com/pickerrelict689/ai_agent_cli_guide"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-20T17:44:37Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T17:44:16Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
+    "id": "XAKLESK/cre-agent-skills",
+    "language": "\u2014",
+    "name": "XAKLESK/cre-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-09-20T17:44:10Z",
+    "url": "https://github.com/XAKLESK/cre-agent-skills"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T17:41:44Z",
     "url": "https://github.com/Workpennisetumcenchroides181/safe-refactor-engine"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-20T17:41:35Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "Build semantic product search with Qdrant, local embeddings, Express, and TypeScript for fast, multilingual results",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T17:34:15Z",
     "url": "https://github.com/harryprayiv/open-slop"
-  },
-  {
-    "description": "\ud83e\udd16 Provide 70+ ready-to-use, platform-agnostic AI agent skills for improving tasks like code review, security, and data a",
-    "id": "h4vzz/awesome-ai-agent-skills",
-    "language": "\u2014",
-    "name": "h4vzz/awesome-ai-agent-skills",
-    "stars": 34,
-    "updated_at": "2026-09-20T17:34:07Z",
-    "url": "https://github.com/h4vzz/awesome-ai-agent-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate Codex AI sub-agents and team workflows with shared boards, strict file control, and reusable prompts for p",
-    "id": "hkahl828-max/codex-team-orchestrator-kit",
-    "language": "PowerShell",
-    "name": "hkahl828-max/codex-team-orchestrator-kit",
-    "stars": 1,
-    "updated_at": "2026-09-20T17:34:03Z",
-    "url": "https://github.com/hkahl828-max/codex-team-orchestrator-kit"
-  },
-  {
-    "description": "\ud83d\udcca Develop data-driven AI solutions for banking insights through Bradesco's GenAI Dados bootcamp project.",
-    "id": "Nightizi/Bradesco---GenAI-Dados-Projeto-1",
-    "language": "\u2014",
-    "name": "Nightizi/Bradesco---GenAI-Dados-Projeto-1",
-    "stars": 1,
-    "updated_at": "2026-09-20T17:33:58Z",
-    "url": "https://github.com/Nightizi/Bradesco---GenAI-Dados-Projeto-1"
-  },
-  {
-    "description": "\ud83c\udfa8 Turn Claude Code and OpenClaw into a powerful design assistant with local ComfyUI, API integration, and a large pro pr",
-    "id": "HUANGcvs/MeiGen-AI-Design-MCP",
-    "language": "TypeScript",
-    "name": "HUANGcvs/MeiGen-AI-Design-MCP",
-    "stars": 8,
-    "updated_at": "2026-09-20T17:33:21Z",
-    "url": "https://github.com/HUANGcvs/MeiGen-AI-Design-MCP"
-  },
-  {
-    "description": "KARVIS - a portable, model-agnostic prompt operating system for ChatGPT, Claude and Grok. 42 markdown modules across 9 s",
-    "id": "avikmaj/karvis",
-    "language": "Python",
-    "name": "avikmaj/karvis",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:32:38Z",
-    "url": "https://github.com/avikmaj/karvis"
-  },
-  {
-    "description": "\ud83d\udd27 Access GitHub Copilot seamlessly from your taskbar with auto-context insights, enhancing your workflow in a native Win",
-    "id": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
-    "language": "C#",
-    "name": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
-    "stars": 1,
-    "updated_at": "2026-09-20T17:32:34Z",
-    "url": "https://github.com/marcelgundelach284-ai/ghcopilot-taskbar-gui"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Streamline AI-assisted code reviews for Linux kernel and systemd development with easy-to-use prompts and commands.",
-    "id": "lingngngng/review-prompts",
-    "language": "Python",
-    "name": "lingngngng/review-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-20T17:32:32Z",
-    "url": "https://github.com/lingngngng/review-prompts"
   }
 ]
