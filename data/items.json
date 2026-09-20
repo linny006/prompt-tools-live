@@ -1,12 +1,75 @@
 [
   {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-20T04:45:21Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
     "description": "Cross-agent toolkit for prompts and coding-agent skills",
     "id": "sungjunlee/craftkit",
     "language": "JavaScript",
     "name": "sungjunlee/craftkit",
     "stars": 0,
-    "updated_at": "2026-09-20T04:30:09Z",
+    "updated_at": "2026-09-20T04:44:12Z",
     "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 8,
+    "updated_at": "2026-09-20T04:41:48Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "LLM-powered Linux operations assistant with command safety guardrails and multi-step task orchestration.",
+    "id": "jhg20070623-ai/AegisOps",
+    "language": "\u2014",
+    "name": "jhg20070623-ai/AegisOps",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:37:10Z",
+    "url": "https://github.com/jhg20070623-ai/AegisOps"
+  },
+  {
+    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
+    "id": "PLLima/ai-resume-agent",
+    "language": "Python",
+    "name": "PLLima/ai-resume-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:33:34Z",
+    "url": "https://github.com/PLLima/ai-resume-agent"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 984,
+    "updated_at": "2026-09-20T04:31:44Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 2,
+    "updated_at": "2026-09-20T04:30:24Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T04:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
@@ -72,15 +135,6 @@
     "url": "https://github.com/trvietbao/codepack-cli"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 8,
-    "updated_at": "2026-09-20T04:17:56Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T04:16:12Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T04:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
@@ -157,7 +202,7 @@
     "id": "LuzzyMeow/LuzzyPrompt",
     "language": "Python",
     "name": "LuzzyMeow/LuzzyPrompt",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-20T04:04:21Z",
     "url": "https://github.com/LuzzyMeow/LuzzyPrompt"
   },
@@ -184,7 +229,7 @@
     "id": "coco-research/coco",
     "language": "HTML",
     "name": "coco-research/coco",
-    "stars": 347,
+    "stars": 348,
     "updated_at": "2026-09-20T03:56:38Z",
     "url": "https://github.com/coco-research/coco"
   },
@@ -241,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-09-20T03:52:52Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-20T04:30:16Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
     "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T03:40:29Z",
     "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:40:23Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:40:08Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "AI-friendly credit card management & reward optimization template for LLM tools like Muse, Cursor, and ChatGPT.",
-    "id": "seast/creditcard-context",
-    "language": "\u2014",
-    "name": "seast/creditcard-context",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:39:40Z",
-    "url": "https://github.com/seast/creditcard-context"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:39:26Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
   }
 ]
