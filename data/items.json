@@ -1,21 +1,120 @@
 [
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-20T04:45:21Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
     "description": "Cross-agent toolkit for prompts and coding-agent skills",
     "id": "sungjunlee/craftkit",
     "language": "JavaScript",
     "name": "sungjunlee/craftkit",
     "stars": 0,
-    "updated_at": "2026-09-20T04:44:12Z",
+    "updated_at": "2026-09-20T04:59:52Z",
     "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "Static dead-weight detection for agent harnesses \u2014 find instruction blocks that were never touched, and the tokens you c",
+    "id": "0718lol/tare",
+    "language": "Python",
+    "name": "0718lol/tare",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:59:41Z",
+    "url": "https://github.com/0718lol/tare"
+  },
+  {
+    "description": "Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.",
+    "id": "Anil-matcha/awesome-muse-bot",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-muse-bot",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:59:37Z",
+    "url": "https://github.com/Anil-matcha/awesome-muse-bot"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:59:31Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 143,
+    "updated_at": "2026-09-20T04:58:51Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:53:20Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:51:35Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo",
+    "id": "assafkip/voice-loop",
+    "language": "Python",
+    "name": "assafkip/voice-loop",
+    "stars": 6,
+    "updated_at": "2026-09-20T04:49:56Z",
+    "url": "https://github.com/assafkip/voice-loop"
+  },
+  {
+    "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
+    "id": "huangsen365/chuchusou_com_chrome",
+    "language": "JavaScript",
+    "name": "huangsen365/chuchusou_com_chrome",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:46:59Z",
+    "url": "https://github.com/huangsen365/chuchusou_com_chrome"
+  },
+  {
+    "description": "Libro de Prompts - Documentando el Proceso Creativo con IA Generativa | 4Geeks AI for Professionals",
+    "id": "AvilaCarlosDev/libro-de-prompts-ia-generativa",
+    "language": "HTML",
+    "name": "AvilaCarlosDev/libro-de-prompts-ia-generativa",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:46:48Z",
+    "url": "https://github.com/AvilaCarlosDev/libro-de-prompts-ia-generativa"
+  },
+  {
+    "description": "Proyecto Final - Explorando el Potencial de la IA Generativa | 4Geeks AI for Professionals",
+    "id": "AvilaCarlosDev/ai-generativa-proyecto-final",
+    "language": "HTML",
+    "name": "AvilaCarlosDev/ai-generativa-proyecto-final",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:46:45Z",
+    "url": "https://github.com/AvilaCarlosDev/ai-generativa-proyecto-final"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T04:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-20T04:46:32Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
@@ -59,17 +158,8 @@
     "language": "Rust",
     "name": "robertomarchioro/prompt-a-porter",
     "stars": 2,
-    "updated_at": "2026-09-20T04:30:24Z",
+    "updated_at": "2026-09-20T04:49:16Z",
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T04:30:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
@@ -167,7 +257,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T04:22:03Z",
+    "updated_at": "2026-09-20T05:00:01Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -270,15 +360,6 @@
     "url": "https://github.com/sreeramg-hub/sreeram-agent-skills"
   },
   {
-    "description": "Two Jev agents fight over a cold-chain pharmacy grid. The attacker's whole advantage turned out to be how the question w",
-    "id": "copyleftdev/ember",
-    "language": "TypeScript",
-    "name": "copyleftdev/ember",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:53:02Z",
-    "url": "https://github.com/copyleftdev/ember"
-  },
-  {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
@@ -286,15 +367,6 @@
     "stars": 7,
     "updated_at": "2026-09-20T03:52:52Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
-    "id": "huangsen365/chuchusou_com_chrome",
-    "language": "JavaScript",
-    "name": "huangsen365/chuchusou_com_chrome",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:50:38Z",
-    "url": "https://github.com/huangsen365/chuchusou_com_chrome"
   },
   {
     "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T03:42:40Z",
     "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:42:40Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "PIE - Personal Intent Engine: Intelligent middleware between humans and AI models",
-    "id": "abhishekswe/personal-intent-engine",
-    "language": "Rust",
-    "name": "abhishekswe/personal-intent-engine",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:41:52Z",
-    "url": "https://github.com/abhishekswe/personal-intent-engine"
-  },
-  {
-    "description": "Four linters in this ecosystem are powered by Jev. None lints the Jev questions themselves. Nine rules from TypeSafe's o",
-    "id": "yodablocks/jevq",
-    "language": "Python",
-    "name": "yodablocks/jevq",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:41:35Z",
-    "url": "https://github.com/yodablocks/jevq"
-  },
-  {
-    "description": "Awesome QA Skills is an open-source AI-native Quality Engineering skill system that helps engineering teams reason about",
-    "id": "naodeng/awesome-qa-skills",
-    "language": "Python",
-    "name": "naodeng/awesome-qa-skills",
-    "stars": 219,
-    "updated_at": "2026-09-20T03:57:17Z",
-    "url": "https://github.com/naodeng/awesome-qa-skills"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:40:54Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:40:51Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T03:40:32Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-20T03:40:29Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
   }
 ]
