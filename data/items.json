@@ -1,19 +1,136 @@
 [
   {
+    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
+    "id": "ubik-dsh/deepseek-harness-skills",
+    "language": "Python",
+    "name": "ubik-dsh/deepseek-harness-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:44:54Z",
+    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2014,
+    "updated_at": "2026-09-20T18:44:42Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:43:55Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Cognitive scaffolding for coding agents",
+    "id": "3dgiordano/agent-plugins",
+    "language": "JavaScript",
+    "name": "3dgiordano/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:43:37Z",
+    "url": "https://github.com/3dgiordano/agent-plugins"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-20T18:43:17Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Universal Agent Skills Operating System: 14,855+ skills across 251 domains and 15 super-domains for Claude, Cursor, Code",
+    "id": "Mr-Nobody-Anonymous/All-skills",
+    "language": "JavaScript",
+    "name": "Mr-Nobody-Anonymous/All-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:36:42Z",
+    "url": "https://github.com/Mr-Nobody-Anonymous/All-skills"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-20T18:36:27Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-20T18:35:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 125,
+    "updated_at": "2026-09-20T18:35:27Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-20T18:33:04Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25309,
-    "updated_at": "2026-09-20T18:28:37Z",
+    "stars": 25311,
+    "updated_at": "2026-09-20T18:32:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 7,
+    "updated_at": "2026-09-20T18:31:50Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-20T18:31:13Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T18:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
     "id": "Nanako0129/sepia",
     "language": "Python",
     "name": "Nanako0129/sepia",
-    "stars": 2708,
+    "stars": 2709,
     "updated_at": "2026-09-20T18:28:10Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -36,24 +153,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-09-20T18:24:33Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
-    "id": "ubik-dsh/deepseek-harness-skills",
-    "language": "Python",
-    "name": "ubik-dsh/deepseek-harness-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T18:24:26Z",
-    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
-  },
-  {
     "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
     "id": "gotonote/awesome-agent-boom",
     "language": "Python",
@@ -70,15 +169,6 @@
     "stars": 186,
     "updated_at": "2026-09-20T18:26:43Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "Universal Agent Skills Operating System: 14,855+ skills across 251 domains and 15 super-domains for Claude, Cursor, Code",
-    "id": "Mr-Nobody-Anonymous/All-skills",
-    "language": "JavaScript",
-    "name": "Mr-Nobody-Anonymous/All-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T18:21:12Z",
-    "url": "https://github.com/Mr-Nobody-Anonymous/All-skills"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -99,13 +189,13 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Audit a decision instead of making it \u2014 premise challenge, provenance checks, graded evidence, falsifiable criteria. Pla",
+    "id": "hotalexnet/decision-review",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T18:16:00Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "hotalexnet/decision-review",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:20:38Z",
+    "url": "https://github.com/hotalexnet/decision-review"
   },
   {
     "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
@@ -142,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-09-20T18:11:09Z",
     "url": "https://github.com/Quantum-L9/l9-cognitive-runtime"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28056,
+    "updated_at": "2026-09-20T18:11:09Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A CLI tool to enhance prompts using Ollama AI, Cross-platform and hasslefree",
@@ -261,15 +360,6 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28055,
-    "updated_at": "2026-09-20T18:11:09Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Learning and building AI applications from scratch \u2014 covering LLMs, prompt engineering, structured outputs, RAG - Pipeli",
     "id": "beingaayush/Ai-Engineering",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T17:56:24Z",
     "url": "https://github.com/mbommakanti/PromptVault"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:56:22Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 122,
-    "updated_at": "2026-09-20T17:55:52Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:54:48Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:54:39Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:53:46Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:53:38Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:53:23Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-20T17:53:22Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "A collection of focused, reusable GPT/Codex skills for research, learning, instruction auditing, and natural writing.",
-    "id": "osmankaancesur/gpt-skills",
-    "language": "\u2014",
-    "name": "osmankaancesur/gpt-skills",
-    "stars": 1,
-    "updated_at": "2026-09-20T17:52:30Z",
-    "url": "https://github.com/osmankaancesur/gpt-skills"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-20T17:51:56Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
