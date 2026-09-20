@@ -1,12 +1,138 @@
 [
   {
+    "description": "A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories \u2014 your Codex model wri",
+    "id": "lemomo-ai/codex-radar",
+    "language": "\u2014",
+    "name": "lemomo-ai/codex-radar",
+    "stars": 35,
+    "updated_at": "2026-09-20T14:13:44Z",
+    "url": "https://github.com/lemomo-ai/codex-radar"
+  },
+  {
+    "description": "AI \u7ade\u8d5b PPT \u4e0e\u7535\u5f71\u8d28\u611f PPT \u5236\u4f5c\u6280\u80fd\uff5c\u9002\u7528\u4e8e\u6311\u6218\u676f\u3001\u5927\u5b66\u751f\u521b\u65b0\u5927\u8d5b\uff08\u4e92\u8054\u7f51+\uff09\u3001\u4e09\u521b\u8d5b\u3001\u6b63\u5927\u676f\u53ca\u5b66\u672f\u6c47\u62a5\uff5c\u4e66\u7c4d\u3001PDF \u8f6c\u56fe\u7247\u7248 PPT\uff0c\u6309\u9700\u8fd8\u539f\u53ef\u7f16\u8f91 PPTX\uff5c\u63a8\u8350 Codex + GPT Image 2.5",
+    "id": "helloo1568/image-ppt",
+    "language": "Python",
+    "name": "helloo1568/image-ppt",
+    "stars": 5,
+    "updated_at": "2026-09-20T14:13:40Z",
+    "url": "https://github.com/helloo1568/image-ppt"
+  },
+  {
+    "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
+    "id": "voytas75/PromptManager",
+    "language": "Python",
+    "name": "voytas75/PromptManager",
+    "stars": 3,
+    "updated_at": "2026-09-20T14:13:38Z",
+    "url": "https://github.com/voytas75/PromptManager"
+  },
+  {
+    "description": "MCP server: 150 AI video prompts that were each rendered into a real video with Seedance 2 \u2014 search, inspect, audit and ",
+    "id": "hanshs474/seedance-prompts-mcp",
+    "language": "Python",
+    "name": "hanshs474/seedance-prompts-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:12:12Z",
+    "url": "https://github.com/hanshs474/seedance-prompts-mcp"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:11:06Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Universal AI agent skills platform & runtime: 14,690+ curated skills across 243 domains with 9-signal routing, 40 roles,",
+    "id": "Mr-Nobody-Anonymous/All-skills",
+    "language": "JavaScript",
+    "name": "Mr-Nobody-Anonymous/All-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:10:14Z",
+    "url": "https://github.com/Mr-Nobody-Anonymous/All-skills"
+  },
+  {
+    "description": "Cross-session engineering memory for coding agents on DeepSeek Harness: durable per-project records of root causes, fail",
+    "id": "yuyuyyyyyyyyyyyy/dsh-project-memory",
+    "language": "JavaScript",
+    "name": "yuyuyyyyyyyyyyyy/dsh-project-memory",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:09:30Z",
+    "url": "https://github.com/yuyuyyyyyyyyyyyy/dsh-project-memory"
+  },
+  {
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
+    "id": "VenkateshDoijode/promptfoo-cicd-framework",
+    "language": "\u2014",
+    "name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "stars": 2,
+    "updated_at": "2026-09-20T14:06:54Z",
+    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
+    "id": "ubik-dsh/deepseek-harness-skills",
+    "language": "Python",
+    "name": "ubik-dsh/deepseek-harness-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:06:14Z",
+    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-20T14:05:40Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
     "name": "doodersrage/castcut",
     "stars": 1,
-    "updated_at": "2026-09-20T14:00:14Z",
+    "updated_at": "2026-09-20T14:05:21Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "A portable persona engine that stops brand voice from decaying inside AI agents. Compiles a token-budgeted voice pack fr",
+    "id": "Kunci-Tech/voicepack",
+    "language": "JavaScript",
+    "name": "Kunci-Tech/voicepack",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:04:35Z",
+    "url": "https://github.com/Kunci-Tech/voicepack"
+  },
+  {
+    "description": "Test whether your CLAUDE.md actually works. A Claude Code skill that restructures agent-facing docs (CLAUDE.md, docs/, d",
+    "id": "rupel190/claude-interaction-tests",
+    "language": "Python",
+    "name": "rupel190/claude-interaction-tests",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:00:33Z",
+    "url": "https://github.com/rupel190/claude-interaction-tests"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T14:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:00:23Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
     "description": "Transpile LLM prompts and JSON Schemas into TypeSafe Jev decision programs",
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T13:59:35Z",
     "url": "https://github.com/doronp/jevc"
-  },
-  {
-    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
-    "id": "ubik-dsh/deepseek-harness-skills",
-    "language": "Python",
-    "name": "ubik-dsh/deepseek-harness-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:59:34Z",
-    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -45,15 +162,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "A portable persona engine that stops brand voice from decaying inside AI agents. Compiles a token-budgeted voice pack fr",
-    "id": "Kunci-Tech/voicepack",
-    "language": "JavaScript",
-    "name": "Kunci-Tech/voicepack",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:56:54Z",
-    "url": "https://github.com/Kunci-Tech/voicepack"
-  },
-  {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
     "id": "lowqualityloey/promptkit-os",
     "language": "PowerShell",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T13:56:37Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-20T13:55:39Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T13:54:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Cross-session engineering memory for coding agents on DeepSeek Harness: durable per-project records of root causes, fail",
-    "id": "yuyuyyyyyyyyyyyy/dsh-project-memory",
-    "language": "JavaScript",
-    "name": "yuyuyyyyyyyyyyyy/dsh-project-memory",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:54:23Z",
-    "url": "https://github.com/yuyuyyyyyyyyyyyy/dsh-project-memory"
   },
   {
     "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 31,
-    "updated_at": "2026-09-20T13:53:33Z",
+    "updated_at": "2026-09-20T14:08:29Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -277,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T13:48:06Z",
     "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T13:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets \u2014 runs inside",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T13:41:34Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-20T13:41:22Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 5,
-    "updated_at": "2026-09-20T13:41:03Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:40:51Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 1,
-    "updated_at": "2026-09-20T13:40:36Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-09-20T13:40:28Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-09-20T13:40:22Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-09-20T13:40:22Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 2,
-    "updated_at": "2026-09-20T13:40:13Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
-    "id": "voytas75/PromptManager",
-    "language": "Python",
-    "name": "voytas75/PromptManager",
-    "stars": 3,
-    "updated_at": "2026-09-20T13:40:04Z",
-    "url": "https://github.com/voytas75/PromptManager"
   }
 ]
