@@ -1,5 +1,140 @@
 [
   {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-20T02:15:05Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 9918,
+    "updated_at": "2026-09-20T02:12:48Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
+    "id": "Nano-Collective/prompt-scrubber",
+    "language": "TypeScript",
+    "name": "Nano-Collective/prompt-scrubber",
+    "stars": 17,
+    "updated_at": "2026-09-20T02:12:22Z",
+    "url": "https://github.com/Nano-Collective/prompt-scrubber"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 2,
+    "updated_at": "2026-09-20T02:12:10Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-20T02:12:07Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Habilidades personalizadas para o Databricks Genie Code (Assistente de IA) \u2013 Investiga\u00e7\u00e3o, padr\u00f5es de projeto e melhores",
+    "id": "1pedroosilva/databricks-genie-skills",
+    "language": "HTML",
+    "name": "1pedroosilva/databricks-genie-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:10:48Z",
+    "url": "https://github.com/1pedroosilva/databricks-genie-skills"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
+    "id": "DSeaStar/awesome-kling",
+    "language": "Python",
+    "name": "DSeaStar/awesome-kling",
+    "stars": 2,
+    "updated_at": "2026-09-20T02:09:43Z",
+    "url": "https://github.com/DSeaStar/awesome-kling"
+  },
+  {
+    "description": "A.I. Sorcery",
+    "id": "4ndr0666/gpt",
+    "language": "Python",
+    "name": "4ndr0666/gpt",
+    "stars": 24,
+    "updated_at": "2026-09-20T02:09:11Z",
+    "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "Shell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:15:08Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 60,
+    "updated_at": "2026-09-20T02:02:47Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Claude Code & Cursor token usage monitor and cost tracker for macOS & Windows. Live token/cost/burn monitoring across 8 ",
+    "id": "Terse-AI/terseai",
+    "language": "JavaScript",
+    "name": "Terse-AI/terseai",
+    "stars": 58,
+    "updated_at": "2026-09-20T02:02:15Z",
+    "url": "https://github.com/Terse-AI/terseai"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 6,
+    "updated_at": "2026-09-20T02:01:36Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "The creator kit: 145 Claude Code commands, 23 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
+    "id": "Nova-Violet-Role/RoT-DtD-Commander",
+    "language": "JavaScript",
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:01:30Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
+  },
+  {
+    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
+    "id": "goku-open/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-gpt-image-2-prompts",
+    "stars": 4,
+    "updated_at": "2026-09-20T02:00:55Z",
+    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-20T02:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -18,24 +153,6 @@
     "url": "https://github.com/3dgiordano/agent-plugins"
   },
   {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:58:38Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "Shell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:59:02Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
     "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
     "id": "tobiast5801/mdp-preflight",
     "language": "\u2014",
@@ -52,15 +169,6 @@
     "stars": 25,
     "updated_at": "2026-09-20T01:53:05Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:52:59Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
@@ -97,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T01:50:57Z",
     "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-20T01:52:22Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "The creator kit: 145 Claude Code commands, 23 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
-    "id": "Nova-Violet-Role/RoT-DtD-Commander",
-    "language": "JavaScript",
-    "name": "Nova-Violet-Role/RoT-DtD-Commander",
-    "stars": 3,
-    "updated_at": "2026-09-20T01:50:13Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
   },
   {
     "description": "Chinese-first Codex skill pack for intent alignment, dynamic routing, lightweight development, code review, UI design, a",
@@ -205,15 +295,6 @@
     "stars": 142,
     "updated_at": "2026-09-20T01:45:45Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-20T01:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T01:41:10Z",
     "url": "https://github.com/moiralongspurred78/claude-code-prompts-reference"
-  },
-  {
-    "description": "\u89e3\u6790 Claude Code \u6e90\u7801\uff0c\u6574\u7406\u4e2d\u6587\u4e66\u7a3f\u3001\u7ae0\u8282\u4e0e\u53ef\u7f16\u8bd1 PDF\uff0c\u5e2e\u52a9\u8bfb\u8005\u7406\u89e3\u7cfb\u7edf\u7ed3\u6784\u3001\u8fd0\u884c\u673a\u5236\u3001\u6743\u9650\u3001\u5b89\u5168\u4e0e\u4e0a\u4e0b\u6587\u7b56\u7565",
-    "id": "anjayy8724/claude-code-book",
-    "language": "\u2014",
-    "name": "anjayy8724/claude-code-book",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:41:05Z",
-    "url": "https://github.com/anjayy8724/claude-code-book"
-  },
-  {
-    "description": "Explore and compare 45+ system prompts across models with a live gallery, research paper, and open dataset for prompt an",
-    "id": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "language": "HTML",
-    "name": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:41:03Z",
-    "url": "https://github.com/pinchhitterequatorialcurrent101/System-Prompt-Open"
-  },
-  {
-    "description": "Package portable CC coding-agent skills for Claude Code, Codex, and OpenClaw with reusable prompts, helper scripts, and ",
-    "id": "kentunderage549/cc-harness-skills",
-    "language": "Python",
-    "name": "kentunderage549/cc-harness-skills",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:40:55Z",
-    "url": "https://github.com/kentunderage549/cc-harness-skills"
-  },
-  {
-    "description": "Explore reverse engineering specs for Claude Code CLI, with implementation-ready design docs from source map analysis of",
-    "id": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "language": "HCL",
-    "name": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:40:48Z",
-    "url": "https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering"
-  },
-  {
-    "description": "Explore Claude Code\u2019s source architecture and learn how a top AI coding agent works",
-    "id": "Euphonic-treesparrow658/how-claude-code-works",
-    "language": "\u2014",
-    "name": "Euphonic-treesparrow658/how-claude-code-works",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:40:46Z",
-    "url": "https://github.com/Euphonic-treesparrow658/how-claude-code-works"
-  },
-  {
-    "description": "Investigate agentic AI prompt design, sub-agent coordination, and tool safety patterns for coding assistants",
-    "id": "unoccupied-creep552/agentic-ai-prompt-research",
-    "language": "\u2014",
-    "name": "unoccupied-creep552/agentic-ai-prompt-research",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:40:39Z",
-    "url": "https://github.com/unoccupied-creep552/agentic-ai-prompt-research"
-  },
-  {
-    "description": "A focused desktop editor for writing, previewing, and copying XML-style prompts for LLM workflows. Built with Tauri, Rea",
-    "id": "koagaroon/xml-prompt-studio",
-    "language": "JavaScript",
-    "name": "koagaroon/xml-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:55:55Z",
-    "url": "https://github.com/koagaroon/xml-prompt-studio"
-  },
-  {
-    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
-    "id": "marysatasselshaped667/skills-collection-1",
-    "language": "Python",
-    "name": "marysatasselshaped667/skills-collection-1",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:40:31Z",
-    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
-  },
-  {
-    "description": "Bootstrap the 45ck agent stack with shared skills, Claude and Codex agents, project tooling, and embedded packs",
-    "id": "blinnieinfertile577/skill-harness",
-    "language": "JavaScript",
-    "name": "blinnieinfertile577/skill-harness",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:40:05Z",
-    "url": "https://github.com/blinnieinfertile577/skill-harness"
   }
 ]
