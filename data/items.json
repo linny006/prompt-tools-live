@@ -1,11 +1,56 @@
 [
   {
+    "description": "A beautiful, open-source visual tool for building better AI prompts.",
+    "id": "XAU-DESIGNER/prompt_studio_pro",
+    "language": "JavaScript",
+    "name": "XAU-DESIGNER/prompt_studio_pro",
+    "stars": 3,
+    "updated_at": "2026-09-21T14:01:29Z",
+    "url": "https://github.com/XAU-DESIGNER/prompt_studio_pro"
+  },
+  {
+    "description": "Provide real-time object detection on Android to assist visually impaired users using YOLOv8 and TensorFlow Lite with Tu",
+    "id": "Ephraim0810/SmartSEE",
+    "language": "\u2014",
+    "name": "Ephraim0810/SmartSEE",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:00:43Z",
+    "url": "https://github.com/Ephraim0810/SmartSEE"
+  },
+  {
+    "description": "Provide free, open access to comprehensive AI tools, guides, reviews, and resources to reduce knowledge gaps and empower",
+    "id": "Golu0512/ai-guide",
+    "language": "JavaScript",
+    "name": "Golu0512/ai-guide",
+    "stars": 2,
+    "updated_at": "2026-09-21T14:00:41Z",
+    "url": "https://github.com/Golu0512/ai-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T14:00:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple c",
+    "id": "ericm790/PromptsForAITools",
+    "language": "\u2014",
+    "name": "ericm790/PromptsForAITools",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:00:26Z",
+    "url": "https://github.com/ericm790/PromptsForAITools"
+  },
+  {
     "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
     "id": "anyuer678/chatez",
     "language": "TypeScript",
     "name": "anyuer678/chatez",
     "stars": 0,
-    "updated_at": "2026-09-21T13:58:54Z",
+    "updated_at": "2026-09-21T14:01:23Z",
     "url": "https://github.com/anyuer678/chatez"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T13:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T13:21:46Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "A persistent, observable, and collaborative memory infrastructure",
-    "id": "lilhammerfun/clumsies",
-    "language": "Rust",
-    "name": "lilhammerfun/clumsies",
-    "stars": 18,
-    "updated_at": "2026-09-21T13:21:31Z",
-    "url": "https://github.com/lilhammerfun/clumsies"
-  },
-  {
-    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, pick its b",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 2,
-    "updated_at": "2026-09-21T13:35:55Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-21T13:17:42Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
-    "id": "Allan-Nava/qrspi",
-    "language": "JavaScript",
-    "name": "Allan-Nava/qrspi",
-    "stars": 1,
-    "updated_at": "2026-09-21T13:15:51Z",
-    "url": "https://github.com/Allan-Nava/qrspi"
   }
 ]
