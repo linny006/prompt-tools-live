@@ -1,5 +1,95 @@
 [
   {
+    "description": "Private, provider-neutral context compression for LLMs. Reversibly compress schemas and logs inside your perimeter with ",
+    "id": "snchimata/tokenfold",
+    "language": "Rust",
+    "name": "snchimata/tokenfold",
+    "stars": 203,
+    "updated_at": "2026-09-21T02:27:44Z",
+    "url": "https://github.com/snchimata/tokenfold"
+  },
+  {
+    "description": "Paper review pipeline for AI coding agents: P0-P8 stages, adversarial overview, rhetoric-debias, math proof audit / \u8bba\u6587\u5ba1\u7a3f",
+    "id": "Bin-H-17/ai-paper-review-pipeline",
+    "language": "Lean",
+    "name": "Bin-H-17/ai-paper-review-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:26:27Z",
+    "url": "https://github.com/Bin-H-17/ai-paper-review-pipeline"
+  },
+  {
+    "description": "Portable, model-agnostic workspace template for AI agents: file-based knowledge, skills, contracts, deterministic valida",
+    "id": "MauricioPerera/portable-agent-workspace-template",
+    "language": "Python",
+    "name": "MauricioPerera/portable-agent-workspace-template",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:26:13Z",
+    "url": "https://github.com/MauricioPerera/portable-agent-workspace-template"
+  },
+  {
+    "description": "An LLM has no memory. This shows you the history a chat app resends on every call, and lets you edit it",
+    "id": "GitHubStig/llm-inspector",
+    "language": "HTML",
+    "name": "GitHubStig/llm-inspector",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:26:09Z",
+    "url": "https://github.com/GitHubStig/llm-inspector"
+  },
+  {
+    "description": "pi extension that rates every prompt with TypeSafe's jev decision model and injects the missing pieces as hints.",
+    "id": "HikaruEgashira/pi-prompt-enhancer",
+    "language": "TypeScript",
+    "name": "HikaruEgashira/pi-prompt-enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:25:50Z",
+    "url": "https://github.com/HikaruEgashira/pi-prompt-enhancer"
+  },
+  {
+    "description": "\u7535\u5546 AI \u51fa\u56fe\u5de5\u4f5c\u6d41:\u767d\u5e95\u56fe/\u4fc3\u9500\u4e3b\u56fe/\u573a\u666f\u878d\u5408/\u7cfb\u5217\u4e00\u81f4\u6027/\u8be6\u60c5\u9875\u5168\u6d41\u7a0b + \u4e2d\u82f1\u63d0\u793a\u8bcd\u5e93 + OpenAPI \u53ef\u8fd0\u884c\u793a\u4f8b\u3002E-commerce AI image workflows, bilingual prompts and run",
+    "id": "flux-art-ai/flux-art-ecom-image-workflow",
+    "language": "Python",
+    "name": "flux-art-ai/flux-art-ecom-image-workflow",
+    "stars": 5,
+    "updated_at": "2026-09-21T02:25:16Z",
+    "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-21T02:26:28Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-21T02:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4844,
+    "updated_at": "2026-09-21T02:20:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T02:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
     "id": "goku-open/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -22,18 +112,9 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9926,
+    "stars": 9925,
     "updated_at": "2026-09-21T02:12:27Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Portable, model-agnostic workspace template for AI agents: file-based knowledge, skills, contracts, deterministic valida",
-    "id": "MauricioPerera/portable-agent-workspace-template",
-    "language": "Python",
-    "name": "MauricioPerera/portable-agent-workspace-template",
-    "stars": 0,
-    "updated_at": "2026-09-21T02:10:22Z",
-    "url": "https://github.com/MauricioPerera/portable-agent-workspace-template"
   },
   {
     "description": "Your AI agent says 'done' without running a single test. Clipboard Skills makes it check the list first. 36 engineering ",
@@ -94,7 +175,7 @@
     "id": "linshenkx/prompt-optimizer",
     "language": "TypeScript",
     "name": "linshenkx/prompt-optimizer",
-    "stars": 35230,
+    "stars": 35232,
     "updated_at": "2026-09-21T02:03:51Z",
     "url": "https://github.com/linshenkx/prompt-optimizer"
   },
@@ -126,15 +207,6 @@
     "url": "https://github.com/AKzar1el/god-prompt-mcp"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T02:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
     "id": "V-Songbird/disregard",
     "language": "JavaScript",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T01:58:40Z",
     "url": "https://github.com/V-Songbird/disregard"
-  },
-  {
-    "description": "pi extension that rates every prompt with TypeSafe's jev decision model and injects the missing pieces as hints.",
-    "id": "HikaruEgashira/pi-prompt-enhancer",
-    "language": "TypeScript",
-    "name": "HikaruEgashira/pi-prompt-enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:57:28Z",
-    "url": "https://github.com/HikaruEgashira/pi-prompt-enhancer"
   },
   {
     "description": "Audit a decision instead of making it \u2014 premise challenge, provenance checks, graded evidence, falsifiable criteria. Pla",
@@ -189,6 +252,15 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
+    "description": "Behmanesh Structural Index (BSI): layered interdisciplinary framework and versioned prompt definitions for structural an",
+    "id": "BEHMANESH-Mohammadali/behmanesh-index-prompt",
+    "language": "Python",
+    "name": "BEHMANESH-Mohammadali/behmanesh-index-prompt",
+    "stars": 0,
+    "updated_at": "2026-09-21T01:52:35Z",
+    "url": "https://github.com/BEHMANESH-Mohammadali/behmanesh-index-prompt"
+  },
+  {
     "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
     "id": "randolfglorious1317/skillpack",
     "language": "TypeScript",
@@ -202,7 +274,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 67884,
+    "stars": 67885,
     "updated_at": "2026-09-21T01:52:19Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T01:51:14Z",
     "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-21T02:09:29Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
     "description": "The local control plane for long-running AI agent work.",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T01:43:16Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:43:00Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Figma-to-MCP prompt management for Hermes workflows.",
-    "id": "jozrftamson/hermes-figma-prompt-hub",
-    "language": "Python",
-    "name": "jozrftamson/hermes-figma-prompt-hub",
-    "stars": 1,
-    "updated_at": "2026-09-21T01:42:53Z",
-    "url": "https://github.com/jozrftamson/hermes-figma-prompt-hub"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-21T01:42:48Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:42:28Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
-    "id": "PLLima/ai-resume-agent",
-    "language": "Python",
-    "name": "PLLima/ai-resume-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:42:17Z",
-    "url": "https://github.com/PLLima/ai-resume-agent"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:42:10Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-21T01:41:56Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
