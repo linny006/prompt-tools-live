@@ -1,12 +1,120 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34895,
-    "updated_at": "2026-09-21T15:14:29Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "mrwogu/promptscript",
+    "stars": 379,
+    "updated_at": "2026-09-21T15:30:24Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:29:54Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Five Chatbox skills for objective web design and audits. Replaces generic, dead AI templates with top-down structured la",
+    "id": "delphinelil09-sys/universal-design",
+    "language": "\u2014",
+    "name": "delphinelil09-sys/universal-design",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:29:31Z",
+    "url": "https://github.com/delphinelil09-sys/universal-design"
+  },
+  {
+    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
+    "id": "francescopaolopassaro/Synthelion",
+    "language": "Python",
+    "name": "francescopaolopassaro/Synthelion",
+    "stars": 4,
+    "updated_at": "2026-09-21T15:29:31Z",
+    "url": "https://github.com/francescopaolopassaro/Synthelion"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-09-21T15:29:04Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
+    "id": "dustin-olenslager/claude-phalanx",
+    "language": "Shell",
+    "name": "dustin-olenslager/claude-phalanx",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:27:24Z",
+    "url": "https://github.com/dustin-olenslager/claude-phalanx"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "Python",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:25:33Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
+    "id": "huangsen365/chuchusou_com_chrome",
+    "language": "JavaScript",
+    "name": "huangsen365/chuchusou_com_chrome",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:25:01Z",
+    "url": "https://github.com/huangsen365/chuchusou_com_chrome"
+  },
+  {
+    "description": "A capability battery for LLM selection: 10 task classes x 3 trials, deterministic graders, saved raw replies and measure",
+    "id": "JoscarTheDane/llm-capability-eval",
+    "language": "Python",
+    "name": "JoscarTheDane/llm-capability-eval",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:24:47Z",
+    "url": "https://github.com/JoscarTheDane/llm-capability-eval"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 12,
+    "updated_at": "2026-09-21T15:23:41Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "A prompt management app for Android with dynamic, AI-powered templates",
+    "id": "Mamout-Prompt/Mamout",
+    "language": "Kotlin",
+    "name": "Mamout-Prompt/Mamout",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:23:40Z",
+    "url": "https://github.com/Mamout-Prompt/Mamout"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-09-21T15:22:54Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22182,
+    "updated_at": "2026-09-21T15:28:41Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
@@ -14,8 +122,62 @@
     "language": "Python",
     "name": "ubik-dsh/deepseek-harness-skills",
     "stars": 0,
-    "updated_at": "2026-09-21T15:14:06Z",
+    "updated_at": "2026-09-21T15:20:28Z",
     "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "Artificial Ecology For Thought and Emergent Reasoning.  The Colony That Builds With You.",
+    "id": "calcosmic/Aether",
+    "language": "Go",
+    "name": "calcosmic/Aether",
+    "stars": 9,
+    "updated_at": "2026-09-21T15:20:24Z",
+    "url": "https://github.com/calcosmic/Aether"
+  },
+  {
+    "description": "49 prompts for Mistral Vibe Work, scheduled tasks and Chat. Filed by the mode each one can honestly run in, and checked.",
+    "id": "kesslernity/awesome-mistral-vibe-prompts",
+    "language": "Python",
+    "name": "kesslernity/awesome-mistral-vibe-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:19:38Z",
+    "url": "https://github.com/kesslernity/awesome-mistral-vibe-prompts"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T15:22:07Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\ud83c\udfc6 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi",
+    "id": "ThanhNguyxnOrg/SkillGauge",
+    "language": "TypeScript",
+    "name": "ThanhNguyxnOrg/SkillGauge",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:16:25Z",
+    "url": "https://github.com/ThanhNguyxnOrg/SkillGauge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T15:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34897,
+    "updated_at": "2026-09-21T15:14:29Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -27,6 +189,15 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
+    "description": "\u7528 283 \u4e07\u5b57\u8bed\u6599\u7814\u7a76\u91cf\u5316\u300cAI \u5473\u300d\uff1a11 \u6761\u767d\u540d\u5355\u89c4\u5219 + \u8bed\u4f53\u9002\u914d\u53cc\u9053\u5de5\u5e8f\uff0c\u8ba9 AI \u4e2d\u6587\u56de\u5f52\u4eba\u5473\u3002\u96f6\u4f9d\u8d56\uff0c\u542b Prompt / JSON \u89c4\u5219 / CLI / \u7f51\u9875\u68c0\u6d4b\u5668\u3002Rule-based AI-tone remover fo",
+    "id": "LXSUSU/dual-track-ai-tone-remover",
+    "language": "HTML",
+    "name": "LXSUSU/dual-track-ai-tone-remover",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:11:56Z",
+    "url": "https://github.com/LXSUSU/dual-track-ai-tone-remover"
+  },
+  {
     "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
     "id": "hermes-labs-ai/hermes-blind",
     "language": "Python",
@@ -34,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-21T15:11:39Z",
     "url": "https://github.com/hermes-labs-ai/hermes-blind"
-  },
-  {
-    "description": "Dual-track AI-tone remover: rule-based cleanup (11 whitelist rules from a 2.83M-char corpus study) + linguistic tone ada",
-    "id": "LXSUSU/dual-track-ai-tone-remover",
-    "language": "HTML",
-    "name": "LXSUSU/dual-track-ai-tone-remover",
-    "stars": 0,
-    "updated_at": "2026-09-21T15:11:56Z",
-    "url": "https://github.com/LXSUSU/dual-track-ai-tone-remover"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -63,15 +225,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22182,
-    "updated_at": "2026-09-21T15:09:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Automatic Prompt Optimization Framework",
     "id": "CTLab-ITMO/CoolPrompt",
     "language": "Python",
@@ -79,15 +232,6 @@
     "stars": 197,
     "updated_at": "2026-09-21T15:09:05Z",
     "url": "https://github.com/CTLab-ITMO/CoolPrompt"
-  },
-  {
-    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
-    "id": "francescopaolopassaro/Synthelion",
-    "language": "Python",
-    "name": "francescopaolopassaro/Synthelion",
-    "stars": 4,
-    "updated_at": "2026-09-21T15:08:13Z",
-    "url": "https://github.com/francescopaolopassaro/Synthelion"
   },
   {
     "description": "Twenty-three compact, vendor-neutral agent skills for engineering, research, communication, documents, experiments, and ",
@@ -104,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4847,
-    "updated_at": "2026-09-21T15:10:14Z",
+    "updated_at": "2026-09-21T15:20:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -126,15 +270,6 @@
     "url": "https://github.com/hermes-labs-ai/hermeneutic"
   },
   {
-    "description": "Five Chatbox skills for objective web design and audits. Replaces generic, dead AI templates with top-down structured la",
-    "id": "delphinelil09-sys/universal-design",
-    "language": "\u2014",
-    "name": "delphinelil09-sys/universal-design",
-    "stars": 1,
-    "updated_at": "2026-09-21T15:03:19Z",
-    "url": "https://github.com/delphinelil09-sys/universal-design"
-  },
-  {
     "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
     "id": "jason3e7/ai-101",
     "language": "HTML",
@@ -142,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T15:01:57Z",
     "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T15:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A repeatable method for directing AI coding tools on a codebase that outlives the conversation: specify before you promp",
@@ -180,15 +306,6 @@
     "url": "https://github.com/rchzc/ecommerce-ai-workbench"
   },
   {
-    "description": "\u79bb\u7ebf\u2795ai\u63d0\u793a\u8bcd\u4f18\u5316\u5668 Pro \u00b7 \u628a\u7c97\u7cd9\u7684\u60f3\u6cd5\u53d8\u6210\u7ed3\u6784\u6e05\u6670\u3001\u53ef\u76f4\u63a5\u6295\u4ea7\u7684\u63d0\u793a\u8bcd\u3002\u6ca1\u7f51\u3001\u6ca1 API Key \u4e5f\u80fd\u79bb\u7ebf\u751f\u6210\uff0864 \u7c7b\u610f\u56fe\u89c4\u5219\u5f15\u64ce\uff09\u3002\u7eaf\u524d\u7aef\u96f6\u4f9d\u8d56\u5355\u6587\u4ef6 PWA\uff0c\u652f\u6301 DeepSeek / Kimi / \u667a\u8c31 / OpenAI ",
-    "id": "3564361953/prompt-optimizer-pro",
-    "language": "HTML",
-    "name": "3564361953/prompt-optimizer-pro",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:52:45Z",
-    "url": "https://github.com/3564361953/prompt-optimizer-pro"
-  },
-  {
     "description": "A Mammut browser extension. It makes editing and viewing your prompts easier.",
     "id": "Mamout-Prompt/Mamout-Browser-Extension",
     "language": "TypeScript",
@@ -196,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:52:42Z",
     "url": "https://github.com/Mamout-Prompt/Mamout-Browser-Extension"
-  },
-  {
-    "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
-    "id": "dustin-olenslager/claude-phalanx",
-    "language": "Shell",
-    "name": "dustin-olenslager/claude-phalanx",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:50:24Z",
-    "url": "https://github.com/dustin-olenslager/claude-phalanx"
   },
   {
     "description": "Composable, evidence-grounded research Skills for Codex and Claude Code, powered by an extensible Reasoning DNA runtime.",
@@ -261,33 +369,6 @@
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
-    "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
-    "id": "huangsen365/chuchusou_com_chrome",
-    "language": "JavaScript",
-    "name": "huangsen365/chuchusou_com_chrome",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:39:46Z",
-    "url": "https://github.com/huangsen365/chuchusou_com_chrome"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 108,
-    "updated_at": "2026-09-21T14:50:46Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "\ud83c\udfc6 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi",
-    "id": "ThanhNguyxnOrg/SkillGauge",
-    "language": "TypeScript",
-    "name": "ThanhNguyxnOrg/SkillGauge",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:37:31Z",
-    "url": "https://github.com/ThanhNguyxnOrg/SkillGauge"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -311,7 +392,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25334,
-    "updated_at": "2026-09-21T15:14:27Z",
+    "updated_at": "2026-09-21T15:25:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -322,24 +403,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:32:33Z",
     "url": "https://github.com/maauricioozy/agent-skills-ptbr"
-  },
-  {
-    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:28:42Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
-    "description": "Artificial Ecology For Thought and Emergent Reasoning.  The Colony That Builds With You.",
-    "id": "calcosmic/Aether",
-    "language": "Go",
-    "name": "calcosmic/Aether",
-    "stars": 9,
-    "updated_at": "2026-09-21T14:28:33Z",
-    "url": "https://github.com/calcosmic/Aether"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T14:23:43Z",
     "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:23:37Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:23:32Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "\u4e66\u6850 SHUTONG\uff5c\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93 / AI Prompt Library\uff1a\u56fe\u751f\u56fe\u3001\u7167\u7247\u8f6c\u624b\u529e\u3001\u98ce\u683c\u8f6c\u6362\u3001\u4ee3\u7801\u5ba1\u67e5\u3001\u4f1a\u8bae\u7eaa\u8981\u3001PRD\u3001\u5199\u4f5c\u7ffb\u8bd1\u300248 curated prompt templates for image-to-ima",
-    "id": "BryceYuuu/shutong",
-    "language": "JavaScript",
-    "name": "BryceYuuu/shutong",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:23:03Z",
-    "url": "https://github.com/BryceYuuu/shutong"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:22:51Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:21:55Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:21:04Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-21T14:21:01Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   }
 ]
