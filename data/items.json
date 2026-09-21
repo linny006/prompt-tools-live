@@ -1,12 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25333,
-    "updated_at": "2026-09-21T14:29:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "An Agent Skill that reconstructs completed projects into evidence-backed PROJECT_PROFILE.md files.",
+    "id": "lwyp41/project-profile",
+    "language": "Python",
+    "name": "lwyp41/project-profile",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:42:07Z",
+    "url": "https://github.com/lwyp41/project-profile"
+  },
+  {
+    "description": "Five Chatbox skills for objective web design and audits. Replaces generic, dead AI templates with top-down structured la",
+    "id": "delphinelil09-sys/universal-design",
+    "language": "\u2014",
+    "name": "delphinelil09-sys/universal-design",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:41:49Z",
+    "url": "https://github.com/delphinelil09-sys/universal-design"
+  },
+  {
+    "description": "\u79bb\u7ebf\uff0bai\u63d0\u793a\u8bcd\u4f18\u5316\u5668 Pro \u00b7 \u628a\u7c97\u7cd9\u7684\u60f3\u6cd5\u53d8\u6210\u7ed3\u6784\u6e05\u6670\u3001\u53ef\u76f4\u63a5\u6295\u4ea7\u7684\u63d0\u793a\u8bcd\u3002\u7eaf\u524d\u7aef\u96f6\u4f9d\u8d56 PWA\uff1a\u6ca1\u7f51\u3001\u6ca1 API Key \u4e5f\u80fd\u79bb\u7ebf\u751f\u6210\u3002\u652f\u6301 DeepSeek / Kimi / \u667a\u8c31 / OpenAI \u517c\u5bb9\u63a5\u53e3 | Prompt O",
+    "id": "3564361953/prompt-optimizer-pro",
+    "language": "HTML",
+    "name": "3564361953/prompt-optimizer-pro",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:45:02Z",
+    "url": "https://github.com/3564361953/prompt-optimizer-pro"
   },
   {
     "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
@@ -14,8 +32,98 @@
     "language": "Shell",
     "name": "dustin-olenslager/claude-phalanx",
     "stars": 1,
-    "updated_at": "2026-09-21T14:29:48Z",
+    "updated_at": "2026-09-21T14:41:55Z",
     "url": "https://github.com/dustin-olenslager/claude-phalanx"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 6009,
+    "updated_at": "2026-09-21T14:40:24Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "\u89e6\u89e6\u641c Chrome \u6269\u5c55\uff1a\u9009\u4e2d\u6587\u5b57\u4e00\u952e\u591a AI \u901f\u7b54\u3001X / \u77e5\u4e4e\u7ad9\u5185\u901f\u7b54\u3001ChatGPT Images \u5c01\u9762\u751f\u6210\u3001\u957f\u6587\u6539\u5199\u76f4\u6295 X \u8349\u7a3f \u2014\u2014 Chrome extension for multi-AI quick answers, c",
+    "id": "huangsen365/chuchusou_com_chrome",
+    "language": "JavaScript",
+    "name": "huangsen365/chuchusou_com_chrome",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:39:46Z",
+    "url": "https://github.com/huangsen365/chuchusou_com_chrome"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-09-21T14:41:47Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "\ud83c\udfc6 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi",
+    "id": "ThanhNguyxnOrg/SkillGauge",
+    "language": "TypeScript",
+    "name": "ThanhNguyxnOrg/SkillGauge",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:37:31Z",
+    "url": "https://github.com/ThanhNguyxnOrg/SkillGauge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34893,
+    "updated_at": "2026-09-21T14:44:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-09-21T14:33:58Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 6,
+    "updated_at": "2026-09-21T14:33:50Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "Skills PT-BR para agentes: qualidade com juiz cego, pesquisa adversarial e escrita natural.",
+    "id": "maauricioozy/agent-skills-ptbr",
+    "language": "Python",
+    "name": "maauricioozy/agent-skills-ptbr",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:32:33Z",
+    "url": "https://github.com/maauricioozy/agent-skills-ptbr"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T14:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25333,
+    "updated_at": "2026-09-21T14:31:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
@@ -77,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22182,
-    "updated_at": "2026-09-21T14:23:43Z",
+    "updated_at": "2026-09-21T14:42:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -189,15 +297,6 @@
     "url": "https://github.com/ShahzaibAhmad05/agent-instructions"
   },
   {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 108,
-    "updated_at": "2026-09-21T14:29:48Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
     "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
     "id": "conniving-catechist742/ai-prompt-studio",
     "language": "Python",
@@ -297,15 +396,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T14:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
     "id": "aesirsennamarilandica604/image-to-prompt",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:12:32Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-21T14:12:28Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:12:26Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:12:25Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:12:14Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34893,
-    "updated_at": "2026-09-21T14:30:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Portable agent-brain kit: superpowers methodology, YAGNI minimalism, cross-chat SQLite FTS5 memory, adversarial trap-sui",
-    "id": "oleg494/coding-kit",
-    "language": "Python",
-    "name": "oleg494/coding-kit",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:12:07Z",
-    "url": "https://github.com/oleg494/coding-kit"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:12:04Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:12:01Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:11:44Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:11:38Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
