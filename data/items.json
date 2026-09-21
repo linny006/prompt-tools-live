@@ -1,12 +1,129 @@
 [
   {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:15:32Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
+    "id": "V-Songbird/disregard",
+    "language": "JavaScript",
+    "name": "V-Songbird/disregard",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:15:17Z",
+    "url": "https://github.com/V-Songbird/disregard"
+  },
+  {
+    "description": "Cognitive scaffolding for coding agents",
+    "id": "3dgiordano/agent-plugins",
+    "language": "JavaScript",
+    "name": "3dgiordano/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:14:32Z",
+    "url": "https://github.com/3dgiordano/agent-plugins"
+  },
+  {
+    "description": "56 skills y 7 agentes especializados para OpenCode: full-stack, arquitectura, DBA, DevOps, IA y marketing.",
+    "id": "novatic-cu/nova-skills",
+    "language": "TypeScript",
+    "name": "novatic-cu/nova-skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:14:17Z",
+    "url": "https://github.com/novatic-cu/nova-skills"
+  },
+  {
+    "description": "Agent skills for spec-driven development. An automated agentic delivery loop coordinates planning, implementation, and c",
+    "id": "valzav/valcraft",
+    "language": "Python",
+    "name": "valzav/valcraft",
+    "stars": 19,
+    "updated_at": "2026-09-21T19:14:55Z",
+    "url": "https://github.com/valzav/valcraft"
+  },
+  {
+    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
+    "id": "roufmlp/agent-skills",
+    "language": "Python",
+    "name": "roufmlp/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:10:38Z",
+    "url": "https://github.com/roufmlp/agent-skills"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-09-21T19:10:02Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34906,
+    "updated_at": "2026-09-21T19:08:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-21T19:06:47Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 2,
+    "updated_at": "2026-09-21T19:05:41Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-21T19:02:25Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "A curated Claude Code harness: spec-driven review subagents, model-routing rules, and self-maintenance skills, plus the ",
     "id": "StefanoZaghi1987/ClaudeHarness",
     "language": "Shell",
     "name": "StefanoZaghi1987/ClaudeHarness",
     "stars": 0,
-    "updated_at": "2026-09-21T18:59:51Z",
+    "updated_at": "2026-09-21T19:02:09Z",
     "url": "https://github.com/StefanoZaghi1987/ClaudeHarness"
+  },
+  {
+    "description": "\u3010Hermes \u684c\u9762\u7aef\u63d2\u4ef6 v1.4.1\u3011\u8f93\u5165\u6846\u589e\u5f3a\u63d0\u793a\u8bcd\u6309\u94ae\u2014\u2014\u2318+\u70b9\u51fb\u56fa\u5b9a\u589e\u5f3a\u6a21\u578b\u3001\u4fdd\u7559\u5b98\u65b9chip\u6e32\u67d3\u3001\u8bed\u97f3\u9519\u5b57\u4fee\u6b63\u3001\u591a\u4f1a\u8bdd\u9694\u79bb\u3001\u53ef\u53d6\u6d88\u3001429\u91cd\u8bd5\uff0cen/zh/\u7e41\u9ad4",
+    "id": "Heybinshao/prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Heybinshao/prompt-enhancer",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:01:09Z",
+    "url": "https://github.com/Heybinshao/prompt-enhancer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T19:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Evidence-driven token efficiency for Claude Code, Codex, Hermes & OpenClaw \u2014 less context, tool noise, edits and retries",
@@ -41,7 +158,7 @@
     "language": "TypeScript",
     "name": "DollhouseMCP/mcp-server",
     "stars": 42,
-    "updated_at": "2026-09-21T18:55:21Z",
+    "updated_at": "2026-09-21T19:14:15Z",
     "url": "https://github.com/DollhouseMCP/mcp-server"
   },
   {
@@ -95,17 +212,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11563,
-    "updated_at": "2026-09-21T18:51:09Z",
+    "updated_at": "2026-09-21T19:12:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T18:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Transcribe voice memos locally with trim, tag, and export tools\u2014no cloud uploads, ever.",
@@ -133,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:43:16Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34905,
-    "updated_at": "2026-09-21T18:53:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -221,7 +320,7 @@
     "language": "Python",
     "name": "Kiln-AI/Kiln",
     "stars": 5077,
-    "updated_at": "2026-09-21T18:40:01Z",
+    "updated_at": "2026-09-21T19:04:51Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
@@ -274,7 +373,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73389,
+    "stars": 73391,
     "updated_at": "2026-09-21T18:38:44Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -333,15 +432,6 @@
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   },
   {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:35:04Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
     "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
     "id": "aesirsennamarilandica604/image-to-prompt",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T18:34:27Z",
     "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "AI agents that improve themselves. Self-evolving prompts via A/B testing, multi-model critics, and safety gates. TypeScr",
-    "id": "studiomeyer-io/darwin-agents",
-    "language": "TypeScript",
-    "name": "studiomeyer-io/darwin-agents",
-    "stars": 10,
-    "updated_at": "2026-09-21T18:34:31Z",
-    "url": "https://github.com/studiomeyer-io/darwin-agents"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:34:13Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:34:01Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:33:15Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:33:03Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:33:00Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:32:45Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:32:41Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:32:36Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:32:20Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
