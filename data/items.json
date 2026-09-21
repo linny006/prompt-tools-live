@@ -1,12 +1,102 @@
 [
   {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-21T13:27:55Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
+    "id": "netopsengineer/agent-skill-description-optimizer",
+    "language": "Python",
+    "name": "netopsengineer/agent-skill-description-optimizer",
+    "stars": 2,
+    "updated_at": "2026-09-21T13:27:23Z",
+    "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
+  },
+  {
+    "description": "",
+    "id": "xxsang/writers-loop",
+    "language": "JavaScript",
+    "name": "xxsang/writers-loop",
+    "stars": 13,
+    "updated_at": "2026-09-21T13:27:06Z",
+    "url": "https://github.com/xxsang/writers-loop"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:22:24Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22181,
+    "updated_at": "2026-09-21T13:29:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:21:46Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A persistent, observable, and collaborative memory infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Rust",
+    "name": "lilhammerfun/clumsies",
+    "stars": 18,
+    "updated_at": "2026-09-21T13:21:31Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, pick its b",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 2,
+    "updated_at": "2026-09-21T13:17:48Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:17:42Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
     "id": "Allan-Nava/qrspi",
     "language": "JavaScript",
     "name": "Allan-Nava/qrspi",
     "stars": 1,
-    "updated_at": "2026-09-21T13:15:22Z",
+    "updated_at": "2026-09-21T13:15:51Z",
     "url": "https://github.com/Allan-Nava/qrspi"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T13:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
@@ -77,17 +167,8 @@
     "language": "PowerShell",
     "name": "zznabil/lean-agent-skill-collection",
     "stars": 0,
-    "updated_at": "2026-09-21T13:08:10Z",
+    "updated_at": "2026-09-21T13:27:42Z",
     "url": "https://github.com/zznabil/lean-agent-skill-collection"
-  },
-  {
-    "description": "Turn Figma designs into pixel-perfect, paste-ready prompts for Claude. Reads the real measurements through the Figma RES",
-    "id": "vivekpatel228/pixelprompt",
-    "language": "TypeScript",
-    "name": "vivekpatel228/pixelprompt",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:04:03Z",
-    "url": "https://github.com/vivekpatel228/pixelprompt"
   },
   {
     "description": "Workflow for Context management handling",
@@ -103,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34890,
+    "stars": 34892,
     "updated_at": "2026-09-21T13:02:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -126,22 +207,13 @@
     "url": "https://github.com/avasol/galadriel-public"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T13:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22180,
-    "updated_at": "2026-09-21T13:11:42Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
+    "id": "PromptBranch/promptbranch",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch",
+    "stars": 5,
+    "updated_at": "2026-09-21T12:59:28Z",
+    "url": "https://github.com/PromptBranch/promptbranch"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25332,
-    "updated_at": "2026-09-21T13:02:31Z",
+    "updated_at": "2026-09-21T13:30:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -166,7 +238,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28074,
+    "stars": 28075,
     "updated_at": "2026-09-21T12:53:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "lwyp41/project-profile",
     "stars": 0,
-    "updated_at": "2026-09-21T13:12:17Z",
+    "updated_at": "2026-09-21T13:24:48Z",
     "url": "https://github.com/lwyp41/project-profile"
   },
   {
@@ -302,7 +374,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-21T12:34:13Z",
+    "updated_at": "2026-09-21T13:20:33Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -311,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4847,
-    "updated_at": "2026-09-21T13:14:54Z",
+    "updated_at": "2026-09-21T13:24:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11562,
-    "updated_at": "2026-09-21T13:10:02Z",
+    "updated_at": "2026-09-21T13:17:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2436,
     "updated_at": "2026-09-21T12:19:22Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Open-source skill (MIT) that gives AI agents a marketer's mindset: volume floors, kill rules, positioning, offers, outre",
-    "id": "axelfreeman/marketing-mindset",
-    "language": "HTML",
-    "name": "axelfreeman/marketing-mindset",
-    "stars": 32,
-    "updated_at": "2026-09-21T12:19:21Z",
-    "url": "https://github.com/axelfreeman/marketing-mindset"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-21T13:03:04Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "\u63d0\u793a\u8bcd\u5de5\u574a - \u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u7684 Windows \u684c\u9762\u5de5\u5177 (PySide6 + OpenAI \u517c\u5bb9\u63a5\u53e3 + SQLite \u5386\u53f2)",
-    "id": "383827453-max/PromptForge",
-    "language": "Python",
-    "name": "383827453-max/PromptForge",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:25:50Z",
-    "url": "https://github.com/383827453-max/PromptForge"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-09-21T12:18:48Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:18:26Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Three AI agents that check each other \u2014 Planner, Generator, Evaluator with contract negotiation. Multi-agent dev workflo",
-    "id": "xdeqdqyhxcpm/gan-trinity",
-    "language": "JavaScript",
-    "name": "xdeqdqyhxcpm/gan-trinity",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:17:04Z",
-    "url": "https://github.com/xdeqdqyhxcpm/gan-trinity"
-  },
-  {
-    "description": "dsh-prompt-system\u63d0\u793a\u8bcd\u4f18\u5316\u7cfb\u7edf\u2014\u2014\u6839\u636e\u5de5\u4f5c\u533a\uff0c\u5f53\u524d\u4f1a\u8bdd\uff0c\u4f18\u5316\u63d0\u793a\u8bcd",
-    "id": "yuloong07-star/dsh-prompt-system",
-    "language": "JavaScript",
-    "name": "yuloong07-star/dsh-prompt-system",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:18:13Z",
-    "url": "https://github.com/yuloong07-star/dsh-prompt-system"
-  },
-  {
-    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
-    "id": "neomjs/neo-agent-skills",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-09-21T12:14:21Z",
-    "url": "https://github.com/neomjs/neo-agent-skills"
   }
 ]
