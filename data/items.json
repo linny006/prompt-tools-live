@@ -1,12 +1,129 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22180,
+    "updated_at": "2026-09-21T13:00:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25332,
+    "updated_at": "2026-09-21T12:59:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Turn Figma designs into pixel-perfect, paste-ready prompts for Claude. Reads the real measurements through the Figma RES",
     "id": "vivekpatel228/pixelprompt",
     "language": "TypeScript",
     "name": "vivekpatel228/pixelprompt",
     "stars": 0,
-    "updated_at": "2026-09-21T12:44:25Z",
+    "updated_at": "2026-09-21T12:57:00Z",
     "url": "https://github.com/vivekpatel228/pixelprompt"
+  },
+  {
+    "description": "A dual-host skills plugin for Claude Code and OpenAI Codex with a self-evolve loop that learns from every invocation.",
+    "id": "risadams/ink-and-agency",
+    "language": "JavaScript",
+    "name": "risadams/ink-and-agency",
+    "stars": 2,
+    "updated_at": "2026-09-21T12:54:16Z",
+    "url": "https://github.com/risadams/ink-and-agency"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28073,
+    "updated_at": "2026-09-21T12:53:30Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Workflow for Context management handling",
+    "id": "johnsellin93/trace",
+    "language": "Shell",
+    "name": "johnsellin93/trace",
+    "stars": 19,
+    "updated_at": "2026-09-21T12:53:19Z",
+    "url": "https://github.com/johnsellin93/trace"
+  },
+  {
+    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
+    "id": "file-bricks/ProfiPrompt",
+    "language": "Python",
+    "name": "file-bricks/ProfiPrompt",
+    "stars": 4,
+    "updated_at": "2026-09-21T12:51:49Z",
+    "url": "https://github.com/file-bricks/ProfiPrompt"
+  },
+  {
+    "description": "\u89c6\u89c9\u8868\u8fbe\u8bbe\u8ba1\u65b9\u6cd5\u8bba Agent Skill \u2014 \u4e09\u5c42\u65b9\u6cd5\u8bba\uff08\u7b56\u7565\u00d7\u89c4\u8303\u00d7\u8868\u73b0\uff09+ \u98ce\u683c\u8bcd\u5178 + 10 \u573a\u666f\u6848\u4f8b\uff0c\u751f\u56fe\u6a21\u578b\u65e0\u5173",
+    "id": "crawfordxx/xiaoma-designer",
+    "language": "\u2014",
+    "name": "crawfordxx/xiaoma-designer",
+    "stars": 0,
+    "updated_at": "2026-09-21T12:51:29Z",
+    "url": "https://github.com/crawfordxx/xiaoma-designer"
+  },
+  {
+    "description": "AI\u9a71\u52a8\u7684\u6e38\u620f\u7528\u6237\u8bc4\u8bba\u81ea\u52a8\u5316\u5206\u6790\u6d41\u6c34\u7ebf\uff1a\u91c7\u96c6\u2192\u6e05\u6d17\u2192LLM\u5206\u6790\u2192\u53ef\u89c6\u5316\u62a5\u544a",
+    "id": "wangzx69/ai-user-feedback-analysis",
+    "language": "Python",
+    "name": "wangzx69/ai-user-feedback-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-21T12:51:17Z",
+    "url": "https://github.com/wangzx69/ai-user-feedback-analysis"
+  },
+  {
+    "description": "An Agent Skill that reconstructs completed projects into evidence-backed PROJECT_PROFILE.md files.",
+    "id": "lwyp41/project-profile",
+    "language": "Python",
+    "name": "lwyp41/project-profile",
+    "stars": 0,
+    "updated_at": "2026-09-21T12:58:39Z",
+    "url": "https://github.com/lwyp41/project-profile"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 18,
+    "updated_at": "2026-09-21T12:50:33Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 142,
+    "updated_at": "2026-09-21T12:47:06Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Turn vague product or feature ideas into clear, checkable requirements before planning or coding\u2014mapping rough descripti",
+    "id": "bydtesla1609/intent-debugger",
+    "language": "Python",
+    "name": "bydtesla1609/intent-debugger",
+    "stars": 124,
+    "updated_at": "2026-09-21T12:47:01Z",
+    "url": "https://github.com/bydtesla1609/intent-debugger"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-21T12:46:06Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34889,
-    "updated_at": "2026-09-21T12:44:28Z",
+    "updated_at": "2026-09-21T13:00:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -52,15 +169,6 @@
     "stars": 21,
     "updated_at": "2026-09-21T12:40:18Z",
     "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "AI\u9a71\u52a8\u7684\u6e38\u620f\u7528\u6237\u8bc4\u8bba\u81ea\u52a8\u5316\u5206\u6790\u6d41\u6c34\u7ebf\uff1a\u91c7\u96c6\u2192\u6e05\u6d17\u2192LLM\u5206\u6790\u2192\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "wangzx69/ai-user-feedback-analysis",
-    "language": "Python",
-    "name": "wangzx69/ai-user-feedback-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:38:17Z",
-    "url": "https://github.com/wangzx69/ai-user-feedback-analysis"
   },
   {
     "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
@@ -113,17 +221,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4847,
-    "updated_at": "2026-09-21T12:32:54Z",
+    "updated_at": "2026-09-21T12:54:34Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-21T12:30:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
@@ -144,15 +243,6 @@
     "url": "https://github.com/lulin70/carrymem"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22180,
-    "updated_at": "2026-09-21T12:27:58Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
     "id": "AKzar1el/god-prompt-mcp",
     "language": "TypeScript",
@@ -160,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:27:26Z",
     "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
-    "description": "\u89c6\u89c9\u8868\u8fbe\u8bbe\u8ba1\u65b9\u6cd5\u8bba Agent Skill \u2014 \u4e09\u5c42\u65b9\u6cd5\u8bba\uff08\u7b56\u7565\u00d7\u89c4\u8303\u00d7\u8868\u73b0\uff09+ \u98ce\u683c\u8bcd\u5178 + 10 \u573a\u666f\u6848\u4f8b\uff0c\u751f\u56fe\u6a21\u578b\u65e0\u5173",
-    "id": "crawfordxx/xiaoma-designer",
-    "language": "\u2014",
-    "name": "crawfordxx/xiaoma-designer",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:26:12Z",
-    "url": "https://github.com/crawfordxx/xiaoma-designer"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -252,15 +333,6 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28073,
-    "updated_at": "2026-09-21T12:37:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Three AI agents that check each other \u2014 Planner, Generator, Evaluator with contract negotiation. Multi-agent dev workflo",
     "id": "xdeqdqyhxcpm/gan-trinity",
     "language": "JavaScript",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T12:18:13Z",
     "url": "https://github.com/yuloong07-star/dsh-prompt-system"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25332,
-    "updated_at": "2026-09-21T12:42:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T11:58:30Z",
     "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:58:17Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:57:28Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "A clan of orcs that crafts and orchestrates the software development lifecycle for AI coding agents.",
-    "id": "karloows/orchraft",
-    "language": "Shell",
-    "name": "karloows/orchraft",
-    "stars": 2,
-    "updated_at": "2026-09-21T11:57:34Z",
-    "url": "https://github.com/karloows/orchraft"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:56:54Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:56:41Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:55:40Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:55:38Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
   }
 ]
