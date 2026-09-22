@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u0420\u0430\u0441\u043a\u0430\u0442\u043a\u0430 \u043f\u0440\u043e\u043c\u043f\u0442\u043e\u0432 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0431\u0435\u0437 \u0444\u043e\u0440\u043a\u043e\u0432: \u0431\u0430\u0437\u0430 \u0441\u043e \u0441\u043b\u043e\u0442\u0430\u043c\u0438 + \u0441\u043b\u043e\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u0430\u0436\u0434\u043e\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u043f\u0435\u0440\u0435\u0434 \u0440\u0430\u0441\u043a\u0430\u0442\u043a\u043e\u0439",
+    "id": "mldogs/prompt-layers",
+    "language": "Python",
+    "name": "mldogs/prompt-layers",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:00:16Z",
+    "url": "https://github.com/mldogs/prompt-layers"
+  },
+  {
+    "description": "Shrink LLM prompts by 40-70% while preserving meaning, semantic chunking + extractive summarization",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 15,
+    "updated_at": "2026-09-22T19:59:11Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
+    "description": "Decision-pipeline governance pack for exploratory AI-assisted development of small-to-mid-size software. CI consistency ",
+    "id": "rr26-7/sw-buffet",
+    "language": "Python",
+    "name": "rr26-7/sw-buffet",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:59:05Z",
+    "url": "https://github.com/rr26-7/sw-buffet"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 3,
+    "updated_at": "2026-09-22T19:55:49Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
+    "id": "francescopaolopassaro/Synthelion",
+    "language": "Python",
+    "name": "francescopaolopassaro/Synthelion",
+    "stars": 4,
+    "updated_at": "2026-09-22T19:58:58Z",
+    "url": "https://github.com/francescopaolopassaro/Synthelion"
+  },
+  {
+    "description": "Local-first AI prompt generator with a Gradio UI: 132 tuned roles for video, image, audio, 3D and creative AI tools. Run",
+    "id": "kekzl/PromptMill",
+    "language": "Python",
+    "name": "kekzl/PromptMill",
+    "stars": 8,
+    "updated_at": "2026-09-22T19:55:31Z",
+    "url": "https://github.com/kekzl/PromptMill"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 13,
+    "updated_at": "2026-09-22T19:47:55Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "tuxevil-benchmark is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency wh",
+    "id": "tuxevil/tuxevil-benchmark",
+    "language": "TypeScript",
+    "name": "tuxevil/tuxevil-benchmark",
+    "stars": 1,
+    "updated_at": "2026-09-22T19:47:30Z",
+    "url": "https://github.com/tuxevil/tuxevil-benchmark"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22198,
+    "updated_at": "2026-09-22T19:54:17Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-22T19:46:49Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T19:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Flexible and lightweight library for creating prompt templates",
     "id": "Goldziher/prompt-template",
     "language": "Python",
@@ -18,24 +117,6 @@
     "url": "https://github.com/Yivas/pi-output-styles"
   },
   {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 3,
-    "updated_at": "2026-09-22T19:42:17Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:44:55Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
     "description": "Paste any AI prompt and get an instant quality score with actionable feedback on clarity, specificity, and structure.",
     "id": "PerceptronCipher/prompt-scorer",
     "language": "TypeScript",
@@ -45,15 +126,6 @@
     "url": "https://github.com/PerceptronCipher/prompt-scorer"
   },
   {
-    "description": "Shrink LLM prompts by 40-70% while preserving meaning, semantic chunking + extractive summarization",
-    "id": "Thanatos9404/llmslim",
-    "language": "Python",
-    "name": "Thanatos9404/llmslim",
-    "stars": 15,
-    "updated_at": "2026-09-22T19:37:01Z",
-    "url": "https://github.com/Thanatos9404/llmslim"
-  },
-  {
     "description": "Hebdo sur les agents IA",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -61,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-09-22T19:36:02Z",
     "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34944,
+    "updated_at": "2026-09-22T19:35:38Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -122,17 +203,8 @@
     "language": "JavaScript",
     "name": "jamestexas/agents",
     "stars": 2,
-    "updated_at": "2026-09-22T19:30:59Z",
+    "updated_at": "2026-09-22T20:00:25Z",
     "url": "https://github.com/jamestexas/agents"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T19:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -311,7 +383,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 187,
-    "updated_at": "2026-09-22T19:39:22Z",
+    "updated_at": "2026-09-22T20:00:02Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T19:17:30Z",
     "url": "https://github.com/inna-siliaieva/AI-Customer-Feedback-Pipeline"
-  },
-  {
-    "description": "Cuatro skills de Claude Code para construir con agentes sin que el resultado salga correcto y aun asi inutil: SPEC antes",
-    "id": "padremprendedor-create/EL-ORQUESTADOR",
-    "language": "JavaScript",
-    "name": "padremprendedor-create/EL-ORQUESTADOR",
-    "stars": 4,
-    "updated_at": "2026-09-22T19:17:16Z",
-    "url": "https://github.com/padremprendedor-create/EL-ORQUESTADOR"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:17:11Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI\u56fe\u7247\u751f\u6210\u5668| \u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u684c\u9762\u5de5\u5177\uff1a\u9002\u914dFLUX\u3001Gemini\u3001GPT-Image\u3001XAI\u3001\u7845\u57fa\u6d41\u52a8\u7b49 19 \u4e2a\u514d\u8d39/\u4ed8\u8d39\u751f\u56feAPI\uff0c\u652f\u6301\u667a\u80fd\u8def\u7531\u3001\u6279\u91cf\u53d8\u4f53\u3001\u63d0\u793a\u8bcd\u4f18\u5316\u4e0e\u961f\u5217\u6279\u91cf\u751f\u6210\u3002",
-    "id": "Aswellle/2image",
-    "language": "Python",
-    "name": "Aswellle/2image",
-    "stars": 3,
-    "updated_at": "2026-09-22T19:22:00Z",
-    "url": "https://github.com/Aswellle/2image"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:16:23Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:15:55Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:15:48Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:15:23Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:15:22Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
   }
 ]
