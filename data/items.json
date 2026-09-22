@@ -1,5 +1,140 @@
 [
   {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-22T20:43:50Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Production AI agent skills and tool protocols across Claude Code, Cursor, Antigravity, ChatGPT, and Local LLMs",
+    "id": "mehanshbarthwal-lab/universal-agent-skills",
+    "language": "JavaScript",
+    "name": "mehanshbarthwal-lab/universal-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-22T20:43:07Z",
+    "url": "https://github.com/mehanshbarthwal-lab/universal-agent-skills"
+  },
+  {
+    "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification work",
+    "id": "nahid-sparktales/agent-dispatcher",
+    "language": "Python",
+    "name": "nahid-sparktales/agent-dispatcher",
+    "stars": 46,
+    "updated_at": "2026-09-22T20:41:07Z",
+    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
+  },
+  {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:40:40Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Decision-pipeline governance pack for exploratory AI-assisted development of small-to-mid-size software. CI consistency ",
+    "id": "rr26-7/sw-buffet",
+    "language": "Python",
+    "name": "rr26-7/sw-buffet",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:40:18Z",
+    "url": "https://github.com/rr26-7/sw-buffet"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-09-22T20:43:01Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Evidence-driven token efficiency for Claude Code, Codex, Hermes & OpenClaw \u2014 less context, tool noise, edits and retries",
+    "id": "ipeterpetrus/samewrite",
+    "language": "Python",
+    "name": "ipeterpetrus/samewrite",
+    "stars": 1,
+    "updated_at": "2026-09-22T20:37:13Z",
+    "url": "https://github.com/ipeterpetrus/samewrite"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 58,
+    "updated_at": "2026-09-22T20:37:11Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "User-Centered Product Development Prompt Templates & Agent Configurations",
+    "id": "TechNomadCode/AI-Product-Development-Toolkit",
+    "language": "\u2014",
+    "name": "TechNomadCode/AI-Product-Development-Toolkit",
+    "stars": 968,
+    "updated_at": "2026-09-22T20:37:00Z",
+    "url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11578,
+    "updated_at": "2026-09-22T20:38:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 3,
+    "updated_at": "2026-09-22T20:31:50Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 13,
+    "updated_at": "2026-09-22T20:34:48Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-09-22T20:30:33Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T20:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ask for decisions the way people make them: three routes, one honest recommendation, one Send. An interactive decision c",
+    "id": "st4rkis/claude-decision-board",
+    "language": "HTML",
+    "name": "st4rkis/claude-decision-board",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:30:26Z",
+    "url": "https://github.com/st4rkis/claude-decision-board"
+  },
+  {
     "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
     "id": "DaveHomeAssist/prompt-lab",
     "language": "JavaScript",
@@ -14,8 +149,17 @@
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-09-22T20:30:16Z",
+    "updated_at": "2026-09-22T20:36:06Z",
     "url": "https://github.com/dgaramos/dr-agents"
+  },
+  {
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 1269,
+    "updated_at": "2026-09-22T20:29:50Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
     "description": "Mythic Engineering exists because GSD often produces chaos, \u201csuperpowers\u201d collapse under real-world constraints, and pro",
@@ -43,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-09-22T20:27:40Z",
     "url": "https://github.com/derinbarutcu17/idea-guy"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22199,
+    "updated_at": "2026-09-22T20:26:09Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -81,15 +234,6 @@
     "url": "https://github.com/Shipitrealgood/agent-org"
   },
   {
-    "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification work",
-    "id": "nahid-sparktales/agent-dispatcher",
-    "language": "Python",
-    "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 46,
-    "updated_at": "2026-09-22T20:21:17Z",
-    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -97,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-09-22T20:21:18Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "id": "Spielewoy/autoprompt-skill",
-    "language": "JavaScript",
-    "name": "Spielewoy/autoprompt-skill",
-    "stars": 1268,
-    "updated_at": "2026-09-22T20:29:50Z",
-    "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -149,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34944,
-    "updated_at": "2026-09-22T20:24:56Z",
+    "updated_at": "2026-09-22T20:35:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T20:16:46Z",
     "url": "https://github.com/abebr/awesome-ai-coding-prompts-claude-n8n"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T20:16:07Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 187,
-    "updated_at": "2026-09-22T20:29:47Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
@@ -207,15 +324,6 @@
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 3,
-    "updated_at": "2026-09-22T20:26:55Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -234,31 +342,13 @@
     "url": "https://github.com/forjd/better-writing"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11578,
-    "updated_at": "2026-09-22T20:29:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68078,
+    "stars": 68079,
     "updated_at": "2026-09-22T20:10:09Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Production AI agent skills and tool protocols across Claude Code, Cursor, Antigravity, ChatGPT, and Local LLMs",
-    "id": "mehanshbarthwal-lab/universal-agent-skills",
-    "language": "JavaScript",
-    "name": "mehanshbarthwal-lab/universal-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T20:10:01Z",
-    "url": "https://github.com/mehanshbarthwal-lab/universal-agent-skills"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -342,15 +432,6 @@
     "url": "https://github.com/Thanatos9404/llmslim"
   },
   {
-    "description": "Decision-pipeline governance pack for exploratory AI-assisted development of small-to-mid-size software. CI consistency ",
-    "id": "rr26-7/sw-buffet",
-    "language": "Python",
-    "name": "rr26-7/sw-buffet",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:59:05Z",
-    "url": "https://github.com/rr26-7/sw-buffet"
-  },
-  {
     "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
     "id": "francescopaolopassaro/Synthelion",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-22T19:55:31Z",
     "url": "https://github.com/kekzl/PromptMill"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 13,
-    "updated_at": "2026-09-22T19:47:55Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "tuxevil-benchmark is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency wh",
-    "id": "tuxevil/tuxevil-benchmark",
-    "language": "TypeScript",
-    "name": "tuxevil/tuxevil-benchmark",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:47:30Z",
-    "url": "https://github.com/tuxevil/tuxevil-benchmark"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22198,
-    "updated_at": "2026-09-22T20:26:09Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-22T20:06:33Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
-    "description": "Flexible and lightweight library for creating prompt templates",
-    "id": "Goldziher/prompt-template",
-    "language": "Python",
-    "name": "Goldziher/prompt-template",
-    "stars": 26,
-    "updated_at": "2026-09-22T19:44:26Z",
-    "url": "https://github.com/Goldziher/prompt-template"
-  },
-  {
-    "description": "A Pi extension for selecting and applying response output styles.",
-    "id": "Yivas/pi-output-styles",
-    "language": "TypeScript",
-    "name": "Yivas/pi-output-styles",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:42:57Z",
-    "url": "https://github.com/Yivas/pi-output-styles"
-  },
-  {
-    "description": "Paste any AI prompt and get an instant quality score with actionable feedback on clarity, specificity, and structure.",
-    "id": "PerceptronCipher/prompt-scorer",
-    "language": "TypeScript",
-    "name": "PerceptronCipher/prompt-scorer",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:37:05Z",
-    "url": "https://github.com/PerceptronCipher/prompt-scorer"
-  },
-  {
-    "description": "Hebdo sur les agents IA",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:36:02Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 47,
-    "updated_at": "2026-09-22T19:35:08Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   }
 ]
