@@ -1,5 +1,86 @@
 [
   {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 5,
+    "updated_at": "2026-09-22T22:58:37Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-09-22T22:55:20Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-09-22T22:52:40Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-22T22:48:26Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Director-generator-validator loop that turns BIM renders into photorealistic architectural visualizations: Claude writes",
+    "id": "ThiloMilo24/render-pipeline",
+    "language": "Python",
+    "name": "ThiloMilo24/render-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-22T22:47:53Z",
+    "url": "https://github.com/ThiloMilo24/render-pipeline"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 6013,
+    "updated_at": "2026-09-22T22:47:23Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 8,
+    "updated_at": "2026-09-22T22:46:44Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-22T22:46:03Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T22:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355+\u6e05\u5355\u5916\u9ad8\u5371\u57df\u6267\u884c\u5c42\u679a\u4e3e\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e+\u9a8c\u8bc1\u5c42\u7ea7 ev=\uff0f\u5224\u636e\u7248\u672c\u5316 j2.5+\u91d1\u6837\u672c\u56de\u5f52 23/23\uff0f373 \u6761 30 \u7c7b\u75c7\u72b6",
     "id": "zxc663/shisan-xinuo-workflow",
     "language": "Python",
@@ -144,7 +225,7 @@
     "url": "https://github.com/NancySihag/ai_content_repurposer_pro"
   },
   {
-    "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification work",
+    "description": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pa",
     "id": "nahid-sparktales/agent-dispatcher",
     "language": "Python",
     "name": "nahid-sparktales/agent-dispatcher",
@@ -223,15 +304,6 @@
     "stars": 187,
     "updated_at": "2026-09-22T22:33:07Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T22:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T22:22:54Z",
     "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 47,
-    "updated_at": "2026-09-22T22:22:41Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:22:39Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:22:00Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:21:54Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:21:49Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-22T22:21:09Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:20:37Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:19:53Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
   }
 ]
