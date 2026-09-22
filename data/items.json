@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library: 419 cases checked against their original posts, 257 cross-model retests wi",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 6,
+    "updated_at": "2026-09-22T01:06:52Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-22T01:07:17Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-09-22T01:04:46Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Portable context for AI coding agents and agentic harnesses.",
+    "id": "crilsen/ai-agent-relay",
+    "language": "Shell",
+    "name": "crilsen/ai-agent-relay",
+    "stars": 2,
+    "updated_at": "2026-09-22T01:04:39Z",
+    "url": "https://github.com/crilsen/ai-agent-relay"
+  },
+  {
+    "description": "",
+    "id": "HoonStyle/agent-policy-radar",
+    "language": "Python",
+    "name": "HoonStyle/agent-policy-radar",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:03:57Z",
+    "url": "https://github.com/HoonStyle/agent-policy-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:03:03Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "\u4e00\u4e2a\u9762\u5411\u5b9e\u8df5\u7684 AI Skill \u4ed3\u5e93\uff0c\u5c06\u6709\u6548\u7684 AI \u5de5\u4f5c\u65b9\u6cd5\u6574\u7406\u4e3a\u53ef\u590d\u7528\u7684 Skill \u4e0e\u914d\u5957\u8d44\u6e90\u3002browse Cases and Skills as an interactive presentation layer. The re",
+    "id": "0xf4vul/Skills4QiquLab",
+    "language": "Python",
+    "name": "0xf4vul/Skills4QiquLab",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:02:27Z",
+    "url": "https://github.com/0xf4vul/Skills4QiquLab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T01:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -40,18 +112,9 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 107176,
+    "stars": 107178,
     "updated_at": "2026-09-22T00:57:20Z",
     "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-09-22T00:59:32Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T00:56:26Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "",
-    "id": "HoonStyle/agent-policy-radar",
-    "language": "Python",
-    "name": "HoonStyle/agent-policy-radar",
-    "stars": 0,
-    "updated_at": "2026-09-22T00:56:24Z",
-    "url": "https://github.com/HoonStyle/agent-policy-radar"
   },
   {
     "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
@@ -135,15 +189,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T00:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
     "id": "cristianodabc/aludel",
     "language": "Elixir",
@@ -151,15 +196,6 @@
     "stars": 37,
     "updated_at": "2026-09-22T00:43:11Z",
     "url": "https://github.com/cristianodabc/aludel"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-22T00:40:04Z",
-    "url": "https://github.com/janzong/agent-charters"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -178,15 +214,6 @@
     "stars": 2436,
     "updated_at": "2026-09-22T00:36:55Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "\u4e00\u4e2a\u9762\u5411\u5b9e\u8df5\u7684 AI Skill \u4ed3\u5e93\uff0c\u5c06\u6709\u6548\u7684 AI \u5de5\u4f5c\u65b9\u6cd5\u6574\u7406\u4e3a\u53ef\u590d\u7528\u7684 Skill \u4e0e\u914d\u5957\u8d44\u6e90\u3002browse Cases and Skills as an interactive presentation layer. The re",
-    "id": "0xf4vul/Skills4QiquLab",
-    "language": "Python",
-    "name": "0xf4vul/Skills4QiquLab",
-    "stars": 0,
-    "updated_at": "2026-09-22T00:36:37Z",
-    "url": "https://github.com/0xf4vul/Skills4QiquLab"
   },
   {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
@@ -301,7 +328,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22185,
+    "stars": 22186,
     "updated_at": "2026-09-22T00:25:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T00:05:09Z",
     "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 2,
-    "updated_at": "2026-09-22T00:04:11Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4851,
-    "updated_at": "2026-09-22T00:00:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-22T00:00:08Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
   }
 ]
