@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library: 460+ cases checked against their original posts, 260+ cross-model retests ",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 6,
+    "updated_at": "2026-09-22T01:59:33Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:59:09Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
+    "description": "AI Proposal Generator workshop: builds a multi-input agent that creates consulting-style proposal presentations from bus",
+    "id": "garynair/proposal-agent",
+    "language": "\u2014",
+    "name": "garynair/proposal-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:58:22Z",
+    "url": "https://github.com/garynair/proposal-agent"
+  },
+  {
+    "description": "Four Claude/Cowork skills for structuring and QA'ing prompts: ART (refining vague asks), ICIO (structuring production AP",
+    "id": "garynair/prompting-frameworks",
+    "language": "\u2014",
+    "name": "garynair/prompting-frameworks",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:55:40Z",
+    "url": "https://github.com/garynair/prompting-frameworks"
+  },
+  {
+    "description": "GoodCase.ai \u5f00\u6e90\u7ad9\u70b9\u7248:clone \u5373\u8dd1\u540c\u6b3e UI,\u5185\u7f6e\u771f\u5b9e\u6837\u4f8b\u6848\u4f8b | The open-source site of goodcase.ai",
+    "id": "LearnPrompt/goodcase-lite",
+    "language": "TypeScript",
+    "name": "LearnPrompt/goodcase-lite",
+    "stars": 4,
+    "updated_at": "2026-09-22T01:54:48Z",
+    "url": "https://github.com/LearnPrompt/goodcase-lite"
+  },
+  {
+    "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+    "id": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "language": "\u2014",
+    "name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "stars": 5,
+    "updated_at": "2026-09-22T01:54:10Z",
+    "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-09-22T01:51:55Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73421,
+    "updated_at": "2026-09-22T01:57:28Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Memory engine for self-evolving AI agent ecosystems. Multi-tenant, multi-space isolation with Bayesian truth maintenance",
+    "id": "cyqlelabs/smrti",
+    "language": "Python",
+    "name": "cyqlelabs/smrti",
+    "stars": 4,
+    "updated_at": "2026-09-22T01:50:08Z",
+    "url": "https://github.com/cyqlelabs/smrti"
+  },
+  {
+    "description": "A workspace-first harness for approved, evidence-backed AI agent work. Supports Codex and Claude Code.",
+    "id": "baek-labs/hames",
+    "language": "JavaScript",
+    "name": "baek-labs/hames",
+    "stars": 5,
+    "updated_at": "2026-09-22T01:49:30Z",
+    "url": "https://github.com/baek-labs/hames"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-22T01:46:54Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:46:36Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Desktop prompt optimizer for OpenRouter \u2014 4 modes, offline Whisper dictation, built-in fragment library. Python + tkinte",
+    "id": "blazejdzirba/micro-prompt-optimizer",
+    "language": "Python",
+    "name": "blazejdzirba/micro-prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:46:13Z",
+    "url": "https://github.com/blazejdzirba/micro-prompt-optimizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T01:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "FavsHub \u2014\u2014 \u7f51\u5740\u5bfc\u822a\u4e0e\u667a\u80fd\u4e66\u7b7e\u7ba1\u7406\u5de5\u4f5c\u53f0\uff08Nuxt 3 SSR + SQLite\uff09\u3002\u5361\u7247\u5f0f\u4e66\u7b7e\u4e3b\u9875\u3001\u7ea6 29 \u6b3e\u641c\u7d22\u5f15\u64ce\u805a\u5408\u3001\u7cbe\u9009\u96c6\u5e02\u573a\u3001PromptPro AI \u63d0\u793a\u8bcd\u7ba1\u7406\u3001\u514d\u8d39\u989d\u5ea6\u901a\u544a\u4e0e\u5206\u4eab\u5361\u7247\uff1b\u914d\u6d4f\u89c8\u5668\u6269\u5c55\u591a\u7aef\u540c\u6b65\uff0c\u5e76\u63d0\u4f9b ",
     "id": "huanyu-a/FavsHub_web",
     "language": "TypeScript",
@@ -52,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T01:40:54Z",
     "url": "https://github.com/HoonStyle/agent-policy-radar"
-  },
-  {
-    "description": "Desktop prompt optimizer for OpenRouter \u2014 4 modes, offline Whisper dictation, built-in fragment library. Python + tkinte",
-    "id": "blazejdzirba/micro-prompt-optimizer",
-    "language": "Python",
-    "name": "blazejdzirba/micro-prompt-optimizer",
-    "stars": 0,
-    "updated_at": "2026-09-22T01:40:51Z",
-    "url": "https://github.com/blazejdzirba/micro-prompt-optimizer"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -135,15 +252,6 @@
     "url": "https://github.com/hussi9/skill-router"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-22T01:37:28Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
     "id": "conniving-catechist742/ai-prompt-studio",
     "language": "Python",
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T01:36:39Z",
     "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
-    "id": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
-    "language": "\u2014",
-    "name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
-    "stars": 5,
-    "updated_at": "2026-09-22T01:36:34Z",
-    "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
   },
   {
     "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
@@ -203,7 +302,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25346,
-    "updated_at": "2026-09-22T01:44:50Z",
+    "updated_at": "2026-09-22T01:58:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/AKzar1el/god-prompt-mcp"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T01:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
     "id": "syncretismdeposit560/TypeAnything",
     "language": "PowerShell",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T01:30:08Z",
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-22T01:30:05Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-22T01:30:04Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-22T01:29:47Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T01:29:41Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 0,
-    "updated_at": "2026-09-22T01:31:38Z",
-    "url": "https://github.com/xvyimu/MindSync"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-22T01:29:11Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Build 20 n8n AI prompts with model tips, cost estimates, and ready-to-use workflow guidance",
-    "id": "Michl4119/n8n-prompt-library",
-    "language": "\u2014",
-    "name": "Michl4119/n8n-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-09-22T01:29:06Z",
-    "url": "https://github.com/Michl4119/n8n-prompt-library"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 2,
-    "updated_at": "2026-09-22T01:29:00Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-09-22T01:28:59Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
-    "id": "firaen22/claude-rulebook",
-    "language": "Shell",
-    "name": "firaen22/claude-rulebook",
-    "stars": 0,
-    "updated_at": "2026-09-22T01:28:56Z",
-    "url": "https://github.com/firaen22/claude-rulebook"
   }
 ]
