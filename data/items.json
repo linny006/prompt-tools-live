@@ -1,12 +1,147 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "TypeScript",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-22T21:15:21Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
     "description": "\u0420\u0430\u0441\u043a\u0430\u0442\u043a\u0430 \u043f\u0440\u043e\u043c\u043f\u0442\u043e\u0432 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0431\u0435\u0437 \u0444\u043e\u0440\u043a\u043e\u0432: \u0431\u0430\u0437\u0430 \u0441\u043e \u0441\u043b\u043e\u0442\u0430\u043c\u0438 + \u0441\u043b\u043e\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u0430\u0436\u0434\u043e\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u043f\u0435\u0440\u0435\u0434 \u0440\u0430\u0441\u043a\u0430\u0442\u043a\u043e\u0439",
     "id": "mldogs/prompt-layers",
     "language": "Python",
     "name": "mldogs/prompt-layers",
     "stars": 0,
-    "updated_at": "2026-09-22T20:59:46Z",
+    "updated_at": "2026-09-22T21:15:14Z",
     "url": "https://github.com/mldogs/prompt-layers"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-22T21:13:53Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-22T21:13:40Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
+    "id": "ghalynho10/JobHunt",
+    "language": "TypeScript",
+    "name": "ghalynho10/JobHunt",
+    "stars": 0,
+    "updated_at": "2026-09-22T21:12:10Z",
+    "url": "https://github.com/ghalynho10/JobHunt"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11579,
+    "updated_at": "2026-09-22T21:13:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355+\u6e05\u5355\u5916\u9ad8\u5371\u57df\u6267\u884c\u5c42\u679a\u4e3e\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e+\u9a8c\u8bc1\u5c42\u7ea7 ev=\uff0f\u5224\u636e\u7248\u672c\u5316 j2.5+\u91d1\u6837\u672c\u56de\u5f52 23/23\uff0f373 \u6761 30 \u7c7b\u75c7\u72b6",
+    "id": "zxc663/shisan-xinuo-workflow",
+    "language": "Python",
+    "name": "zxc663/shisan-xinuo-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-22T21:11:42Z",
+    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
+  },
+  {
+    "description": "An agent skill for prose that sounds clear, specific, and human.",
+    "id": "forjd/better-writing",
+    "language": "Python",
+    "name": "forjd/better-writing",
+    "stars": 36,
+    "updated_at": "2026-09-22T21:13:46Z",
+    "url": "https://github.com/forjd/better-writing"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4859,
+    "updated_at": "2026-09-22T21:09:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification work",
+    "id": "nahid-sparktales/agent-dispatcher",
+    "language": "Python",
+    "name": "nahid-sparktales/agent-dispatcher",
+    "stars": 46,
+    "updated_at": "2026-09-22T21:08:12Z",
+    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 3,
+    "updated_at": "2026-09-22T21:05:29Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1387,
+    "updated_at": "2026-09-22T21:05:08Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-09-22T21:04:16Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
+    "id": "V-Songbird/disregard",
+    "language": "JavaScript",
+    "name": "V-Songbird/disregard",
+    "stars": 1,
+    "updated_at": "2026-09-22T21:01:34Z",
+    "url": "https://github.com/V-Songbird/disregard"
+  },
+  {
+    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
+    "id": "ardha27/seedance-prompts",
+    "language": "Python",
+    "name": "ardha27/seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-22T21:01:05Z",
+    "url": "https://github.com/ardha27/seedance-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T21:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ComfyUI prompt enhancer nodes: Qwen Image 2.1 prompt expansion (official PE-T2I / PE-I2I), MiniMax H3 video prompts, and",
@@ -23,7 +158,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 187,
-    "updated_at": "2026-09-22T20:58:41Z",
+    "updated_at": "2026-09-22T21:06:01Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -108,6 +243,15 @@
     "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
   },
   {
+    "description": "Plano de aula completo e materiais did\u00e1ticos complementares para ensino de viol\u00e3o congregacional tradicional, elaborados",
+    "id": "mydevslab/ia-em-sala-de-aula",
+    "language": "\u2014",
+    "name": "mydevslab/ia-em-sala-de-aula",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:47:12Z",
+    "url": "https://github.com/mydevslab/ia-em-sala-de-aula"
+  },
+  {
     "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
     "id": "blauwtje/exo",
     "language": "JavaScript",
@@ -115,33 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T20:46:04Z",
     "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T20:45:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification work",
-    "id": "nahid-sparktales/agent-dispatcher",
-    "language": "Python",
-    "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 46,
-    "updated_at": "2026-09-22T20:48:35Z",
-    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
-  },
-  {
-    "description": "A Pi extension for selecting and applying response output styles.",
-    "id": "Yivas/pi-output-styles",
-    "language": "TypeScript",
-    "name": "Yivas/pi-output-styles",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:40:40Z",
-    "url": "https://github.com/Yivas/pi-output-styles"
   },
   {
     "description": "Decision-pipeline governance pack for exploratory AI-assisted development of small-to-mid-size software. CI consistency ",
@@ -153,21 +270,12 @@
     "url": "https://github.com/rr26-7/sw-buffet"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11579,
-    "updated_at": "2026-09-22T20:56:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evidence-driven token efficiency for Claude Code, Codex, Hermes & OpenClaw \u2014 less context, tool noise, edits and retries",
     "id": "ipeterpetrus/samewrite",
     "language": "Python",
     "name": "ipeterpetrus/samewrite",
     "stars": 1,
-    "updated_at": "2026-09-22T20:37:13Z",
+    "updated_at": "2026-09-22T21:03:30Z",
     "url": "https://github.com/ipeterpetrus/samewrite"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 969,
     "updated_at": "2026-09-22T20:37:00Z",
     "url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
-  },
-  {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 3,
-    "updated_at": "2026-09-22T20:31:50Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
@@ -284,7 +383,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22199,
-    "updated_at": "2026-09-22T20:53:44Z",
+    "updated_at": "2026-09-22T21:12:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -333,15 +432,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
-    "id": "V-Songbird/disregard",
-    "language": "JavaScript",
-    "name": "V-Songbird/disregard",
-    "stars": 1,
-    "updated_at": "2026-09-22T20:20:01Z",
-    "url": "https://github.com/V-Songbird/disregard"
-  },
-  {
     "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
     "id": "AKzar1el/god-prompt",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T20:19:54Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34944,
-    "updated_at": "2026-09-22T20:35:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Production-ready n8n automation workflows, LangChain AI agents, and battle-tested Claude Code engineering prompts | \u0645\u062c\u0645\u0648",
-    "id": "abebr/awesome-ai-coding-prompts-claude-n8n",
-    "language": "\u2014",
-    "name": "abebr/awesome-ai-coding-prompts-claude-n8n",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:16:46Z",
-    "url": "https://github.com/abebr/awesome-ai-coding-prompts-claude-n8n"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-09-22T20:13:57Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T20:13:29Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 1,
-    "updated_at": "2026-09-22T20:10:57Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "An agent skill for prose that sounds clear, specific, and human.",
-    "id": "forjd/better-writing",
-    "language": "Python",
-    "name": "forjd/better-writing",
-    "stars": 36,
-    "updated_at": "2026-09-22T20:55:56Z",
-    "url": "https://github.com/forjd/better-writing"
-  },
-  {
-    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68079,
-    "updated_at": "2026-09-22T20:10:09Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "TypeScript",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:09:21Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:07:20Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:06:49Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   }
 ]
