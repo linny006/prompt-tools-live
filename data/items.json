@@ -1,11 +1,92 @@
 [
   {
+    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
+    "id": "64x-lunicorn/skills",
+    "language": "Shell",
+    "name": "64x-lunicorn/skills",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:07:50Z",
+    "url": "https://github.com/64x-lunicorn/skills"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/deep-suite",
+    "stars": 9,
+    "updated_at": "2026-09-22T06:06:38Z",
+    "url": "https://github.com/Sungmin-Cho/deep-suite"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-22T06:06:01Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "FavsHub \u2014\u2014 \u7f51\u5740\u5bfc\u822a\u4e0e\u667a\u80fd\u4e66\u7b7e\u7ba1\u7406\u5de5\u4f5c\u53f0\uff08Nuxt 3 SSR + SQLite\uff09\u3002\u5361\u7247\u5f0f\u4e66\u7b7e\u4e3b\u9875\u3001\u7ea6 29 \u6b3e\u641c\u7d22\u5f15\u64ce\u805a\u5408\u3001\u7cbe\u9009\u96c6\u5e02\u573a\u3001PromptPro AI \u63d0\u793a\u8bcd\u7ba1\u7406\u3001\u514d\u8d39\u989d\u5ea6\u901a\u544a\u4e0e\u5206\u4eab\u5361\u7247\uff1b\u914d\u6d4f\u89c8\u5668\u6269\u5c55\u591a\u7aef\u540c\u6b65\uff0c\u5e76\u63d0\u4f9b ",
+    "id": "huanyu-a/FavsHub_web",
+    "language": "TypeScript",
+    "name": "huanyu-a/FavsHub_web",
+    "stars": 1,
+    "updated_at": "2026-09-22T06:04:18Z",
+    "url": "https://github.com/huanyu-a/FavsHub_web"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 935,
+    "updated_at": "2026-09-22T06:04:16Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Local llama.cpp prompt enhancement for Krea 2 and MiniMax H3 in ComfyUI, with managed VRAM handoff.",
+    "id": "mexxmillion/ComfyUI-PromptDirector",
+    "language": "Python",
+    "name": "mexxmillion/ComfyUI-PromptDirector",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:03:03Z",
+    "url": "https://github.com/mexxmillion/ComfyUI-PromptDirector"
+  },
+  {
+    "description": "My personal collection of handcrafted AI agent skills \u2014 original prompting modules for code quality, knowledge explorati",
+    "id": "unix2dos/skills",
+    "language": "\u2014",
+    "name": "unix2dos/skills",
+    "stars": 7,
+    "updated_at": "2026-09-22T06:02:06Z",
+    "url": "https://github.com/unix2dos/skills"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-09-22T06:01:19Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T06:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4854,
-    "updated_at": "2026-09-22T06:00:08Z",
+    "updated_at": "2026-09-22T06:04:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Shell",
     "name": "karloows/orchraft",
     "stars": 2,
-    "updated_at": "2026-09-22T05:56:50Z",
+    "updated_at": "2026-09-22T06:07:04Z",
     "url": "https://github.com/karloows/orchraft"
   },
   {
@@ -88,6 +169,15 @@
     "stars": 9,
     "updated_at": "2026-09-22T05:52:14Z",
     "url": "https://github.com/gotonote/awesome-agent-boom"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28087,
+    "updated_at": "2026-09-22T06:07:52Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -153,13 +243,13 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T05:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 1244,
+    "updated_at": "2026-09-22T05:45:39Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
     "description": "Hebdo sur les agents IA",
@@ -292,7 +382,7 @@
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
     "name": "AditthyaSS/iloveAgents",
-    "stars": 117,
+    "stars": 118,
     "updated_at": "2026-09-22T05:38:23Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
   },
@@ -347,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11567,
-    "updated_at": "2026-09-22T05:59:28Z",
+    "updated_at": "2026-09-22T06:03:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T05:35:40Z",
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:34:21Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:34:09Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:33:33Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-22T05:33:32Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "",
-    "id": "computersciencefreshmen/NotePrompt",
-    "language": "TypeScript",
-    "name": "computersciencefreshmen/NotePrompt",
-    "stars": 1,
-    "updated_at": "2026-09-22T05:33:16Z",
-    "url": "https://github.com/computersciencefreshmen/NotePrompt"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:32:50Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-22T05:32:47Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:32:38Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:32:21Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:32:19Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   }
 ]
