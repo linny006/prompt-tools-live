@@ -1,12 +1,111 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22208,
+    "updated_at": "2026-09-23T18:30:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Kompilator prompt\u00f3w na jedzenie. Klikasz, co masz w lod\u00f3wce i na co masz ochot\u0119 \u2014 dostajesz gotowy prompt do ChatGPT / w",
+    "id": "Cake343/stdmeal",
+    "language": "JavaScript",
+    "name": "Cake343/stdmeal",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:30:28Z",
+    "url": "https://github.com/Cake343/stdmeal"
+  },
+  {
+    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
+    "id": "Highlydeveloped-trowel635/context-graph-compressor",
+    "language": "\u2014",
+    "name": "Highlydeveloped-trowel635/context-graph-compressor",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:30:20Z",
+    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "\u2014",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:30:12Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
+    "id": "locoprice/SprintBrain",
+    "language": "TypeScript",
+    "name": "locoprice/SprintBrain",
+    "stars": 3,
+    "updated_at": "2026-09-23T18:29:13Z",
+    "url": "https://github.com/locoprice/SprintBrain"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 3,
+    "updated_at": "2026-09-23T18:29:13Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-09-23T18:29:12Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
     "id": "alptugharun/ai-social-media-toolkit",
     "language": "Python",
     "name": "alptugharun/ai-social-media-toolkit",
     "stars": 0,
-    "updated_at": "2026-09-23T18:27:01Z",
+    "updated_at": "2026-09-23T18:27:57Z",
     "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "Knowledge OS for AI coding agents \u2014 one CLI that routes the right context (memories + rules) to the model on demand, ins",
+    "id": "mcp-tool-shop-org/loadout-os",
+    "language": "TypeScript",
+    "name": "mcp-tool-shop-org/loadout-os",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:27:41Z",
+    "url": "https://github.com/mcp-tool-shop-org/loadout-os"
+  },
+  {
+    "description": "Alt-click any element in your Vite dev page to get an AI-ready prompt with its absolute source path, line/column and com",
+    "id": "lulusiya/picker",
+    "language": "TypeScript",
+    "name": "lulusiya/picker",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:27:25Z",
+    "url": "https://github.com/lulusiya/picker"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-23T18:27:15Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73633,
+    "updated_at": "2026-09-23T18:25:48Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -32,7 +131,7 @@
     "language": "Shell",
     "name": "domengabrovsek/agent-config",
     "stars": 15,
-    "updated_at": "2026-09-23T18:22:55Z",
+    "updated_at": "2026-09-23T18:29:55Z",
     "url": "https://github.com/domengabrovsek/agent-config"
   },
   {
@@ -45,15 +144,6 @@
     "url": "https://github.com/ellmos-ai/compare-race"
   },
   {
-    "description": "Alt-click any element in your Vite dev page to get an AI-ready prompt with its absolute source path, line/column and com",
-    "id": "lulusiya/picker",
-    "language": "TypeScript",
-    "name": "lulusiya/picker",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:22:41Z",
-    "url": "https://github.com/lulusiya/picker"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -61,15 +151,6 @@
     "stars": 23,
     "updated_at": "2026-09-23T18:22:35Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\u6f6e\u6c50\u84b8\u998f \u00b7 \u8ba4\u77e5\u84b8\u998f\u5f15\u64ce\uff1a\u4e22\u8fdb\u7d20\u6750\uff08\u4e66/\u6587\u7ae0/\u6296\u97f3\u7206\u6b3e\u94fe\u63a5\uff09\uff0c\u84b8\u998f\u51fa\u4e00\u4e2a\u4eba\u7684\u601d\u7ef4Skill\u3002\u4e0d\u662f\u8ba9AI\u8bf4\u5f97\u50cf\u4ed6\uff0c\u662f\u8ba9AI\u60f3\u5f97\u50cf\u4ed6\u3002",
-    "id": "jasonxxzhou/tide-skill",
-    "language": "Python",
-    "name": "jasonxxzhou/tide-skill",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:22:24Z",
-    "url": "https://github.com/jasonxxzhou/tide-skill"
   },
   {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
@@ -94,18 +175,9 @@
     "id": "ilien-dev/quiron",
     "language": "Python",
     "name": "ilien-dev/quiron",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-23T18:21:52Z",
     "url": "https://github.com/ilien-dev/quiron"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73632,
-    "updated_at": "2026-09-23T18:25:48Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T18:16:21Z",
     "url": "https://github.com/thiennha1147/agent-engineer"
-  },
-  {
-    "description": "Build semantic product search with Qdrant, local embeddings, Express, and TypeScript for fast, multilingual results",
-    "id": "Darricksyllabled150/qdrant-search-products",
-    "language": "TypeScript",
-    "name": "Darricksyllabled150/qdrant-search-products",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:16:20Z",
-    "url": "https://github.com/Darricksyllabled150/qdrant-search-products"
-  },
-  {
-    "description": "Build production-ready AI systems with vendor-neutral patterns for LLMs, retrieval, and agents.",
-    "id": "trenchant-rogaine315/ai-engineer-vault",
-    "language": "\u2014",
-    "name": "trenchant-rogaine315/ai-engineer-vault",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:16:05Z",
-    "url": "https://github.com/trenchant-rogaine315/ai-engineer-vault"
-  },
-  {
-    "description": "Unify MCP servers behind one endpoint with lazy loading, Python plugins, and role-based filtering for lower overhead and",
-    "id": "Zanegreyamylnitrate785/mcp-unify",
-    "language": "\u2014",
-    "name": "Zanegreyamylnitrate785/mcp-unify",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:15:59Z",
-    "url": "https://github.com/Zanegreyamylnitrate785/mcp-unify"
-  },
-  {
-    "description": "Build production-ready LLM system prompts for senior dev workflows, from React and SQL to refactoring and architecture.",
-    "id": "Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts",
-    "language": "\u2014",
-    "name": "Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:15:50Z",
-    "url": "https://github.com/Exponential-genushelvella846/The-Senior-Dev-s-LLM-Prompt-Library-100-Production-Ready-System-Prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-23T18:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-09-23T18:15:25Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:15:23Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "A minimalist yet powerful prompt engine crafted for seamless AI execution. Engineered to bridge the gap between simple i",
-    "id": "drferdi/Myprompt",
-    "language": "TypeScript",
-    "name": "drferdi/Myprompt",
-    "stars": 9,
-    "updated_at": "2026-09-23T18:15:18Z",
-    "url": "https://github.com/drferdi/Myprompt"
   }
 ]
