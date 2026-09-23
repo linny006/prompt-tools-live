@@ -1,5 +1,122 @@
 [
   {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-09-23T04:55:13Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Local-first AI prompt generator with a Gradio UI: 132 tuned roles for video, image, audio, 3D and creative AI tools. Run",
+    "id": "kekzl/PromptMill",
+    "language": "Python",
+    "name": "kekzl/PromptMill",
+    "stars": 8,
+    "updated_at": "2026-09-23T04:55:28Z",
+    "url": "https://github.com/kekzl/PromptMill"
+  },
+  {
+    "description": "Adaptive engineering control plane for AI coding agents \u2014 the right specialist depth for every task, with project contex",
+    "id": "harish-042002/harish-skills",
+    "language": "Python",
+    "name": "harish-042002/harish-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:54:32Z",
+    "url": "https://github.com/harish-042002/harish-skills"
+  },
+  {
+    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 276,
+    "updated_at": "2026-09-23T04:54:01Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "Portable AI agent skills, published as plain SKILL.md files. Not Claude-exclusive.",
+    "id": "DavidVeksler/agent-skills",
+    "language": "\u2014",
+    "name": "DavidVeksler/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:53:42Z",
+    "url": "https://github.com/DavidVeksler/agent-skills"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-09-23T04:53:41Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Static linter for LLM system prompts and agent instructions \u2014 12 rules catching anti-patterns, zero dependencies",
+    "id": "sulaimanvesal/prompt-lint",
+    "language": "Python",
+    "name": "sulaimanvesal/prompt-lint",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:53:30Z",
+    "url": "https://github.com/sulaimanvesal/prompt-lint"
+  },
+  {
+    "description": "Converge vague requests into structured, machine-consumable intent contracts - deciding when to probe, ask, or halt befo",
+    "id": "angel291592/Intent-Router",
+    "language": "Python",
+    "name": "angel291592/Intent-Router",
+    "stars": 10,
+    "updated_at": "2026-09-23T04:52:33Z",
+    "url": "https://github.com/angel291592/Intent-Router"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:52:23Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco-flight-deck/agent-compose",
+    "language": "Go",
+    "name": "coilyco-flight-deck/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-23T04:51:44Z",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 49190,
+    "updated_at": "2026-09-23T04:49:50Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences.",
+    "id": "boloagegit/TurnStage",
+    "language": "TypeScript",
+    "name": "boloagegit/TurnStage",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:51:48Z",
+    "url": "https://github.com/boloagegit/TurnStage"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-23T04:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
     "id": "alivirgo/Major-AI-Skills",
     "language": "HTML",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25381,
-    "updated_at": "2026-09-23T04:43:32Z",
+    "updated_at": "2026-09-23T04:51:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +140,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 187,
-    "updated_at": "2026-09-23T04:44:51Z",
+    "updated_at": "2026-09-23T04:45:50Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T04:40:48Z",
     "url": "https://github.com/lloydntim/ai-skills-framework"
-  },
-  {
-    "description": "Converge vague requests into structured, machine-consumable intent contracts - deciding when to probe, ask, or halt befo",
-    "id": "angel291592/Intent-Router",
-    "language": "Python",
-    "name": "angel291592/Intent-Router",
-    "stars": 9,
-    "updated_at": "2026-09-23T04:40:12Z",
-    "url": "https://github.com/angel291592/Intent-Router"
   },
   {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
@@ -81,31 +189,13 @@
     "url": "https://github.com/sayak0-0/crypto-risk-agent"
   },
   {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-23T04:34:22Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73552,
+    "stars": 73553,
     "updated_at": "2026-09-23T04:33:37Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-23T04:31:04Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first Electron desktop workspace for building prompt-driven projects and coding-agent teams: prompt library, agent",
@@ -122,7 +212,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 936,
-    "updated_at": "2026-09-23T04:29:47Z",
+    "updated_at": "2026-09-23T04:52:11Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T04:27:50Z",
     "url": "https://github.com/AlphaSaleAidan/opus-5-5-x-gpt-skill-tree"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-09-23T04:27:16Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
@@ -324,15 +405,6 @@
     "url": "https://github.com/0x4rthur/imprompt"
   },
   {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco-flight-deck/agent-compose",
-    "language": "Go",
-    "name": "coilyco-flight-deck/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-23T04:03:51Z",
-    "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
     "description": "prompts.chat \u7684\u975e\u5b98\u65b9\u7b80\u4f53\u4e2d\u6587\u955c\u50cf\uff1a2205 \u6761\u516c\u5f00\u63d0\u793a\u8bcd\u5168\u90e8\u8bd1\u6210\u4e2d\u6587\uff0c\u4e2d\u82f1\u5bf9\u7167\u3001\u5168\u6587\u641c\u7d22\u3001\u4e00\u952e\u590d\u5236\u3002Astro \u9759\u6001\u7ad9 + \u589e\u91cf\u7ffb\u8bd1\u6d41\u6c34\u7ebf\uff0c\u90e8\u7f72\u5728 GitHub Pages\u3002Unofficial Chinese mirror ",
     "id": "kael-odin/prompts-chat-zh",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T03:58:28Z",
     "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28108,
-    "updated_at": "2026-09-23T04:37:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agent skill that directs a recurring-character series so story, identity, state, wardrobe, prop ownership, camera geogra",
-    "id": "livingghost/series-continuity-director",
-    "language": "Python",
-    "name": "livingghost/series-continuity-director",
-    "stars": 0,
-    "updated_at": "2026-09-23T03:58:21Z",
-    "url": "https://github.com/livingghost/series-continuity-director"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-23T03:53:23Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
-  },
-  {
-    "description": "Installable, permission-bounded, multi-platform agent skills & subagents for Claude Code, Codex, Copilot & Gemini/Antigr",
-    "id": "FluxonLab/Skillry",
-    "language": "Python",
-    "name": "FluxonLab/Skillry",
-    "stars": 2,
-    "updated_at": "2026-09-23T03:53:18Z",
-    "url": "https://github.com/FluxonLab/Skillry"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-23T03:52:24Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Text-to-SQL agent measured on the Spider benchmark with execution accuracy: sandboxed SQL execution, a validated evaluat",
-    "id": "peary123/text2sql-agent",
-    "language": "Python",
-    "name": "peary123/text2sql-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T03:50:59Z",
-    "url": "https://github.com/peary123/text2sql-agent"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2030,
-    "updated_at": "2026-09-23T03:49:48Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 8,
-    "updated_at": "2026-09-23T03:45:38Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
