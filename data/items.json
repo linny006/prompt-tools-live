@@ -1,12 +1,129 @@
 [
   {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 32,
+    "updated_at": "2026-09-23T06:42:57Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Skills for building LLM agents you can prove \u2014 harness engineering, behavior evals & production lessons for Claude Code ",
+    "id": "alextangson/harnessed",
+    "language": "TypeScript",
+    "name": "alextangson/harnessed",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:42:42Z",
+    "url": "https://github.com/alextangson/harnessed"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:42:40Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "AI avatar & profile picture design for Codex and ChatGPT \u2014 purpose-driven portrait workflow, reusable prompts, examples,",
+    "id": "xiaofengShi/ai-avatar-skill",
+    "language": "HTML",
+    "name": "xiaofengShi/ai-avatar-skill",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:42:25Z",
+    "url": "https://github.com/xiaofengShi/ai-avatar-skill"
+  },
+  {
+    "description": "LLM evaluation & risk-control agent for crypto futures \u2014 42 models benchmarked, 600+ calls, 171 tests. \u7ed3\u8bba\uff1a\u65b9\u5411\u5224\u65ad\u63a5\u8fd1\u629b\u786c\u5e01\uff0c\u771f\u6b63\u7684\u4ef7",
+    "id": "sayak0-0/crypto-risk-agent",
+    "language": "Python",
+    "name": "sayak0-0/crypto-risk-agent",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:42:21Z",
+    "url": "https://github.com/sayak0-0/crypto-risk-agent"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco-flight-deck/agent-compose",
+    "language": "Go",
+    "name": "coilyco-flight-deck/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:41:48Z",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose"
+  },
+  {
+    "description": "Research-first website-building skill: learn the craft, match the brand, compare three mockups, then build and verify. U",
+    "id": "aunysillyme/website-build-skill",
+    "language": "JavaScript",
+    "name": "aunysillyme/website-build-skill",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:40:46Z",
+    "url": "https://github.com/aunysillyme/website-build-skill"
+  },
+  {
+    "description": "Tech-lead orchestration for Claude Code \u2014 the top-tier model (Fable) keeps architecture & decisions, cheap subagents (So",
+    "id": "AndyShaman/senior-fable",
+    "language": "\u2014",
+    "name": "AndyShaman/senior-fable",
+    "stars": 26,
+    "updated_at": "2026-09-23T06:39:09Z",
+    "url": "https://github.com/AndyShaman/senior-fable"
+  },
+  {
+    "description": "Bilingual agent workflow contracts, PR review templates, and sync automation for AI-assisted development",
+    "id": "wlvh/coding-workflow",
+    "language": "Python",
+    "name": "wlvh/coding-workflow",
+    "stars": 5,
+    "updated_at": "2026-09-23T06:37:31Z",
+    "url": "https://github.com/wlvh/coding-workflow"
+  },
+  {
     "description": "Agent rule + prompting skill for Claude Opus 5.5, derived from the official claude.dev guide. Works with Oh My Pi, Claud",
     "id": "Emirfs/opus-5-5-playbook",
     "language": "\u2014",
     "name": "Emirfs/opus-5-5-playbook",
     "stars": 0,
-    "updated_at": "2026-09-23T06:30:18Z",
+    "updated_at": "2026-09-23T06:36:44Z",
     "url": "https://github.com/Emirfs/opus-5-5-playbook"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-23T06:36:31Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "OpenAI Codex\uc6a9 \ud55c\uad6d\uc5b4 AI \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098 \ud50c\ub7ec\uadf8\uc778. 37\uac1c \uad00\uc810, 43\uac1c \ud2b8\ub9ac\uac70, 31\uac1c \uc2a4\ud0ac\ub85c \uac1c\ubc1c\u00b7\uc124\uacc4\u00b7\ub9ac\uc11c\uce58\u00b7PM\u00b7\ubbf8\ub514\uc5b4\u00b7\uc0dd\uc131\ud615 AI \uc791\uc5c5\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
+    "id": "sodam-ai/SoDam-Persona-Codex",
+    "language": "JavaScript",
+    "name": "sodam-ai/SoDam-Persona-Codex",
+    "stars": 11,
+    "updated_at": "2026-09-23T06:32:36Z",
+    "url": "https://github.com/sodam-ai/SoDam-Persona-Codex"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28106,
+    "updated_at": "2026-09-23T06:43:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-23T06:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
@@ -36,15 +153,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "AI avatar & profile picture design for Codex and ChatGPT \u2014 purpose-driven portrait workflow, reusable prompts, examples,",
-    "id": "xiaofengShi/ai-avatar-skill",
-    "language": "HTML",
-    "name": "xiaofengShi/ai-avatar-skill",
-    "stars": 1,
-    "updated_at": "2026-09-23T06:23:18Z",
-    "url": "https://github.com/xiaofengShi/ai-avatar-skill"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -59,7 +167,7 @@
     "language": "Python",
     "name": "harish-042002/harish-skills",
     "stars": 0,
-    "updated_at": "2026-09-23T06:22:08Z",
+    "updated_at": "2026-09-23T06:39:26Z",
     "url": "https://github.com/harish-042002/harish-skills"
   },
   {
@@ -90,21 +198,12 @@
     "url": "https://github.com/h00w/agentic-ai"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-23T06:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73556,
-    "updated_at": "2026-09-23T06:14:45Z",
+    "stars": 73557,
+    "updated_at": "2026-09-23T06:43:19Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -121,7 +220,7 @@
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
     "name": "LearnPrompt/awesome-seedance",
-    "stars": 949,
+    "stars": 961,
     "updated_at": "2026-09-23T06:14:20Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "MrForty/asef",
     "stars": 0,
-    "updated_at": "2026-09-23T06:22:29Z",
+    "updated_at": "2026-09-23T06:43:08Z",
     "url": "https://github.com/MrForty/asef"
   },
   {
@@ -166,7 +265,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 49196,
+    "stars": 49197,
     "updated_at": "2026-09-23T06:09:48Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T06:08:43Z",
     "url": "https://github.com/neelshah4/claude-prompt-optimizer"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28106,
-    "updated_at": "2026-09-23T06:30:09Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -279,15 +369,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-23T06:29:38Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
     "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
     "id": "coilyco-flight-deck/housecast",
     "language": "Python",
@@ -295,24 +376,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T05:54:48Z",
     "url": "https://github.com/coilyco-flight-deck/housecast"
-  },
-  {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco-flight-deck/agent-compose",
-    "language": "Go",
-    "name": "coilyco-flight-deck/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:53:56Z",
-    "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
-    "description": "LLM evaluation & risk-control agent for crypto futures \u2014 42 models benchmarked, 600+ calls, 171 tests. \u7ed3\u8bba\uff1a\u65b9\u5411\u5224\u65ad\u63a5\u8fd1\u629b\u786c\u5e01\uff0c\u771f\u6b63\u7684\u4ef7",
-    "id": "sayak0-0/crypto-risk-agent",
-    "language": "Python",
-    "name": "sayak0-0/crypto-risk-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:53:28Z",
-    "url": "https://github.com/sayak0-0/crypto-risk-agent"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -360,15 +423,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Research-first website-building skill: learn the craft, match the brand, compare three mockups, then build and verify. U",
-    "id": "aunysillyme/website-build-skill",
-    "language": "JavaScript",
-    "name": "aunysillyme/website-build-skill",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:45:35Z",
-    "url": "https://github.com/aunysillyme/website-build-skill"
-  },
-  {
     "description": "Hebdo sur les agents IA",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -391,62 +445,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25381,
+    "stars": 25383,
     "updated_at": "2026-09-23T05:43:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:42:31Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:42:06Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-23T05:41:56Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:41:30Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:41:30Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-09-23T05:41:09Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   }
 ]
