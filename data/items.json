@@ -1,11 +1,92 @@
 [
   {
+    "description": "Model-conformance layer for Claude Code: detects instruction patterns superseded by Anthropic's current model guidance a",
+    "id": "Nyx000/claude-conformance",
+    "language": "PowerShell",
+    "name": "Nyx000/claude-conformance",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:58:03Z",
+    "url": "https://github.com/Nyx000/claude-conformance"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:57:29Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-09-23T00:00:25Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "/whisper: a Claude Code skill that optimizes your prompt before it runs and gets better every time you correct it.",
+    "id": "bjaysingh/claudewhisperer",
+    "language": "Python",
+    "name": "bjaysingh/claudewhisperer",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:56:12Z",
+    "url": "https://github.com/bjaysingh/claudewhisperer"
+  },
+  {
+    "description": "The battle-tested Claude Code kit behind HasBrainsAI \u2014 agent skills, subagents & slash commands for production multi-age",
+    "id": "endorphin-ai/hasbrains-agent-kit",
+    "language": "Shell",
+    "name": "endorphin-ai/hasbrains-agent-kit",
+    "stars": 7,
+    "updated_at": "2026-09-22T23:58:23Z",
+    "url": "https://github.com/endorphin-ai/hasbrains-agent-kit"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:51:54Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:48:07Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:46:08Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-22T23:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7144,
-    "updated_at": "2026-09-22T23:44:58Z",
+    "stars": 7145,
+    "updated_at": "2026-09-22T23:55:51Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/paulbeduosei/MY-CERTIFICATIONS-THROUGHOUT-MY-CAREER-PROGRESSION"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:40:26Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
     "description": "Skills Claude pour le CV, LinkedIn et le personal branding d\u2019un profil IT senior.",
     "id": "mister-guiiug/mister-claude-skills",
     "language": "Python",
@@ -81,21 +153,12 @@
     "url": "https://github.com/DenisSergeevitch/agents-best-practices"
   },
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 187,
-    "updated_at": "2026-09-22T23:41:49Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
     "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
     "id": "Stijnman/grok-custom-skills",
     "language": "Python",
     "name": "Stijnman/grok-custom-skills",
     "stars": 11,
-    "updated_at": "2026-09-22T23:37:59Z",
+    "updated_at": "2026-09-22T23:59:13Z",
     "url": "https://github.com/Stijnman/grok-custom-skills"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11580,
-    "updated_at": "2026-09-22T23:35:03Z",
+    "updated_at": "2026-09-22T23:52:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/mldogs/prompt-layers"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-22T23:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A Claude Agent Skill that writes, rewrites, reviews, and audits prompts using Anthropic's current official guidance \u2014 an",
     "id": "ZHOUCOOKIE/prompt-engineering-skill",
     "language": "\u2014",
@@ -221,7 +275,7 @@
     "language": "C#",
     "name": "ntatschner/loadout-cli",
     "stars": 1,
-    "updated_at": "2026-09-22T23:35:20Z",
+    "updated_at": "2026-09-22T23:52:34Z",
     "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/Yivas/pi-output-styles"
   },
   {
-    "description": "/whisper: a Claude Code skill that optimizes your prompt before it runs and gets better every time you correct it.",
-    "id": "bjaysingh/claudewhisperer",
-    "language": "Python",
-    "name": "bjaysingh/claudewhisperer",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:14:24Z",
-    "url": "https://github.com/bjaysingh/claudewhisperer"
-  },
-  {
     "description": "User-Centered Product Development Prompt Templates & Agent Configurations",
     "id": "TechNomadCode/AI-Product-Development-Toolkit",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T23:04:35Z",
     "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:02:25Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2028,
-    "updated_at": "2026-09-22T23:01:36Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pa",
-    "id": "nahid-sparktales/agent-dispatcher",
-    "language": "Python",
-    "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 47,
-    "updated_at": "2026-09-22T23:01:05Z",
-    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
-  },
-  {
-    "description": "A/B testing harness for comparing LLM prompt variants \u2014 compare prompt versions side by side",
-    "id": "astra-intelligence/prompt-architect-toolkit",
-    "language": "Python",
-    "name": "astra-intelligence/prompt-architect-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:07:59Z",
-    "url": "https://github.com/astra-intelligence/prompt-architect-toolkit"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:55:20Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   }
 ]
