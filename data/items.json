@@ -1,12 +1,39 @@
 [
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-23T10:15:10Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
+    "description": "RCIL: The Question Intelligence Layer for System One (TypeSafe Jev). Cuts agent costs by 95% and eliminates decision hal",
+    "id": "saifullahshafin/rcil-question-intelligence",
+    "language": "Python",
+    "name": "saifullahshafin/rcil-question-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:30:00Z",
+    "url": "https://github.com/saifullahshafin/rcil-question-intelligence"
+  },
+  {
+    "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
+    "id": "lee77840/omniconductor",
+    "language": "JavaScript",
+    "name": "lee77840/omniconductor",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:29:57Z",
+    "url": "https://github.com/lee77840/omniconductor"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-09-23T10:29:23Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
+    "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "language": "JavaScript",
+    "name": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "stars": 24,
+    "updated_at": "2026-09-23T10:29:18Z",
+    "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
   },
   {
     "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
@@ -14,8 +41,125 @@
     "language": "Python",
     "name": "c80361619/zcode-toolkit",
     "stars": 3,
-    "updated_at": "2026-09-23T10:14:51Z",
+    "updated_at": "2026-09-23T10:28:07Z",
     "url": "https://github.com/c80361619/zcode-toolkit"
+  },
+  {
+    "description": "\u591a\u8bed\u8a00\u672c\u5730\u5316\u7ffb\u8bd1\u6d41\u6c34\u7ebf Skill\uff5c\u7ffb\u8bd1 \u2192 \u6821\u5bf9 \u2192 \u672c\u571f\u5316 \u2192 \u6da6\u8272 \u2192 \u5408\u89c4\u5ba1\u6838\u3002Language-agnostic l10n pipeline for cross-border e-commerce & DTC.",
+    "id": "ericforge/localized-translation",
+    "language": "Python",
+    "name": "ericforge/localized-translation",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:27:53Z",
+    "url": "https://github.com/ericforge/localized-translation"
+  },
+  {
+    "description": "\u56e2\u961f PRD \u4f53\u4f8b\u7684\u4e09\u79cd AI harness\uff1aClaude Code skill / \u817e\u8baf WorkBuddy \u4e13\u5bb6 / DeepSeek \u901a\u7528\u7cfb\u7edf\u63d0\u793a\u8bcd\u3002\u6bcf\u4e2a\u6539\u52a8\u5199\u51fa\u300c\u4e3a\u4ec0\u4e48\u662f\u8fd9\u6837\u800c\u4e0d\u662f\u90a3\u6837\u300d\u3002A team PRD style guid",
+    "id": "naisi-alibaba/prd-collab",
+    "language": "Python",
+    "name": "naisi-alibaba/prd-collab",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:28:21Z",
+    "url": "https://github.com/naisi-alibaba/prd-collab"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:30:21Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:25:48Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "`xxg-portrait-rebuild-light` is an image-edit skill for existing portrait photos. It reconstructs the key light, fill, s",
+    "id": "moskoo/xxg-portrait-rebuild-light",
+    "language": "Python",
+    "name": "moskoo/xxg-portrait-rebuild-light",
+    "stars": 217,
+    "updated_at": "2026-09-23T10:25:05Z",
+    "url": "https://github.com/moskoo/xxg-portrait-rebuild-light"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-23T10:21:16Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34961,
+    "updated_at": "2026-09-23T10:27:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A harness for Claude Code: 22 playbooks and 22 principles you call by name, judgment routed to another model family, and",
+    "id": "Haruki1090/plumb",
+    "language": "Shell",
+    "name": "Haruki1090/plumb",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:19:50Z",
+    "url": "https://github.com/Haruki1090/plumb"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 937,
+    "updated_at": "2026-09-23T10:18:16Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "118+ plug-and-play JSON style packs for Nano Banana Pro, GPT Image & Midjourney. Copy one JSON, get a style. Updated dai",
+    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "language": "Python",
+    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "stars": 610,
+    "updated_at": "2026-09-23T10:18:17Z",
+    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
+  },
+  {
+    "description": "Agent skill that turns a character idea, production brief or approved recurring-character state into an image-generation",
+    "id": "livingghost/character-prompt-builder",
+    "language": "Python",
+    "name": "livingghost/character-prompt-builder",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:17:04Z",
+    "url": "https://github.com/livingghost/character-prompt-builder"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-23T10:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-23T10:17:24Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
     "description": "A home for small, quiet tools. Eleven so far \u2014 all run in your browser and keep nothing.",
@@ -61,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T10:07:23Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34961,
-    "updated_at": "2026-09-23T10:14:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Kerangka dulu, baru menulis. Skill terbuka untuk Claude dan model AI lain.",
@@ -121,7 +256,7 @@
     "id": "kydlikebtc/awesome-grokbot",
     "language": "Python",
     "name": "kydlikebtc/awesome-grokbot",
-    "stars": 317,
+    "stars": 318,
     "updated_at": "2026-09-23T10:02:40Z",
     "url": "https://github.com/kydlikebtc/awesome-grokbot"
   },
@@ -140,7 +275,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 57,
-    "updated_at": "2026-09-23T10:13:46Z",
+    "updated_at": "2026-09-23T10:29:34Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -151,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T10:00:58Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-23T10:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Free Claude skill: turn facts & stories into humanized hook-first posts (EN/FA/TR), 9:16 + 16:9 image prompts, and paper",
@@ -239,17 +365,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28109,
-    "updated_at": "2026-09-23T10:11:24Z",
+    "updated_at": "2026-09-23T10:28:53Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
-    "id": "lee77840/omniconductor",
-    "language": "JavaScript",
-    "name": "lee77840/omniconductor",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:52:39Z",
-    "url": "https://github.com/lee77840/omniconductor"
   },
   {
     "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
@@ -288,6 +405,15 @@
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 4575,
+    "updated_at": "2026-09-23T09:49:35Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
     "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
     "id": "zahiruddin586-cpu/ai-web-forge",
     "language": "HTML",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T09:46:05Z",
     "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "Agent skill that directs a recurring-character series so story, identity, state, wardrobe, prop ownership, camera geogra",
-    "id": "livingghost/series-continuity-director",
-    "language": "Python",
-    "name": "livingghost/series-continuity-director",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:45:55Z",
-    "url": "https://github.com/livingghost/series-continuity-director"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:45:45Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
-    "id": "tmolavi/geo-scope",
-    "language": "Python",
-    "name": "tmolavi/geo-scope",
-    "stars": 2,
-    "updated_at": "2026-09-23T09:45:40Z",
-    "url": "https://github.com/tmolavi/geo-scope"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:45:27Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:45:20Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:45:13Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:44:57Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:49:30Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:50:50Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:43:09Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:43:04Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:42:20Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
-    "id": "alptugharun/ai-social-media-toolkit",
-    "language": "\u2014",
-    "name": "alptugharun/ai-social-media-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:42:17Z",
-    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:42:07Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
   }
 ]
