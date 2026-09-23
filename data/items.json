@@ -1,5 +1,113 @@
 [
   {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-23T04:44:44Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25381,
+    "updated_at": "2026-09-23T04:43:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-09-23T04:44:51Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Plan-first pipeline for long-form Chinese web novels: outline gating before drafting, a 20-dimension audit on every batc",
+    "id": "totwo2/everytime-novel",
+    "language": "Python",
+    "name": "totwo2/everytime-novel",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:42:57Z",
+    "url": "https://github.com/totwo2/everytime-novel"
+  },
+  {
+    "description": "A framework for building, evaluating and safely running AI Skills \u2014 with built-in A/B testing and privacy-by-constructio",
+    "id": "lloydntim/ai-skills-framework",
+    "language": "TypeScript",
+    "name": "lloydntim/ai-skills-framework",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:40:48Z",
+    "url": "https://github.com/lloydntim/ai-skills-framework"
+  },
+  {
+    "description": "Converge vague requests into structured, machine-consumable intent contracts - deciding when to probe, ask, or halt befo",
+    "id": "angel291592/Intent-Router",
+    "language": "Python",
+    "name": "angel291592/Intent-Router",
+    "stars": 9,
+    "updated_at": "2026-09-23T04:40:12Z",
+    "url": "https://github.com/angel291592/Intent-Router"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-23T04:39:21Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo",
+    "id": "pedromvgomes/agentic-toolkit",
+    "language": "Go",
+    "name": "pedromvgomes/agentic-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:35:56Z",
+    "url": "https://github.com/pedromvgomes/agentic-toolkit"
+  },
+  {
+    "description": "LLM evaluation & risk-control agent for crypto futures \u2014 42 models benchmarked, 600+ calls, 171 tests. \u7ed3\u8bba\uff1a\u65b9\u5411\u5224\u65ad\u63a5\u8fd1\u629b\u786c\u5e01\uff0c\u771f\u6b63\u7684\u4ef7",
+    "id": "sayak0-0/crypto-risk-agent",
+    "language": "Python",
+    "name": "sayak0-0/crypto-risk-agent",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:34:45Z",
+    "url": "https://github.com/sayak0-0/crypto-risk-agent"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:34:22Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73552,
+    "updated_at": "2026-09-23T04:33:37Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-23T04:31:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first Electron desktop workspace for building prompt-driven projects and coding-agent teams: prompt library, agent",
     "id": "yonah-lin111/lx-agent",
     "language": "TypeScript",
@@ -43,15 +151,6 @@
     "stars": 23,
     "updated_at": "2026-09-23T04:27:16Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-09-23T04:28:06Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
@@ -108,15 +207,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-23T04:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -167,7 +257,7 @@
     "language": "Ruby",
     "name": "cura-yjk/pera-flash",
     "stars": 0,
-    "updated_at": "2026-09-23T04:10:27Z",
+    "updated_at": "2026-09-23T04:32:06Z",
     "url": "https://github.com/cura-yjk/pera-flash"
   },
   {
@@ -178,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-09-23T04:09:41Z",
     "url": "https://github.com/annatchijova/SKILLS"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-23T04:09:35Z",
-    "url": "https://github.com/nuttaruj/rolepod"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -302,7 +383,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28108,
-    "updated_at": "2026-09-23T03:57:15Z",
+    "updated_at": "2026-09-23T04:37:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -331,15 +412,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T03:53:18Z",
     "url": "https://github.com/FluxonLab/Skillry"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73549,
-    "updated_at": "2026-09-23T03:52:36Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-23T03:45:38Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-09-23T03:45:18Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 187,
-    "updated_at": "2026-09-23T04:23:45Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "Stop your AI agent from writing the wrong code \u2014 a contract-first discipline, with an installable Claude Code plugin",
-    "id": "jewanchen/mtm-contract",
-    "language": "Python",
-    "name": "jewanchen/mtm-contract",
-    "stars": 1,
-    "updated_at": "2026-09-23T03:43:58Z",
-    "url": "https://github.com/jewanchen/mtm-contract"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 49186,
-    "updated_at": "2026-09-23T03:43:40Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25379,
-    "updated_at": "2026-09-23T03:42:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
-    "id": "goku-open/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-seedance-2-prompts",
-    "stars": 2,
-    "updated_at": "2026-09-23T03:42:23Z",
-    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-23T03:42:02Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-23T03:41:15Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
   }
 ]
