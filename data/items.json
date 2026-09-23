@@ -1,11 +1,182 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-23T18:59:00Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
+    "id": "dairui1/agentlab",
+    "language": "JavaScript",
+    "name": "dairui1/agentlab",
+    "stars": 4,
+    "updated_at": "2026-09-23T18:58:25Z",
+    "url": "https://github.com/dairui1/agentlab"
+  },
+  {
+    "description": "CV vs job-ad matcher: grounded match score, skill gaps, CV bullets, EN/FR cover letter. Offline or free LLMs.",
+    "id": "naniiic137/jobfit-ai",
+    "language": "TypeScript",
+    "name": "naniiic137/jobfit-ai",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:56:05Z",
+    "url": "https://github.com/naniiic137/jobfit-ai"
+  },
+  {
+    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
+    "id": "zahiruddin586-cpu/ai-web-forge",
+    "language": "HTML",
+    "name": "zahiruddin586-cpu/ai-web-forge",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:55:45Z",
+    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
+  },
+  {
+    "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
+    "id": "alptugharun/ai-social-media-toolkit",
+    "language": "Python",
+    "name": "alptugharun/ai-social-media-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:55:27Z",
+    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando Gemini Notebook e engenharia de prompts. Projeto desenvolvid",
+    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "language": "\u2014",
+    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:54:35Z",
+    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
+  },
+  {
+    "description": "Alt-click any element in your Vite dev page to get an AI-ready prompt with its absolute source path, line/column and com",
+    "id": "lulusiya/picker",
+    "language": "TypeScript",
+    "name": "lulusiya/picker",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:54:25Z",
+    "url": "https://github.com/lulusiya/picker"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:54:18Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 16,
+    "updated_at": "2026-09-23T18:54:08Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
+    "id": "ravinperera/ai-token-efficiency-playbook",
+    "language": "Python",
+    "name": "ravinperera/ai-token-efficiency-playbook",
+    "stars": 17,
+    "updated_at": "2026-09-23T18:54:04Z",
+    "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
+  },
+  {
+    "description": "An open-source engineering operating model for Codex: model-aware subagents, bounded delegation, task graphs, independen",
+    "id": "ArcanEdge-AI/coding-agent-playbook-codex",
+    "language": "Python",
+    "name": "ArcanEdge-AI/coding-agent-playbook-codex",
+    "stars": 2,
+    "updated_at": "2026-09-23T18:53:35Z",
+    "url": "https://github.com/ArcanEdge-AI/coding-agent-playbook-codex"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22209,
+    "updated_at": "2026-09-23T18:52:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73633,
+    "updated_at": "2026-09-23T18:51:52Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Token-efficient framework for coding agents building and improving web apps, SaaS products, and professional websites.",
+    "id": "MrForty/asef",
+    "language": "Python",
+    "name": "MrForty/asef",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:51:35Z",
+    "url": "https://github.com/MrForty/asef"
+  },
+  {
+    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
+    "id": "Global-AI-Group-Inc/content-generation-skills",
+    "language": "JavaScript",
+    "name": "Global-AI-Group-Inc/content-generation-skills",
+    "stars": 6,
+    "updated_at": "2026-09-23T18:49:56Z",
+    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-09-23T18:48:59Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "Python",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:48:50Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:46:50Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-23T18:45:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 936,
-    "updated_at": "2026-09-23T18:44:51Z",
+    "updated_at": "2026-09-23T18:55:19Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -14,17 +185,8 @@
     "language": "Shell",
     "name": "domengabrovsek/agent-config",
     "stars": 15,
-    "updated_at": "2026-09-23T18:44:48Z",
+    "updated_at": "2026-09-23T18:59:22Z",
     "url": "https://github.com/domengabrovsek/agent-config"
-  },
-  {
-    "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
-    "id": "alptugharun/ai-social-media-toolkit",
-    "language": "Python",
-    "name": "alptugharun/ai-social-media-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:44:21Z",
-    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -225,15 +387,6 @@
     "url": "https://github.com/drferdi/Myprompt"
   },
   {
-    "description": "Alt-click any element in your Vite dev page to get an AI-ready prompt with its absolute source path, line/column and com",
-    "id": "lulusiya/picker",
-    "language": "TypeScript",
-    "name": "lulusiya/picker",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:34:04Z",
-    "url": "https://github.com/lulusiya/picker"
-  },
-  {
     "description": "A tested prompt-engineering library and template engine \u2014 versioned system prompts, one runnable module per technique (C",
     "id": "AleBrito124356/prompt-engineering-lab",
     "language": "Python",
@@ -247,7 +400,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 49287,
+    "stars": 49289,
     "updated_at": "2026-09-23T18:32:23Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -279,24 +432,6 @@
     "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-23T18:30:47Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22208,
-    "updated_at": "2026-09-23T18:38:32Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "TIDE\uff08\u6f6e\u6c50\uff09\u00b7 \u84b8\u998f \u00b7 \u8ba4\u77e5\u84b8\u998f\u5f15\u64ce\uff1a\u4e22\u8fdb\u7d20\u6750\uff08\u4e66/\u6587\u7ae0/\u6296\u97f3\u7206\u6b3e\u94fe\u63a5\uff09\uff0c\u84b8\u998f\u51fa\u4e00\u4e2a\u4eba\u7684\u601d\u7ef4Skill\u3002\u4e0d\u662f\u8ba9AI\u8bf4\u5f97\u50cf\u4ed6\uff0c\u662f\u8ba9AI\u60f3\u5f97\u50cf\u4ed6\u3002",
     "id": "jasonxxzhou/tide-skill",
     "language": "Python",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:30:28Z",
     "url": "https://github.com/Cake343/stdmeal"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:30:20Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "\u2014",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:30:12Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
-  },
-  {
-    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
-    "id": "locoprice/SprintBrain",
-    "language": "TypeScript",
-    "name": "locoprice/SprintBrain",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:29:13Z",
-    "url": "https://github.com/locoprice/SprintBrain"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:29:13Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-09-23T18:29:12Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3885,
-    "updated_at": "2026-09-23T18:27:47Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Knowledge OS for AI coding agents \u2014 one CLI that routes the right context (memories + rules) to the model on demand, ins",
-    "id": "mcp-tool-shop-org/loadout-os",
-    "language": "TypeScript",
-    "name": "mcp-tool-shop-org/loadout-os",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:27:41Z",
-    "url": "https://github.com/mcp-tool-shop-org/loadout-os"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73633,
-    "updated_at": "2026-09-23T18:44:40Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:25:12Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11586,
-    "updated_at": "2026-09-23T18:24:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:23:17Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Same prompt, several models -- stopwatch or true race; the starting model judges (time is only one dimension)",
-    "id": "ellmos-ai/compare-race",
-    "language": "Python",
-    "name": "ellmos-ai/compare-race",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:22:50Z",
-    "url": "https://github.com/ellmos-ai/compare-race"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-23T18:22:35Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:22:20Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:21:54Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
