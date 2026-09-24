@@ -1,12 +1,57 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "Public guides, original video briefs, and product feedback for Max H3.",
+    "id": "MaxH3AI/maxh3",
+    "language": "\u2014",
+    "name": "MaxH3AI/maxh3",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:30:12Z",
+    "url": "https://github.com/MaxH3AI/maxh3"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-24T08:15:14Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-24T08:29:45Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
+    "id": "xhulz/nina",
+    "language": "JavaScript",
+    "name": "xhulz/nina",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:28:50Z",
+    "url": "https://github.com/xhulz/nina"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-09-24T08:25:15Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-24T08:23:45Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-24T08:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
     "description": "245+ design presets untuk AI agent \u2014 landing page, deck, poster, OG image, chart, diagram, app mockup, film scene. Multi",
@@ -14,8 +59,62 @@
     "language": "JavaScript",
     "name": "kakzaki/gaya",
     "stars": 0,
-    "updated_at": "2026-09-24T08:14:36Z",
+    "updated_at": "2026-09-24T08:20:47Z",
     "url": "https://github.com/kakzaki/gaya"
+  },
+  {
+    "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
+    "id": "c80361619/zcode-toolkit",
+    "language": "Python",
+    "name": "c80361619/zcode-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-24T08:20:43Z",
+    "url": "https://github.com/c80361619/zcode-toolkit"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-24T08:20:01Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34994,
+    "updated_at": "2026-09-24T08:18:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u53f0\u7063\u6b63\u5f0f\u6587\u4ef6\u64b0\u5beb AI Skill\uff1a\u516c\u6587\u3001\u5b58\u8b49\u4fe1\u51fd\u3001\u9673\u60c5\u66f8\u3001\u5408\u7d04 \u2014 \u532f\u5165 ChatGPT / Claude / Gemini \u5373\u53ef\u4f7f\u7528",
+    "id": "Imbad0202/tw-formal-writing",
+    "language": "Python",
+    "name": "Imbad0202/tw-formal-writing",
+    "stars": 172,
+    "updated_at": "2026-09-24T08:19:03Z",
+    "url": "https://github.com/Imbad0202/tw-formal-writing"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-24T08:16:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T08:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
@@ -85,18 +184,9 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13479,
+    "stars": 13480,
     "updated_at": "2026-09-24T08:08:54Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-24T08:14:49Z",
-    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, pick its b",
@@ -117,6 +207,15 @@
     "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
   },
   {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:05:32Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3"
+  },
+  {
     "description": "Principle-first software-development workflow for Claude Code \u2014 brief \u2192 plan \u2192 task \u2192 implement \u2192 review, built for curr",
     "id": "kenspc/kenspc-claude-plugin",
     "language": "Shell",
@@ -124,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T08:05:11Z",
     "url": "https://github.com/kenspc/kenspc-claude-plugin"
-  },
-  {
-    "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
-    "id": "c80361619/zcode-toolkit",
-    "language": "Python",
-    "name": "c80361619/zcode-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-24T08:05:02Z",
-    "url": "https://github.com/c80361619/zcode-toolkit"
   },
   {
     "description": "ARCANVEIL: juego de rol narrativo para navegador, sin dependencias. El motor tira los dados; el director solo narra.",
@@ -193,7 +283,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 33452,
+    "stars": 33454,
     "updated_at": "2026-09-24T08:01:10Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -225,15 +315,6 @@
     "url": "https://github.com/thinkingjimmy/Image-Prompt-Book"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T08:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "G\u00e9n\u00e8re un manuel de r\u00e9f\u00e9rence complet (Prompt Engineering, FR) section par section avec des LLM : relecture automatique,",
     "id": "damienraczy/ai_manual",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T08:00:14Z",
     "url": "https://github.com/damienraczy/ai_manual"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.2",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.2",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:05:32Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.2"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -342,15 +414,6 @@
     "url": "https://github.com/danh121097/squad-skills"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34993,
-    "updated_at": "2026-09-24T08:14:22Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
     "id": "alptugharun/ai-social-media-toolkit",
     "language": "Python",
@@ -364,7 +427,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 107610,
+    "stars": 107613,
     "updated_at": "2026-09-24T07:39:42Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -385,68 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-24T07:38:13Z",
     "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "Hall of Armor",
-    "id": "wxxb789/hoa",
-    "language": "Python",
-    "name": "wxxb789/hoa",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:53:49Z",
-    "url": "https://github.com/wxxb789/hoa"
-  },
-  {
-    "description": "Content Repurposing Engine berbasis storytelling: ubah 1 ide/artikel jadi Carousel 3D Clay, Caption Medsos, Threads, Lin",
-    "id": "andrean-lp/storiq",
-    "language": "Astro",
-    "name": "andrean-lp/storiq",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:37:08Z",
-    "url": "https://github.com/andrean-lp/storiq"
-  },
-  {
-    "description": "Reusable \"dark factory\" prompt for agentic coding harnesses (Claude Code, Codex, Pi): from a vision.md to a tested, dock",
-    "id": "marcelpetrick/DarkFactory",
-    "language": "\u2014",
-    "name": "marcelpetrick/DarkFactory",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:36:14Z",
-    "url": "https://github.com/marcelpetrick/DarkFactory"
-  },
-  {
-    "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
-    "id": "AKzar1el/god-prompt",
-    "language": "Python",
-    "name": "AKzar1el/god-prompt",
-    "stars": 8,
-    "updated_at": "2026-09-24T07:31:58Z",
-    "url": "https://github.com/AKzar1el/god-prompt"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 18,
-    "updated_at": "2026-09-24T07:31:35Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-09-24T07:30:10Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73673,
-    "updated_at": "2026-09-24T07:28:53Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   }
 ]
