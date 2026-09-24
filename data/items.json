@@ -1,5 +1,59 @@
 [
   {
+    "description": "Hebdo sur les agents IA",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 1,
+    "updated_at": "2026-09-24T07:00:16Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Automate issue-driven code creation, review, merging, and bug scanning in any GitHub repo using GitHub Actions and Claud",
+    "id": "alimeramiovens/claude-software-factory",
+    "language": "\u2014",
+    "name": "alimeramiovens/claude-software-factory",
+    "stars": 2,
+    "updated_at": "2026-09-24T06:59:57Z",
+    "url": "https://github.com/alimeramiovens/claude-software-factory"
+  },
+  {
+    "description": "Explore and search a curated collection of system prompts for 30+ AI tools in a fast, SEO-friendly web app built with Ne",
+    "id": "chandrakumarprajapati/system-prompts-playground",
+    "language": "TypeScript",
+    "name": "chandrakumarprajapati/system-prompts-playground",
+    "stars": 1,
+    "updated_at": "2026-09-24T06:59:54Z",
+    "url": "https://github.com/chandrakumarprajapati/system-prompts-playground"
+  },
+  {
+    "description": "",
+    "id": "geosaputra/aiverse",
+    "language": "HTML",
+    "name": "geosaputra/aiverse",
+    "stars": 1,
+    "updated_at": "2026-09-24T06:58:41Z",
+    "url": "https://github.com/geosaputra/aiverse"
+  },
+  {
+    "description": "Track and visualize technical skills and project experience with a simple, customizable, and automated CLI tool.",
+    "id": "ClickBoom-dev/dotskills",
+    "language": "Shell",
+    "name": "ClickBoom-dev/dotskills",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:58:18Z",
+    "url": "https://github.com/ClickBoom-dev/dotskills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T06:58:12Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udd16 Enforce automatic, production-quality checks for AI-generated code to prevent technical debt and maintain fast develop",
     "id": "user232634/ai-code-quality-framework",
     "language": "Python",
@@ -324,15 +378,6 @@
     "url": "https://github.com/Raj1003200/islamic-guidance-ai"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T06:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
     "id": "lpr021/redteam-ai-benchmark",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T06:39:14Z",
     "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
-  },
-  {
-    "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before rou",
-    "id": "angel291592/Intent-Router",
-    "language": "Python",
-    "name": "angel291592/Intent-Router",
-    "stars": 50,
-    "updated_at": "2026-09-24T06:38:55Z",
-    "url": "https://github.com/angel291592/Intent-Router"
-  },
-  {
-    "description": "\u4ee5 FastF1 \u5b98\u65b9\u8a08\u6642\u8cc7\u6599\u9a45\u52d5\u7684 F1 \u8cfd\u5f8c\u5206\u6790\u8207\u793e\u7fa4\u6587\u6848\u81ea\u52d5\u5316\u7ba1\u7dda\uff1a\u6578\u64da\u4ea4\u53c9\u9a57\u8b49 \u2192 \u552f\u4e00\u4e8b\u5be6\u4f86\u6e90\u6458\u8981 \u2192 Gemini \u751f\u6210 FB/IG \u6587\u6848\uff0c\u518d\u7d93\u4e09\u9053\u9632\u5e7b\u89ba\u5b88\u9580\uff08\u975c\u614b\u898f\u5247\uff0f\u6578\u5b57\u6eaf\u6e90\uff0fLLM \u5be9\u6838\u54e1\uff09\uff0c\u4efb\u4e00\u95dc\u4e0d\u904e\u5373\u62d2\u7d55\u8f38\u51fa\u3002\u51aa\u7b49\u8a2d\u8a08",
-    "id": "terencechou1022/F1_Race_Analysis",
-    "language": "Python",
-    "name": "terencechou1022/F1_Race_Analysis",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:37:04Z",
-    "url": "https://github.com/terencechou1022/F1_Race_Analysis"
-  },
-  {
-    "description": "\ud83d\udd0d Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers.",
-    "id": "EpicSaleh/freelancer-opportunity-finder",
-    "language": "JavaScript",
-    "name": "EpicSaleh/freelancer-opportunity-finder",
-    "stars": 1,
-    "updated_at": "2026-09-24T06:36:52Z",
-    "url": "https://github.com/EpicSaleh/freelancer-opportunity-finder"
-  },
-  {
-    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
-    "id": "thucutos1fpt/Italian-AI-Debater",
-    "language": "Python",
-    "name": "thucutos1fpt/Italian-AI-Debater",
-    "stars": 1,
-    "updated_at": "2026-09-24T06:36:29Z",
-    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
-    "id": "tito1405/cueCLI",
-    "language": "JavaScript",
-    "name": "tito1405/cueCLI",
-    "stars": 3,
-    "updated_at": "2026-09-24T06:36:11Z",
-    "url": "https://github.com/tito1405/cueCLI"
   }
 ]
