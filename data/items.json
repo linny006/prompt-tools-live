@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-24T23:43:23Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:43:18Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 1,
+    "updated_at": "2026-09-24T23:41:10Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-09-24T23:35:14Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
+    "id": "redwheeler3/penta-application-screener",
+    "language": "Python",
+    "name": "redwheeler3/penta-application-screener",
+    "stars": 1,
+    "updated_at": "2026-09-24T23:33:04Z",
+    "url": "https://github.com/redwheeler3/penta-application-screener"
+  },
+  {
+    "description": "DSH PUA \u2014 \u4e3a DeepSeek Harness \u63d0\u4f9b PUA \u4efb\u52a1\u63a8\u8fdb\u3001\u89d2\u8272\u98ce\u5473\u3001\u9a8c\u6536\u5faa\u73af\u548c\u8fd0\u884c\u72b6\u6001\u5361\u7247 \u00b7 PUA task persistence, personas, verification loops, and live",
+    "id": "MichengAI/dsh-pua",
+    "language": "TypeScript",
+    "name": "MichengAI/dsh-pua",
+    "stars": 5,
+    "updated_at": "2026-09-24T23:35:04Z",
+    "url": "https://github.com/MichengAI/dsh-pua"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-09-24T23:30:54Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T23:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "klssxx/NeuroPromptSemanticCompiler",
     "stars": 2,
-    "updated_at": "2026-09-24T23:28:27Z",
+    "updated_at": "2026-09-24T23:43:42Z",
     "url": "https://github.com/klssxx/NeuroPromptSemanticCompiler"
   },
   {
@@ -27,31 +99,13 @@
     "url": "https://github.com/jthiruveedula/agentkit"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-24T23:27:32Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
     "id": "OpenScribbler/Katharsis",
     "language": "Shell",
     "name": "OpenScribbler/Katharsis",
     "stars": 4,
-    "updated_at": "2026-09-24T23:28:15Z",
+    "updated_at": "2026-09-24T23:36:30Z",
     "url": "https://github.com/OpenScribbler/Katharsis"
-  },
-  {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:27:03Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "EfficientContext/ContextPilot",
     "stars": 137,
-    "updated_at": "2026-09-24T23:26:26Z",
+    "updated_at": "2026-09-24T23:32:45Z",
     "url": "https://github.com/EfficientContext/ContextPilot"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:25:10Z",
     "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T23:25:03Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:18:17Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
     "id": "micrometeoric-eye978/academic-research-skills",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T23:15:31Z",
     "url": "https://github.com/si-kui-a/Bilingual-Annotator-Toolkit"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:15:29Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build 20 n8n AI prompts with model tips, cost estimates, and ready-to-use workflow guidance",
-    "id": "Michl4119/n8n-prompt-library",
-    "language": "\u2014",
-    "name": "Michl4119/n8n-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-09-24T23:15:04Z",
-    "url": "https://github.com/Michl4119/n8n-prompt-library"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:15:04Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 2,
-    "updated_at": "2026-09-24T23:14:47Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
   }
 ]
