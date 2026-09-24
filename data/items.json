@@ -1,11 +1,146 @@
 [
   {
+    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
+    "id": "redwheeler3/penta-application-screener",
+    "language": "Python",
+    "name": "redwheeler3/penta-application-screener",
+    "stars": 1,
+    "updated_at": "2026-09-24T00:30:21Z",
+    "url": "https://github.com/redwheeler3/penta-application-screener"
+  },
+  {
+    "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
+    "id": "OpenScribbler/Katharsis",
+    "language": "Shell",
+    "name": "OpenScribbler/Katharsis",
+    "stars": 4,
+    "updated_at": "2026-09-24T00:29:53Z",
+    "url": "https://github.com/OpenScribbler/Katharsis"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 24,
+    "updated_at": "2026-09-24T00:28:03Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28119,
+    "updated_at": "2026-09-24T00:29:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-24T00:27:55Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 6,
+    "updated_at": "2026-09-24T00:26:59Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:25:46Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 51,
+    "updated_at": "2026-09-24T00:26:06Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:23:12Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Local Context Compiler (lcc): clean, dedupe and compact prompt context before it reaches the model, then report every bl",
+    "id": "lucasmartins-ai/lcc",
+    "language": "Python",
+    "name": "lucasmartins-ai/lcc",
+    "stars": 8,
+    "updated_at": "2026-09-24T00:21:50Z",
+    "url": "https://github.com/lucasmartins-ai/lcc"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-24T00:19:07Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 14,
+    "updated_at": "2026-09-24T00:17:08Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 1287,
+    "updated_at": "2026-09-24T00:16:11Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T00:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-09-24T00:15:21Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
     "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
     "id": "dgaramos/dr-agents",
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-09-24T00:14:20Z",
+    "updated_at": "2026-09-24T00:15:49Z",
     "url": "https://github.com/dgaramos/dr-agents"
   },
   {
@@ -140,7 +275,7 @@
     "language": "Python",
     "name": "alptugharun/ai-social-media-toolkit",
     "stars": 0,
-    "updated_at": "2026-09-24T00:02:22Z",
+    "updated_at": "2026-09-24T00:27:47Z",
     "url": "https://github.com/alptugharun/ai-social-media-toolkit"
   },
   {
@@ -207,15 +342,6 @@
     "url": "https://github.com/ych-chen/awesome-ai-image-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T00:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "Shell",
@@ -232,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-09-23T23:57:45Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Automatic context compaction for Codex and Claude Code sessions",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 6,
-    "updated_at": "2026-09-23T23:53:28Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "Prompt redundancy tomography - single-file HTML, zero deps, fully offline",
@@ -297,15 +414,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
-    "id": "redwheeler3/penta-application-screener",
-    "language": "Python",
-    "name": "redwheeler3/penta-application-screener",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:43:38Z",
-    "url": "https://github.com/redwheeler3/penta-application-screener"
-  },
-  {
     "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
     "id": "Khyodaattu/awesome-skillkit",
     "language": "\u2014",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T23:42:21Z",
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:42:07Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:41:48Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:41:43Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Local Ollama-based LLM evaluation platform that benchmarks reasoning, hallucination, emotion alignment, and code correct",
-    "id": "Chunduri-Aditya/Model-Behavior-Lab",
-    "language": "Python",
-    "name": "Chunduri-Aditya/Model-Behavior-Lab",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:41:38Z",
-    "url": "https://github.com/Chunduri-Aditya/Model-Behavior-Lab"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:41:34Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:41:21Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:39:46Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:39:41Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:38:55Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:38:44Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:38:39Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:38:36Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
   }
 ]
