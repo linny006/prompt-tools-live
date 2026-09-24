@@ -1,5 +1,95 @@
 [
   {
+    "description": "Save and queue prompts in Claude Code & Codex CLI: one hotkey to stash a half-typed prompt, one to bring it back. Multi-",
+    "id": "sourabhshegane/prompt-multi-stash",
+    "language": "TypeScript",
+    "name": "sourabhshegane/prompt-multi-stash",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:29:54Z",
+    "url": "https://github.com/sourabhshegane/prompt-multi-stash"
+  },
+  {
+    "description": "ARCANVEIL: juego de rol narrativo para navegador, sin dependencias. El motor tira los dados; el director solo narra.",
+    "id": "petetes93/arcanveil",
+    "language": "JavaScript",
+    "name": "petetes93/arcanveil",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:28:33Z",
+    "url": "https://github.com/petetes93/arcanveil"
+  },
+  {
+    "description": "Operating discipline for long-running LLM agent memory \u2014 what to write, when to rewrite, how to clean up safely. Derived",
+    "id": "GH-Mason/agent-memory-discipline",
+    "language": "Python",
+    "name": "GH-Mason/agent-memory-discipline",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:27:58Z",
+    "url": "https://github.com/GH-Mason/agent-memory-discipline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35011,
+    "updated_at": "2026-09-24T17:27:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11602,
+    "updated_at": "2026-09-24T17:27:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-24T17:26:56Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-24T17:26:23Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Zero-dependency, high-performance CLI for prompt enhancement, markdown restructuring, offline image prompt assembly, and",
+    "id": "dotcommander/prompter",
+    "language": "Go",
+    "name": "dotcommander/prompter",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:26:18Z",
+    "url": "https://github.com/dotcommander/prompter"
+  },
+  {
+    "description": "\u300aMuse \u84dd\u76ae\u4e66\u300b\u300aMuse \u6a59\u76ae\u4e66\u300b\u5168\u6587\u514d\u8d39\u5206\u4eab | Two free Chinese handbooks for Muse, Meta's personal AI agent",
+    "id": "lyun9726/muse-handbooks",
+    "language": "\u2014",
+    "name": "lyun9726/muse-handbooks",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:25:45Z",
+    "url": "https://github.com/lyun9726/muse-handbooks"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T17:25:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ground design decisions in cited research, then verify every citation with a different model family before it becomes ca",
     "id": "dogfood-lab/study-swarm",
     "language": "JavaScript",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "agent-kit-startup/agent-kit",
     "stars": 20,
-    "updated_at": "2026-09-24T17:24:17Z",
+    "updated_at": "2026-09-24T17:26:46Z",
     "url": "https://github.com/agent-kit-startup/agent-kit"
   },
   {
@@ -76,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28126,
+    "stars": 28127,
     "updated_at": "2026-09-24T17:23:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -139,7 +229,7 @@
     "id": "TripoGrowthLab/awesome-astra-prompts",
     "language": "JavaScript",
     "name": "TripoGrowthLab/awesome-astra-prompts",
-    "stars": 290,
+    "stars": 291,
     "updated_at": "2026-09-24T17:20:28Z",
     "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
   },
@@ -149,7 +239,7 @@
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 1,
-    "updated_at": "2026-09-24T17:21:44Z",
+    "updated_at": "2026-09-24T17:27:42Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -297,15 +387,6 @@
     "url": "https://github.com/archubbuck/workspace-architect"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T17:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A reusable Project-Manager operating model for Claude Code: plan verification, tiered model routing, sub-agent delegatio",
     "id": "msintim/claude-code-pm-orchestrator",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T17:13:24Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:12:30Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:12:20Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:12:10Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:12:01Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:11:59Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:11:52Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
-    "id": "konradre/video-production-skills",
-    "language": "Python",
-    "name": "konradre/video-production-skills",
-    "stars": 6,
-    "updated_at": "2026-09-24T17:11:41Z",
-    "url": "https://github.com/konradre/video-production-skills"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:11:35Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:11:26Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
