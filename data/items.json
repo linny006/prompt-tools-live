@@ -1,5 +1,158 @@
 [
   {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:00:21Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-24T22:00:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 7,
+    "updated_at": "2026-09-24T22:00:01Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73721,
+    "updated_at": "2026-09-24T22:00:29Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:58:19Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C",
+    "id": "BotShelfVampire/botshelf-ai-team-registry",
+    "language": "Python",
+    "name": "BotShelfVampire/botshelf-ai-team-registry",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:57:54Z",
+    "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
+  },
+  {
+    "description": "Intent-driven AgentOS for graph-based engineering workflows and agent orchestration",
+    "id": "zalom/plastic",
+    "language": "Ruby",
+    "name": "zalom/plastic",
+    "stars": 11,
+    "updated_at": "2026-09-24T21:57:27Z",
+    "url": "https://github.com/zalom/plastic"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-09-24T21:56:45Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:56:26Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:55:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:54:12Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:53:53Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:53:05Z",
+    "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "SLOP: Structured Language for Orchestrating Prompts - A domain-specific language for AI agent workflows",
+    "id": "standardbeagle/slop",
+    "language": "Go",
+    "name": "standardbeagle/slop",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:50:16Z",
+    "url": "https://github.com/standardbeagle/slop"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 6022,
+    "updated_at": "2026-09-24T21:50:12Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T21:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:45:28Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
     "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
     "id": "VitaPilot-AI/flakelens",
     "language": "Python",
@@ -16,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:44:34Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-24T21:44:31Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
@@ -61,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-09-24T21:42:37Z",
     "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73720,
-    "updated_at": "2026-09-24T21:42:46Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
@@ -270,24 +405,6 @@
     "url": "https://github.com/AzizMarashly/SVU-MBA-Course-Review"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T21:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A Pi extension for selecting and applying response output styles.",
-    "id": "Yivas/pi-output-styles",
-    "language": "TypeScript",
-    "name": "Yivas/pi-output-styles",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:30:33Z",
-    "url": "https://github.com/Yivas/pi-output-styles"
-  },
-  {
     "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
     "id": "Caseinpainthindu889/ai-copywriter",
     "language": "\u2014",
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T21:29:10Z",
     "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:29:09Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:29:00Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:28:46Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:28:38Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pa",
-    "id": "nahid-sparktales/agent-dispatcher",
-    "language": "Python",
-    "name": "nahid-sparktales/agent-dispatcher",
-    "stars": 50,
-    "updated_at": "2026-09-24T21:28:09Z",
-    "url": "https://github.com/nahid-sparktales/agent-dispatcher"
-  },
-  {
-    "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists,",
-    "id": "IonDen/skills",
-    "language": "Python",
-    "name": "IonDen/skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:27:34Z",
-    "url": "https://github.com/IonDen/skills"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-09-24T21:26:18Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-09-24T21:26:03Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:25:43Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-09-24T21:25:40Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:24:46Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:24:42Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:24:39Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
