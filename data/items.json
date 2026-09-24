@@ -1,5 +1,50 @@
 [
   {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-09-24T12:30:09Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
+    "id": "dean0x/mdscript",
+    "language": "Rust",
+    "name": "dean0x/mdscript",
+    "stars": 2,
+    "updated_at": "2026-09-24T12:29:53Z",
+    "url": "https://github.com/dean0x/mdscript"
+  },
+  {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-24T12:29:48Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
+    "id": "omar-y-abdi/furl-ctx",
+    "language": "Python",
+    "name": "omar-y-abdi/furl-ctx",
+    "stars": 5,
+    "updated_at": "2026-09-24T12:28:59Z",
+    "url": "https://github.com/omar-y-abdi/furl-ctx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T12:28:49Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 186,
-    "updated_at": "2026-09-24T12:28:44Z",
+    "updated_at": "2026-09-24T12:30:18Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22216,
-    "updated_at": "2026-09-24T12:28:25Z",
+    "updated_at": "2026-09-24T12:30:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -139,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35001,
+    "stars": 35003,
     "updated_at": "2026-09-24T12:19:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -187,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-24T12:16:41Z",
     "url": "https://github.com/harish-042002/harish-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T12:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Pi extension for selecting and applying response output styles.",
@@ -320,7 +356,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-24T12:21:23Z",
+    "updated_at": "2026-09-24T12:28:52Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/yonah-lin111/lx-agent"
   },
   {
-    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-24T12:28:03Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
     "description": "\u7ed9\u4e00\u4e2a AI \u88c5\u4e0a\u300c\u8fde\u7eed\u6027\u300d\u2014\u2014 \u6362\u4e00\u4e2a\u65b0\u4f1a\u8bdd\uff0c\u5750\u90a3\u513f\u7684\u8fd8\u5f97\u662f\u540c\u4e00\u4e2a\u4eba",
     "id": "l2iy4i/give-your-ai-continuity",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T11:45:14Z",
     "url": "https://github.com/l2iy4i/give-your-ai-continuity"
-  },
-  {
-    "description": "Turn vague product or feature ideas into clear, checkable requirements before planning or coding\u2014mapping rough descripti",
-    "id": "bydtesla1609/intent-debugger",
-    "language": "Python",
-    "name": "bydtesla1609/intent-debugger",
-    "stars": 125,
-    "updated_at": "2026-09-24T11:44:48Z",
-    "url": "https://github.com/bydtesla1609/intent-debugger"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-24T11:42:11Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Local-first prompt regression testing and evals for LLM apps.",
-    "id": "promptry/promptry",
-    "language": "Python",
-    "name": "promptry/promptry",
-    "stars": 4,
-    "updated_at": "2026-09-24T11:39:49Z",
-    "url": "https://github.com/promptry/promptry"
   }
 ]
