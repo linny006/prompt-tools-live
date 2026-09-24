@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:32:59Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:32:15Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "DQL knowledge base + RAG pipeline + GitHub Copilot instructions for accurate Dynatrace Query Language generation + MCP s",
+    "id": "aachtenberg/dynatrace-dql-kb",
+    "language": "Python",
+    "name": "aachtenberg/dynatrace-dql-kb",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:31:15Z",
+    "url": "https://github.com/aachtenberg/dynatrace-dql-kb"
+  },
+  {
+    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
+    "id": "neomjs/neo-agent-skills",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-09-24T20:30:46Z",
+    "url": "https://github.com/neomjs/neo-agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T20:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
     "id": "opascope/skills",
     "language": "Python",
@@ -32,7 +77,7 @@
     "language": "HTML",
     "name": "ilhan-mstf/prompt-router",
     "stars": 0,
-    "updated_at": "2026-09-24T20:29:02Z",
+    "updated_at": "2026-09-24T20:34:26Z",
     "url": "https://github.com/ilhan-mstf/prompt-router"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T20:28:18Z",
     "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:25:03Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
     "description": "SVU MBA course review pages",
@@ -95,7 +131,7 @@
     "language": "Ruby",
     "name": "hoblin/toon-fu",
     "stars": 0,
-    "updated_at": "2026-09-24T20:27:39Z",
+    "updated_at": "2026-09-24T20:31:37Z",
     "url": "https://github.com/hoblin/toon-fu"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/MincongZhou/fengge-distill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T20:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
     "id": "alptugharun/ai-social-media-toolkit",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T20:13:12Z",
     "url": "https://github.com/ajitta/know-your-unknowns"
-  },
-  {
-    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
-    "id": "neomjs/neo-agent-skills",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-09-24T20:16:37Z",
-    "url": "https://github.com/neomjs/neo-agent-skills"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -205,15 +223,6 @@
     "stars": 11,
     "updated_at": "2026-09-24T20:04:53Z",
     "url": "https://github.com/zalom/plastic"
-  },
-  {
-    "description": "A Pi extension for selecting and applying response output styles.",
-    "id": "Yivas/pi-output-styles",
-    "language": "TypeScript",
-    "name": "Yivas/pi-output-styles",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:04:41Z",
-    "url": "https://github.com/Yivas/pi-output-styles"
   },
   {
     "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T19:38:56Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
-    "id": "nino-chavez/agentic-ways-of-working",
-    "language": "Python",
-    "name": "nino-chavez/agentic-ways-of-working",
-    "stars": 2,
-    "updated_at": "2026-09-24T19:38:37Z",
-    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
   }
 ]
