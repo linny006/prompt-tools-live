@@ -1,12 +1,21 @@
 [
   {
-    "description": "A Pi extension for selecting and applying response output styles.",
-    "id": "Yivas/pi-output-styles",
-    "language": "TypeScript",
-    "name": "Yivas/pi-output-styles",
+    "description": "Write a prompt once and instantly open it in multiple AI platforms",
+    "id": "ilhan-mstf/prompt-router",
+    "language": "JavaScript",
+    "name": "ilhan-mstf/prompt-router",
     "stars": 0,
-    "updated_at": "2026-09-24T20:32:59Z",
-    "url": "https://github.com/Yivas/pi-output-styles"
+    "updated_at": "2026-09-24T20:44:55Z",
+    "url": "https://github.com/ilhan-mstf/prompt-router"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-24T20:44:39Z",
+    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
@@ -14,8 +23,143 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 0,
-    "updated_at": "2026-09-24T20:32:15Z",
+    "updated_at": "2026-09-24T20:44:27Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 21,
+    "updated_at": "2026-09-24T20:44:10Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-24T20:44:06Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": " Select UI elements on your local website, describe changes in plain English, and compile them into a single structured ",
+    "id": "shubhamrawat-gh/Annoty",
+    "language": "TypeScript",
+    "name": "shubhamrawat-gh/Annoty",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:43:31Z",
+    "url": "https://github.com/shubhamrawat-gh/Annoty"
+  },
+  {
+    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
+    "id": "skymanbp/cc-enforcer",
+    "language": "Python",
+    "name": "skymanbp/cc-enforcer",
+    "stars": 5,
+    "updated_at": "2026-09-24T20:42:49Z",
+    "url": "https://github.com/skymanbp/cc-enforcer"
+  },
+  {
+    "description": "TOON (Token-Oriented Object Notation) encoder for Ruby \u2014 compact, token-efficient serialization of JSON data for LLM pro",
+    "id": "hoblin/toon-fu",
+    "language": "Ruby",
+    "name": "hoblin/toon-fu",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:42:00Z",
+    "url": "https://github.com/hoblin/toon-fu"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-09-24T20:39:52Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:38:32Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Advanced prompt engineering for journalists: A 4-week MOOC moving from chat interfaces to CLI tools",
+    "id": "jamditis/prompt-engineering-journalists",
+    "language": "HTML",
+    "name": "jamditis/prompt-engineering-journalists",
+    "stars": 5,
+    "updated_at": "2026-09-24T20:38:28Z",
+    "url": "https://github.com/jamditis/prompt-engineering-journalists"
+  },
+  {
+    "description": "Agent skills for spec-driven development. An automated agentic delivery loop coordinates planning, implementation, and c",
+    "id": "valzav/valcraft",
+    "language": "Python",
+    "name": "valzav/valcraft",
+    "stars": 20,
+    "updated_at": "2026-09-24T20:37:57Z",
+    "url": "https://github.com/valzav/valcraft"
+  },
+  {
+    "description": "A Pi extension for selecting and applying response output styles.",
+    "id": "Yivas/pi-output-styles",
+    "language": "TypeScript",
+    "name": "Yivas/pi-output-styles",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:37:50Z",
+    "url": "https://github.com/Yivas/pi-output-styles"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 57,
+    "updated_at": "2026-09-24T20:37:33Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-24T20:36:28Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "SVU MBA course review pages",
+    "id": "AzizMarashly/SVU-MBA-Course-Review",
+    "language": "HTML",
+    "name": "AzizMarashly/SVU-MBA-Course-Review",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:35:34Z",
+    "url": "https://github.com/AzizMarashly/SVU-MBA-Course-Review"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T20:34:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Prompts for ChatGPT, Claude and Gemini written for construction work: estimating, architecture, rendering, engineering, ",
+    "id": "constructelligence-lab/construction-prompts",
+    "language": "Python",
+    "name": "constructelligence-lab/construction-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:32:37Z",
+    "url": "https://github.com/constructelligence-lab/construction-prompts"
   },
   {
     "description": "DQL knowledge base + RAG pipeline + GitHub Copilot instructions for accurate Dynatrace Query Language generation + MCP s",
@@ -32,17 +176,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-skills",
     "stars": 10,
-    "updated_at": "2026-09-24T20:30:46Z",
+    "updated_at": "2026-09-24T20:36:11Z",
     "url": "https://github.com/neomjs/neo-agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T20:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
@@ -61,42 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T20:29:37Z",
     "url": "https://github.com/garimaaish1111/promptmaker"
-  },
-  {
-    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
-    "id": "GLFzr/QianBi-Novel",
-    "language": "Python",
-    "name": "GLFzr/QianBi-Novel",
-    "stars": 21,
-    "updated_at": "2026-09-24T20:29:22Z",
-    "url": "https://github.com/GLFzr/QianBi-Novel"
-  },
-  {
-    "description": "Write a prompt once and instantly open it in multiple AI platforms",
-    "id": "ilhan-mstf/prompt-router",
-    "language": "HTML",
-    "name": "ilhan-mstf/prompt-router",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:34:26Z",
-    "url": "https://github.com/ilhan-mstf/prompt-router"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-09-24T20:28:18Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "SVU MBA course review pages",
-    "id": "AzizMarashly/SVU-MBA-Course-Review",
-    "language": "HTML",
-    "name": "AzizMarashly/SVU-MBA-Course-Review",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:25:00Z",
-    "url": "https://github.com/AzizMarashly/SVU-MBA-Course-Review"
   },
   {
     "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
@@ -124,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-09-24T20:21:18Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "TOON (Token-Oriented Object Notation) encoder for Ruby \u2014 compact, token-efficient serialization of JSON data for LLM pro",
-    "id": "hoblin/toon-fu",
-    "language": "Ruby",
-    "name": "hoblin/toon-fu",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:31:37Z",
-    "url": "https://github.com/hoblin/toon-fu"
   },
   {
     "description": "Prompt Atelier as a single HTML file. No server, no database, no installation, and not one network request.",
@@ -178,15 +268,6 @@
     "stars": 22,
     "updated_at": "2026-09-24T20:11:41Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-24T20:11:14Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "A curated library of machine-readable task prompts for Jules and other coding agents, including prompts for the failures",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T19:42:06Z",
     "url": "https://github.com/GuiMiran/spectra"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:40:58Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
-    "id": "mikaeltorni/programming_prompts",
-    "language": "Python",
-    "name": "mikaeltorni/programming_prompts",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:40:33Z",
-    "url": "https://github.com/mikaeltorni/programming_prompts"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:39:50Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:39:46Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
-    "id": "gotonote/awesome-agent-boom",
-    "language": "Python",
-    "name": "gotonote/awesome-agent-boom",
-    "stars": 9,
-    "updated_at": "2026-09-24T19:39:26Z",
-    "url": "https://github.com/gotonote/awesome-agent-boom"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:39:24Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:39:17Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "",
-    "id": "bee-ai-labs/bee",
-    "language": "Python",
-    "name": "bee-ai-labs/bee",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:39:12Z",
-    "url": "https://github.com/bee-ai-labs/bee"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:38:56Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
