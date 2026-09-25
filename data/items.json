@@ -1,5 +1,167 @@
 [
   {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-25T06:00:12Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "A curated library of machine-readable task prompts for Jules and other coding agents, including prompts for the failures",
+    "id": "melbinjp/jules-prompts",
+    "language": "Python",
+    "name": "melbinjp/jules-prompts",
+    "stars": 9,
+    "updated_at": "2026-09-25T05:55:07Z",
+    "url": "https://github.com/melbinjp/jules-prompts"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-25T05:51:59Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
+    "id": "gotonote/awesome-agent-boom",
+    "language": "Python",
+    "name": "gotonote/awesome-agent-boom",
+    "stars": 9,
+    "updated_at": "2026-09-25T05:51:20Z",
+    "url": "https://github.com/gotonote/awesome-agent-boom"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T05:51:13Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A selective persona agent for group chats and DMs with scoped memory, gated learning, context-aware participation, and t",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 15,
+    "updated_at": "2026-09-25T05:51:06Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
+    "id": "SRCarlo/genai-course",
+    "language": "JavaScript",
+    "name": "SRCarlo/genai-course",
+    "stars": 5,
+    "updated_at": "2026-09-25T05:50:12Z",
+    "url": "https://github.com/SRCarlo/genai-course"
+  },
+  {
+    "description": "AI-SDLC Pro \u2014 Biblioteca de Prompts de Ingenier\u00eda de Software",
+    "id": "dleon55/ai-sdlc-prompts",
+    "language": "HTML",
+    "name": "dleon55/ai-sdlc-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-25T05:50:10Z",
+    "url": "https://github.com/dleon55/ai-sdlc-prompts"
+  },
+  {
+    "description": "PromptOS \u2014 a searchable, editable library of 217 AI prompts across 11 categories, with favourites, one-click copy and of",
+    "id": "babatundeawo/ai-prompt-library",
+    "language": "JavaScript",
+    "name": "babatundeawo/ai-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-25T05:49:18Z",
+    "url": "https://github.com/babatundeawo/ai-prompt-library"
+  },
+  {
+    "description": "Uy, Kape! is a *fully vibe-coded* coffee-ordering system for home-coffee *prosumers* who want to give *home visitors* a ",
+    "id": "raffertyuy/uy-kape",
+    "language": "TypeScript",
+    "name": "raffertyuy/uy-kape",
+    "stars": 0,
+    "updated_at": "2026-09-25T05:50:10Z",
+    "url": "https://github.com/raffertyuy/uy-kape"
+  },
+  {
+    "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
+    "id": "jhd3197/Prompture",
+    "language": "Python",
+    "name": "jhd3197/Prompture",
+    "stars": 14,
+    "updated_at": "2026-09-25T05:49:47Z",
+    "url": "https://github.com/jhd3197/Prompture"
+  },
+  {
+    "description": "A Claude Agent Skill for designing, reviewing and quality-assuring MEL indicators for development, humanitarian and publ",
+    "id": "dutchy313/indicator-design-skill",
+    "language": "Python",
+    "name": "dutchy313/indicator-design-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T05:47:55Z",
+    "url": "https://github.com/dutchy313/indicator-design-skill"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-09-25T05:46:59Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
+    "id": "V-Songbird/disregard",
+    "language": "JavaScript",
+    "name": "V-Songbird/disregard",
+    "stars": 1,
+    "updated_at": "2026-09-25T05:46:33Z",
+    "url": "https://github.com/V-Songbird/disregard"
+  },
+  {
+    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
+    "id": "Ayush-2703/Large_languaage_Models",
+    "language": "Python",
+    "name": "Ayush-2703/Large_languaage_Models",
+    "stars": 3,
+    "updated_at": "2026-09-25T05:46:31Z",
+    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-09-25T05:46:05Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
+    "id": "ai-moge/awesome-image-prompts",
+    "language": "\u2014",
+    "name": "ai-moge/awesome-image-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-25T05:46:04Z",
+    "url": "https://github.com/ai-moge/awesome-image-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T05:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Hebdo sur les agents IA",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -14,7 +176,7 @@
     "language": "Python",
     "name": "ariffazil/arifOS",
     "stars": 51,
-    "updated_at": "2026-09-25T05:45:16Z",
+    "updated_at": "2026-09-25T05:45:38Z",
     "url": "https://github.com/ariffazil/arifOS"
   },
   {
@@ -54,15 +216,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
-    "id": "Ayush-2703/Large_languaage_Models",
-    "language": "Python",
-    "name": "Ayush-2703/Large_languaage_Models",
-    "stars": 3,
-    "updated_at": "2026-09-25T05:36:30Z",
-    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
-  },
-  {
     "description": "SVU MBA course review pages",
     "id": "AzizMarashly/SVU-MBA-Course-Review",
     "language": "HTML",
@@ -76,7 +229,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73743,
+    "stars": 73746,
     "updated_at": "2026-09-25T05:31:11Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -86,7 +239,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-25T05:30:57Z",
+    "updated_at": "2026-09-25T05:52:34Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -97,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T05:30:57Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T05:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -142,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T05:27:09Z",
     "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "A Claude Agent Skill for designing, reviewing and quality-assuring MEL indicators for development, humanitarian and publ",
-    "id": "dutchy313/indicator-design-skill",
-    "language": "\u2014",
-    "name": "dutchy313/indicator-design-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:24:58Z",
-    "url": "https://github.com/dutchy313/indicator-design-skill"
   },
   {
     "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusio",
@@ -194,7 +329,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28129,
-    "updated_at": "2026-09-25T05:18:38Z",
+    "updated_at": "2026-09-25T05:56:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -252,15 +387,6 @@
     "url": "https://github.com/nakamori-naoya/skill-authoring-plugins"
   },
   {
-    "description": "A selective persona agent for group chats and DMs with scoped memory, gated learning, context-aware participation, and t",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-09-25T05:13:05Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
     "id": "2148-wq/DLSS5-for-Nuke",
     "language": "C++",
@@ -277,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T05:12:46Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Uy, Kape! is a *fully vibe-coded* coffee-ordering system for home-coffee *prosumers* who want to give *home visitors* a ",
-    "id": "raffertyuy/uy-kape",
-    "language": "TypeScript",
-    "name": "raffertyuy/uy-kape",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:13:43Z",
-    "url": "https://github.com/raffertyuy/uy-kape"
   },
   {
     "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T05:10:31Z",
     "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:09:17Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:09:11Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "TypeScript",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:09:05Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:08:34Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-25T05:08:34Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
-    "id": "cura-yjk/pera-flash",
-    "language": "Ruby",
-    "name": "cura-yjk/pera-flash",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:08:10Z",
-    "url": "https://github.com/cura-yjk/pera-flash"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:07:53Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-25T05:07:52Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:07:44Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:07:31Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:07:24Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
-    "id": "TripoGrowthLab/awesome-astra-prompts",
-    "language": "JavaScript",
-    "name": "TripoGrowthLab/awesome-astra-prompts",
-    "stars": 296,
-    "updated_at": "2026-09-25T05:06:21Z",
-    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
-  },
-  {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-09-25T05:06:20Z",
-    "url": "https://github.com/aidyou/chatspeed"
   }
 ]
