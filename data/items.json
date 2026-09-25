@@ -1,5 +1,140 @@
 [
   {
+    "description": "Curated AI agent skills for coding workflows and decision-making. Packaged for the skills.sh ecosystem.",
+    "id": "fatih-developer/fth-skills",
+    "language": "Python",
+    "name": "fatih-developer/fth-skills",
+    "stars": 7,
+    "updated_at": "2026-09-25T21:29:35Z",
+    "url": "https://github.com/fatih-developer/fth-skills"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:29:27Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 5,
+    "updated_at": "2026-09-25T21:27:19Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
+    "id": "sebastian-software/skills.sebastian-software.com",
+    "language": "Python",
+    "name": "sebastian-software/skills.sebastian-software.com",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:30:13Z",
+    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
+  },
+  {
+    "description": "Declarative Self Improving Elixir - DSPy Orchestration in Elixir",
+    "id": "nshkrdotcom/DSPex",
+    "language": "Elixir",
+    "name": "nshkrdotcom/DSPex",
+    "stars": 19,
+    "updated_at": "2026-09-25T21:24:29Z",
+    "url": "https://github.com/nshkrdotcom/DSPex"
+  },
+  {
+    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
+    "id": "jthiruveedula/agentkit",
+    "language": "Python",
+    "name": "jthiruveedula/agentkit",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:24:19Z",
+    "url": "https://github.com/jthiruveedula/agentkit"
+  },
+  {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-25T21:23:23Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Strict markup for prompt files with explicit token limits.",
+    "id": "alexmckenley/htmlp",
+    "language": "Rust",
+    "name": "alexmckenley/htmlp",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:22:10Z",
+    "url": "https://github.com/alexmckenley/htmlp"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-25T21:21:15Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Turn vague prompts into precise ones \u2014 local-first prompt optimizer with scoring, issue detection, and before/after diff",
+    "id": "devilking7x/prompt-optimizer",
+    "language": "TypeScript",
+    "name": "devilking7x/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:20:04Z",
+    "url": "https://github.com/devilking7x/prompt-optimizer"
+  },
+  {
+    "description": "Local Gradio dashboard that streams a Claude or GPT response, heatmaps per-chunk latency, flags hedges, numbers and enti",
+    "id": "Mattbusel/prompt-observatory",
+    "language": "Python",
+    "name": "Mattbusel/prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-09-25T21:19:28Z",
+    "url": "https://github.com/Mattbusel/prompt-observatory"
+  },
+  {
+    "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
+    "id": "JarodFroneman/jstack",
+    "language": "Python",
+    "name": "JarodFroneman/jstack",
+    "stars": 1,
+    "updated_at": "2026-09-25T21:19:11Z",
+    "url": "https://github.com/JarodFroneman/jstack"
+  },
+  {
+    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
+    "id": "ubik-dsh/deepseek-harness-skills",
+    "language": "Python",
+    "name": "ubik-dsh/deepseek-harness-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:17:38Z",
+    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-09-25T21:17:11Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T21:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
     "id": "FarzamMohammadi/dev-toolbox",
     "language": "Python",
@@ -16,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-25T21:14:51Z",
     "url": "https://github.com/Md-Emon-Hasan/Retrieval-Augmented-Generation-RAG"
-  },
-  {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 7,
-    "updated_at": "2026-09-25T21:14:29Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
@@ -81,21 +207,12 @@
     "url": "https://github.com/inbrace-tech/claude-skills"
   },
   {
-    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
-    "id": "ubik-dsh/deepseek-harness-skills",
-    "language": "Python",
-    "name": "ubik-dsh/deepseek-harness-skills",
-    "stars": 0,
-    "updated_at": "2026-09-25T21:11:52Z",
-    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
-  },
-  {
     "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
     "id": "Moeeryani/Vibe-Coding-Production-Kit",
     "language": "JavaScript",
     "name": "Moeeryani/Vibe-Coding-Production-Kit",
     "stars": 29,
-    "updated_at": "2026-09-25T21:11:29Z",
+    "updated_at": "2026-09-25T21:21:03Z",
     "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
   },
   {
@@ -106,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T21:09:21Z",
     "url": "https://github.com/ystk-kai/claude-harness"
-  },
-  {
-    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
-    "id": "jthiruveedula/agentkit",
-    "language": "Python",
-    "name": "jthiruveedula/agentkit",
-    "stars": 0,
-    "updated_at": "2026-09-25T21:08:45Z",
-    "url": "https://github.com/jthiruveedula/agentkit"
-  },
-  {
-    "description": "Declarative Self Improving Elixir - DSPy Orchestration in Elixir",
-    "id": "nshkrdotcom/DSPex",
-    "language": "Elixir",
-    "name": "nshkrdotcom/DSPex",
-    "stars": 19,
-    "updated_at": "2026-09-25T21:07:46Z",
-    "url": "https://github.com/nshkrdotcom/DSPex"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -153,15 +252,6 @@
     "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T21:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Python CLI that counts prompt tokens with OpenAI's tiktoken and ranks lines by token cost with per-line bars, plus --top",
     "id": "Mattbusel/tokenviz",
     "language": "Python",
@@ -171,15 +261,6 @@
     "url": "https://github.com/Mattbusel/tokenviz"
   },
   {
-    "description": "Strict markup for prompt files with explicit token limits.",
-    "id": "alexmckenley/htmlp",
-    "language": "Rust",
-    "name": "alexmckenley/htmlp",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:59:53Z",
-    "url": "https://github.com/alexmckenley/htmlp"
-  },
-  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -187,15 +268,6 @@
     "stars": 50,
     "updated_at": "2026-09-25T20:59:33Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Turn vague prompts into precise ones \u2014 local-first prompt optimizer with scoring, issue detection, and before/after diff",
-    "id": "devilking7x/prompt-optimizer",
-    "language": "TypeScript",
-    "name": "devilking7x/prompt-optimizer",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:59:32Z",
-    "url": "https://github.com/devilking7x/prompt-optimizer"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -297,15 +369,6 @@
     "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
   },
   {
-    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
-    "id": "sebastian-software/skills.sebastian-software.com",
-    "language": "Python",
-    "name": "sebastian-software/skills.sebastian-software.com",
-    "stars": 0,
-    "updated_at": "2026-09-25T21:07:06Z",
-    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
-  },
-  {
     "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
     "id": "yangzhou-chaofan/awesome-jev-prompt",
     "language": "JavaScript",
@@ -322,15 +385,6 @@
     "stars": 36,
     "updated_at": "2026-09-25T20:46:57Z",
     "url": "https://github.com/yanliudesign/behavior-question-skill"
-  },
-  {
-    "description": "Local Gradio dashboard that streams a Claude or GPT response, heatmaps per-chunk latency, flags hedges, numbers and enti",
-    "id": "Mattbusel/prompt-observatory",
-    "language": "Python",
-    "name": "Mattbusel/prompt-observatory",
-    "stars": 2,
-    "updated_at": "2026-09-25T21:12:08Z",
-    "url": "https://github.com/Mattbusel/prompt-observatory"
   },
   {
     "description": "Python prototype that chains GPT-4 prompts into Raven (interprets text-encoded patterns) and Seraph (ethical review) wit",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T20:44:54Z",
     "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:44:11Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:53:31Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Personal agent skills for Claude Code and Codex, installable via the skills CLI (skills.sh): context-window and memory i",
-    "id": "Mark-Life/agent-skills",
-    "language": "TypeScript",
-    "name": "Mark-Life/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:41:58Z",
-    "url": "https://github.com/Mark-Life/agent-skills"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:41:14Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:41:11Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:41:10Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
   }
 ]
