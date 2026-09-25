@@ -1,21 +1,48 @@
 [
   {
-    "description": "One-click prompt buttons for Claude Code and Codex, floating over macOS Terminal. Auto-backgrounds long Claude Code comm",
-    "id": "krushr1/claude-code-prompt-rack",
-    "language": "HTML",
-    "name": "krushr1/claude-code-prompt-rack",
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
     "stars": 0,
-    "updated_at": "2026-09-25T17:05:23Z",
-    "url": "https://github.com/krushr1/claude-code-prompt-rack"
+    "updated_at": "2026-09-25T17:13:37Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
-    "description": "I am Deep Dey, a JEE 2027 aspirant targeting IIT Kanpur (CSE). An AI-powered learner and content creator building modern",
-    "id": "deepdeyiitgn/deepdeyiitgn",
-    "language": "\u2014",
-    "name": "deepdeyiitgn/deepdeyiitgn",
+    "description": "Diff, version and audit LLM outputs in Rust: line diffs with similarity scores, structural JSON diffs, and a content-add",
+    "id": "Mattbusel/llm-diff",
+    "language": "Rust",
+    "name": "Mattbusel/llm-diff",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:13:18Z",
+    "url": "https://github.com/Mattbusel/llm-diff"
+  },
+  {
+    "description": "A linter for LLM prompt templates. Catches the bugs that only show up in production.",
+    "id": "mohsinaliwork686-rgb/promptlint",
+    "language": "Python",
+    "name": "mohsinaliwork686-rgb/promptlint",
     "stars": 0,
-    "updated_at": "2026-09-25T17:05:30Z",
-    "url": "https://github.com/deepdeyiitgn/deepdeyiitgn"
+    "updated_at": "2026-09-25T17:13:01Z",
+    "url": "https://github.com/mohsinaliwork686-rgb/promptlint"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11613,
+    "updated_at": "2026-09-25T17:12:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-25T17:11:56Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
@@ -23,8 +50,98 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-25T17:03:20Z",
+    "updated_at": "2026-09-25T17:11:54Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:11:47Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:11:35Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "One-click prompt buttons for Claude Code and Codex, floating over macOS Terminal. Auto-backgrounds long Claude Code comm",
+    "id": "krushr1/claude-code-prompt-rack",
+    "language": "HTML",
+    "name": "krushr1/claude-code-prompt-rack",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:11:11Z",
+    "url": "https://github.com/krushr1/claude-code-prompt-rack"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:10:41Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "A multi-agent Claude Code system for an end-to-end job search: posting discovery and scoring, tailored resume/cover-lett",
+    "id": "idtovar-maker/job-search-agent-showcase",
+    "language": "\u2014",
+    "name": "idtovar-maker/job-search-agent-showcase",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:09:38Z",
+    "url": "https://github.com/idtovar-maker/job-search-agent-showcase"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:09:11Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "A visual builder that generates structured prompts for AI to create UI components. Build complex component hierarchies, ",
+    "id": "alonsarias/structured-prompts-ui",
+    "language": "TypeScript",
+    "name": "alonsarias/structured-prompts-ui",
+    "stars": 7,
+    "updated_at": "2026-09-25T17:07:49Z",
+    "url": "https://github.com/alonsarias/structured-prompts-ui"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:06:16Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T17:05:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "I am Deep Dey, a JEE 2027 aspirant targeting IIT Kanpur (CSE). An AI-powered learner and content creator building modern",
+    "id": "deepdeyiitgn/deepdeyiitgn",
+    "language": "\u2014",
+    "name": "deepdeyiitgn/deepdeyiitgn",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:08:34Z",
+    "url": "https://github.com/deepdeyiitgn/deepdeyiitgn"
   },
   {
     "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T17:00:54Z",
     "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T17:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -131,7 +239,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 73798,
-    "updated_at": "2026-09-25T16:54:28Z",
+    "updated_at": "2026-09-25T17:10:00Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -207,15 +315,6 @@
     "url": "https://github.com/waLLxAck/kiln"
   },
   {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:55:19Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
     "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
     "id": "tobiast5801/mdp-preflight",
     "language": "\u2014",
@@ -223,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T16:40:23Z",
     "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-09-25T16:39:36Z",
-    "url": "https://github.com/zorcec/vibeflow"
   },
   {
     "description": "Prompts and result reports for testing locally hosted LLM models",
@@ -243,31 +333,13 @@
     "url": "https://github.com/dev-dull/local_llm_tests"
   },
   {
-    "description": "A visual builder that generates structured prompts for AI to create UI components. Build complex component hierarchies, ",
-    "id": "alonsarias/structured-prompts-ui",
-    "language": "TypeScript",
-    "name": "alonsarias/structured-prompts-ui",
-    "stars": 7,
-    "updated_at": "2026-09-25T16:39:23Z",
-    "url": "https://github.com/alonsarias/structured-prompts-ui"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4872,
-    "updated_at": "2026-09-25T17:03:59Z",
+    "updated_at": "2026-09-25T17:14:23Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-25T16:51:59Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
@@ -324,15 +396,6 @@
     "url": "https://github.com/3dgiordano/agent-plugins"
   },
   {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:41:24Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
     "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
     "id": "jgsystemsconsulting/jgs-goal-spec",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T16:35:17Z",
     "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:35:04Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:34:16Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11613,
-    "updated_at": "2026-09-25T16:57:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22237,
-    "updated_at": "2026-09-25T16:51:46Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:31:29Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:31:27Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:31:25Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
