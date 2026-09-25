@@ -1,5 +1,158 @@
 [
   {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5079,
+    "updated_at": "2026-09-25T02:15:22Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Working .claude/ files for Claude Code \u2014 drop-in subagents, slash commands and guard hooks that block rm -rf and .env re",
+    "id": "p32929/claude-code-starter-kit",
+    "language": "Shell",
+    "name": "p32929/claude-code-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:15:15Z",
+    "url": "https://github.com/p32929/claude-code-starter-kit"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-25T02:13:11Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 60,
+    "updated_at": "2026-09-25T02:13:00Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 1,921 \u6761\u5fae\u535a\uff0818 \u4e2a\u6708\uff0c\u8de8\u5c01\u7981\u524d\u540e\u4e24\u671f\uff09+ 4,163 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u8bdd\u672f\u6f14\u8fdb\u5206\u671f\u53c2\u8003\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002 /",
+    "id": "MincongZhou/fengge-distill",
+    "language": "JavaScript",
+    "name": "MincongZhou/fengge-distill",
+    "stars": 1,
+    "updated_at": "2026-09-25T02:12:54Z",
+    "url": "https://github.com/MincongZhou/fengge-distill"
+  },
+  {
+    "description": "A film crew for your AI video prompts: director, DP, gaffer, editor & script supervisor turn a one-line idea into a shot",
+    "id": "HEOJUNFO/ai-film-crew",
+    "language": "\u2014",
+    "name": "HEOJUNFO/ai-film-crew",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:12:45Z",
+    "url": "https://github.com/HEOJUNFO/ai-film-crew"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25426,
+    "updated_at": "2026-09-25T02:14:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
+    "id": "goku-open/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-gpt-image-2-prompts",
+    "stars": 4,
+    "updated_at": "2026-09-25T02:11:56Z",
+    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
+    "id": "V-Songbird/disregard",
+    "language": "JavaScript",
+    "name": "V-Songbird/disregard",
+    "stars": 1,
+    "updated_at": "2026-09-25T02:11:08Z",
+    "url": "https://github.com/V-Songbird/disregard"
+  },
+  {
+    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
+    "id": "JGRFW/comfyui-AICG3D",
+    "language": "JavaScript",
+    "name": "JGRFW/comfyui-AICG3D",
+    "stars": 95,
+    "updated_at": "2026-09-25T02:10:25Z",
+    "url": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7201,
+    "updated_at": "2026-09-25T02:10:50Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "\u5f9e\u6703\u7528 AI\uff0c\u9032\u968e\u5230\u6253\u9020 AI \u4f5c\u696d\u7cfb\u7d71",
+    "id": "draiagent/AI-Course-Architecture-Guide",
+    "language": "HTML",
+    "name": "draiagent/AI-Course-Architecture-Guide",
+    "stars": 1,
+    "updated_at": "2026-09-25T02:07:49Z",
+    "url": "https://github.com/draiagent/AI-Course-Architecture-Guide"
+  },
+  {
+    "description": "A/B-testing how an instruction file is written (rules vs character): rig design, ledger format, pre-registration procedu",
+    "id": "TJ11000/persona-ab-factory",
+    "language": "JavaScript",
+    "name": "TJ11000/persona-ab-factory",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:06:07Z",
+    "url": "https://github.com/TJ11000/persona-ab-factory"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-09-25T02:06:02Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Automatic context compaction for Codex and Claude Code sessions",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-25T02:02:14Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
+    "id": "delphisecurity/xaidr",
+    "language": "Python",
+    "name": "delphisecurity/xaidr",
+    "stars": 28,
+    "updated_at": "2026-09-25T02:02:22Z",
+    "url": "https://github.com/delphisecurity/xaidr"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T02:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -27,22 +180,22 @@
     "url": "https://github.com/ilien-dev/quiron"
   },
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 39369,
+    "updated_at": "2026-09-25T01:58:28Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
     "id": "minipuft/claude-prompts-mcp",
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 186,
-    "updated_at": "2026-09-25T01:59:40Z",
+    "updated_at": "2026-09-25T02:00:43Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39368,
-    "updated_at": "2026-09-25T01:58:28Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -58,7 +211,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73736,
+    "stars": 73737,
     "updated_at": "2026-09-25T01:54:45Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -70,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T01:53:12Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T01:57:41Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
@@ -117,33 +261,6 @@
     "url": "https://github.com/timurcatakli/teo-skills"
   },
   {
-    "description": "A film crew for your AI video prompts: director, DP, gaffer, editor & script supervisor turn a one-line idea into a shot",
-    "id": "HEOJUNFO/ai-film-crew",
-    "language": "\u2014",
-    "name": "HEOJUNFO/ai-film-crew",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:46:42Z",
-    "url": "https://github.com/HEOJUNFO/ai-film-crew"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T01:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
-    "id": "JGRFW/comfyui-AICG3D",
-    "language": "JavaScript",
-    "name": "JGRFW/comfyui-AICG3D",
-    "stars": 95,
-    "updated_at": "2026-09-25T01:45:14Z",
-    "url": "https://github.com/JGRFW/comfyui-AICG3D"
-  },
-  {
     "description": "Desktop AI tool that compiles informal requests into structured, versioned, export-ready prompt specifications.",
     "id": "klssxx/NeuroPromptSemanticCompiler",
     "language": "Python",
@@ -178,15 +295,6 @@
     "stars": 30,
     "updated_at": "2026-09-25T01:38:12Z",
     "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
-    "id": "V-Songbird/disregard",
-    "language": "JavaScript",
-    "name": "V-Songbird/disregard",
-    "stars": 1,
-    "updated_at": "2026-09-25T01:56:45Z",
-    "url": "https://github.com/V-Songbird/disregard"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T01:22:13Z",
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "HTML",
-    "name": "coco-research/coco",
-    "stars": 479,
-    "updated_at": "2026-09-25T01:21:38Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 7,
-    "updated_at": "2026-09-25T01:21:11Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:20:59Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:20:47Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:20:20Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-25T01:20:19Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-25T01:19:42Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:19:34Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:19:25Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:19:13Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:19:04Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "The canonical specification and reference standard for Spec-Driven Development (SDD) in AI-assisted software engineering",
-    "id": "sdd-standard/spec-driven-development",
-    "language": "\u2014",
-    "name": "sdd-standard/spec-driven-development",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:18:10Z",
-    "url": "https://github.com/sdd-standard/spec-driven-development"
   }
 ]
