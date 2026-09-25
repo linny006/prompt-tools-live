@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udcbc Manage your investments with AsesorAIrrechisimo, an AI-driven portfolio manager featuring a witty Venezuelan financial",
+    "id": "ZaykorDev/AsesorAIrrechisimo",
+    "language": "Lua",
+    "name": "ZaykorDev/AsesorAIrrechisimo",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:33:28Z",
+    "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-09-25T06:33:28Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:32:49Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T06:31:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
+    "id": "VitaPilot-AI/flakelens",
+    "language": "Python",
+    "name": "VitaPilot-AI/flakelens",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:31:00Z",
+    "url": "https://github.com/VitaPilot-AI/flakelens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T06:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Operator-grade prompt library for Private AI, Agents, Automation, Cloud & Data, and Learn service lines. Production temp",
     "id": "jeremylongshore/prompts-intent-solutions",
     "language": "Shell",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-09-25T06:29:49Z",
+    "updated_at": "2026-09-25T06:30:41Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
@@ -108,6 +162,15 @@
     "url": "https://github.com/TJ11000/persona-ab-factory"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28130,
+    "updated_at": "2026-09-25T06:25:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
     "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
     "language": "\u2014",
@@ -115,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T06:24:10Z",
     "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T06:21:27Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Awesome GPT Image Prompts by MuseSignal. Complete prompts, preview images and full JSON; versions share one collection. ",
@@ -171,15 +225,6 @@
     "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
-    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
-    "id": "VitaPilot-AI/flakelens",
-    "language": "Python",
-    "name": "VitaPilot-AI/flakelens",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:20:26Z",
-    "url": "https://github.com/VitaPilot-AI/flakelens"
-  },
-  {
     "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
     "id": "anyuer678/chatez",
     "language": "TypeScript",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:20:08Z",
     "url": "https://github.com/anyuer678/chatez"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:25:25Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
     "description": "Modular agentic prompt library \u2014 turn a brief into production-ready software specs. Built for small context windows. By ",
@@ -211,7 +247,7 @@
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
     "name": "LearnPrompt/awesome-seedance",
-    "stars": 1374,
+    "stars": 1375,
     "updated_at": "2026-09-25T06:19:12Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
@@ -232,15 +268,6 @@
     "stars": 53,
     "updated_at": "2026-09-25T06:16:15Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Write a fighter in plain English. Jev pilots it in real time. PR-driven ladder, swappable brains.",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 22,
-    "updated_at": "2026-09-25T06:08:46Z",
+    "updated_at": "2026-09-25T06:30:40Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "hraness/gobstopper",
     "stars": 7,
-    "updated_at": "2026-09-25T06:22:42Z",
+    "updated_at": "2026-09-25T06:30:28Z",
     "url": "https://github.com/hraness/gobstopper"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:06:01Z",
     "url": "https://github.com/JeffreyZhu2323/agentic-job-search"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28129,
-    "updated_at": "2026-09-25T06:25:01Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Reusable AI\u2013human collaboration frameworks for project\u2011level context engineering.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T05:50:10Z",
     "url": "https://github.com/raffertyuy/uy-kape"
-  },
-  {
-    "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
-    "id": "jhd3197/Prompture",
-    "language": "Python",
-    "name": "jhd3197/Prompture",
-    "stars": 14,
-    "updated_at": "2026-09-25T05:49:47Z",
-    "url": "https://github.com/jhd3197/Prompture"
-  },
-  {
-    "description": "A Claude Agent Skill for designing, reviewing and quality-assuring MEL indicators for development, humanitarian and publ",
-    "id": "dutchy313/indicator-design-skill",
-    "language": "Python",
-    "name": "dutchy313/indicator-design-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:47:55Z",
-    "url": "https://github.com/dutchy313/indicator-design-skill"
   }
 ]
