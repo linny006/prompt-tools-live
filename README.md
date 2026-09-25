@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-25 08:15 UTC
+> ⏰ Last updated: 2026-09-25 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hilmifawwazsaad/DidYouKnow](https://github.com/hilmifawwazsaad/DidYouKnow) | 0 | TypeScript | 2026-09-25 | Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia. |
-| 2 | [TJ11000/persona-ab-factory](https://github.com/TJ11000/persona-ab-factory) | 0 | JavaScript | 2026-09-25 | A/B-testing how an instruction file is written (rules vs character): rig design, ledger format, pre-registration procedu |
-| 3 | [Aditya-dxt/Aditya-dxt](https://github.com/Aditya-dxt/Aditya-dxt) | 2 | — | 2026-09-25 | 🎯 Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems \| React · Node.js ·  |
-| 4 | [MemoAsh/WKBD_rev2.0](https://github.com/MemoAsh/WKBD_rev2.0) | 6 | Python | 2026-09-25 | WorkBuddy 本地配置工具 · rev2.0 — 人格注入 / 云记忆注入 / 命令闸门解锁 / 网页过滤解除。源码交付，纯标准库。 \| Local config toolkit for WorkBuddy (rev2.0). |
-| 5 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-25 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
-| 6 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-25 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 7 | [BootBlock/SpriteGubbins](https://github.com/BootBlock/SpriteGubbins) | 0 | TypeScript | 2026-09-25 | Sprite Gubbins — an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets  |
-| 8 | [dbhq-uk/headwork-skill](https://github.com/dbhq-uk/headwork-skill) | 0 | Python | 2026-09-25 | Think a decision through, one question at a time. Explains the decision in plain English, then asks a single question wh |
-| 9 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-09-25 | Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context |
-| 10 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 22 | Python | 2026-09-25 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
-| 11 | [adambkovacs/candidate-experience-benchmark](https://github.com/adambkovacs/candidate-experience-benchmark) | 0 | HTML | 2026-09-25 | Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants,  |
-| 12 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-09-25 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
-| 13 | [V-Songbird/disregard](https://github.com/V-Songbird/disregard) | 1 | JavaScript | 2026-09-25 | Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0 |
-| 14 | [BotShelfVampire/botshelf-ai-team-registry](https://github.com/BotShelfVampire/botshelf-ai-team-registry) | 0 | Python | 2026-09-25 | BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C |
-| 15 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | TypeScript | 2026-09-25 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
-| 16 | [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) | 2 | JavaScript | 2026-09-25 | Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, pick its b |
-| 17 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4872 | TypeScript | 2026-09-25 | The platform for LLM evaluations and AI agent testing |
-| 18 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13488 | TypeScript | 2026-09-25 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 19 | [xhulz/nina](https://github.com/xhulz/nina) | 0 | JavaScript | 2026-09-25 | Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds  |
-| 20 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 1 | Shell | 2026-09-25 | Principle-first software-development workflow for Claude Code — brief → plan → task → implement → review, built for curr |
-| 21 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 4527 | Python | 2026-09-25 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi |
-| 22 | [LouisLau-art/multi-agent-skills-catalog](https://github.com/LouisLau-art/multi-agent-skills-catalog) | 2 | Python | 2026-09-25 | Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified. |
-| 23 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11308 | TypeScript | 2026-09-25 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
-| 24 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 107755 | Go | 2026-09-25 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l |
-| 25 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-09-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 26 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-25 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 27 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-09-25 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 28 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35033 | TypeScript | 2026-09-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 29 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-09-25 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 30 | [alexmckenley/htmlp](https://github.com/alexmckenley/htmlp) | 0 | Rust | 2026-09-25 | Strict markup for prompt files with explicit token limits. |
-| 31 | [pranavkafle/serpapi-mcp-catalog](https://github.com/pranavkafle/serpapi-mcp-catalog) | 1 | Python | 2026-09-25 | SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly |
-| 32 | [Bank848/Claude-Abo](https://github.com/Bank848/Claude-Abo) | 2 | Python | 2026-09-25 | A portable Claude Code setup template — 45 curated skills with provenance, cost-aware model routing, git safety hooks, a |
-| 33 | [PurpleXPurple/Awesome-Prompts](https://github.com/PurpleXPurple/Awesome-Prompts) | 0 | — | 2026-09-25 | Prompts i genuinely would test and possibly use myself. it would get updated soon. im gonna test my first optimization p |
-| 34 | [Muizzkolapo/agent-actions](https://github.com/Muizzkolapo/agent-actions) | 8 | Python | 2026-09-25 | Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates. |
-| 35 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-09-25 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 36 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28130 | Python | 2026-09-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 37 | [grimoire-rs/grimoire](https://github.com/grimoire-rs/grimoire) | 10 | Rust | 2026-09-25 | Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl |
-| 38 | [simonasrazm/skills](https://github.com/simonasrazm/skills) | 3 | TypeScript | 2026-09-25 | Professional skills for nasty bugs, hard decisions and reliable software delivery with Claude Code, Codex and other AI a |
-| 39 | [ki-tomat/kitomat](https://github.com/ki-tomat/kitomat) | 4 | JavaScript | 2026-09-25 | Frische KI-Ressourcen. Reife Ideen. |
-| 40 | [lim8603/dot-cowork](https://github.com/lim8603/dot-cowork) | 10 | PowerShell | 2026-09-25 | Reusable AI–human collaboration frameworks for project‑level context engineering. |
-| 41 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-09-25 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 42 | [luckyrjain/software-builder](https://github.com/luckyrjain/software-builder) | 0 | Python | 2026-09-25 | Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org |
-| 43 | [Brhiza/mingyu](https://github.com/Brhiza/mingyu) | 450 | TypeScript | 2026-09-25 | 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。 |
-| 44 | [cura-yjk/pera-flash](https://github.com/cura-yjk/pera-flash) | 0 | Ruby | 2026-09-25 | AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co |
-| 45 | [vincentkoc/dotskills](https://github.com/vincentkoc/dotskills) | 106 | Python | 2026-09-25 | 🐙 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen |
-| 46 | [muzimu217/ui-design-agent-kit](https://github.com/muzimu217/ui-design-agent-kit) | 19 | JavaScript | 2026-09-25 | UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based |
-| 47 | [xiaoYuan928/gpt-image-25-prompts](https://github.com/xiaoYuan928/gpt-image-25-prompts) | 1 | — | 2026-09-25 | Sourced GPT Image 2.5 (Flare/Sunburst) prompts with attribution — curated for hiAPI / API experiments |
-| 48 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-09-25 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 49 | [mohammedkhajamoinuddin/stable-diffusion-comfyui-kaggle](https://github.com/mohammedkhajamoinuddin/stable-diffusion-comfyui-kaggle) | 0 | Jupyter Notebook | 2026-09-25 | Stable Diffusion 1.5 deployment on Kaggle using ComfyUI, Tesla T4 GPUs, and Cloudflare Tunnel for browser-based AI image |
-| 50 | [truegiga/memory-fork-routing](https://github.com/truegiga/memory-fork-routing) | 0 | Python | 2026-09-25 | 触发词：整理记忆，或者直接/memory-fork-routing. WorkBuddy 本地记忆控制脚手架：关掉不可控的云端记忆，用「六分叉路由 + 路由指针」把主记忆瘦身为纯索引，再以「memory 台账 + 定期人工审核」保证有效性。 |
+| 1 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 1 | Shell | 2026-09-25 | Principle-first software-development workflow for Claude Code — brief → plan → task → implement → review, built for curr |
+| 2 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 4 | HTML | 2026-09-25 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 3 | [solar-thermopsis805/therapeutic-llm](https://github.com/solar-thermopsis805/therapeutic-llm) | 2 | TypeScript | 2026-09-25 | 🤖 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot |
+| 4 | [3dgiordano/agent-plugins](https://github.com/3dgiordano/agent-plugins) | 0 | JavaScript | 2026-09-25 | Cognitive scaffolding for coding agents |
+| 5 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-09-25 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
+| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22230 | Python | 2026-09-25 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 7 | [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) | 2 | JavaScript | 2026-09-25 | Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, pick its b |
+| 8 | [velokey-ai/awesome-seedream-5.0-pro-prompts](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts) | 3 | Python | 2026-09-25 | 🎨 Curated Seedream 5.0 Pro prompts with previews — auto-generated README, EN/中文 |
+| 9 | [jcempro/agents.md](https://github.com/jcempro/agents.md) | 2 | TypeScript | 2026-09-25 | Framework portátil de governança para agentes de IA: requisitos determinísticos, contexto enxuto e fluxos auditáveis par |
+| 10 | [Monsterw31/prom-playground](https://github.com/Monsterw31/prom-playground) | 1 | Python | 2026-09-25 | 🚀 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin |
+| 11 | [Bank848/Claude-Abo](https://github.com/Bank848/Claude-Abo) | 2 | Python | 2026-09-25 | A portable Claude Code setup template — 45 curated skills with provenance, cost-aware model routing, git safety hooks, a |
+| 12 | [alexmckenley/htmlp](https://github.com/alexmckenley/htmlp) | 0 | Rust | 2026-09-25 | Strict markup for prompt files with explicit token limits. |
+| 13 | [minipuft/claude-prompts-mcp](https://github.com/minipuft/claude-prompts-mcp) | 186 | TypeScript | 2026-09-25 | MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with  |
+| 14 | [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) | 87 | Python | 2026-09-25 | Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing s |
+| 15 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 7 | Python | 2026-09-25 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
+| 16 | [RafaelC22V/agentic-ai-mentorship-program](https://github.com/RafaelC22V/agentic-ai-mentorship-program) | 1 | — | 2026-09-25 |  |
+| 17 | [R-Dilipkumar/llm-study-mode-prompt](https://github.com/R-Dilipkumar/llm-study-mode-prompt) | 1 | — | 2026-09-25 | 🎓 Enhance learning with a tailored tutoring prompt system for Large Language Models, promoting active engagement and per |
+| 18 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 7 | JavaScript | 2026-09-25 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 19 | [benja0191928/awesome-llm-prompts](https://github.com/benja0191928/awesome-llm-prompts) | 4 | — | 2026-09-25 | 📝 Discover and use powerful prompts for LLMs to enhance your AI interactions and boost productivity in coding and creati |
+| 20 | [MarcoRamos016/AI-project](https://github.com/MarcoRamos016/AI-project) | 3 | HTML | 2026-09-25 | 🌞 Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV |
+| 21 | [nuttaruj/rolepod](https://github.com/nuttaruj/rolepod) | 3 | Shell | 2026-09-25 | Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) — 16 specialist ag |
+| 22 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 22 | Python | 2026-09-25 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
+| 23 | [dbhq-uk/headwork-skill](https://github.com/dbhq-uk/headwork-skill) | 0 | Python | 2026-09-25 | Think a decision through, one question at a time. Explains the decision in plain English, then asks a single question wh |
+| 24 | [R-cloud-git/ai-craft](https://github.com/R-cloud-git/ai-craft) | 3 | — | 2026-09-25 | 🐙 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a |
+| 25 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-25 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 26 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35034 | TypeScript | 2026-09-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 27 | [LucianFord/agent-pack](https://github.com/LucianFord/agent-pack) | 0 | — | 2026-09-25 | Production-tested AI coding agent configs for Claude Code & Kimi Code — dispatch conditions, known failure modes, accept |
+| 28 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-09-25 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 29 | [RonkTsang/gemini-chat-extension](https://github.com/RonkTsang/gemini-chat-extension) | 20 | TypeScript | 2026-09-25 | Open-source browser extension for Google Gemini with themes, chat navigation, shortcuts, and prompt automation. |
+| 30 | [wangkant/personagent](https://github.com/wangkant/personagent) | 15 | Python | 2026-09-25 | A selective persona agent for group chats and DMs with scoped memory, gated learning, context-aware participation, and t |
+| 31 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-09-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 32 | [hilmifawwazsaad/DidYouKnow](https://github.com/hilmifawwazsaad/DidYouKnow) | 0 | TypeScript | 2026-09-25 | Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia. |
+| 33 | [TJ11000/persona-ab-factory](https://github.com/TJ11000/persona-ab-factory) | 0 | JavaScript | 2026-09-25 | A/B-testing how an instruction file is written (rules vs character): rig design, ledger format, pre-registration procedu |
+| 34 | [Aditya-dxt/Aditya-dxt](https://github.com/Aditya-dxt/Aditya-dxt) | 2 | — | 2026-09-25 | 🎯 Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems \| React · Node.js ·  |
+| 35 | [MemoAsh/WKBD_rev2.0](https://github.com/MemoAsh/WKBD_rev2.0) | 6 | Python | 2026-09-25 | WorkBuddy 本地配置工具 · rev2.0 — 人格注入 / 云记忆注入 / 命令闸门解锁 / 网页过滤解除。源码交付，纯标准库。 \| Local config toolkit for WorkBuddy (rev2.0). |
+| 36 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-25 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
+| 37 | [BootBlock/SpriteGubbins](https://github.com/BootBlock/SpriteGubbins) | 0 | TypeScript | 2026-09-25 | Sprite Gubbins — an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets  |
+| 38 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-09-25 | Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context |
+| 39 | [adambkovacs/candidate-experience-benchmark](https://github.com/adambkovacs/candidate-experience-benchmark) | 0 | HTML | 2026-09-25 | Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants,  |
+| 40 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-09-25 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
+| 41 | [V-Songbird/disregard](https://github.com/V-Songbird/disregard) | 1 | JavaScript | 2026-09-25 | Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0 |
+| 42 | [BotShelfVampire/botshelf-ai-team-registry](https://github.com/BotShelfVampire/botshelf-ai-team-registry) | 0 | Python | 2026-09-25 | BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C |
+| 43 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | TypeScript | 2026-09-25 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
+| 44 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4872 | TypeScript | 2026-09-25 | The platform for LLM evaluations and AI agent testing |
+| 45 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13488 | TypeScript | 2026-09-25 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 46 | [xhulz/nina](https://github.com/xhulz/nina) | 0 | JavaScript | 2026-09-25 | Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds  |
+| 47 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 4527 | Python | 2026-09-25 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi |
+| 48 | [LouisLau-art/multi-agent-skills-catalog](https://github.com/LouisLau-art/multi-agent-skills-catalog) | 2 | Python | 2026-09-25 | Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified. |
+| 49 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11308 | TypeScript | 2026-09-25 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
+| 50 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 107755 | Go | 2026-09-25 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l |
 <!-- TRACKER_TABLE_END -->
 
 ---
