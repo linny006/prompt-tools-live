@@ -1,12 +1,129 @@
 [
   {
-    "description": "Python CLI that counts prompt tokens with OpenAI's tiktoken and ranks lines by token cost with per-line bars, plus --top",
-    "id": "Mattbusel/tokenviz",
+    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
+    "id": "FarzamMohammadi/dev-toolbox",
     "language": "Python",
-    "name": "Mattbusel/tokenviz",
-    "stars": 2,
-    "updated_at": "2026-09-25T21:00:23Z",
-    "url": "https://github.com/Mattbusel/tokenviz"
+    "name": "FarzamMohammadi/dev-toolbox",
+    "stars": 1,
+    "updated_at": "2026-09-25T21:15:12Z",
+    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
+  },
+  {
+    "description": "RAG enhances LLMs by retrieving relevant external knowledge before generating responses, improving accuracy and reducing",
+    "id": "Md-Emon-Hasan/Retrieval-Augmented-Generation-RAG",
+    "language": "Jupyter Notebook",
+    "name": "Md-Emon-Hasan/Retrieval-Augmented-Generation-RAG",
+    "stars": 5,
+    "updated_at": "2026-09-25T21:14:51Z",
+    "url": "https://github.com/Md-Emon-Hasan/Retrieval-Augmented-Generation-RAG"
+  },
+  {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-25T21:14:29Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
+    "id": "xhulz/nina",
+    "language": "JavaScript",
+    "name": "xhulz/nina",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:13:48Z",
+    "url": "https://github.com/xhulz/nina"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-25T21:13:46Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T21:13:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-25T21:14:19Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Single-file Python script that shows how tiktoken or Hugging Face tokenizers split your LLM prompt, ranks lines by token",
+    "id": "Mattbusel/Token-Visualizer",
+    "language": "Python",
+    "name": "Mattbusel/Token-Visualizer",
+    "stars": 11,
+    "updated_at": "2026-09-25T21:12:45Z",
+    "url": "https://github.com/Mattbusel/Token-Visualizer"
+  },
+  {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-25T21:12:06Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
+    "id": "ubik-dsh/deepseek-harness-skills",
+    "language": "Python",
+    "name": "ubik-dsh/deepseek-harness-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:11:52Z",
+    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
+  },
+  {
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
+    "id": "Moeeryani/Vibe-Coding-Production-Kit",
+    "language": "JavaScript",
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 29,
+    "updated_at": "2026-09-25T21:11:29Z",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
+  },
+  {
+    "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
+    "id": "ystk-kai/claude-harness",
+    "language": "Shell",
+    "name": "ystk-kai/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:09:21Z",
+    "url": "https://github.com/ystk-kai/claude-harness"
+  },
+  {
+    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
+    "id": "jthiruveedula/agentkit",
+    "language": "Python",
+    "name": "jthiruveedula/agentkit",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:08:45Z",
+    "url": "https://github.com/jthiruveedula/agentkit"
+  },
+  {
+    "description": "Declarative Self Improving Elixir - DSPy Orchestration in Elixir",
+    "id": "nshkrdotcom/DSPex",
+    "language": "Elixir",
+    "name": "nshkrdotcom/DSPex",
+    "stars": 19,
+    "updated_at": "2026-09-25T21:07:46Z",
+    "url": "https://github.com/nshkrdotcom/DSPex"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -14,8 +131,44 @@
     "language": "Python",
     "name": "gufranco/claude-engineering-rules",
     "stars": 2,
-    "updated_at": "2026-09-25T20:59:54Z",
+    "updated_at": "2026-09-25T21:06:17Z",
     "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-09-25T21:04:27Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:01:05Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T21:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Python CLI that counts prompt tokens with OpenAI's tiktoken and ranks lines by token cost with per-line bars, plus --top",
+    "id": "Mattbusel/tokenviz",
+    "language": "Python",
+    "name": "Mattbusel/tokenviz",
+    "stars": 2,
+    "updated_at": "2026-09-25T21:00:23Z",
+    "url": "https://github.com/Mattbusel/tokenviz"
   },
   {
     "description": "Strict markup for prompt files with explicit token limits.",
@@ -52,42 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:58:38Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:58:07Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 7,
-    "updated_at": "2026-09-25T20:57:58Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "Clean, portable agent skills for DeepSeek Harness, Claude Code and any harness reading the Agent Skills standard. Plain ",
-    "id": "ubik-dsh/deepseek-harness-skills",
-    "language": "Python",
-    "name": "ubik-dsh/deepseek-harness-skills",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:57:32Z",
-    "url": "https://github.com/ubik-dsh/deepseek-harness-skills"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T20:57:30Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -162,15 +279,6 @@
     "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
   },
   {
-    "description": "Declarative Self Improving Elixir - DSPy Orchestration in Elixir",
-    "id": "nshkrdotcom/DSPex",
-    "language": "Elixir",
-    "name": "nshkrdotcom/DSPex",
-    "stars": 19,
-    "updated_at": "2026-09-25T20:53:05Z",
-    "url": "https://github.com/nshkrdotcom/DSPex"
-  },
-  {
     "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
     "id": "Rosmarinusofficinalispoloneck995/anti-slop",
     "language": "\u2014",
@@ -189,21 +297,12 @@
     "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
   },
   {
-    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
-    "id": "FarzamMohammadi/dev-toolbox",
-    "language": "Python",
-    "name": "FarzamMohammadi/dev-toolbox",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:52:11Z",
-    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
-  },
-  {
     "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
     "id": "sebastian-software/skills.sebastian-software.com",
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-09-25T20:48:24Z",
+    "updated_at": "2026-09-25T21:07:06Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
   },
   {
@@ -225,21 +324,12 @@
     "url": "https://github.com/yanliudesign/behavior-question-skill"
   },
   {
-    "description": "Single-file Python script that shows how tiktoken or Hugging Face tokenizers split your LLM prompt, ranks lines by token",
-    "id": "Mattbusel/Token-Visualizer",
-    "language": "Python",
-    "name": "Mattbusel/Token-Visualizer",
-    "stars": 11,
-    "updated_at": "2026-09-25T20:59:30Z",
-    "url": "https://github.com/Mattbusel/Token-Visualizer"
-  },
-  {
     "description": "Local Gradio dashboard that streams a Claude or GPT response, heatmaps per-chunk latency, flags hedges, numbers and enti",
     "id": "Mattbusel/prompt-observatory",
     "language": "Python",
     "name": "Mattbusel/prompt-observatory",
     "stars": 2,
-    "updated_at": "2026-09-25T20:46:42Z",
+    "updated_at": "2026-09-25T21:12:08Z",
     "url": "https://github.com/Mattbusel/prompt-observatory"
   },
   {
@@ -250,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T20:46:14Z",
     "url": "https://github.com/Mattbusel/-real-time-neural-pattern-interpretation-and-orchestration."
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:53:21Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
     "description": "",
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T20:45:33Z",
     "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T20:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:41:10Z",
     "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:41:07Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Agent skills for filing, writing, reviewing, and handing off the work around code. Install one or take them all.",
-    "id": "kendrick/skills",
-    "language": "Shell",
-    "name": "kendrick/skills",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:40:30Z",
-    "url": "https://github.com/kendrick/skills"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:40:14Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:40:06Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:39:42Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:39:27Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:38:59Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 1,
-    "updated_at": "2026-09-25T20:38:45Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
   }
 ]
