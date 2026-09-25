@@ -1,12 +1,75 @@
 [
   {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 5,
+    "updated_at": "2026-09-25T12:15:08Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
+  },
+  {
     "description": "Switch AIs without re-explaining everything.",
     "id": "spidey889/context-generator",
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 12,
-    "updated_at": "2026-09-25T12:10:21Z",
+    "updated_at": "2026-09-25T12:15:05Z",
     "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35037,
+    "updated_at": "2026-09-25T12:14:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn vague agent prompts into precise, verifiable XML specs \u2014 then execute them. Headless multi-CLI generator skill (Cla",
+    "id": "owenob1/prompt-improver",
+    "language": "Shell",
+    "name": "owenob1/prompt-improver",
+    "stars": 6,
+    "updated_at": "2026-09-25T12:14:22Z",
+    "url": "https://github.com/owenob1/prompt-improver"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:13:38Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:12:44Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:14:20Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T12:10:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "One command \u2192 a whole AI team for your project: Master orchestrator + specialists + memory for Claude Code",
@@ -34,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T12:09:13Z",
     "url": "https://github.com/Adilaw12/freebird-vscode"
-  },
-  {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:08:42Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -86,7 +140,7 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 0,
-    "updated_at": "2026-09-25T12:05:48Z",
+    "updated_at": "2026-09-25T12:15:22Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T12:07:19Z",
     "url": "https://github.com/dgaramos/dr-agents"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35037,
-    "updated_at": "2026-09-25T12:08:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A persistent, observable, and collaborative memory infrastructure",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "BootBlock/SpriteGubbins",
     "stars": 0,
-    "updated_at": "2026-09-25T12:04:28Z",
+    "updated_at": "2026-09-25T12:12:45Z",
     "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "jbsoftware-io/gen-ai-starter",
     "stars": 3,
-    "updated_at": "2026-09-25T12:04:10Z",
+    "updated_at": "2026-09-25T12:11:50Z",
     "url": "https://github.com/jbsoftware-io/gen-ai-starter"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-25T12:01:08Z",
+    "updated_at": "2026-09-25T12:12:05Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -185,35 +230,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22232,
-    "updated_at": "2026-09-25T12:08:42Z",
+    "updated_at": "2026-09-25T12:10:53Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T12:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:06:39Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:07:14Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "22 lessons building generative AI apps with the Google Gemini API \u2014 quizzes, graded exercises, and every API claim verif",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4872,
-    "updated_at": "2026-09-25T12:08:32Z",
+    "updated_at": "2026-09-25T12:15:07Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
-    "id": "rootcastleco/rei-skills",
-    "language": "Python",
-    "name": "rootcastleco/rei-skills",
-    "stars": 6,
-    "updated_at": "2026-09-25T11:33:37Z",
-    "url": "https://github.com/rootcastleco/rei-skills"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-25T11:33:29Z",
-    "url": "https://github.com/doodersrage/castcut"
   }
 ]
