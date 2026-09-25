@@ -1,11 +1,92 @@
 [
   {
+    "description": "Turn vague agent prompts into precise, verifiable XML specs \u2014 then execute them. Headless multi-CLI generator skill (Cla",
+    "id": "owenob1/prompt-improver",
+    "language": "Shell",
+    "name": "owenob1/prompt-improver",
+    "stars": 6,
+    "updated_at": "2026-09-25T03:43:44Z",
+    "url": "https://github.com/owenob1/prompt-improver"
+  },
+  {
+    "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusio",
+    "id": "humeicw/dirty-work",
+    "language": "\u2014",
+    "name": "humeicw/dirty-work",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:41:38Z",
+    "url": "https://github.com/humeicw/dirty-work"
+  },
+  {
+    "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
+    "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "language": "JavaScript",
+    "name": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "stars": 24,
+    "updated_at": "2026-09-25T03:40:36Z",
+    "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:44:55Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:36:31Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T03:34:46Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Interactive Web & Android Companion App for Frontier Prompt Engineering: 738 Lessons, Audio Lectures, In-Memory AI Tutor",
+    "id": "hammadshakeelai/prompt-mastery-app",
+    "language": "TypeScript",
+    "name": "hammadshakeelai/prompt-mastery-app",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:32:54Z",
+    "url": "https://github.com/hammadshakeelai/prompt-mastery-app"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73740,
+    "updated_at": "2026-09-25T03:32:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T03:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-25T03:29:01Z",
+    "updated_at": "2026-09-25T03:36:10Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -18,31 +99,13 @@
     "url": "https://github.com/johnqtcg/awesome-skills"
   },
   {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:28:26Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73740,
-    "updated_at": "2026-09-25T03:27:28Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Turn vague agent prompts into precise, verifiable XML specs \u2014 then execute them. Headless multi-CLI generator skill (Cla",
-    "id": "owenob1/prompt-improver",
-    "language": "Shell",
-    "name": "owenob1/prompt-improver",
-    "stars": 6,
-    "updated_at": "2026-09-25T03:24:42Z",
-    "url": "https://github.com/owenob1/prompt-improver"
+    "description": "The Definitive Prompt Engineering Encyclopedia: Core Foundations, Reasoning Architectures, Frontier Models (o1/R1), Prog",
+    "id": "hammadshakeelai/prompt-engineering-mastery",
+    "language": "HTML",
+    "name": "hammadshakeelai/prompt-engineering-mastery",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:26:42Z",
+    "url": "https://github.com/hammadshakeelai/prompt-engineering-mastery"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -72,6 +135,15 @@
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
+    "description": "All the AI files your website should have to be crawlable, parsable, discoverable, and to drive AI traffic \u2014 with copy-p",
+    "id": "tristandenyer/awesome-ai-website-files",
+    "language": "\u2014",
+    "name": "tristandenyer/awesome-ai-website-files",
+    "stars": 6,
+    "updated_at": "2026-09-25T03:19:54Z",
+    "url": "https://github.com/tristandenyer/awesome-ai-website-files"
+  },
+  {
     "description": "Automatic context compaction for Codex and Claude Code sessions",
     "id": "hraness/gobstopper",
     "language": "Rust",
@@ -86,7 +158,7 @@
     "language": "JavaScript",
     "name": "V-Songbird/disregard",
     "stars": 1,
-    "updated_at": "2026-09-25T03:16:32Z",
+    "updated_at": "2026-09-25T03:45:03Z",
     "url": "https://github.com/V-Songbird/disregard"
   },
   {
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:15:50Z",
     "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T03:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:12:51Z",
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T03:12:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-25T03:06:07Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 209,
-    "updated_at": "2026-09-25T03:06:04Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
-    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "language": "JavaScript",
-    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "stars": 17,
-    "updated_at": "2026-09-25T03:05:55Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:05:50Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-25T03:05:45Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:05:40Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:05:36Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
