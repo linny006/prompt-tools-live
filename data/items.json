@@ -1,12 +1,219 @@
 [
   {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-25T15:30:17Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73788,
+    "updated_at": "2026-09-25T15:29:37Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 6026,
+    "updated_at": "2026-09-25T15:29:26Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Architecture-first workflow for coding agents to make cleaner, safer, more current code changes.",
+    "id": "oddyblue/Less-Is-More-Skill",
+    "language": "\u2014",
+    "name": "oddyblue/Less-Is-More-Skill",
+    "stars": 2,
+    "updated_at": "2026-09-25T15:29:23Z",
+    "url": "https://github.com/oddyblue/Less-Is-More-Skill"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:29:05Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 9,
+    "updated_at": "2026-09-25T15:28:46Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:27:31Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:27:02Z",
+    "url": "https://github.com/chriscantu/claude-config"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T15:26:36Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Rewrite prompts in one click inside ChatGPT, Gemini, and Claude \u2014 and rephrase any text on the web. Bring your own Gemin",
+    "id": "piyushdoorwar/ask-better",
+    "language": "JavaScript",
+    "name": "piyushdoorwar/ask-better",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:26:29Z",
+    "url": "https://github.com/piyushdoorwar/ask-better"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-25T15:26:12Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:24:09Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-25T15:21:13Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:21:02Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-09-25T15:20:16Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35043,
+    "updated_at": "2026-09-25T15:20:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Windows app for coding-agent skills: every skill Claude Code, Codex and Copilot load on one panel, and new prompts teste",
+    "id": "waLLxAck/kiln",
+    "language": "TypeScript",
+    "name": "waLLxAck/kiln",
+    "stars": 1,
+    "updated_at": "2026-09-25T15:20:50Z",
+    "url": "https://github.com/waLLxAck/kiln"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:28:08Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Agente de Intelig\u00eancia Estrat\u00e9gica de Not\u00edcias com busca web, curadoria contextual, an\u00e1lise estrat\u00e9gica e gera\u00e7\u00e3o din\u00e2mi",
+    "id": "MCLG1661/ARI-NEWS-V2",
+    "language": "\u2014",
+    "name": "MCLG1661/ARI-NEWS-V2",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:17:56Z",
+    "url": "https://github.com/MCLG1661/ARI-NEWS-V2"
+  },
+  {
+    "description": "A bounded-autonomy plugin harness for coding agents. Intent to implementation: ready, then go.",
+    "id": "prekuter/dryforge",
+    "language": "Python",
+    "name": "prekuter/dryforge",
+    "stars": 274,
+    "updated_at": "2026-09-25T15:22:09Z",
+    "url": "https://github.com/prekuter/dryforge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22237,
+    "updated_at": "2026-09-25T15:30:22Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claude Code and Codex skill that thinks a decision through, one question at a time. It names one option as the recommend",
+    "id": "dbhq-uk/headwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/headwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:16:51Z",
+    "url": "https://github.com/dbhq-uk/headwork-skill"
+  },
+  {
     "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
     "id": "opascope/skills",
     "language": "Python",
     "name": "opascope/skills",
     "stars": 0,
-    "updated_at": "2026-09-25T15:15:27Z",
+    "updated_at": "2026-09-25T15:16:13Z",
     "url": "https://github.com/opascope/skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-25T15:15:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
@@ -36,20 +243,11 @@
     "url": "https://github.com/ZhongBiao-zheng/video-prompt"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T15:11:50Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25448,
+    "stars": 25450,
     "updated_at": "2026-09-25T15:11:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -63,33 +261,6 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73788,
-    "updated_at": "2026-09-25T15:08:27Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35043,
-    "updated_at": "2026-09-25T15:07:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:10:54Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
     "id": "fysoul17/devlyn-cli",
     "language": "Python",
@@ -97,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T15:06:12Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
-    "id": "chriscantu/claude-config",
-    "language": "TypeScript",
-    "name": "chriscantu/claude-config",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:06:23Z",
-    "url": "https://github.com/chriscantu/claude-config"
   },
   {
     "description": "PromptKit for Paseo rewrites prompts in your own voice while preserving language, URLs, paths, commands, code, model nam",
@@ -180,22 +342,13 @@
     "url": "https://github.com/nakamori-naoya/skill-authoring-plugins"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-25T15:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Windows app for coding-agent skills: every skill Claude Code, Codex and Copilot load on one panel, and new prompts teste",
-    "id": "waLLxAck/kiln",
-    "language": "TypeScript",
-    "name": "waLLxAck/kiln",
-    "stars": 1,
-    "updated_at": "2026-09-25T14:58:27Z",
-    "url": "https://github.com/waLLxAck/kiln"
+    "name": "Arize-ai/phoenix",
+    "stars": 11612,
+    "updated_at": "2026-09-25T15:00:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -225,21 +378,12 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22236,
-    "updated_at": "2026-09-25T15:01:29Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
     "id": "duartelcunha/Ember",
     "language": "Rust",
     "name": "duartelcunha/Ember",
     "stars": 3,
-    "updated_at": "2026-09-25T15:10:43Z",
+    "updated_at": "2026-09-25T15:26:36Z",
     "url": "https://github.com/duartelcunha/Ember"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T14:47:35Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:46:26Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "Kerangka dulu, baru menulis. Skill terbuka untuk Claude dan model AI lain.",
-    "id": "bryankwandou/rangka",
-    "language": "HTML",
-    "name": "bryankwandou/rangka",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:44:08Z",
-    "url": "https://github.com/bryankwandou/rangka"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5079,
-    "updated_at": "2026-09-25T14:43:46Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-09-25T14:41:31Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "An evidence gate for AI coding agents, and a benchmark that grades with a test exit code instead of another model. 424 r",
-    "id": "tainguyen091994/receipts",
-    "language": "Python",
-    "name": "tainguyen091994/receipts",
-    "stars": 1,
-    "updated_at": "2026-09-25T14:40:22Z",
-    "url": "https://github.com/tainguyen091994/receipts"
-  },
-  {
-    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-09-25T14:38:16Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
-  },
-  {
-    "description": "Master catalog and dispatcher router for the 48 William Fitzpatrick AI Agent Cognitive Writing Skills suite.",
-    "id": "markkirby125/kirby-fitzpatrick-writers-collection",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-fitzpatrick-writers-collection",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:33:22Z",
-    "url": "https://github.com/markkirby125/kirby-fitzpatrick-writers-collection"
-  },
-  {
-    "description": "Field notes on long-horizon AI agent collaboration: 20+ measured failure modes, 12 engineering guidelines, and a portabl",
-    "id": "ON9z/hoh-lun-ong-gow",
-    "language": "Python",
-    "name": "ON9z/hoh-lun-ong-gow",
-    "stars": 1,
-    "updated_at": "2026-09-25T14:32:38Z",
-    "url": "https://github.com/ON9z/hoh-lun-ong-gow"
-  },
-  {
-    "description": "A centralized directory of Kirby Skills\u2014specialized standard operating procedures and frameworks for AI agents.",
-    "id": "markkirby125/kirby-skills-collection",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:32:06Z",
-    "url": "https://github.com/markkirby125/kirby-skills-collection"
-  },
-  {
-    "description": "Reverse-engineers author voice, cadence, and lexicon into machine-enforceable Voice DNA profiles",
-    "id": "markkirby125/kirby-voice-dna-extractor",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-voice-dna-extractor",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:57Z",
-    "url": "https://github.com/markkirby125/kirby-voice-dna-extractor"
-  },
-  {
-    "description": "Extracts, structures, and catalogs personal business scars and epiphanies for authentic storytelling",
-    "id": "markkirby125/kirby-storyline-bank",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-storyline-bank",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:55Z",
-    "url": "https://github.com/markkirby125/kirby-storyline-bank"
-  },
-  {
-    "description": "Transforms educational PLR into persuasive direct-response sales copy across 8 commercial delivery models",
-    "id": "markkirby125/kirby-plr-sales-converter",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-sales-converter",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:52Z",
-    "url": "https://github.com/markkirby125/kirby-plr-sales-converter"
-  },
-  {
-    "description": "Master Two-Way PLR Personalization & Framework Fusion engine for AI agents",
-    "id": "markkirby125/kirby-plr-personalizer",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-personalizer",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:50Z",
-    "url": "https://github.com/markkirby125/kirby-plr-personalizer"
-  },
-  {
-    "description": "Deconstructs a single personalized PLR asset into 12 platform-native social, audio-visual, and editorial formats",
-    "id": "markkirby125/kirby-plr-omnichannel-repurposer",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-omnichannel-repurposer",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:48Z",
-    "url": "https://github.com/markkirby125/kirby-plr-omnichannel-repurposer"
-  },
-  {
-    "description": "Converts raw informational PLR into 10 high-converting direct-response email autoresponder sequences",
-    "id": "markkirby125/kirby-plr-email-sequences",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-email-sequences",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:47Z",
-    "url": "https://github.com/markkirby125/kirby-plr-email-sequences"
-  },
-  {
-    "description": "15-point diagnostic audit and surgical repair suite to eliminate tone drift, forced stories, and AI slop",
-    "id": "markkirby125/kirby-plr-diagnostic-debugger",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-diagnostic-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:31:45Z",
-    "url": "https://github.com/markkirby125/kirby-plr-diagnostic-debugger"
   }
 ]
