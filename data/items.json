@@ -1,11 +1,56 @@
 [
   {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-09-24T23:59:49Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-24T23:58:51Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-09-24T23:55:03Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
+    "id": "paro-studio/web",
+    "language": "TypeScript",
+    "name": "paro-studio/web",
+    "stars": 13,
+    "updated_at": "2026-09-24T23:54:06Z",
+    "url": "https://github.com/paro-studio/web"
+  },
+  {
+    "description": "Desktop AI tool that compiles informal requests into structured, versioned, export-ready prompt specifications.",
+    "id": "klssxx/NeuroPromptSemanticCompiler",
+    "language": "Python",
+    "name": "klssxx/NeuroPromptSemanticCompiler",
+    "stars": 2,
+    "updated_at": "2026-09-24T23:53:17Z",
+    "url": "https://github.com/klssxx/NeuroPromptSemanticCompiler"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-24T23:43:23Z",
+    "updated_at": "2026-09-24T23:53:07Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -14,8 +59,26 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 0,
-    "updated_at": "2026-09-24T23:43:18Z",
+    "updated_at": "2026-09-24T23:52:18Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "A hands-on journey into Generative AI and LLM Engineering \u2014 covering frontier and open-source models, RAG, agents, multi",
+    "id": "Irene-Busah/llm-engineering-course",
+    "language": "Jupyter Notebook",
+    "name": "Irene-Busah/llm-engineering-course",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:51:50Z",
+    "url": "https://github.com/Irene-Busah/llm-engineering-course"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:00:15Z",
+    "url": "https://github.com/chriscantu/claude-config"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -23,8 +86,35 @@
     "language": "TypeScript",
     "name": "doodersrage/castcut",
     "stars": 1,
-    "updated_at": "2026-09-24T23:41:10Z",
+    "updated_at": "2026-09-24T23:48:48Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
+    "id": "Moeeryani/Vibe-Coding-Production-Kit",
+    "language": "JavaScript",
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 19,
+    "updated_at": "2026-09-24T23:47:38Z",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
+  },
+  {
+    "description": "Evidence-aware visual prompt compiler and experimentation lab for GPT Image 2, with historical/cultural reasoning, refer",
+    "id": "PaladinKnightMaster/ai-image-prompt-factory",
+    "language": "Python",
+    "name": "PaladinKnightMaster/ai-image-prompt-factory",
+    "stars": 1,
+    "updated_at": "2026-09-24T23:46:07Z",
+    "url": "https://github.com/PaladinKnightMaster/ai-image-prompt-factory"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-24T23:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -63,15 +153,6 @@
     "url": "https://github.com/jason3e7/ai-101"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-24T23:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:30:01Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Desktop AI tool that compiles informal requests into structured, versioned, export-ready prompt specifications.",
-    "id": "klssxx/NeuroPromptSemanticCompiler",
-    "language": "Python",
-    "name": "klssxx/NeuroPromptSemanticCompiler",
-    "stars": 2,
-    "updated_at": "2026-09-24T23:43:42Z",
-    "url": "https://github.com/klssxx/NeuroPromptSemanticCompiler"
   },
   {
     "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
@@ -104,7 +176,7 @@
     "language": "Shell",
     "name": "OpenScribbler/Katharsis",
     "stars": 4,
-    "updated_at": "2026-09-24T23:36:30Z",
+    "updated_at": "2026-09-24T23:53:21Z",
     "url": "https://github.com/OpenScribbler/Katharsis"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 989,
     "updated_at": "2026-09-24T23:17:01Z",
     "url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:16:18Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:16:12Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:16:11Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-24T23:15:55Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:15:52Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-24T23:15:49Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:15:34Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "\u96d9\u8a9e\u6a19\u8a3b\u5de5\u5177 / Zweisprachiges Annotations-Toolkit / Bilingual Annotator Toolkit",
-    "id": "si-kui-a/Bilingual-Annotator-Toolkit",
-    "language": "Python",
-    "name": "si-kui-a/Bilingual-Annotator-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:15:31Z",
-    "url": "https://github.com/si-kui-a/Bilingual-Annotator-Toolkit"
   }
 ]
