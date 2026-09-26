@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 5,
+    "updated_at": "2026-09-26T19:12:07Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-26T19:11:38Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 8,
+    "updated_at": "2026-09-26T19:10:11Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
+    "id": "Almotasembellahawwad/Verve",
+    "language": "TypeScript",
+    "name": "Almotasembellahawwad/Verve",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:13:05Z",
+    "url": "https://github.com/Almotasembellahawwad/Verve"
+  },
+  {
+    "description": "FastAPI + React + SQLite \u7684\u4eba\u673a\u534f\u540c\u786e\u5b9a\u6027 LLM \u8bba\u6587\u5199\u4f5c\u5de5\u4f5c\u6d41\u7cfb\u7edf\uff087 \u7c7b\u8bba\u6587\u5dee\u5f02\u5316\u5de5\u5e8f / 10 \u72b6\u6001\u72b6\u6001\u673a / \u4e24\u9053\u4eba\u5de5\u786e\u8ba4\u95f8\u95e8 / 0 \u5e7b\u89c9\u5f15\u7528\uff09",
+    "id": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "language": "Python",
+    "name": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:09:42Z",
+    "url": "https://github.com/EricAndHisWordcards/ai-academic-writing-assistant"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:07:52Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "AI review of personalised Shopify orders with a human in the loop: Supabase (RLS, Edge Functions), n8n, Codex/Claude beh",
+    "id": "SamukDantas/order-ops-copilot",
+    "language": "JavaScript",
+    "name": "SamukDantas/order-ops-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:05:52Z",
+    "url": "https://github.com/SamukDantas/order-ops-copilot"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35076,
+    "updated_at": "2026-09-26T19:07:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/deep-suite",
+    "stars": 9,
+    "updated_at": "2026-09-26T19:02:11Z",
+    "url": "https://github.com/Sungmin-Cho/deep-suite"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "555cute/astra-quant-agent",
+    "language": "Python",
+    "name": "555cute/astra-quant-agent",
+    "stars": 261,
+    "updated_at": "2026-09-26T19:01:48Z",
+    "url": "https://github.com/555cute/astra-quant-agent"
+  },
+  {
+    "description": "A plugin for Claude Code that also uses Codex a bit.",
+    "id": "xsyetopz/dotclaude",
+    "language": "JavaScript",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:00:46Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T19:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
     "id": "blauwtje/exo",
     "language": "JavaScript",
@@ -13,7 +121,7 @@
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 6033,
+    "stars": 6034,
     "updated_at": "2026-09-26T18:59:11Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T18:56:10Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-26T18:53:52Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -49,7 +148,7 @@
     "id": "elie222/botdirectory.ai",
     "language": "Astro",
     "name": "elie222/botdirectory.ai",
-    "stars": 215,
+    "stars": 216,
     "updated_at": "2026-09-26T18:53:22Z",
     "url": "https://github.com/elie222/botdirectory.ai"
   },
@@ -121,7 +220,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 73871,
+    "stars": 73872,
     "updated_at": "2026-09-26T18:47:43Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -153,15 +252,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T18:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
@@ -175,7 +265,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Python",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 16477,
+    "stars": 16479,
     "updated_at": "2026-09-26T18:42:58Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -214,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T18:37:58Z",
     "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 7,
-    "updated_at": "2026-09-26T18:59:25Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "Keeps project direction recoverable without turning planning into the project.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T18:17:28Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
-    "id": "Global-AI-Group-Inc/content-generation-skills",
-    "language": "JavaScript",
-    "name": "Global-AI-Group-Inc/content-generation-skills",
-    "stars": 6,
-    "updated_at": "2026-09-26T18:17:16Z",
-    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 5,
-    "updated_at": "2026-09-26T18:16:15Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:16:01Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
-    "id": "rustyorb/SillyTavern-CreativeStudio",
-    "language": "JavaScript",
-    "name": "rustyorb/SillyTavern-CreativeStudio",
-    "stars": 4,
-    "updated_at": "2026-09-26T18:15:02Z",
-    "url": "https://github.com/rustyorb/SillyTavern-CreativeStudio"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-09-26T18:13:55Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 937,
-    "updated_at": "2026-09-26T18:13:52Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Agent skills for evidence-based media research, market-specific public relations, marketing, and outreach drafting",
-    "id": "shy-tangerine/publicist-skills",
-    "language": "Python",
-    "name": "shy-tangerine/publicist-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:08:07Z",
-    "url": "https://github.com/shy-tangerine/publicist-skills"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:05:42Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 142,
-    "updated_at": "2026-09-26T18:05:34Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
