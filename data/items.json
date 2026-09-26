@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 1,
+    "updated_at": "2026-09-26T23:49:55Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
+    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "language": "Jupyter Notebook",
+    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "stars": 4,
+    "updated_at": "2026-09-26T23:49:38Z",
+    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:45:27Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T23:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Evaluation environment for the llm-mailroom pipeline.",
     "id": "LLM-Mailroom-Services/eval-environment",
     "language": "Python",
     "name": "LLM-Mailroom-Services/eval-environment",
     "stars": 1,
-    "updated_at": "2026-09-26T23:45:02Z",
+    "updated_at": "2026-09-26T23:50:09Z",
     "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
   },
   {
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25478,
-    "updated_at": "2026-09-26T23:45:03Z",
+    "updated_at": "2026-09-26T23:50:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T23:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Structured prompt generation, Rust native \u2014 rough prompt in, PE2-structured prompt out.",
     "id": "kleosr/PE2-CLI",
     "language": "Rust",
@@ -142,15 +169,6 @@
     "stars": 24,
     "updated_at": "2026-09-26T23:24:35Z",
     "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-26T23:22:26Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "AI-augmented software and product engineer \u2014 agent pipelines run under a written harness, and the Next.js / TypeScript p",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T22:40:01Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Offline profiler for AI agent instructions, skills, subagents and MCP schemas. No API keys or network.",
-    "id": "alebgl77/harnessmeter",
-    "language": "TypeScript",
-    "name": "alebgl77/harnessmeter",
-    "stars": 0,
-    "updated_at": "2026-09-26T22:39:58Z",
-    "url": "https://github.com/alebgl77/harnessmeter"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-09-26T22:39:22Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
