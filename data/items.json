@@ -1,12 +1,201 @@
 [
   {
+    "description": "\ud83c\udfb6 Analyze Spotify playlists to uncover \"dating red flag\" insights using data scraping and GenAI for a fun personality br",
+    "id": "Merveil22/spotify-playlist-dating-redflag-analysis",
+    "language": "Python",
+    "name": "Merveil22/spotify-playlist-dating-redflag-analysis",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:45:11Z",
+    "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-26T21:44:07Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:44:01Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, decli",
+    "id": "tonydzi/claude-bible",
+    "language": "\u2014",
+    "name": "tonydzi/claude-bible",
+    "stars": 11,
+    "updated_at": "2026-09-26T21:43:36Z",
+    "url": "https://github.com/tonydzi/claude-bible"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:43:27Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:42:59Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "\ud83d\udd0d Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers.",
+    "id": "EpicSaleh/freelancer-opportunity-finder",
+    "language": "JavaScript",
+    "name": "EpicSaleh/freelancer-opportunity-finder",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:42:50Z",
+    "url": "https://github.com/EpicSaleh/freelancer-opportunity-finder"
+  },
+  {
+    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
+    "id": "thucutos1fpt/Italian-AI-Debater",
+    "language": "Python",
+    "name": "thucutos1fpt/Italian-AI-Debater",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:42:29Z",
+    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-09-26T21:42:08Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "One persona, one frozen memory, N models: how much of an agent's character survives a model swap? Harness + blind multi-",
+    "id": "tonydzi/persona-portability-benchmark",
+    "language": "Python",
+    "name": "tonydzi/persona-portability-benchmark",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:41:31Z",
+    "url": "https://github.com/tonydzi/persona-portability-benchmark"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "JaiChaudhary07/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "JaiChaudhary07/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-09-26T21:40:41Z",
+    "url": "https://github.com/JaiChaudhary07/ai-dev-assistant-framework"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:40:21Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:40:19Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-26T21:39:55Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-26T21:39:04Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-09-26T21:38:01Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:37:04Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Python",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 16492,
-    "updated_at": "2026-09-26T21:31:29Z",
+    "stars": 16493,
+    "updated_at": "2026-09-26T21:36:38Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "Keeps project direction recoverable without turning planning into the project.",
+    "id": "benjaminstelzer/scoville-plan",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-plan",
+    "stars": 3,
+    "updated_at": "2026-09-26T21:34:47Z",
+    "url": "https://github.com/benjaminstelzer/scoville-plan"
+  },
+  {
+    "description": "Transfers the work state, not the whole conversation.",
+    "id": "benjaminstelzer/scoville-handoff",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-handoff",
+    "stars": 2,
+    "updated_at": "2026-09-26T21:34:41Z",
+    "url": "https://github.com/benjaminstelzer/scoville-handoff"
+  },
+  {
+    "description": "Keeps the engineering result visible through the process around it.",
+    "id": "benjaminstelzer/scoville-code",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-code",
+    "stars": 8,
+    "updated_at": "2026-09-26T21:34:35Z",
+    "url": "https://github.com/benjaminstelzer/scoville-code"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 191,
+    "updated_at": "2026-09-26T21:32:11Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,7 +203,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 11,
-    "updated_at": "2026-09-26T21:30:26Z",
+    "updated_at": "2026-09-26T21:31:47Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -25,15 +214,6 @@
     "stars": 7208,
     "updated_at": "2026-09-26T21:28:09Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 7,
-    "updated_at": "2026-09-26T21:26:53Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "Connect an agent here. 342 skills (Cursor, Claude Code & Codex), 107 research papers, 201 ML notebooks, 9 textbooks, 18 ",
@@ -113,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25478,
-    "updated_at": "2026-09-26T21:30:56Z",
+    "updated_at": "2026-09-26T21:45:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -133,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T21:27:57Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T21:07:42Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
@@ -252,33 +423,6 @@
     "url": "https://github.com/3dgiordano/agent-plugins"
   },
   {
-    "description": "Keeps project direction recoverable without turning planning into the project.",
-    "id": "benjaminstelzer/scoville-plan",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-plan",
-    "stars": 3,
-    "updated_at": "2026-09-26T20:51:08Z",
-    "url": "https://github.com/benjaminstelzer/scoville-plan"
-  },
-  {
-    "description": "Transfers the work state, not the whole conversation.",
-    "id": "benjaminstelzer/scoville-handoff",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-handoff",
-    "stars": 2,
-    "updated_at": "2026-09-26T20:51:02Z",
-    "url": "https://github.com/benjaminstelzer/scoville-handoff"
-  },
-  {
-    "description": "Keeps the engineering result visible through the process around it.",
-    "id": "benjaminstelzer/scoville-code",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-code",
-    "stars": 8,
-    "updated_at": "2026-09-26T20:50:56Z",
-    "url": "https://github.com/benjaminstelzer/scoville-code"
-  },
-  {
     "description": "Your AI agent doesn't hate you. It just really hates the word \u201cmake it better\u201d. More serious, a system prompt that inter",
     "id": "agmonetti/disambiguator",
     "language": "Python",
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T20:48:27Z",
     "url": "https://github.com/cdeust/session-optimizer"
-  },
-  {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:48:01Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
-    "id": "yangzhou-chaofan/awesome-jev-prompt",
-    "language": "JavaScript",
-    "name": "yangzhou-chaofan/awesome-jev-prompt",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:46:00Z",
-    "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:44:44Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
-    "description": "43 AI video camera-move prompt recipes (dolly, orbit, crane, FPV\u2026) with example clips \u2014 open dataset, CC BY 4.0",
-    "id": "fueledximagination/fxi-camera-moves",
-    "language": "JavaScript",
-    "name": "fueledximagination/fxi-camera-moves",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:40:44Z",
-    "url": "https://github.com/fueledximagination/fxi-camera-moves"
-  },
-  {
-    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
-    "id": "VeraPyuyi/prompt_control_lab",
-    "language": "Python",
-    "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 7,
-    "updated_at": "2026-09-26T20:39:05Z",
-    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "Python",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:38:48Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
-  },
-  {
-    "description": "team-os \u2014 95 agentes e 108 skills em 10 squads (Dev, Sites, Social, Traffic, PM, Sales, Brand, Finance, Legal, SEO) para",
-    "id": "joaoguirunas/team-os",
-    "language": "Python",
-    "name": "joaoguirunas/team-os",
-    "stars": 3,
-    "updated_at": "2026-09-26T20:35:16Z",
-    "url": "https://github.com/joaoguirunas/team-os"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-09-26T20:32:27Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 25,
-    "updated_at": "2026-09-26T20:33:40Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-26T20:32:10Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73879,
-    "updated_at": "2026-09-26T20:31:39Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:30:54Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI review of personalised Shopify orders with a human in the loop: Supabase (RLS, Edge Functions), n8n, Codex/Claude beh",
-    "id": "SamukDantas/order-ops-copilot",
-    "language": "JavaScript",
-    "name": "SamukDantas/order-ops-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:09:35Z",
-    "url": "https://github.com/SamukDantas/order-ops-copilot"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:28:40Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:27:18Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:27:11Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
