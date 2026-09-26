@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 21:30 UTC
+> ⏰ Last updated: 2026-09-26 21:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7208 | Python | 2026-09-26 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
-| 2 | [hraness/gobstopper](https://github.com/hraness/gobstopper) | 7 | Rust | 2026-09-26 | Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o |
-| 3 | [adriannoes/awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) | 61 | Jupyter Notebook | 2026-09-26 | Connect an agent here. 342 skills (Cursor, Claude Code & Codex), 107 research papers, 201 ML notebooks, 9 textbooks, 18  |
-| 4 | [voytas75/PromptManager](https://github.com/voytas75/PromptManager) | 3 | Python | 2026-09-26 | PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more. |
-| 5 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 0 | HTML | 2026-09-26 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 6 | [mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems](https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems) | 0 | JavaScript | 2026-09-26 | Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr |
-| 7 | [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) | 74 | JavaScript | 2026-09-26 | DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停·云端/本地双引擎）· 附 🔁 服务异常一键重启 |
-| 8 | [neguseatama/sieve-order](https://github.com/neguseatama/sieve-order) | 0 | Python | 2026-09-26 | Deterministic, zero-dependency structural observation of Japanese and English AI prompts — a receipt, not a judgment. |
-| 9 | [LINKlin0123/sincere-communication-skill](https://github.com/LINKlin0123/sincere-communication-skill) | 1 | — | 2026-09-26 |  |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-09-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 11 | [IonDen/skills](https://github.com/IonDen/skills) | 1 | Python | 2026-09-26 | Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25478 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 13 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16492 | Python | 2026-09-26 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
+| 1 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16492 | Python | 2026-09-26 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-09-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7208 | Python | 2026-09-26 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
+| 4 | [hraness/gobstopper](https://github.com/hraness/gobstopper) | 7 | Rust | 2026-09-26 | Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o |
+| 5 | [adriannoes/awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) | 61 | Jupyter Notebook | 2026-09-26 | Connect an agent here. 342 skills (Cursor, Claude Code & Codex), 107 research papers, 201 ML notebooks, 9 textbooks, 18  |
+| 6 | [voytas75/PromptManager](https://github.com/voytas75/PromptManager) | 3 | Python | 2026-09-26 | PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more. |
+| 7 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 0 | HTML | 2026-09-26 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 8 | [mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems](https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems) | 0 | JavaScript | 2026-09-26 | Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr |
+| 9 | [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) | 74 | JavaScript | 2026-09-26 | DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停·云端/本地双引擎）· 附 🔁 服务异常一键重启 |
+| 10 | [neguseatama/sieve-order](https://github.com/neguseatama/sieve-order) | 0 | Python | 2026-09-26 | Deterministic, zero-dependency structural observation of Japanese and English AI prompts — a receipt, not a judgment. |
+| 11 | [LINKlin0123/sincere-communication-skill](https://github.com/LINKlin0123/sincere-communication-skill) | 1 | — | 2026-09-26 |  |
+| 12 | [IonDen/skills](https://github.com/IonDen/skills) | 1 | Python | 2026-09-26 | Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi |
+| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25478 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 14 | [V-Songbird/disregard](https://github.com/V-Songbird/disregard) | 2 | JavaScript | 2026-09-26 | Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0 |
 | 15 | [jhonatan-oliveiradev/agent-skills](https://github.com/jhonatan-oliveiradev/agent-skills) | 1 | TypeScript | 2026-09-26 | Agent Skills Studio — Curated skills and installable packs for engineering, design, security, writing and product workfl |
 | 16 | [bitranox/bitranox-skills](https://github.com/bitranox/bitranox-skills) | 1 | Python | 2026-09-26 | Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a |
