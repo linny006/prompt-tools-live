@@ -1,12 +1,120 @@
 [
   {
+    "description": "Evaluation environment for the llm-mailroom pipeline.",
+    "id": "LLM-Mailroom-Services/eval-environment",
+    "language": "Python",
+    "name": "LLM-Mailroom-Services/eval-environment",
+    "stars": 1,
+    "updated_at": "2026-09-26T23:45:02Z",
+    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
+  },
+  {
+    "description": "Recurring ways language models fail, named and countered \u2014 from inside an extended writing and research project run as a",
+    "id": "diegoballarin-reason/frictions",
+    "language": "\u2014",
+    "name": "diegoballarin-reason/frictions",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:45:01Z",
+    "url": "https://github.com/diegoballarin-reason/frictions"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-26T23:43:01Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25478,
+    "updated_at": "2026-09-26T23:45:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 2,
+    "updated_at": "2026-09-26T23:38:04Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
     "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
     "id": "elie222/botdirectory.ai",
     "language": "Astro",
     "name": "elie222/botdirectory.ai",
     "stars": 216,
-    "updated_at": "2026-09-26T23:28:49Z",
+    "updated_at": "2026-09-26T23:34:30Z",
     "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:32:50Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:32:26Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:32:19Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "A collection of 210 agent skills across 23 categories \u2014 the reference library for my Hermes Agent environment.",
+    "id": "loggger101/Hermes_Skills",
+    "language": "HTML",
+    "name": "loggger101/Hermes_Skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:31:11Z",
+    "url": "https://github.com/loggger101/Hermes_Skills"
+  },
+  {
+    "description": "Memory engine for self-evolving AI agent ecosystems. Multi-tenant, multi-space isolation with Bayesian truth maintenance",
+    "id": "cyqlelabs/smrti",
+    "language": "Python",
+    "name": "cyqlelabs/smrti",
+    "stars": 4,
+    "updated_at": "2026-09-26T23:30:30Z",
+    "url": "https://github.com/cyqlelabs/smrti"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:30:28Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T23:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Structured prompt generation, Rust native \u2014 rough prompt in, PE2-structured prompt out.",
@@ -27,15 +135,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Evaluation environment for the llm-mailroom pipeline.",
-    "id": "LLM-Mailroom-Services/eval-environment",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/eval-environment",
-    "stars": 1,
-    "updated_at": "2026-09-26T23:25:20Z",
-    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
     "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
     "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
     "language": "JavaScript",
@@ -43,15 +142,6 @@
     "stars": 24,
     "updated_at": "2026-09-26T23:24:35Z",
     "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 2,
-    "updated_at": "2026-09-26T23:23:15Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T23:16:25Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T23:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-26T22:39:22Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73883,
-    "updated_at": "2026-09-26T22:39:11Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Multi-agent framework for Claude Code, Codex & OpenCode \u2014 coding agents you can watch, message and hold to rules",
-    "id": "rezzminator/professor",
-    "language": "Go",
-    "name": "rezzminator/professor",
-    "stars": 8,
-    "updated_at": "2026-09-26T22:38:47Z",
-    "url": "https://github.com/rezzminator/professor"
-  },
-  {
-    "description": "Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 2,
-    "updated_at": "2026-09-26T22:38:01Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "PromptKit for Paseo rewrites prompts in your own voice while preserving language, URLs, paths, commands, code, model nam",
-    "id": "hungcuong9125/paseo-prompt-kit",
-    "language": "TypeScript",
-    "name": "hungcuong9125/paseo-prompt-kit",
-    "stars": 1,
-    "updated_at": "2026-09-26T22:34:48Z",
-    "url": "https://github.com/hungcuong9125/paseo-prompt-kit"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-26T22:34:31Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-26T22:34:06Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
-    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "language": "Jupyter Notebook",
-    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "stars": 4,
-    "updated_at": "2026-09-26T22:33:59Z",
-    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-09-26T22:33:34Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 0,
-    "updated_at": "2026-09-26T22:32:58Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   }
 ]
