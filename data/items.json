@@ -1,5 +1,104 @@
 [
   {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 60,
+    "updated_at": "2026-09-26T19:27:41Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2046,
+    "updated_at": "2026-09-26T19:25:09Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "My portfolio with AI Anurag, a guarded resume chatbot. Node.js serverless function on Vercel calling an open LLM on Groq",
+    "id": "Anurag-YadavIIH/ask-anurag",
+    "language": "HTML",
+    "name": "Anurag-YadavIIH/ask-anurag",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:24:49Z",
+    "url": "https://github.com/Anurag-YadavIIH/ask-anurag"
+  },
+  {
+    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
+    "id": "RevolutionLA/adversarial-review",
+    "language": "JavaScript",
+    "name": "RevolutionLA/adversarial-review",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:22:31Z",
+    "url": "https://github.com/RevolutionLA/adversarial-review"
+  },
+  {
+    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
+    "id": "Almotasembellahawwad/Verve",
+    "language": "TypeScript",
+    "name": "Almotasembellahawwad/Verve",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:30:13Z",
+    "url": "https://github.com/Almotasembellahawwad/Verve"
+  },
+  {
+    "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
+    "id": "jhonatan-oliveiradev/agent-skills",
+    "language": "TypeScript",
+    "name": "jhonatan-oliveiradev/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:20:21Z",
+    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:18:54Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "FastAPI + React + SQLite \u7684\u4eba\u673a\u534f\u540c\u786e\u5b9a\u6027 LLM \u8bba\u6587\u5199\u4f5c\u5de5\u4f5c\u6d41\u7cfb\u7edf\uff087 \u7c7b\u8bba\u6587\u5dee\u5f02\u5316\u5de5\u5e8f / 10 \u72b6\u6001\u72b6\u6001\u673a / \u4e24\u9053\u4eba\u5de5\u786e\u8ba4\u95f8\u95e8 / 0 \u5e7b\u89c9\u5f15\u7528\uff09",
+    "id": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "language": "Python",
+    "name": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:18:18Z",
+    "url": "https://github.com/EricAndHisWordcards/ai-academic-writing-assistant"
+  },
+  {
+    "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
+    "id": "voytas75/PromptManager",
+    "language": "Python",
+    "name": "voytas75/PromptManager",
+    "stars": 3,
+    "updated_at": "2026-09-26T19:17:48Z",
+    "url": "https://github.com/voytas75/PromptManager"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 14,
+    "updated_at": "2026-09-26T19:17:14Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T19:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
     "id": "masini1491/ai-development-playbook",
     "language": "Python",
@@ -9,7 +108,7 @@
     "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "description": "Gobstopper makes long Claude Code, Codex, and Devin sessions smaller. Preview each cut, write a compacted copy, and keep",
     "id": "hraness/gobstopper",
     "language": "Rust",
     "name": "hraness/gobstopper",
@@ -27,24 +126,6 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
-    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
-    "id": "Almotasembellahawwad/Verve",
-    "language": "TypeScript",
-    "name": "Almotasembellahawwad/Verve",
-    "stars": 2,
-    "updated_at": "2026-09-26T19:13:05Z",
-    "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "FastAPI + React + SQLite \u7684\u4eba\u673a\u534f\u540c\u786e\u5b9a\u6027 LLM \u8bba\u6587\u5199\u4f5c\u5de5\u4f5c\u6d41\u7cfb\u7edf\uff087 \u7c7b\u8bba\u6587\u5dee\u5f02\u5316\u5de5\u5e8f / 10 \u72b6\u6001\u72b6\u6001\u673a / \u4e24\u9053\u4eba\u5de5\u786e\u8ba4\u95f8\u95e8 / 0 \u5e7b\u89c9\u5f15\u7528\uff09",
-    "id": "EricAndHisWordcards/ai-academic-writing-assistant",
-    "language": "Python",
-    "name": "EricAndHisWordcards/ai-academic-writing-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:09:42Z",
-    "url": "https://github.com/EricAndHisWordcards/ai-academic-writing-assistant"
-  },
-  {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
     "language": "TypeScript",
@@ -54,6 +135,15 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35077,
+    "updated_at": "2026-09-26T19:07:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI review of personalised Shopify orders with a human in the loop: Supabase (RLS, Edge Functions), n8n, Codex/Claude beh",
     "id": "SamukDantas/order-ops-copilot",
     "language": "JavaScript",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:05:52Z",
     "url": "https://github.com/SamukDantas/order-ops-copilot"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35076,
-    "updated_at": "2026-09-26T19:07:28Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:00:46Z",
     "url": "https://github.com/xsyetopz/dotclaude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T19:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
@@ -189,15 +261,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
-    "id": "voytas75/PromptManager",
-    "language": "Python",
-    "name": "voytas75/PromptManager",
-    "stars": 3,
-    "updated_at": "2026-09-26T18:50:16Z",
-    "url": "https://github.com/voytas75/PromptManager"
-  },
-  {
     "description": "\u8dd1\u4e86 20+ \u6279\u5b9e\u9a8c\uff1a\u8fd9\u4e2a DSH \u6a21\u5f0f\u4e0d\u4f1a\u8ba9\u6a21\u578b\u66f4\u806a\u660e\uff0c\u4f46\u66f4\u5feb\u66f4\u7701\u3002\u9644\u5e26\u53d1\u73b0\uff1a\u5b83\u8ba9\u6a21\u578b\u5c11\u67e5\u8d44\u6599\u3001\u591a\u9760\u731c\u3002",
     "id": "walksls/not-smarter-just-faster",
     "language": "JavaScript",
@@ -265,7 +328,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Python",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 16479,
+    "stars": 16482,
     "updated_at": "2026-09-26T18:42:58Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -342,24 +405,6 @@
     "url": "https://github.com/eric-sabe/engsys"
   },
   {
-    "description": "My portfolio with AI Anurag, a guarded resume chatbot. Node.js serverless function on Vercel calling an open LLM on Groq",
-    "id": "Anurag-YadavIIH/ask-anurag",
-    "language": "HTML",
-    "name": "Anurag-YadavIIH/ask-anurag",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:30:31Z",
-    "url": "https://github.com/Anurag-YadavIIH/ask-anurag"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:28:16Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T18:23:02Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4eba\u6307\u6325\u4e00\u7fa4 AI \u7a97\u53e3\u5e72\u6d3b\u65f6\u7528\u7684\u4e00\u5957 md \u6587\u4ef6\uff0c\u5916\u52a0\u4e00\u4e2a\u5de5\u5355\u53f0\u3002",
-    "id": "comkocs/md-workflow",
-    "language": "Python",
-    "name": "comkocs/md-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:22:57Z",
-    "url": "https://github.com/comkocs/md-workflow"
-  },
-  {
-    "description": "\u8ba9 AI \u4ece\u300c\u987a\u4ece\u7684\u4e0b\u5c5e\u300d\u53d8\u6210\u300c\u4f1a\u53cd\u9a73\u7684\u540c\u4e8b\u300d\uff5cTurn your AI agent into a critical-thinking co-worker. Anti-sycophancy rules + skill for Codex.",
-    "id": "bluster01/collab-partner",
-    "language": "Shell",
-    "name": "bluster01/collab-partner",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:22:30Z",
-    "url": "https://github.com/bluster01/collab-partner"
-  },
-  {
-    "description": "Text-to-image prompt enhancer node for ComfyUI using an OpenAI-compatible endpoint",
-    "id": "sourceblender/comfyui-kotodama",
-    "language": "Python",
-    "name": "sourceblender/comfyui-kotodama",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:21:27Z",
-    "url": "https://github.com/sourceblender/comfyui-kotodama"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-09-26T18:18:02Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:17:28Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
