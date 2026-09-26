@@ -1,12 +1,48 @@
 [
   {
-    "description": "Source-grounded Agent system prompt archive with verbatim snapshots, deep annotations, and cross-agent design analysis.",
-    "id": "Champ-X/DeepPrompt",
-    "language": "HTML",
-    "name": "Champ-X/DeepPrompt",
-    "stars": 3,
-    "updated_at": "2026-09-26T08:15:20Z",
-    "url": "https://github.com/Champ-X/DeepPrompt"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28139,
+    "updated_at": "2026-09-26T08:28:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Your coding agent forgets everything between sessions. This makes that a test failure instead of a mystery. Typed, schem",
+    "id": "faresrafat3/agent-handoff",
+    "language": "Python",
+    "name": "faresrafat3/agent-handoff",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:28:36Z",
+    "url": "https://github.com/faresrafat3/agent-handoff"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4875,
+    "updated_at": "2026-09-26T08:28:31Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:28:09Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Portable, model-agnostic workspace template for AI agents: file-based knowledge, skills, contracts, deterministic valida",
+    "id": "MauricioPerera/portable-agent-workspace-template",
+    "language": "Python",
+    "name": "MauricioPerera/portable-agent-workspace-template",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:29:51Z",
+    "url": "https://github.com/MauricioPerera/portable-agent-workspace-template"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -14,8 +50,134 @@
     "language": "JavaScript",
     "name": "gmaheshraju/Hands-on-AgenticAI",
     "stars": 0,
-    "updated_at": "2026-09-26T08:15:09Z",
+    "updated_at": "2026-09-26T08:27:31Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
+    "id": "dairui1/agentlab",
+    "language": "JavaScript",
+    "name": "dairui1/agentlab",
+    "stars": 4,
+    "updated_at": "2026-09-26T08:26:47Z",
+    "url": "https://github.com/dairui1/agentlab"
+  },
+  {
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
+    "id": "aaddrick/building-with-typesafe-jev",
+    "language": "Python",
+    "name": "aaddrick/building-with-typesafe-jev",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:26:31Z",
+    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+  },
+  {
+    "description": "Roll out LLM agent prompts without forks or merge conflicts: base prompt + layers, every segment tested before rollout. ",
+    "id": "mldogs/prompt-layers",
+    "language": "Python",
+    "name": "mldogs/prompt-layers",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:26:02Z",
+    "url": "https://github.com/mldogs/prompt-layers"
+  },
+  {
+    "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
+    "id": "mifdlaldev/mifdlaldev",
+    "language": "\u2014",
+    "name": "mifdlaldev/mifdlaldev",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:24:12Z",
+    "url": "https://github.com/mifdlaldev/mifdlaldev"
+  },
+  {
+    "description": "Blueprint repository for Claude Code projects \u2014 RPI methodology, known agent error patterns, operational rules, and proj",
+    "id": "juan294/cc-rpi",
+    "language": "Python",
+    "name": "juan294/cc-rpi",
+    "stars": 5,
+    "updated_at": "2026-09-26T08:21:13Z",
+    "url": "https://github.com/juan294/cc-rpi"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-26T08:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-26T08:20:29Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "PiDeck / DeepSeek Harness \u4e00\u952e\u90e8\u7f72\u5de5\u4f5c\u53f0 \u2014\u2014 \u628a\u6307\u4ee4\u96c6\u4e0e\u6280\u80fd\u5e93\u6ce8\u5165\u672c\u673a Pi \u7cfb\u5ba2\u6237\u7aef\uff0c\u5378\u8f7d\u5373\u8fd8\u539f\u30027 \u4e2a\u63d0\u793a\u8bcd\u6a21\u677f + 65 \u4e2a\u6280\u80fd\u6a21\u5757 + \u9644\u52a0\u6280\u80fd\u5305\uff0cPySide6 \u684c\u9762\u7aef + PowerShell \u6ce8\u5165\u5668",
+    "id": "2006sila/pi-workbench",
+    "language": "Python",
+    "name": "2006sila/pi-workbench",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:19:54Z",
+    "url": "https://github.com/2006sila/pi-workbench"
+  },
+  {
+    "description": "Cross-platform prompt refinement for Codex, Gemini CLI, and Claude Code, plus Claude-native context guard and telemetry ",
+    "id": "cdeust/session-optimizer",
+    "language": "Shell",
+    "name": "cdeust/session-optimizer",
+    "stars": 1,
+    "updated_at": "2026-09-26T08:20:23Z",
+    "url": "https://github.com/cdeust/session-optimizer"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-26T08:18:41Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25465,
+    "updated_at": "2026-09-26T08:25:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Model-agnostic output control for LLM agents: concise, action-first answers with proof and risk preserved. Native instal",
+    "id": "FlorianBruniaux/flow-lean",
+    "language": "Python",
+    "name": "FlorianBruniaux/flow-lean",
+    "stars": 18,
+    "updated_at": "2026-09-26T08:16:52Z",
+    "url": "https://github.com/FlorianBruniaux/flow-lean"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T08:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Source-grounded Agent system prompt archive with verbatim snapshots, deep annotations, and cross-agent design analysis.",
+    "id": "Champ-X/DeepPrompt",
+    "language": "HTML",
+    "name": "Champ-X/DeepPrompt",
+    "stars": 3,
+    "updated_at": "2026-09-26T08:15:20Z",
+    "url": "https://github.com/Champ-X/DeepPrompt"
   },
   {
     "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
@@ -27,21 +189,12 @@
     "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
   },
   {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-26T08:14:25Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "solid-ai-dev/solid-ai-templates",
     "language": "Python",
     "name": "solid-ai-dev/solid-ai-templates",
     "stars": 4,
-    "updated_at": "2026-09-26T08:13:25Z",
+    "updated_at": "2026-09-26T08:25:20Z",
     "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
@@ -216,15 +369,6 @@
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T08:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Vibe Coding Partner - \"SYNERGY\"",
     "id": "wo123kr/Vibe-Coding-Prompt",
     "language": "\u2014",
@@ -257,7 +401,7 @@
     "language": "Rust",
     "name": "Open-Less/openless",
     "stars": 3636,
-    "updated_at": "2026-09-26T07:52:45Z",
+    "updated_at": "2026-09-26T08:24:53Z",
     "url": "https://github.com/Open-Less/openless"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 90,
     "updated_at": "2026-09-26T07:47:46Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
-    "id": "pranavkafle/serpapi-mcp-catalog",
-    "language": "Python",
-    "name": "pranavkafle/serpapi-mcp-catalog",
-    "stars": 1,
-    "updated_at": "2026-09-26T07:47:29Z",
-    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Evidence-first LLM-as-judge scoring for AI artifacts \u2014 papers, PRs, prompts, cold emails: synthesizes a rubric, collects",
-    "id": "hermes-labs-ai/hermes-rubric",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermes-rubric",
-    "stars": 2,
-    "updated_at": "2026-09-26T07:43:55Z",
-    "url": "https://github.com/hermes-labs-ai/hermes-rubric"
-  },
-  {
-    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
-    "id": "AhmedMerza/agent-skills",
-    "language": "Python",
-    "name": "AhmedMerza/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T07:43:48Z",
-    "url": "https://github.com/AhmedMerza/agent-skills"
-  },
-  {
-    "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
-    "id": "hermes-labs-ai/langstate",
-    "language": "Python",
-    "name": "hermes-labs-ai/langstate",
-    "stars": 2,
-    "updated_at": "2026-09-26T07:42:33Z",
-    "url": "https://github.com/hermes-labs-ai/langstate"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-26T08:13:21Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "\u9762\u5411 AI Agent \u7684 CUMCM\uff08\u5168\u56fd\u5927\u5b66\u751f\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\uff09\u5168\u6d41\u7a0b Skill\uff1a\u5ba1\u9898\u5efa\u6a21 \u2192 \u4ee3\u7801\u6c42\u89e3\u4e0e\u9a8c\u8bc1 \u2192 \u8bba\u6587\u5199\u4f5c\u4e0e\u63d0\u4ea4\u5ba1\u67e5\u4e09\u9636\u6bb5\u6d41\u6c34\u7ebf\u3002\u4ee5\u4f18\u79c0\u8bba\u6587\u7279\u5f81\u6307\u5357\u4e3a\u552f\u4e00\u65b9\u6cd5\u8bba\u6765\u6e90\u3002\u516b\u5e2d\u5e76\u884c\u76f2\u5ba1\u4ee5\u63d0\u9ad8\u5efa\u6a21\u3001\u4ee3\u7801\u548c\u8bba\u6587\u8d28\u91cf\u3002",
-    "id": "jiangkaiqi2005/math-cumcm-modeler",
-    "language": "\u2014",
-    "name": "jiangkaiqi2005/math-cumcm-modeler",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:39:36Z",
-    "url": "https://github.com/jiangkaiqi2005/math-cumcm-modeler"
-  },
-  {
-    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
-    "id": "hermes-labs-ai/rule-audit",
-    "language": "Python",
-    "name": "hermes-labs-ai/rule-audit",
-    "stars": 3,
-    "updated_at": "2026-09-26T07:38:27Z",
-    "url": "https://github.com/hermes-labs-ai/rule-audit"
-  },
-  {
-    "description": "Mines corrections from your AI agent's chat logs to catch recurring drift and overclaiming before the next response ship",
-    "id": "hermes-labs-ai/hermeneutic",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermeneutic",
-    "stars": 8,
-    "updated_at": "2026-09-26T07:37:58Z",
-    "url": "https://github.com/hermes-labs-ai/hermeneutic"
-  },
-  {
-    "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
-    "id": "hermes-labs-ai/hermes-blind",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermes-blind",
-    "stars": 9,
-    "updated_at": "2026-09-26T07:37:52Z",
-    "url": "https://github.com/hermes-labs-ai/hermes-blind"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25464,
-    "updated_at": "2026-09-26T07:47:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
-    "id": "aaddrick/building-with-typesafe-jev",
-    "language": "Python",
-    "name": "aaddrick/building-with-typesafe-jev",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:35:24Z",
-    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
-  },
-  {
-    "description": "Open-source browser extension for Google Gemini with themes, chat navigation, shortcuts, and prompt automation.",
-    "id": "RonkTsang/gemini-chat-extension",
-    "language": "TypeScript",
-    "name": "RonkTsang/gemini-chat-extension",
-    "stars": 20,
-    "updated_at": "2026-09-26T07:33:33Z",
-    "url": "https://github.com/RonkTsang/gemini-chat-extension"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 107884,
-    "updated_at": "2026-09-26T07:33:29Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "A vendor-neutral agent skill for delegating to subagents: route first, parallelize only independent work, pick the cheap",
-    "id": "michael-berardi/ultraterm-subagent-protocol",
-    "language": "Python",
-    "name": "michael-berardi/ultraterm-subagent-protocol",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:32:54Z",
-    "url": "https://github.com/michael-berardi/ultraterm-subagent-protocol"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-26T07:32:28Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:31:28Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
   }
 ]
