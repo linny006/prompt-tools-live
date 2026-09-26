@@ -1,12 +1,147 @@
 [
   {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-09-26T04:14:35Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Portable, model-agnostic workspace template for AI agents: file-based knowledge, skills, contracts, deterministic valida",
+    "id": "MauricioPerera/portable-agent-workspace-template",
+    "language": "Python",
+    "name": "MauricioPerera/portable-agent-workspace-template",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:14:20Z",
+    "url": "https://github.com/MauricioPerera/portable-agent-workspace-template"
+  },
+  {
+    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
+    "id": "b0ir/prompt-evaluator",
+    "language": "Python",
+    "name": "b0ir/prompt-evaluator",
+    "stars": 2,
+    "updated_at": "2026-09-26T04:13:32Z",
+    "url": "https://github.com/b0ir/prompt-evaluator"
+  },
+  {
+    "description": "\ud83d\ude80 \u516c\u4f17\u53f7\u6587\u7ae0\u81ea\u52a8\u5316\u751f\u4ea7\u6d41\u6c34\u7ebf | \u591a\u8eab\u4efd\u534f\u4f5c + \u7206\u6b3e\u5206\u6790 + \u53bbAI\u611f + \u8d28\u91cf\u81ea\u68c0 \u7528 Markdown \u5199\u6b63\u6587\uff0c\u81ea\u52a8\u8f6c\u6210\u5e26\u5185\u8054\u6837\u5f0f\u7684\u5fae\u4fe1\u517c\u5bb9 HTML\u3002\u544a\u522b\u6392\u7248\u70e6\u607c\uff0c\u4e13\u6ce8\u5185\u5bb9\u8d28\u91cf\u3002 Automated workflow for We",
+    "id": "Vvv1940905115/my-gzh",
+    "language": "Python",
+    "name": "Vvv1940905115/my-gzh",
+    "stars": 3,
+    "updated_at": "2026-09-26T04:12:27Z",
+    "url": "https://github.com/Vvv1940905115/my-gzh"
+  },
+  {
+    "description": "\u26a1 PromptMaster Studio v3 \u2014 Zero-dependency Prompt Engineering & Meta-Optimization Suite with Diff Engine, Version Histor",
+    "id": "1nc0gn30/promptmaster-studio",
+    "language": "Python",
+    "name": "1nc0gn30/promptmaster-studio",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:10:37Z",
+    "url": "https://github.com/1nc0gn30/promptmaster-studio"
+  },
+  {
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
+    "id": "aaddrick/building-with-typesafe-jev",
+    "language": "Python",
+    "name": "aaddrick/building-with-typesafe-jev",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:10:11Z",
+    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+  },
+  {
     "description": "Stop your AI agent from writing the wrong code \u2014 a contract-first discipline, with an installable Claude Code plugin",
     "id": "jewanchen/mtm-contract",
     "language": "Python",
     "name": "jewanchen/mtm-contract",
     "stars": 1,
-    "updated_at": "2026-09-26T03:59:57Z",
+    "updated_at": "2026-09-26T04:09:11Z",
     "url": "https://github.com/jewanchen/mtm-contract"
+  },
+  {
+    "description": "\u26a1 Describe the problem. /god picks the right skills and sees the job through. 106 skills, 6 subagents and one protocol f",
+    "id": "Gastonchevarria/god-mode",
+    "language": "JavaScript",
+    "name": "Gastonchevarria/god-mode",
+    "stars": 1,
+    "updated_at": "2026-09-26T04:08:10Z",
+    "url": "https://github.com/Gastonchevarria/god-mode"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T04:07:40Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2044,
+    "updated_at": "2026-09-26T04:06:27Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
+    "id": "ssdiwu/507-skills",
+    "language": "Python",
+    "name": "ssdiwu/507-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T04:06:20Z",
+    "url": "https://github.com/ssdiwu/507-skills"
+  },
+  {
+    "description": "A bilingual, private-by-design prompt generator for Claude Opus 5.5.",
+    "id": "Eddienews/opus-5-5-prompt-studio",
+    "language": "TypeScript",
+    "name": "Eddienews/opus-5-5-prompt-studio",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:05:03Z",
+    "url": "https://github.com/Eddienews/opus-5-5-prompt-studio"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "Python",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:04:46Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13493,
+    "updated_at": "2026-09-26T04:04:28Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\u8ba9\u666e\u901a AI \u5927\u6a21\u578b\u7528\u300c\u66f4\u591a token + \u66f4\u957f\u65f6\u95f4 + \u5f3a\u5236\u9a8c\u8bc1\u300d\u6362\u4e16\u754c\u7ea7\u4ea7\u51fa\uff1aOrchestrator \u7f16\u6392 + Headless \u5b50\u4ee3\u7406 + \u7194\u65ad + \u4e09\u8f74\u5ba1\u67e5 + \u5143\u5faa\u73af\u81ea\u6539\u8fdb\u7684\u5143\u6280\u80fd\u5305\uff0c9 \u4e2a\u6280\u80fd\u5f00\u7bb1\u5373\u7528\u3002",
+    "id": "XuanRuiMu/loop-engineering",
+    "language": "Python",
+    "name": "XuanRuiMu/loop-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-26T04:04:06Z",
+    "url": "https://github.com/XuanRuiMu/loop-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T04:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "System prompt engineering workstation, DSPy prompt optimizer, and template store.",
@@ -72,33 +207,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
-    "id": "ssdiwu/507-skills",
-    "language": "Python",
-    "name": "ssdiwu/507-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:55:12Z",
-    "url": "https://github.com/ssdiwu/507-skills"
-  },
-  {
-    "description": "\ud83d\ude80 \u516c\u4f17\u53f7\u6587\u7ae0\u81ea\u52a8\u5316\u751f\u4ea7\u6d41\u6c34\u7ebf | \u591a\u8eab\u4efd\u534f\u4f5c + \u7206\u6b3e\u5206\u6790 + \u53bbAI\u611f + \u8d28\u91cf\u81ea\u68c0 \u7528 Markdown \u5199\u6b63\u6587\uff0c\u81ea\u52a8\u8f6c\u6210\u5e26\u5185\u8054\u6837\u5f0f\u7684\u5fae\u4fe1\u517c\u5bb9 HTML\u3002\u544a\u522b\u6392\u7248\u70e6\u607c\uff0c\u4e13\u6ce8\u5185\u5bb9\u8d28\u91cf\u3002 Automated workflow for We",
-    "id": "Vvv1940905115/my-gzh",
-    "language": "Python",
-    "name": "Vvv1940905115/my-gzh",
-    "stars": 3,
-    "updated_at": "2026-09-26T03:54:30Z",
-    "url": "https://github.com/Vvv1940905115/my-gzh"
-  },
-  {
-    "description": "A bilingual, private-by-design prompt generator for Claude Opus 5.5.",
-    "id": "Eddienews/opus-5-5-prompt-studio",
-    "language": "TypeScript",
-    "name": "Eddienews/opus-5-5-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:54:06Z",
-    "url": "https://github.com/Eddienews/opus-5-5-prompt-studio"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -133,33 +241,6 @@
     "stars": 160,
     "updated_at": "2026-09-26T03:47:20Z",
     "url": "https://github.com/yegor256/prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T03:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 12,
-    "updated_at": "2026-09-26T03:44:02Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "\u26a1 The Autonomous AI Engineering Squad for Claude Code & Google Antigravity (130+ Skills, Subagents, Fable 5.1 Protocol)",
-    "id": "Gastonchevarria/god-mode",
-    "language": "JavaScript",
-    "name": "Gastonchevarria/god-mode",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:43:59Z",
-    "url": "https://github.com/Gastonchevarria/god-mode"
   },
   {
     "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-26T03:29:56Z",
     "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Multi-agent deliberation skills for Claude Code \u2014 structured design review and decision debate using blackboard architec",
-    "id": "dnhess/spectra",
-    "language": "Shell",
-    "name": "dnhess/spectra",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:29:50Z",
-    "url": "https://github.com/dnhess/spectra"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:29:29Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:29:07Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:28:42Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:28:37Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:28:34Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-09-26T03:28:30Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:28:13Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 28,
-    "updated_at": "2026-09-26T03:28:07Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
   }
 ]
