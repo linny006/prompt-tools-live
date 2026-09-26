@@ -1,5 +1,86 @@
 [
   {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4725,
+    "updated_at": "2026-09-26T18:43:13Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Python",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 16474,
+    "updated_at": "2026-09-26T18:42:58Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:42:41Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "HanaAgent \u63d0\u793a\u8bcd\u4f18\u5316 \u00b7 \u628a\u968f\u624b\u5199\u7684\u57fa\u7840\u63d0\u793a\u8bcd\u4e00\u952e\u91cd\u5199\u6210\u6a21\u578b\u66f4\u61c2\u7684\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u3002\u5361\u7247 + Agent \u5de5\u5177\u53cc\u5165\u53e3\uff0c\u652f\u6301\u901a\u7528/\u7f16\u7a0b/\u5199\u4f5c/\u56fe\u50cf/\u5206\u6790/Agent \u516d\u79cd\u573a\u666f\u3002",
+    "id": "youyongdemao/HanaAgent-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "youyongdemao/HanaAgent-prompt-optimizer",
+    "stars": 6,
+    "updated_at": "2026-09-26T18:40:58Z",
+    "url": "https://github.com/youyongdemao/HanaAgent-prompt-optimizer"
+  },
+  {
+    "description": "Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona into any writing style with tunable intensity (0-5, float, or ",
+    "id": "markkirby125/kirby-persona-infj",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-persona-infj",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:38:23Z",
+    "url": "https://github.com/markkirby125/kirby-persona-infj"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:37:58Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 7,
+    "updated_at": "2026-09-26T18:40:34Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T18:33:14Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Keeps project direction recoverable without turning planning into the project.",
+    "id": "benjaminstelzer/scoville-plan",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-plan",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:33:10Z",
+    "url": "https://github.com/benjaminstelzer/scoville-plan"
+  },
+  {
     "description": "Transfers the work state, not the whole conversation.",
     "id": "benjaminstelzer/scoville-handoff",
     "language": "\u2014",
@@ -27,13 +108,13 @@
     "url": "https://github.com/eric-sabe/engsys"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
+    "description": "My portfolio with AI Anurag, a guarded resume chatbot. Node.js serverless function on Vercel calling an open LLM on Groq",
+    "id": "Anurag-YadavIIH/ask-anurag",
+    "language": "HTML",
+    "name": "Anurag-YadavIIH/ask-anurag",
+    "stars": 0,
     "updated_at": "2026-09-26T18:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "url": "https://github.com/Anurag-YadavIIH/ask-anurag"
   },
   {
     "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T18:27:54Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona into any writing style with tunable intensity (0-5, float, or ",
-    "id": "markkirby125/kirby-persona-infj",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-persona-infj",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:26:09Z",
-    "url": "https://github.com/markkirby125/kirby-persona-infj"
   },
   {
     "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr ",
@@ -189,15 +261,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 7,
-    "updated_at": "2026-09-26T18:25:20Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
     "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
     "id": "rustyorb/SillyTavern-CreativeStudio",
     "language": "JavaScript",
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T18:14:02Z",
     "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
-    "description": "Keeps project direction recoverable without turning planning into the project.",
-    "id": "benjaminstelzer/scoville-plan",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-plan",
-    "stars": 3,
-    "updated_at": "2026-09-26T18:33:10Z",
-    "url": "https://github.com/benjaminstelzer/scoville-plan"
   },
   {
     "description": "Agent skills for evidence-based media research, market-specific public relations, marketing, and outreach drafting",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T17:51:07Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "\u603b\u89c9\u5f97 AI \u5f88\u7b28\uff1f\u8fd9\u4e2a Codex Skill \u4f1a\u627e\u5230\u4eba\u548c AI \u6ca1\u5bf9\u9f50\u7684\u4f4d\u7f6e\uff0c\u8ba9\u5f53\u524d\u4efb\u52a1\u5c11\u8fd4\u5de5\uff0c\u4e5f\u8ba9\u4f60\u8d8a\u8bf4\u8d8a\u6e05\u695a\u3002",
-    "id": "LeooooLiu/ai-communication-coach",
-    "language": "Python",
-    "name": "LeooooLiu/ai-communication-coach",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:44:33Z",
-    "url": "https://github.com/LeooooLiu/ai-communication-coach"
-  },
-  {
-    "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
-    "id": "feverZHONG/liya-sillytavern-cards",
-    "language": "Python",
-    "name": "feverZHONG/liya-sillytavern-cards",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:44:25Z",
-    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
-  },
-  {
-    "description": "61 specialist employees and one chief of staff. Free MIT skill library with a deterministic intake router. Version 0.53.",
-    "id": "Shaisolaris/solaris-dev-shop",
-    "language": "Python",
-    "name": "Shaisolaris/solaris-dev-shop",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:44:23Z",
-    "url": "https://github.com/Shaisolaris/solaris-dev-shop"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:43:12Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:35:30Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:34:22Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
