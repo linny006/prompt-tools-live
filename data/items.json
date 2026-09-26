@@ -1,5 +1,131 @@
 [
   {
+    "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
+    "id": "rustyorb/SillyTavern-CreativeStudio",
+    "language": "JavaScript",
+    "name": "rustyorb/SillyTavern-CreativeStudio",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:15:02Z",
+    "url": "https://github.com/rustyorb/SillyTavern-CreativeStudio"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-26T18:13:55Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 937,
+    "updated_at": "2026-09-26T18:13:52Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:14:02Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Keeps project direction recoverable without turning planning into the project.",
+    "id": "benjaminstelzer/scoville-plan",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-plan",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:10:50Z",
+    "url": "https://github.com/benjaminstelzer/scoville-plan"
+  },
+  {
+    "description": "Agent skills for evidence-based media research, market-specific public relations, marketing, and outreach drafting",
+    "id": "shy-tangerine/publicist-skills",
+    "language": "Python",
+    "name": "shy-tangerine/publicist-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:08:07Z",
+    "url": "https://github.com/shy-tangerine/publicist-skills"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:05:42Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Text-to-image prompt enhancer node for ComfyUI using an OpenAI-compatible endpoint",
+    "id": "sourceblender/comfyui-kotodama",
+    "language": "Python",
+    "name": "sourceblender/comfyui-kotodama",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:05:44Z",
+    "url": "https://github.com/sourceblender/comfyui-kotodama"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-09-26T18:05:34Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-26T18:05:58Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Deterministic context and policy compiler for supported AI coding agents.",
+    "id": "kok-o/contextos-agents",
+    "language": "JavaScript",
+    "name": "kok-o/contextos-agents",
+    "stars": 9,
+    "updated_at": "2026-09-26T18:03:15Z",
+    "url": "https://github.com/kok-o/contextos-agents"
+  },
+  {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 78,
+    "updated_at": "2026-09-26T18:06:38Z",
+    "url": "https://github.com/moeru-ai/velin"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:00:30Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T18:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8dd1\u4e86 20+ \u6279\u5b9e\u9a8c\uff1a\u8fd9\u4e2a DSH \u6a21\u5f0f\u4e0d\u4f1a\u8ba9\u6a21\u578b\u66f4\u806a\u660e\uff0c\u4f46\u66f4\u5feb\u66f4\u7701\u3002\u9644\u5e26\u53d1\u73b0\uff1a\u5b83\u8ba9\u6a21\u578b\u5c11\u67e5\u8d44\u6599\u3001\u591a\u9760\u731c\u3002",
     "id": "walksls/not-smarter-just-faster",
     "language": "JavaScript",
@@ -23,7 +149,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-26T17:58:16Z",
+    "updated_at": "2026-09-26T18:05:59Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -45,21 +171,12 @@
     "url": "https://github.com/treylom/prompt-engineering-skills"
   },
   {
-    "description": "Keeps project direction recoverable without turning planning into the project.",
-    "id": "benjaminstelzer/scoville-plan",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-plan",
-    "stars": 3,
-    "updated_at": "2026-09-26T17:56:30Z",
-    "url": "https://github.com/benjaminstelzer/scoville-plan"
-  },
-  {
     "description": "Transfers the work state, not the whole conversation.",
     "id": "benjaminstelzer/scoville-handoff",
     "language": "\u2014",
     "name": "benjaminstelzer/scoville-handoff",
     "stars": 2,
-    "updated_at": "2026-09-26T17:56:28Z",
+    "updated_at": "2026-09-26T18:04:00Z",
     "url": "https://github.com/benjaminstelzer/scoville-handoff"
   },
   {
@@ -68,7 +185,7 @@
     "language": "\u2014",
     "name": "benjaminstelzer/scoville-code",
     "stars": 8,
-    "updated_at": "2026-09-26T17:56:25Z",
+    "updated_at": "2026-09-26T18:03:58Z",
     "url": "https://github.com/benjaminstelzer/scoville-code"
   },
   {
@@ -88,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T17:53:45Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:53:34Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Portable, tool-agnostic AI build-practice skills (CC BY 4.0)",
@@ -126,15 +234,6 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T17:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u603b\u89c9\u5f97 AI \u5f88\u7b28\uff1f\u8fd9\u4e2a Codex Skill \u4f1a\u627e\u5230\u4eba\u548c AI \u6ca1\u5bf9\u9f50\u7684\u4f4d\u7f6e\uff0c\u8ba9\u5f53\u524d\u4efb\u52a1\u5c11\u8fd4\u5de5\uff0c\u4e5f\u8ba9\u4f60\u8d8a\u8bf4\u8d8a\u6e05\u695a\u3002",
     "id": "LeooooLiu/ai-communication-coach",
     "language": "Python",
@@ -160,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T17:44:23Z",
     "url": "https://github.com/Shaisolaris/solaris-dev-shop"
-  },
-  {
-    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
-    "id": "moeru-ai/velin",
-    "language": "TypeScript",
-    "name": "moeru-ai/velin",
-    "stars": 78,
-    "updated_at": "2026-09-26T17:46:14Z",
-    "url": "https://github.com/moeru-ai/velin"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -288,15 +378,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:23:12Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
     "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
     "id": "555cute/astra-quant-agent",
     "language": "Python",
@@ -320,7 +401,7 @@
     "language": "Rust",
     "name": "hraness/gobstopper",
     "stars": 7,
-    "updated_at": "2026-09-26T17:17:35Z",
+    "updated_at": "2026-09-26T18:12:42Z",
     "url": "https://github.com/hraness/gobstopper"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T17:14:37Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:14:25Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-26T17:14:08Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "\u5f00\u6e90\u63d0\u793a\u8bcd\u7f51\u7ad9\uff5c66 \u6761\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u6a21\u677f\uff1a\u56fe\u751f\u56fe\u98ce\u683c\u8f6c\u6362\u3001\u5199\u4f5c\u3001\u7f16\u7a0b\u3001\u5206\u6790\u4e0e\u529e\u516c\u3002\u514d\u767b\u5f55\uff0c\u652f\u6301\u9700\u6c42\u586b\u5199\u3001\u641c\u7d22\u3001\u6536\u85cf\u3001\u590d\u5236\u4e0e\u5bfc\u51fa\u3002Open-source AI prompt website with Chinese prompt tem",
-    "id": "BryceYuuu/ai-prompt-website",
-    "language": "JavaScript",
-    "name": "BryceYuuu/ai-prompt-website",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:10:40Z",
-    "url": "https://github.com/BryceYuuu/ai-prompt-website"
-  },
-  {
-    "description": "Auto-routes Claude Code prompts to appropriate thinking budgets based on complexity scoring. PowerShell-based hook into ",
-    "id": "Qcko/claude-code-effort-router",
-    "language": "PowerShell",
-    "name": "Qcko/claude-code-effort-router",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:11:37Z",
-    "url": "https://github.com/Qcko/claude-code-effort-router"
-  },
-  {
-    "description": "Portable context for AI coding agents and agentic harnesses.",
-    "id": "crilsen/ai-agent-relay",
-    "language": "Shell",
-    "name": "crilsen/ai-agent-relay",
-    "stars": 4,
-    "updated_at": "2026-09-26T17:09:56Z",
-    "url": "https://github.com/crilsen/ai-agent-relay"
-  },
-  {
-    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
-    "id": "Handsomeboy990/craft-suite",
-    "language": "TypeScript",
-    "name": "Handsomeboy990/craft-suite",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:09:38Z",
-    "url": "https://github.com/Handsomeboy990/craft-suite"
-  },
-  {
-    "description": "Destroy the plastic \"AI look\". Deterministic optical compiler & biometric anti-drift engine for Flux.1, Imagen 3, Midjou",
-    "id": "FabioLousJay/optical-camera-compiler",
-    "language": "Python",
-    "name": "FabioLousJay/optical-camera-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-26T17:09:18Z",
-    "url": "https://github.com/FabioLousJay/optical-camera-compiler"
-  },
-  {
-    "description": "Text-to-image prompt enhancer node for ComfyUI using an OpenAI-compatible endpoint",
-    "id": "sourceblender/comfyui-kotodama",
-    "language": "Python",
-    "name": "sourceblender/comfyui-kotodama",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:08:39Z",
-    "url": "https://github.com/sourceblender/comfyui-kotodama"
-  },
-  {
-    "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
-    "id": "pxlcrtiv/inject-scout",
-    "language": "Python",
-    "name": "pxlcrtiv/inject-scout",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:08:02Z",
-    "url": "https://github.com/pxlcrtiv/inject-scout"
   }
 ]
