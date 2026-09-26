@@ -1,5 +1,158 @@
 [
   {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:43:15Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-26T00:41:44Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Claude Skill for defensive vulnerability analysis: CVSS v3.1/v4.0 scoring, exploit-quality assessment, EPSS/KEV/SSVC pri",
+    "id": "jacklonsmith/cvss-exploit-evaluator",
+    "language": "Python",
+    "name": "jacklonsmith/cvss-exploit-evaluator",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:41:16Z",
+    "url": "https://github.com/jacklonsmith/cvss-exploit-evaluator"
+  },
+  {
+    "description": "Evaluation environment for the llm-mailroom pipeline.",
+    "id": "LLM-Mailroom-Services/eval-environment",
+    "language": "Python",
+    "name": "LLM-Mailroom-Services/eval-environment",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:40:36Z",
+    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
+  },
+  {
+    "description": "Miniguia de engenharia de prompts com NotebookLM: 10 prompts testados | Prompt engineering miniguide with NotebookLM",
+    "id": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
+    "language": "\u2014",
+    "name": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:38:55Z",
+    "url": "https://github.com/KelvinOliveiraCode/miniguia-estudos-notebooklm"
+  },
+  {
+    "description": "Prompt para an\u00e1lise de feedbacks banc\u00e1rios: CX, insights e prioridades | Prompt for banking CX feedback analysis",
+    "id": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
+    "language": "\u2014",
+    "name": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:36:54Z",
+    "url": "https://github.com/KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-26T00:36:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:35:42Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2538,
+    "updated_at": "2026-09-26T00:35:39Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "\u5bab\u5e05\uff08AI\u667a\u5e93 \u00b7 \u667a\u5f71\u79d1\u6280\uff09\u5f00\u6e90\u7684 Agent \u6280\u80fd\u4e0e\u4e13\u5bb6\u5305\uff1a19 \u4e2a\u514d\u8d39\u6280\u80fd + 5 \u4e2a\u4e13\u5bb6\u5305\uff0c\u57fa\u4e8e Agent Skills \u5f00\u653e\u6807\u51c6\uff0cClaude Code / Codex / Cursor \u7b49\u5de5\u5177\u901a\u7528\u3002MIT License\u3002",
+    "id": "zhiyingstudio/zhiying-skills",
+    "language": "JavaScript",
+    "name": "zhiyingstudio/zhiying-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:34:31Z",
+    "url": "https://github.com/zhiyingstudio/zhiying-skills"
+  },
+  {
+    "description": "Extract a speaker's measurable voice from a text corpus, verify it as rules on held-out text, and export what tunes an L",
+    "id": "hrbohra/voiceprint",
+    "language": "Python",
+    "name": "hrbohra/voiceprint",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:34:12Z",
+    "url": "https://github.com/hrbohra/voiceprint"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-09-26T00:31:53Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 14,
+    "updated_at": "2026-09-26T00:31:42Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:31:39Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:31:27Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "A modular AI SEO standard operating procedure skill for AI coding agents.",
+    "id": "markkirby125/kirby-aiseo-skill",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-aiseo-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:30:31Z",
+    "url": "https://github.com/markkirby125/kirby-aiseo-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T00:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -27,24 +180,6 @@
     "url": "https://github.com/V-Songbird/disregard"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-26T00:25:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Evaluation environment for the llm-mailroom pipeline.",
-    "id": "LLM-Mailroom-Services/eval-environment",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/eval-environment",
-    "stars": 1,
-    "updated_at": "2026-09-26T00:24:32Z",
-    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -70,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T00:18:28Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 14,
-    "updated_at": "2026-09-26T00:17:45Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T00:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 \u516c\u4f17\u53f7\u6587\u7ae0\u81ea\u52a8\u5316\u751f\u4ea7\u6d41\u6c34\u7ebf | \u591a\u8eab\u4efd\u534f\u4f5c + \u7206\u6b3e\u5206\u6790 + \u53bbAI\u611f + \u8d28\u91cf\u81ea\u68c0 \u7528 Markdown \u5199\u6b63\u6587\uff0c\u81ea\u52a8\u8f6c\u6210\u5e26\u5185\u8054\u6837\u5f0f\u7684\u5fae\u4fe1\u517c\u5bb9 HTML\u3002\u544a\u522b\u6392\u7248\u70e6\u607c\uff0c\u4e13\u6ce8\u5185\u5bb9\u8d28\u91cf\u3002 Automated workflow for We",
@@ -185,7 +302,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 59,
-    "updated_at": "2026-09-26T00:29:46Z",
+    "updated_at": "2026-09-26T00:40:17Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 78,
     "updated_at": "2026-09-25T23:53:16Z",
     "url": "https://github.com/moeru-ai/velin"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:50:36Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "\u795e\u7b97\u5b50\u5468\u534a\u4ed9 \u00b7 \u4e2d\u5f0f\u547d\u7406\u672f\u6570 agent \u56e2\u961f\uff081 \u4e3b\u7406\u4eba + 6 \u95e8\u7c7b + 1 \u6821\u52d8\uff09\u00b7 \u5b8c\u5168\u81ea\u5305\u542b\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56",
-    "id": "hawchou1995/suanming-agent-team",
-    "language": "Python",
-    "name": "hawchou1995/suanming-agent-team",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:50:33Z",
-    "url": "https://github.com/hawchou1995/suanming-agent-team"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:50:01Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:49:56Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11618,
-    "updated_at": "2026-09-25T23:50:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:48:55Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:48:42Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:48:18Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:48:16Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-25T23:47:58Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-25T23:47:52Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:47:46Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-09-25T23:47:43Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
