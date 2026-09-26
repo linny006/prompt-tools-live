@@ -1,5 +1,41 @@
 [
   {
+    "description": "Transfers the work state, not the whole conversation.",
+    "id": "benjaminstelzer/scoville-handoff",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-handoff",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:33:04Z",
+    "url": "https://github.com/benjaminstelzer/scoville-handoff"
+  },
+  {
+    "description": "Keeps the engineering result visible through the process around it.",
+    "id": "benjaminstelzer/scoville-code",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-code",
+    "stars": 8,
+    "updated_at": "2026-09-26T18:32:58Z",
+    "url": "https://github.com/benjaminstelzer/scoville-code"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:32:20Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T18:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
     "id": "555cute/astra-quant-agent",
     "language": "Python",
@@ -162,15 +198,6 @@
     "url": "https://github.com/hraness/gobstopper"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T18:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
     "id": "rustyorb/SillyTavern-CreativeStudio",
     "language": "JavaScript",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "benjaminstelzer/scoville-plan",
     "stars": 3,
-    "updated_at": "2026-09-26T18:10:50Z",
+    "updated_at": "2026-09-26T18:33:10Z",
     "url": "https://github.com/benjaminstelzer/scoville-plan"
   },
   {
@@ -324,24 +351,6 @@
     "url": "https://github.com/treylom/prompt-engineering-skills"
   },
   {
-    "description": "Transfers the work state, not the whole conversation.",
-    "id": "benjaminstelzer/scoville-handoff",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-handoff",
-    "stars": 2,
-    "updated_at": "2026-09-26T18:04:00Z",
-    "url": "https://github.com/benjaminstelzer/scoville-handoff"
-  },
-  {
-    "description": "Keeps the engineering result visible through the process around it.",
-    "id": "benjaminstelzer/scoville-code",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-code",
-    "stars": 8,
-    "updated_at": "2026-09-26T18:03:58Z",
-    "url": "https://github.com/benjaminstelzer/scoville-code"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T17:34:22Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-26T17:34:17Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
