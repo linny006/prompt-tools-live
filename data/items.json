@@ -1,5 +1,41 @@
 [
   {
+    "description": "Semantic completion controller for AI agents: keeps the objective stable, allocates the next action from explicit progre",
+    "id": "utsapoddar/dopa-kernel",
+    "language": "Python",
+    "name": "utsapoddar/dopa-kernel",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:05:48Z",
+    "url": "https://github.com/utsapoddar/dopa-kernel"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:02:18Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "Python",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 13,
+    "updated_at": "2026-09-26T15:01:32Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T15:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "LLM world-naming pipeline in TypeScript: constrained repairable passes name districts, transit and businesses, then emit",
     "id": "hec-ovi/urbe-namer",
     "language": "TypeScript",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "waLLxAck/kiln",
     "stars": 1,
-    "updated_at": "2026-09-26T14:51:35Z",
+    "updated_at": "2026-09-26T15:03:46Z",
     "url": "https://github.com/waLLxAck/kiln"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Shell",
     "name": "domengabrovsek/agent-config",
     "stars": 17,
-    "updated_at": "2026-09-26T14:59:30Z",
+    "updated_at": "2026-09-26T15:04:17Z",
     "url": "https://github.com/domengabrovsek/agent-config"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T14:46:54Z",
     "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T14:46:03Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:24:21Z",
     "url": "https://github.com/cura-yjk/pera-flash"
-  },
-  {
-    "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
-    "id": "sanlee-ys/defense-news-classifier",
-    "language": "Python",
-    "name": "sanlee-ys/defense-news-classifier",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:24:07Z",
-    "url": "https://github.com/sanlee-ys/defense-news-classifier"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:24:05Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:24:01Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
