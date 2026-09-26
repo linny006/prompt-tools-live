@@ -1,12 +1,57 @@
 [
   {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
+    "description": "Shared agent configuration for Claude Code, Codex, and Pi. One AGENTS.md instruction source, 35 portable skills, 16 expe",
+    "id": "domengabrovsek/agent-config",
+    "language": "Shell",
+    "name": "domengabrovsek/agent-config",
+    "stars": 17,
+    "updated_at": "2026-09-26T12:29:35Z",
+    "url": "https://github.com/domengabrovsek/agent-config"
+  },
+  {
+    "description": "Generative AI Engineer portfolio featuring a RAG-powered AI assistant (\"Zoe\") built with Groq & ChromaDB, alongside a ma",
+    "id": "rahul-venu/personal-portfolio-website",
+    "language": "HTML",
+    "name": "rahul-venu/personal-portfolio-website",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:28:27Z",
+    "url": "https://github.com/rahul-venu/personal-portfolio-website"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
     "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
-    "stars": 5,
-    "updated_at": "2026-09-26T12:14:02Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-26T12:28:01Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-26T12:24:53Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "A reusable framework for designing and running organization-wide Generative AI adoption programs.",
+    "id": "DinaElSawah/AI-enablement-playbook",
+    "language": "\u2014",
+    "name": "DinaElSawah/AI-enablement-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:23:33Z",
+    "url": "https://github.com/DinaElSawah/AI-enablement-playbook"
+  },
+  {
+    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
+    "id": "xhulz/nina",
+    "language": "JavaScript",
+    "name": "xhulz/nina",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:23:17Z",
+    "url": "https://github.com/xhulz/nina"
   },
   {
     "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
@@ -14,8 +59,62 @@
     "language": "Python",
     "name": "janzong/agent-charters",
     "stars": 1,
-    "updated_at": "2026-09-26T12:13:38Z",
+    "updated_at": "2026-09-26T12:22:55Z",
     "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "Vendor-neutral Agent Skills for people who build voice agents. Read by Claude Code, Cursor, Codex, Copilot, Gemini CLI.",
+    "id": "mahimailabs/voice-ai-skills",
+    "language": "Python",
+    "name": "mahimailabs/voice-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:25:38Z",
+    "url": "https://github.com/mahimailabs/voice-ai-skills"
+  },
+  {
+    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
+    "id": "Dhi13man/skivolve",
+    "language": "Python",
+    "name": "Dhi13man/skivolve",
+    "stars": 1,
+    "updated_at": "2026-09-26T12:20:25Z",
+    "url": "https://github.com/Dhi13man/skivolve"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-26T12:19:02Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2550,
+    "updated_at": "2026-09-26T12:17:52Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T12:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 5,
+    "updated_at": "2026-09-26T12:14:02Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
   },
   {
     "description": "Assignments, mini-projects, and practical implementations from the TuteDude Generative AI course.",
@@ -36,13 +135,13 @@
     "url": "https://github.com/zorcec/vibeflow"
   },
   {
-    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
-    "id": "xhulz/nina",
-    "language": "JavaScript",
-    "name": "xhulz/nina",
+    "description": "A ready-to-run Tier 1 GenAI onboarding workshop \u2014 slide deck, facilitator notes, and a hands-on worksheet for training n",
+    "id": "DinaElSawah/Genai-onboarding-workshop-kit",
+    "language": "\u2014",
+    "name": "DinaElSawah/Genai-onboarding-workshop-kit",
     "stars": 0,
-    "updated_at": "2026-09-26T12:12:07Z",
-    "url": "https://github.com/xhulz/nina"
+    "updated_at": "2026-09-26T12:13:16Z",
+    "url": "https://github.com/DinaElSawah/Genai-onboarding-workshop-kit"
   },
   {
     "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-26T12:09:36Z",
+    "updated_at": "2026-09-26T12:27:59Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "BootBlock/SpriteGubbins",
     "stars": 0,
-    "updated_at": "2026-09-26T12:09:26Z",
+    "updated_at": "2026-09-26T12:28:20Z",
     "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
@@ -117,15 +216,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T12:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
     "id": "IAPro-Community/Orquestrador-Maestro",
     "language": "JavaScript",
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T11:58:31Z",
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-09-26T12:02:14Z",
-    "url": "https://github.com/Dhi13man/skivolve"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -185,7 +266,7 @@
     "language": "JavaScript",
     "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
     "stars": 0,
-    "updated_at": "2026-09-26T12:03:51Z",
+    "updated_at": "2026-09-26T12:24:32Z",
     "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
   },
   {
@@ -193,18 +274,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35067,
+    "stars": 35068,
     "updated_at": "2026-09-26T11:53:42Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-26T11:52:00Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -223,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T11:49:52Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Generative AI Engineer portfolio featuring a RAG-powered AI assistant (\"Zoe\") built with Groq & ChromaDB, alongside a ma",
-    "id": "rahul-venu/personal-portfolio-website",
-    "language": "HTML",
-    "name": "rahul-venu/personal-portfolio-website",
-    "stars": 0,
-    "updated_at": "2026-09-26T12:02:17Z",
-    "url": "https://github.com/rahul-venu/personal-portfolio-website"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -304,15 +367,6 @@
     "stars": 36,
     "updated_at": "2026-09-26T11:43:03Z",
     "url": "https://github.com/forjd/better-writing"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-09-26T12:10:29Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
     "description": "\ud83d\ude80 \u516c\u4f17\u53f7\u6587\u7ae0\u81ea\u52a8\u5316\u751f\u4ea7\u6d41\u6c34\u7ebf | \u591a\u8eab\u4efd\u534f\u4f5c + \u7206\u6b3e\u5206\u6790 + \u53bbAI\u611f + \u8d28\u91cf\u81ea\u68c0 \u7528 Markdown \u5199\u6b63\u6587\uff0c\u81ea\u52a8\u8f6c\u6210\u5e26\u5185\u8054\u6837\u5f0f\u7684\u5fae\u4fe1\u517c\u5bb9 HTML\u3002\u544a\u522b\u6392\u7248\u70e6\u607c\uff0c\u4e13\u6ce8\u5185\u5bb9\u8d28\u91cf\u3002 Automated workflow for We",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T11:35:01Z",
     "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:34:48Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:34:43Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:34:29Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Keyboard-first web app that teaches PMs open coding and error analysis on LLM traces. Runs locally or at trace-annotator",
-    "id": "mayankmankhand/trace-annotator",
-    "language": "TypeScript",
-    "name": "mayankmankhand/trace-annotator",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:33:00Z",
-    "url": "https://github.com/mayankmankhand/trace-annotator"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:32:58Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:32:54Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
   }
 ]
