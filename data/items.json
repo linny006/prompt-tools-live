@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-09-26T02:45:16Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 14,
+    "updated_at": "2026-09-26T02:44:41Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10321,
+    "updated_at": "2026-09-26T02:43:00Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-26T02:40:56Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Multi-agent AI skill orchestration \u2014 13 skills, 7 lifecycle phases, from idea to post-release. Works with Claude Code, C",
+    "id": "LangeVC/skillweave",
+    "language": "Python",
+    "name": "LangeVC/skillweave",
+    "stars": 4,
+    "updated_at": "2026-09-26T02:39:00Z",
+    "url": "https://github.com/LangeVC/skillweave"
+  },
+  {
+    "description": "PiDeck / DeepSeek Harness \u4e00\u952e\u90e8\u7f72\u5de5\u4f5c\u53f0 \u2014\u2014 \u628a\u6307\u4ee4\u96c6\u4e0e\u6280\u80fd\u5e93\u6ce8\u5165\u672c\u673a Pi \u7cfb\u5ba2\u6237\u7aef\uff0c\u5378\u8f7d\u5373\u8fd8\u539f\u30027 \u4e2a\u63d0\u793a\u8bcd\u6a21\u677f + 65 \u4e2a\u6280\u80fd\u6a21\u5757 + \u9644\u52a0\u6280\u80fd\u5305\uff0cPySide6 \u684c\u9762\u7aef + PowerShell \u6ce8\u5165\u5668",
+    "id": "2006sila/pi-workbench",
+    "language": "Python",
+    "name": "2006sila/pi-workbench",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:37:15Z",
+    "url": "https://github.com/2006sila/pi-workbench"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11312,
+    "updated_at": "2026-09-26T02:34:06Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T02:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
     "id": "goku-open/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -31,7 +103,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Python",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 16383,
+    "stars": 16382,
     "updated_at": "2026-09-26T02:26:14Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -97,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-09-26T02:17:22Z",
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T02:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "30+ installable visual-design skills for Codex, with reusable Python tooling, versioned packages and automated tests. Tu",
@@ -196,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T01:51:59Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "HTML",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:51:43Z",
-    "url": "https://github.com/jason3e7/ai-101"
   },
   {
     "description": "Open-source AI image prompt gallery and creative workspace for prompt engineering, text-to-image generation, image editi",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T01:36:24Z",
     "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:49Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:33:48Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:44Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:32:53Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:42:13Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:32:25Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
   }
 ]
