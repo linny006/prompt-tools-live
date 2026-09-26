@@ -1,12 +1,84 @@
 [
   {
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
+    "id": "aaddrick/building-with-typesafe-jev",
+    "language": "Python",
+    "name": "aaddrick/building-with-typesafe-jev",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:44:59Z",
+    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T10:44:43Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
     "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
     "id": "cura-yjk/pera-flash",
     "language": "Ruby",
     "name": "cura-yjk/pera-flash",
     "stars": 0,
-    "updated_at": "2026-09-26T10:30:04Z",
+    "updated_at": "2026-09-26T10:45:25Z",
     "url": "https://github.com/cura-yjk/pera-flash"
+  },
+  {
+    "description": "\ud83e\udde0 Prompt Paradox 2 - AI prompt engineering challenge",
+    "id": "Foces-core/prompt-paradox-2",
+    "language": "TypeScript",
+    "name": "Foces-core/prompt-paradox-2",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:44:19Z",
+    "url": "https://github.com/Foces-core/prompt-paradox-2"
+  },
+  {
+    "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-sillytavern-cards",
+    "language": "Python",
+    "name": "feverZHONG/liya-sillytavern-cards",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:42:53Z",
+    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
+  },
+  {
+    "description": "A LangGraph-powered multi-agent AI research assistant featuring parallel analyst workflows, human-in-the-loop feedback, ",
+    "id": "SKR18156592/multi-agent-research-assistant",
+    "language": "Jupyter Notebook",
+    "name": "SKR18156592/multi-agent-research-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-26T10:41:38Z",
+    "url": "https://github.com/SKR18156592/multi-agent-research-assistant"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-26T10:40:16Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:42:04Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "A curated library of machine-readable task prompts for Jules and other coding agents, including prompts for the failures",
+    "id": "melbinjp/jules-prompts",
+    "language": "Python",
+    "name": "melbinjp/jules-prompts",
+    "stars": 9,
+    "updated_at": "2026-09-26T10:36:47Z",
+    "url": "https://github.com/melbinjp/jules-prompts"
   },
   {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
@@ -14,8 +86,53 @@
     "language": "TypeScript",
     "name": "osovv/vv-opencode",
     "stars": 13,
-    "updated_at": "2026-09-26T10:29:29Z",
+    "updated_at": "2026-09-26T10:36:26Z",
     "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
+    "id": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
+    "language": "Python",
+    "name": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
+    "stars": 2,
+    "updated_at": "2026-09-26T10:35:46Z",
+    "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
+  },
+  {
+    "description": "brain in a vat",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 1,
+    "updated_at": "2026-09-26T10:34:27Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 5,
+    "updated_at": "2026-09-26T10:32:02Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
+  },
+  {
+    "description": "One-click prompt buttons for Claude Code and Codex, floating over macOS Terminal. Auto-backgrounds long Claude Code comm",
+    "id": "krushr1/claude-code-prompt-rack",
+    "language": "HTML",
+    "name": "krushr1/claude-code-prompt-rack",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:30:49Z",
+    "url": "https://github.com/krushr1/claude-code-prompt-rack"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-26T10:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
@@ -32,26 +149,8 @@
     "language": "JavaScript",
     "name": "devswha/patina",
     "stars": 358,
-    "updated_at": "2026-09-26T10:28:26Z",
+    "updated_at": "2026-09-26T10:35:13Z",
     "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "A LangGraph-powered multi-agent AI research assistant featuring parallel analyst workflows, human-in-the-loop feedback, ",
-    "id": "SKR18156592/multi-agent-research-assistant",
-    "language": "Jupyter Notebook",
-    "name": "SKR18156592/multi-agent-research-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-26T10:27:44Z",
-    "url": "https://github.com/SKR18156592/multi-agent-research-assistant"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-26T10:26:37Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
     "description": "AI-written articles on software engineering and life in the AI age, covering coding agents, software architecture, backe",
@@ -90,15 +189,6 @@
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
-    "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
-    "stars": 5,
-    "updated_at": "2026-09-26T10:21:33Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
-  },
-  {
     "description": "\u5f00\u6e90\u6cd5\u5f8b AI \u7814\u7a76 skill\uff1a\u4e94\u5c42\u9012\u8fdb\u65b9\u6cd5\u8bba\uff0c\u5148\u68c0\u7d22\u540e\u56de\u7b54\uff0c\u5b81\u7f3a\u52ff\u7f16",
     "id": "5tnb6xgsm5-ops/legal-research",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-09-26T10:21:12Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
-    "id": "aaddrick/building-with-typesafe-jev",
-    "language": "Python",
-    "name": "aaddrick/building-with-typesafe-jev",
-    "stars": 0,
-    "updated_at": "2026-09-26T10:20:30Z",
-    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -180,13 +261,13 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-26T10:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "mlflow/mlflow",
+    "stars": 28140,
+    "updated_at": "2026-09-26T10:15:47Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -216,15 +297,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28139,
-    "updated_at": "2026-09-26T10:15:47Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -250,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T10:10:16Z",
     "url": "https://github.com/XJJJJ1228/ai-business-prompt-workbench"
-  },
-  {
-    "description": "brain in a vat",
-    "id": "takealook97/vat",
-    "language": "Go",
-    "name": "takealook97/vat",
-    "stars": 1,
-    "updated_at": "2026-09-26T10:09:52Z",
-    "url": "https://github.com/takealook97/vat"
   },
   {
     "description": "PiDeck / DeepSeek Harness \u4e00\u952e\u90e8\u7f72\u5de5\u4f5c\u53f0 \u2014\u2014 \u628a\u6307\u4ee4\u96c6\u4e0e\u6280\u80fd\u5e93\u6ce8\u5165\u672c\u673a Pi \u7cfb\u5ba2\u6237\u7aef\uff0c\u5378\u8f7d\u5373\u8fd8\u539f\u30027 \u4e2a\u63d0\u793a\u8bcd\u6a21\u677f + 65 \u4e2a\u6280\u80fd\u6a21\u5757 + \u9644\u52a0\u6280\u80fd\u5305\uff0cPySide6 \u684c\u9762\u7aef + PowerShell \u6ce8\u5165\u5668",
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "Open-Less/openless",
     "stars": 3636,
-    "updated_at": "2026-09-26T09:57:46Z",
+    "updated_at": "2026-09-26T10:33:14Z",
     "url": "https://github.com/Open-Less/openless"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 74,
     "updated_at": "2026-09-26T09:55:31Z",
     "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
-    "id": "file-bricks/ProfiPrompt",
-    "language": "Python",
-    "name": "file-bricks/ProfiPrompt",
-    "stars": 4,
-    "updated_at": "2026-09-26T09:55:00Z",
-    "url": "https://github.com/file-bricks/ProfiPrompt"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T09:54:28Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355+\u6e05\u5355\u5916\u9ad8\u5371\u57df\u6267\u884c\u5c42\u679a\u4e3e\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e+\u9a8c\u8bc1\u5c42\u7ea7 ev=\uff0f\u5224\u636e\u7248\u672c\u5316 j2.5+\u91d1\u6837\u672c\u56de\u5f52 23/23\uff0f373 \u6761 30 \u7c7b\u75c7\u72b6",
-    "id": "zxc663/shisan-xinuo-workflow",
-    "language": "Python",
-    "name": "zxc663/shisan-xinuo-workflow",
-    "stars": 27,
-    "updated_at": "2026-09-26T09:47:08Z",
-    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
-    "description": "Local-first Electron desktop workspace for building prompt-driven projects and coding-agent teams: prompt library, agent",
-    "id": "yonah-lin111/lx-agent",
-    "language": "TypeScript",
-    "name": "yonah-lin111/lx-agent",
-    "stars": 5,
-    "updated_at": "2026-09-26T09:46:54Z",
-    "url": "https://github.com/yonah-lin111/lx-agent"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:44:15Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "A meticulously crafted system prompt to transform AI agents into thoughtful architects. Prevents silent guessing and pro",
-    "id": "TanKenglim/thoughtful-codex",
-    "language": "\u2014",
-    "name": "TanKenglim/thoughtful-codex",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:42:41Z",
-    "url": "https://github.com/TanKenglim/thoughtful-codex"
-  },
-  {
-    "description": "Dual-profile prompt-as-mental-model harness for LLM agents \u2014 advisory generator profile in the working agent, blocking v",
-    "id": "Xxx91n/jiahao",
-    "language": "JavaScript",
-    "name": "Xxx91n/jiahao",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:39:11Z",
-    "url": "https://github.com/Xxx91n/jiahao"
   }
 ]
