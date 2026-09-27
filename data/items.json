@@ -1,11 +1,209 @@
 [
   {
+    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 2,
+    "updated_at": "2026-09-27T10:58:41Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-09-27T10:58:28Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "A construction handbook for LLM agent populations to build their own communication language that cuts token cost by 50%+",
+    "id": "qq2667117339/agent-language-handbook",
+    "language": "Python",
+    "name": "qq2667117339/agent-language-handbook",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:57:06Z",
+    "url": "https://github.com/qq2667117339/agent-language-handbook"
+  },
+  {
+    "description": "\u62c9\u59c6&\u857e\u59c6\u53cc\u5b50\u72b6\u6001\u673a + LLM \u7075\u9b42\u8868\u8fbe\u7cfb\u7edf\uff5c\u786c\u7ea6\u675f\u00d7\u8f6f\u8868\u8fbe\u7684 Character AI \u5b9e\u8df5\uff08\u72b6\u6001\u673a/\u5fe0\u8bda\u9501\u5b9a/\u4e8b\u4ef6\u8bb0\u5fc6/\u53ef\u8bc4\u4f30\uff09",
+    "id": "kangxiaodong58-create/rezero_twin",
+    "language": "Python",
+    "name": "kangxiaodong58-create/rezero_twin",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:56:37Z",
+    "url": "https://github.com/kangxiaodong58-create/rezero_twin"
+  },
+  {
+    "description": "\u9762\u5411 AI \u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u62fc\u63a5\u4e0e\u6574\u7406\u7684 Windows \u684c\u9762 Markdown \u7f16\u8f91\u5668\uff0c\u652f\u6301\u591a\u6587\u6863\u591a\u6807\u7b7e\u9875\u3002",
+    "id": "SunYanbox/AiPromptMarkdownEditor",
+    "language": "C#",
+    "name": "SunYanbox/AiPromptMarkdownEditor",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:55:58Z",
+    "url": "https://github.com/SunYanbox/AiPromptMarkdownEditor"
+  },
+  {
+    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
+    "id": "api-evangelist/taste",
+    "language": "\u2014",
+    "name": "api-evangelist/taste",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:55:38Z",
+    "url": "https://github.com/api-evangelist/taste"
+  },
+  {
+    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
+    "id": "Ayush-2703/Large_languaage_Models",
+    "language": "Python",
+    "name": "Ayush-2703/Large_languaage_Models",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:55:27Z",
+    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-27T10:55:20Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:55:16Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "Open-source text humanization pipeline with full transparency at every stage. It combines two LLM rewrites at temperatur",
+    "id": "truepushkar/humanize-text",
+    "language": "HTML",
+    "name": "truepushkar/humanize-text",
+    "stars": 2,
+    "updated_at": "2026-09-27T10:54:48Z",
+    "url": "https://github.com/truepushkar/humanize-text"
+  },
+  {
+    "description": "Evaluation environment for the llm-mailroom pipeline.",
+    "id": "LLM-Mailroom-Services/eval-environment",
+    "language": "Python",
+    "name": "LLM-Mailroom-Services/eval-environment",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:54:44Z",
+    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
+  },
+  {
+    "description": "Original, model-neutral AI prompts with visible assumptions, reviewable outputs, and human judgment built in.",
+    "id": "mr-jonam/human-first-prompts",
+    "language": "\u2014",
+    "name": "mr-jonam/human-first-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:53:57Z",
+    "url": "https://github.com/mr-jonam/human-first-prompts"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:53:29Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Reusable AI skills for Codex, Claude Code & Copilot CLI \u2014 Markdown-only, safety-first samples for diagnosing bugs, draft",
+    "id": "khadir-syed/k_ai-agent-skills",
+    "language": "Markdown",
+    "name": "khadir-syed/k_ai-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-09-27T10:53:10Z",
+    "url": "https://github.com/khadir-syed/k_ai-agent-skills"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:53:07Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
+    "id": "aalbeek-ai/voice-evals",
+    "language": "\u2014",
+    "name": "aalbeek-ai/voice-evals",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:50:23Z",
+    "url": "https://github.com/aalbeek-ai/voice-evals"
+  },
+  {
+    "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
+    "id": "api-evangelist/promptlayer",
+    "language": "\u2014",
+    "name": "api-evangelist/promptlayer",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:50:18Z",
+    "url": "https://github.com/api-evangelist/promptlayer"
+  },
+  {
+    "description": "AI-powered personal portfolio showcasing prompt engineering, LLM orchestration, and AI-assisted development projects.",
+    "id": "MD-NAVED/mohammad-naved-portfolio",
+    "language": "TypeScript",
+    "name": "MD-NAVED/mohammad-naved-portfolio",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:49:54Z",
+    "url": "https://github.com/MD-NAVED/mohammad-naved-portfolio"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:49:18Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25490,
+    "updated_at": "2026-09-27T10:47:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agent Skill that turns one character into a full, auditable AIGC asset library (G0\u2013G14 gated pipeline).",
+    "id": "PolinniZhong/character-asset-kit",
+    "language": "Python",
+    "name": "PolinniZhong/character-asset-kit",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:46:51Z",
+    "url": "https://github.com/PolinniZhong/character-asset-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T10:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
     "id": "novanoticia/email-triage-plugin",
     "language": "Python",
     "name": "novanoticia/email-triage-plugin",
     "stars": 1,
-    "updated_at": "2026-09-27T10:44:31Z",
+    "updated_at": "2026-09-27T10:57:19Z",
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
@@ -25,33 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:42:07Z",
     "url": "https://github.com/mingdui/dsh-growth-workbench"
-  },
-  {
-    "description": "Evaluation environment for the llm-mailroom pipeline.",
-    "id": "LLM-Mailroom-Services/eval-environment",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/eval-environment",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:41:01Z",
-    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
-    "description": "A construction handbook for LLM agent populations to build their own communication language that cuts token cost by 50%+",
-    "id": "qq2667117339/agent-language-handbook",
-    "language": "Python",
-    "name": "qq2667117339/agent-language-handbook",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:40:43Z",
-    "url": "https://github.com/qq2667117339/agent-language-handbook"
-  },
-  {
-    "description": "Open-source text humanization pipeline with full transparency at every stage. It combines two LLM rewrites at temperatur",
-    "id": "truepushkar/humanize-text",
-    "language": "HTML",
-    "name": "truepushkar/humanize-text",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:39:03Z",
-    "url": "https://github.com/truepushkar/humanize-text"
   },
   {
     "description": "Layered, agent-agnostic context architecture for AI coding agents: a tiny always-on baseline, on-demand skills & memory,",
@@ -113,26 +284,8 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 63,
-    "updated_at": "2026-09-27T10:36:02Z",
+    "updated_at": "2026-09-27T10:58:28Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "AI-powered personal portfolio showcasing prompt engineering, LLM orchestration, and AI-assisted development projects.",
-    "id": "MD-NAVED/mohammad-naved-portfolio",
-    "language": "TypeScript",
-    "name": "MD-NAVED/mohammad-naved-portfolio",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:32:16Z",
-    "url": "https://github.com/MD-NAVED/mohammad-naved-portfolio"
-  },
-  {
-    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
-    "id": "aalbeek-ai/voice-evals",
-    "language": "\u2014",
-    "name": "aalbeek-ai/voice-evals",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:31:37Z",
-    "url": "https://github.com/aalbeek-ai/voice-evals"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -142,24 +295,6 @@
     "stars": 49,
     "updated_at": "2026-09-27T10:31:19Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:31:09Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T10:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -196,15 +331,6 @@
     "stars": 536,
     "updated_at": "2026-09-27T10:26:45Z",
     "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
-  },
-  {
-    "description": "Reusable AI skills for Codex, Claude Code & Copilot CLI \u2014 Markdown-only, safety-first samples for diagnosing bugs, draft",
-    "id": "khadir-syed/k_ai-agent-skills",
-    "language": "Markdown",
-    "name": "khadir-syed/k_ai-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-09-27T10:23:18Z",
-    "url": "https://github.com/khadir-syed/k_ai-agent-skills"
   },
   {
     "description": "Chrome side-panel extension that turns any image on the web into an AI prompt \u2014 save, reverse into Subject \u00b7 Style \u00b7 Lig",
@@ -259,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:17:45Z",
     "url": "https://github.com/9-GETOVER-9/ai-project-workflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25489,
-    "updated_at": "2026-09-27T10:45:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:14:22Z",
     "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Put your AI agent under the law. 12 role-based AI Laws (KO/EN) with penalties, verdicts, and a Confession Ledger that fo",
-    "id": "jinyeong03/ai-lawbook",
-    "language": "Shell",
-    "name": "jinyeong03/ai-lawbook",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:14:07Z",
-    "url": "https://github.com/jinyeong03/ai-lawbook"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:13:41Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:12:43Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:12:43Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-27T10:13:15Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
-    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "language": "Jupyter Notebook",
-    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "stars": 4,
-    "updated_at": "2026-09-27T10:12:03Z",
-    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:11:22Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:11:14Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:10:41Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:10:39Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-27T10:09:59Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:09:57Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:09:44Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
   }
 ]
