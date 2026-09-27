@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T22:30:45Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T22:43:44Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-27T22:43:39Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
     "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
@@ -14,17 +23,107 @@
     "language": "Go",
     "name": "coilyco/agent-compose",
     "stars": 1,
-    "updated_at": "2026-09-27T22:30:45Z",
+    "updated_at": "2026-09-27T22:40:44Z",
     "url": "https://github.com/coilyco/agent-compose"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
     "stars": 1,
-    "updated_at": "2026-09-27T22:29:52Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
+    "updated_at": "2026-09-27T22:38:31Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 60,
+    "updated_at": "2026-09-27T22:38:17Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-09-27T22:38:14Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-09-27T22:37:31Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 11,
+    "updated_at": "2026-09-27T22:37:11Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 83,
+    "updated_at": "2026-09-27T22:35:51Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
+  },
+  {
+    "description": "Claude Agent Skills I built and use: embed-master for embedded systems and edge AI, and god-mode for deep engineering an",
+    "id": "contactmridulhere-commits/claude-skills",
+    "language": "\u2014",
+    "name": "contactmridulhere-commits/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:34:39Z",
+    "url": "https://github.com/contactmridulhere-commits/claude-skills"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-27T22:34:05Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3030,
+    "updated_at": "2026-09-27T22:42:12Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T22:31:07Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T22:30:45Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
@@ -86,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25501,
-    "updated_at": "2026-09-27T22:26:38Z",
+    "updated_at": "2026-09-27T22:32:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -157,7 +256,7 @@
     "id": "bolongpa/poke-consistency-kit",
     "language": "Python",
     "name": "bolongpa/poke-consistency-kit",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-27T22:17:37Z",
     "url": "https://github.com/bolongpa/poke-consistency-kit"
   },
@@ -180,24 +279,6 @@
     "url": "https://github.com/flashfrogluo/second-take"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T22:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
-    "id": "grimoire-rs/grimoire",
-    "language": "Rust",
-    "name": "grimoire-rs/grimoire",
-    "stars": 11,
-    "updated_at": "2026-09-27T22:23:41Z",
-    "url": "https://github.com/grimoire-rs/grimoire"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -212,7 +293,7 @@
     "language": "Shell",
     "name": "Novadiem-Studio/bureau",
     "stars": 13,
-    "updated_at": "2026-09-27T22:10:18Z",
+    "updated_at": "2026-09-27T22:41:15Z",
     "url": "https://github.com/Novadiem-Studio/bureau"
   },
   {
@@ -252,15 +333,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-27T22:24:21Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 463 cases traced to original posts, 264 cross-model retest runs with p",
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T22:06:15Z",
     "url": "https://github.com/markhazleton/devspark"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 75,
-    "updated_at": "2026-09-27T22:02:34Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -385,68 +448,5 @@
     "stars": 50,
     "updated_at": "2026-09-27T21:48:48Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
-    "id": "deadly-centropomus6106/image-gen-open-source",
-    "language": "JavaScript",
-    "name": "deadly-centropomus6106/image-gen-open-source",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:48:42Z",
-    "url": "https://github.com/deadly-centropomus6106/image-gen-open-source"
-  },
-  {
-    "description": "Transcribe voice memos locally with trim, tag, and export tools\u2014no cloud uploads, ever.",
-    "id": "hhakahhhaj-blip/WhisperDeck",
-    "language": "Python",
-    "name": "hhakahhhaj-blip/WhisperDeck",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:48:32Z",
-    "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
-    "id": "2148-wq/DLSS5-for-Nuke",
-    "language": "C++",
-    "name": "2148-wq/DLSS5-for-Nuke",
-    "stars": 1,
-    "updated_at": "2026-09-27T21:48:09Z",
-    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:48:06Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:47:53Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:47:11Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-27T21:46:55Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
