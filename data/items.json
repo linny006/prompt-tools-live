@@ -1,5 +1,113 @@
 [
   {
+    "description": "Tomoko \ud83c\udf80 \u2014 a compact (2.5k char) persona-based LLM jailbreak, derivative of ENI LIME. Tested on LongCat 2.5 Preview via ",
+    "id": "marmbiz/tomoko",
+    "language": "\u2014",
+    "name": "marmbiz/tomoko",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:15:12Z",
+    "url": "https://github.com/marmbiz/tomoko"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:14:52Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 63,
+    "updated_at": "2026-09-27T11:14:27Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "\u9762\u5411 AI \u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u62fc\u63a5\u4e0e\u6574\u7406\u7684 Windows \u684c\u9762 Markdown \u7f16\u8f91\u5668\uff0c\u652f\u6301\u591a\u6587\u6863\u591a\u6807\u7b7e\u9875\u3002",
+    "id": "SunYanbox/AiPromptMarkdownEditor",
+    "language": "C#",
+    "name": "SunYanbox/AiPromptMarkdownEditor",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:12:24Z",
+    "url": "https://github.com/SunYanbox/AiPromptMarkdownEditor"
+  },
+  {
+    "description": "\u62c9\u59c6&\u857e\u59c6\u53cc\u5b50\u72b6\u6001\u673a + LLM \u7075\u9b42\u8868\u8fbe\u7cfb\u7edf\uff5c\u786c\u7ea6\u675f\u00d7\u8f6f\u8868\u8fbe\u7684 Character AI \u5b9e\u8df5\uff08\u72b6\u6001\u673a/\u5fe0\u8bda\u9501\u5b9a/\u4e8b\u4ef6\u8bb0\u5fc6/\u53ef\u8bc4\u4f30\uff09",
+    "id": "kangxiaodong58-create/rezero_twin",
+    "language": "Python",
+    "name": "kangxiaodong58-create/rezero_twin",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:09:39Z",
+    "url": "https://github.com/kangxiaodong58-create/rezero_twin"
+  },
+  {
+    "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
+    "id": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
+    "language": "Python",
+    "name": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
+    "stars": 3,
+    "updated_at": "2026-09-27T11:08:30Z",
+    "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
+  },
+  {
+    "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
+    "id": "alptugharun/ai-social-media-toolkit",
+    "language": "Python",
+    "name": "alptugharun/ai-social-media-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:08:19Z",
+    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "Original, model-neutral AI prompts with visible assumptions, reviewable outputs, and human judgment built in.",
+    "id": "mr-jonam/human-first-prompts",
+    "language": "\u2014",
+    "name": "mr-jonam/human-first-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:08:04Z",
+    "url": "https://github.com/mr-jonam/human-first-prompts"
+  },
+  {
+    "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
+    "id": "api-evangelist/compresr",
+    "language": "\u2014",
+    "name": "api-evangelist/compresr",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:07:35Z",
+    "url": "https://github.com/api-evangelist/compresr"
+  },
+  {
+    "description": "Same prompt, several models -- stopwatch or true race; the starting model judges (time is only one dimension)",
+    "id": "ellmos-ai/compare-race",
+    "language": "Python",
+    "name": "ellmos-ai/compare-race",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:06:57Z",
+    "url": "https://github.com/ellmos-ai/compare-race"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:04:01Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T11:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
     "id": "api-evangelist/vellum",
     "language": "\u2014",
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:57:06Z",
     "url": "https://github.com/qq2667117339/agent-language-handbook"
-  },
-  {
-    "description": "\u62c9\u59c6&\u857e\u59c6\u53cc\u5b50\u72b6\u6001\u673a + LLM \u7075\u9b42\u8868\u8fbe\u7cfb\u7edf\uff5c\u786c\u7ea6\u675f\u00d7\u8f6f\u8868\u8fbe\u7684 Character AI \u5b9e\u8df5\uff08\u72b6\u6001\u673a/\u5fe0\u8bda\u9501\u5b9a/\u4e8b\u4ef6\u8bb0\u5fc6/\u53ef\u8bc4\u4f30\uff09",
-    "id": "kangxiaodong58-create/rezero_twin",
-    "language": "Python",
-    "name": "kangxiaodong58-create/rezero_twin",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:56:37Z",
-    "url": "https://github.com/kangxiaodong58-create/rezero_twin"
-  },
-  {
-    "description": "\u9762\u5411 AI \u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u62fc\u63a5\u4e0e\u6574\u7406\u7684 Windows \u684c\u9762 Markdown \u7f16\u8f91\u5668\uff0c\u652f\u6301\u591a\u6587\u6863\u591a\u6807\u7b7e\u9875\u3002",
-    "id": "SunYanbox/AiPromptMarkdownEditor",
-    "language": "C#",
-    "name": "SunYanbox/AiPromptMarkdownEditor",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:55:58Z",
-    "url": "https://github.com/SunYanbox/AiPromptMarkdownEditor"
   },
   {
     "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T10:54:44Z",
     "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
-    "description": "Original, model-neutral AI prompts with visible assumptions, reviewable outputs, and human judgment built in.",
-    "id": "mr-jonam/human-first-prompts",
-    "language": "\u2014",
-    "name": "mr-jonam/human-first-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:53:57Z",
-    "url": "https://github.com/mr-jonam/human-first-prompts"
   },
   {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
@@ -189,24 +270,6 @@
     "url": "https://github.com/PolinniZhong/character-asset-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T10:45:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
-    "id": "novanoticia/email-triage-plugin",
-    "language": "Python",
-    "name": "novanoticia/email-triage-plugin",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:57:19Z",
-    "url": "https://github.com/novanoticia/email-triage-plugin"
-  },
-  {
     "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
     "id": "api-evangelist/klu-ai",
     "language": "\u2014",
@@ -277,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T10:37:01Z",
     "url": "https://github.com/Louciano22/appfinisher-ai"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 63,
-    "updated_at": "2026-09-27T10:58:28Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:16:00Z",
     "url": "https://github.com/deadly-centropomus6106/image-gen-open-source"
-  },
-  {
-    "description": "Transcribe voice memos locally with trim, tag, and export tools\u2014no cloud uploads, ever.",
-    "id": "hhakahhhaj-blip/WhisperDeck",
-    "language": "Python",
-    "name": "hhakahhhaj-blip/WhisperDeck",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:15:49Z",
-    "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Answers without assumptions \u2014 clarify briefs before LLM generate; portable verified prompts.",
-    "id": "huytr91/unassume",
-    "language": "TypeScript",
-    "name": "huytr91/unassume",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:15:34Z",
-    "url": "https://github.com/huytr91/unassume"
-  },
-  {
-    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
-    "id": "2148-wq/DLSS5-for-Nuke",
-    "language": "C++",
-    "name": "2148-wq/DLSS5-for-Nuke",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:15:16Z",
-    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:15:05Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Alt-click any element in your Vite dev page to get an AI-ready prompt with its absolute source path, line/column and com",
-    "id": "lulusiya/picker",
-    "language": "TypeScript",
-    "name": "lulusiya/picker",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:14:46Z",
-    "url": "https://github.com/lulusiya/picker"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:14:22Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
   }
 ]
