@@ -1,12 +1,93 @@
 [
   {
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
+    "id": "aaddrick/building-with-typesafe-jev",
+    "language": "Python",
+    "name": "aaddrick/building-with-typesafe-jev",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:29:11Z",
+    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:27:15Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "Business-agnostic multi-tier local LLM agent platform: grammar-constrained routing, deterministic policy gate, fail-clos",
+    "id": "DuqueOM/agent-local",
+    "language": "Python",
+    "name": "DuqueOM/agent-local",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:26:26Z",
+    "url": "https://github.com/DuqueOM/agent-local"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 11,
+    "updated_at": "2026-09-27T01:24:45Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "555cute/astra-quant-agent",
+    "language": "Python",
+    "name": "555cute/astra-quant-agent",
+    "stars": 261,
+    "updated_at": "2026-09-27T01:23:06Z",
+    "url": "https://github.com/555cute/astra-quant-agent"
+  },
+  {
     "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
     "id": "jason3e7/ai-101",
     "language": "HTML",
     "name": "jason3e7/ai-101",
     "stars": 1,
-    "updated_at": "2026-09-27T01:14:56Z",
+    "updated_at": "2026-09-27T01:22:38Z",
     "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Claude Code \u6280\u80fd\uff1a\u8d77\u8349\u4e2d\u56fd\u6cd5\u5f8b\u6587\u4e66\u3002\u4e24\u6b65\u9a8c\u8bc1\u6cd5\uff08\u5bf9\u7167\u539f\u6587\uff0b\u5546\u4e1a\u5229\u76ca\u5206\u6790\uff09\uff0b\u529e\u6848\u6307\u5f15\u5f3a\u5236\u68c0\u7d22\uff0c\u9ed8\u8ba4\u8f93\u51fa .docx\u3002",
+    "id": "xtzhych-beep/legal-drafting-skill",
+    "language": "\u2014",
+    "name": "xtzhych-beep/legal-drafting-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:22:33Z",
+    "url": "https://github.com/xtzhych-beep/legal-drafting-skill"
+  },
+  {
+    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
+    "id": "JGRFW/comfyui-AICG3D",
+    "language": "Python",
+    "name": "JGRFW/comfyui-AICG3D",
+    "stars": 100,
+    "updated_at": "2026-09-27T01:20:37Z",
+    "url": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 192,
+    "updated_at": "2026-09-27T01:20:37Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:18:40Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
@@ -14,8 +95,26 @@
     "language": "Jupyter Notebook",
     "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
     "stars": 4,
-    "updated_at": "2026-09-27T01:14:45Z",
+    "updated_at": "2026-09-27T01:18:28Z",
     "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:18:16Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T01:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -171,24 +270,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T01:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 192,
-    "updated_at": "2026-09-27T01:03:51Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
     "id": "V-Songbird/disregard",
     "language": "JavaScript",
@@ -221,7 +302,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25479,
-    "updated_at": "2026-09-27T01:14:13Z",
+    "updated_at": "2026-09-27T01:28:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -297,15 +378,6 @@
     "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-27T00:39:48Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
-  },
-  {
     "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
     "id": "Khyodaattu/awesome-skillkit",
     "language": "\u2014",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T00:37:18Z",
     "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
-    "id": "aaddrick/building-with-typesafe-jev",
-    "language": "Python",
-    "name": "aaddrick/building-with-typesafe-jev",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:12:48Z",
-    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
   },
   {
     "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T00:36:12Z",
     "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:34:55Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:34:36Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:33:52Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:33:42Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 1,
-    "updated_at": "2026-09-27T00:33:32Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-27T00:33:28Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-27T00:29:22Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
