@@ -1,12 +1,75 @@
 [
   {
-    "description": "AI PRD Assistant: staged PRD generation, validation, AI risk analysis, human review, and report assembly.",
-    "id": "quietlzx/ai-prd-assistant",
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-09-27T03:45:24Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "Modular AI assistant with long-term memory, plugin SDK, and universal LLM routing. Built with Prompt Engineering.",
+    "id": "ebluffy/Neyra-AIAssist",
     "language": "Python",
-    "name": "quietlzx/ai-prd-assistant",
+    "name": "ebluffy/Neyra-AIAssist",
+    "stars": 3,
+    "updated_at": "2026-09-27T03:45:05Z",
+    "url": "https://github.com/ebluffy/Neyra-AIAssist"
+  },
+  {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2288,
+    "updated_at": "2026-09-27T03:45:00Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "JaiChaudhary07/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "JaiChaudhary07/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-09-27T03:44:00Z",
+    "url": "https://github.com/JaiChaudhary07/ai-dev-assistant-framework"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:43:38Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25481,
+    "updated_at": "2026-09-27T03:43:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Official ModelBound plugin for Cursor \u2014 slash commands for skill pipeline, trust & safety, versions, and MCP-backed cont",
+    "id": "ModelBound/modelbound-cursor-plugin",
+    "language": "JavaScript",
+    "name": "ModelBound/modelbound-cursor-plugin",
     "stars": 0,
-    "updated_at": "2026-09-27T03:30:10Z",
-    "url": "https://github.com/quietlzx/ai-prd-assistant"
+    "updated_at": "2026-09-27T03:43:05Z",
+    "url": "https://github.com/ModelBound/modelbound-cursor-plugin"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-27T03:42:20Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
@@ -14,8 +77,53 @@
     "language": "TypeScript",
     "name": "dev-rb-hub/maximinion-ce",
     "stars": 0,
-    "updated_at": "2026-09-27T03:30:03Z",
+    "updated_at": "2026-09-27T03:43:08Z",
     "url": "https://github.com/dev-rb-hub/maximinion-ce"
+  },
+  {
+    "description": "A 17-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:44:12Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "AI PRD \u52a9\u624b\uff1a\u5206\u9636\u6bb5\u751f\u6210 PRD\u3001\u6821\u9a8c\u9700\u6c42\u3001\u8bc6\u522b AI \u98ce\u9669\u3001\u6267\u884c\u4eba\u5de5\u5ba1\u6838\u5e76\u7ec4\u88c5\u62a5\u544a\u3002",
+    "id": "quietlzx/ai-prd-assistant",
+    "language": "Python",
+    "name": "quietlzx/ai-prd-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:35:29Z",
+    "url": "https://github.com/quietlzx/ai-prd-assistant"
+  },
+  {
+    "description": "Canonical generated plugin catalog for Claude Code, Codex, GitHub Copilot, and portable Agent Plugins",
+    "id": "hermes-labs-ai/plugins",
+    "language": "JavaScript",
+    "name": "hermes-labs-ai/plugins",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:34:56Z",
+    "url": "https://github.com/hermes-labs-ai/plugins"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 14,
+    "updated_at": "2026-09-27T03:30:51Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T03:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI agent playbooks from AI Workflow Pro videos: one repo per video you can copy into your own project. Claude Code, Code",
@@ -54,31 +162,13 @@
     "url": "https://github.com/ar33s08/contextfloor"
   },
   {
-    "description": "Official ModelBound plugin for Cursor \u2014 slash commands for skill pipeline, trust & safety, versions, and MCP-backed cont",
-    "id": "ModelBound/modelbound-cursor-plugin",
-    "language": "JavaScript",
-    "name": "ModelBound/modelbound-cursor-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:27:43Z",
-    "url": "https://github.com/ModelBound/modelbound-cursor-plugin"
-  },
-  {
     "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
     "id": "V-Songbird/disregard",
     "language": "JavaScript",
     "name": "V-Songbird/disregard",
     "stars": 2,
-    "updated_at": "2026-09-27T03:27:20Z",
+    "updated_at": "2026-09-27T03:45:05Z",
     "url": "https://github.com/V-Songbird/disregard"
-  },
-  {
-    "description": "Canonical generated plugin catalog for Claude Code, Codex, GitHub Copilot, and portable Agent Plugins",
-    "id": "hermes-labs-ai/plugins",
-    "language": "JavaScript",
-    "name": "hermes-labs-ai/plugins",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:26:42Z",
-    "url": "https://github.com/hermes-labs-ai/plugins"
   },
   {
     "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "conorbronsdon/agent-context-os",
     "stars": 25,
-    "updated_at": "2026-09-27T03:26:29Z",
+    "updated_at": "2026-09-27T03:42:20Z",
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
@@ -176,7 +266,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 212,
-    "updated_at": "2026-09-27T03:17:45Z",
+    "updated_at": "2026-09-27T03:39:48Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -187,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T03:16:11Z",
     "url": "https://github.com/qtjg/jailbreak-archive"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T03:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A plugin for Claude Code that also uses Codex a bit.",
@@ -364,89 +445,8 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 39430,
+    "stars": 39431,
     "updated_at": "2026-09-27T03:04:06Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
-    "id": "jhonatan-oliveiradev/agent-skills",
-    "language": "TypeScript",
-    "name": "jhonatan-oliveiradev/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T03:03:41Z",
-    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25480,
-    "updated_at": "2026-09-27T03:26:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3643,
-    "updated_at": "2026-09-27T03:00:35Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C",
-    "id": "BotShelfVampire/botshelf-ai-team-registry",
-    "language": "Python",
-    "name": "BotShelfVampire/botshelf-ai-team-registry",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:59:10Z",
-    "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
-  },
-  {
-    "description": "\u5229\u7528\u5834\u9762\u3068\u5883\u754c\u4e8b\u4f8b\u304b\u3089\u81ea\u5df1\u5b8c\u7d50\u3057\u305fSkill\u3092\u8a2d\u8a08\u30fb\u4f5c\u6210\u30fb\u66f4\u65b0\u3059\u308bClaude Code/Codex\u30d7\u30e9\u30b0\u30a4\u30f3",
-    "id": "nakamori-naoya/skill-authoring-plugins",
-    "language": "Shell",
-    "name": "nakamori-naoya/skill-authoring-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:57:35Z",
-    "url": "https://github.com/nakamori-naoya/skill-authoring-plugins"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:56:38Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 91,
-    "updated_at": "2026-09-27T02:53:35Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
-    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "language": "Jupyter Notebook",
-    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
-    "stars": 4,
-    "updated_at": "2026-09-27T02:51:55Z",
-    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:51:14Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
