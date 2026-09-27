@@ -1,10 +1,82 @@
 [
   {
+    "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
+    "id": "jhd3197/Prompture",
+    "language": "Python",
+    "name": "jhd3197/Prompture",
+    "stars": 15,
+    "updated_at": "2026-09-27T04:43:52Z",
+    "url": "https://github.com/jhd3197/Prompture"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2233,
+    "updated_at": "2026-09-27T04:41:48Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Comprehensive repository of production AI Agent Skills and workflows for Antigravity, Claude, and AI coding assistants.",
+    "id": "bhubbard/skills",
+    "language": "HTML",
+    "name": "bhubbard/skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:37:41Z",
+    "url": "https://github.com/bhubbard/skills"
+  },
+  {
+    "description": "Orchestrator prompt + worker contract for coding agents, driven by herdr",
+    "id": "Herdanis/the-cat-concerto",
+    "language": "Shell",
+    "name": "Herdanis/the-cat-concerto",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:35:58Z",
+    "url": "https://github.com/Herdanis/the-cat-concerto"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills \u2014 AI media generation, research",
+    "id": "Morningstar202604/awesome-skillkit",
+    "language": "Python",
+    "name": "Morningstar202604/awesome-skillkit",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:34:48Z",
+    "url": "https://github.com/Morningstar202604/awesome-skillkit"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills \u2014 AI media generation, research",
+    "id": "X33834/awesome-skillkit",
+    "language": "Python",
+    "name": "X33834/awesome-skillkit",
+    "stars": 3,
+    "updated_at": "2026-09-27T04:34:43Z",
+    "url": "https://github.com/X33834/awesome-skillkit"
+  },
+  {
+    "description": "\u63d0\u793a\u8bcd\u7cbe\u7075 \u2014 \u5728 DeepSeek Harness \u8f93\u5165\u6846\u65c1\u4e00\u952e\u628a\u8349\u7a3f\u4f18\u5316\u6210\u7ed3\u6784\u5316\u63d0\u793a\u8bcd / One-click prompt optimization button for the DeepSeek Harness composer",
+    "id": "jr-create/dsh-prompt-wisp",
+    "language": "JavaScript",
+    "name": "jr-create/dsh-prompt-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:33:33Z",
+    "url": "https://github.com/jr-create/dsh-prompt-wisp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T04:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A structured, versioned, and reproducible archive of adversarial prompt engineering techniques against Large Language Mo",
     "id": "qtjg/jailbreak-archive",
     "language": "\u2014",
     "name": "qtjg/jailbreak-archive",
-    "stars": 1,
+    "stars": 3,
     "updated_at": "2026-09-27T04:29:33Z",
     "url": "https://github.com/qtjg/jailbreak-archive"
   },
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "paro-studio/web",
     "stars": 14,
-    "updated_at": "2026-09-27T04:28:46Z",
+    "updated_at": "2026-09-27T04:39:18Z",
     "url": "https://github.com/paro-studio/web"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "rahulrajaram/rahulskills",
     "stars": 0,
-    "updated_at": "2026-09-27T04:21:10Z",
+    "updated_at": "2026-09-27T04:31:57Z",
     "url": "https://github.com/rahulrajaram/rahulskills"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:16:35Z",
     "url": "https://github.com/flunkymercenary747/Claude-code-research"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:16:32Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Explore AI agent CLI tools with clear guides to Claude Code, Codex, OpenCode, and Qwen CLI for practical use and workflo",
-    "id": "pickerrelict689/ai_agent_cli_guide",
-    "language": "\u2014",
-    "name": "pickerrelict689/ai_agent_cli_guide",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:16:31Z",
-    "url": "https://github.com/pickerrelict689/ai_agent_cli_guide"
-  },
-  {
-    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
-    "id": "XAKLESK/cre-agent-skills",
-    "language": "\u2014",
-    "name": "XAKLESK/cre-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-09-27T04:16:02Z",
-    "url": "https://github.com/XAKLESK/cre-agent-skills"
-  },
-  {
-    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
-    "id": "RevolutionLA/adversarial-review",
-    "language": "JavaScript",
-    "name": "RevolutionLA/adversarial-review",
-    "stars": 2,
-    "updated_at": "2026-09-27T04:15:47Z",
-    "url": "https://github.com/RevolutionLA/adversarial-review"
-  },
-  {
-    "description": "Build a self-improving agent system prompt for coding, research, automation, and long-running projects",
-    "id": "unofficial-necturus123/most-capable-agent-system-prompt",
-    "language": "\u2014",
-    "name": "unofficial-necturus123/most-capable-agent-system-prompt",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:15:38Z",
-    "url": "https://github.com/unofficial-necturus123/most-capable-agent-system-prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T04:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Route OpenAI calls to 20+ free AI providers with fallback, 429 handling, and zero dependencies",
-    "id": "Kanjan4466/free-ai-router",
-    "language": "\u2014",
-    "name": "Kanjan4466/free-ai-router",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:15:08Z",
-    "url": "https://github.com/Kanjan4466/free-ai-router"
-  },
-  {
-    "description": "Build reusable AI agent configs and prompts for web apps with multi-agent orchestration, TypeScript support, and integra",
-    "id": "sandorarthropodous723/groovy-web-ai-agents",
-    "language": "\u2014",
-    "name": "sandorarthropodous723/groovy-web-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:14:47Z",
-    "url": "https://github.com/sandorarthropodous723/groovy-web-ai-agents"
   }
 ]
