@@ -1,5 +1,131 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25482,
+    "updated_at": "2026-09-27T07:00:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u9762\u5411\u666e\u901a\u7528\u6237\u7684\u4e2a\u4eba\u6210\u957f\u5de5\u4f5c\u53f0\uff1a\u753b\u50cf \u2192 \u80fd\u529b\u6a21\u578b \u2192 90 \u5929\u8ba1\u5212 \u2192 \u4eca\u65e5\u6267\u884c \u2192 \u8bc1\u636e \u2192 \u8003\u6838\u590d\u76d8\u3002\u9875\u9762\u4e0e Agent \u8bfb\u5199\u540c\u4e00\u4efd\u6570\u636e\u3002",
+    "id": "mingdui/dsh-growth-workbench",
+    "language": "JavaScript",
+    "name": "mingdui/dsh-growth-workbench",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:56:30Z",
+    "url": "https://github.com/mingdui/dsh-growth-workbench"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-27T06:55:56Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "Awesome GPT Image Prompts by MuseSignal. Complete prompts, preview images and full JSON; versions share one collection. ",
+    "id": "ych-chen/awesome-gpt-image-2-prompts",
+    "language": "\u2014",
+    "name": "ych-chen/awesome-gpt-image-2-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:55:09Z",
+    "url": "https://github.com/ych-chen/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "AI image prompts for GPT Image, Nano Banana, Midjourney and more. Full JSON, previews and creator sources. Curated by Mu",
+    "id": "ych-chen/awesome-ai-image-prompts",
+    "language": "\u2014",
+    "name": "ych-chen/awesome-ai-image-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:55:07Z",
+    "url": "https://github.com/ych-chen/awesome-ai-image-prompts"
+  },
+  {
+    "description": "A universal, native-Rust governance layer for AI coding agents. Enforces Subagent-Driven Development (SDD) to stop hallu",
+    "id": "Harmitx7/tribunal-kit",
+    "language": "JavaScript",
+    "name": "Harmitx7/tribunal-kit",
+    "stars": 5,
+    "updated_at": "2026-09-27T06:54:52Z",
+    "url": "https://github.com/Harmitx7/tribunal-kit"
+  },
+  {
+    "description": "A curated, open-source gallery of image generation prompts. Tweak the options inside each prompt, then copy it or open i",
+    "id": "thinkingjimmy/Image-Prompt-Book",
+    "language": "TypeScript",
+    "name": "thinkingjimmy/Image-Prompt-Book",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:54:40Z",
+    "url": "https://github.com/thinkingjimmy/Image-Prompt-Book"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-27T06:52:45Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:49:04Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Shared agent configuration for Claude Code, Codex, and Pi. One AGENTS.md instruction source, 35 portable skills, 16 expe",
+    "id": "domengabrovsek/agent-config",
+    "language": "Shell",
+    "name": "domengabrovsek/agent-config",
+    "stars": 17,
+    "updated_at": "2026-09-27T06:48:57Z",
+    "url": "https://github.com/domengabrovsek/agent-config"
+  },
+  {
+    "description": "Put an LLM behind an API: a FastAPI endpoint that categorizes bank transactions with schema validation, retries, cost lo",
+    "id": "poojaalkuri16/week7-flyrank-ai-assignment",
+    "language": "Python",
+    "name": "poojaalkuri16/week7-flyrank-ai-assignment",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:48:10Z",
+    "url": "https://github.com/poojaalkuri16/week7-flyrank-ai-assignment"
+  },
+  {
+    "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 463 cases traced to original posts, 264 cross-model retest runs with p",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 1442,
+    "updated_at": "2026-09-27T06:47:37Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-27T06:47:33Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T06:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "WSQ Microsoft Copilot for HR Recruitment (TGS-2024051421): 1-day hands-on course for HR professionals and hiring manager",
     "id": "tertiarycourses/TGS-2024051421-Microsoft-Copilot-for-HR-Recruitment",
     "language": "Python",
@@ -7,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T06:44:58Z",
     "url": "https://github.com/tertiarycourses/TGS-2024051421-Microsoft-Copilot-for-HR-Recruitment"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25482,
-    "updated_at": "2026-09-27T06:44:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -41,7 +158,7 @@
     "language": "Shell",
     "name": "Herdanis/the-cat-concerto",
     "stars": 0,
-    "updated_at": "2026-09-27T06:43:48Z",
+    "updated_at": "2026-09-27T06:45:51Z",
     "url": "https://github.com/Herdanis/the-cat-concerto"
   },
   {
@@ -50,17 +167,17 @@
     "language": "Python",
     "name": "Taha-azizi/contextpress",
     "stars": 2,
-    "updated_at": "2026-09-27T06:43:21Z",
+    "updated_at": "2026-09-27T06:45:54Z",
     "url": "https://github.com/Taha-azizi/contextpress"
   },
   {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-27T06:39:49Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+    "description": "AI writing craft library for writers and agents: 24 genres, 8 subgenres, 19 tones, and layered guidance for structure, s",
+    "id": "The-Sangam-of-Thoughts/Tanasub-open",
+    "language": "\u2014",
+    "name": "The-Sangam-of-Thoughts/Tanasub-open",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:53:28Z",
+    "url": "https://github.com/The-Sangam-of-Thoughts/Tanasub-open"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -70,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T06:39:07Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "A universal, native-Rust governance layer for AI coding agents. Enforces Subagent-Driven Development (SDD) to stop hallu",
-    "id": "Harmitx7/tribunal-kit",
-    "language": "JavaScript",
-    "name": "Harmitx7/tribunal-kit",
-    "stars": 5,
-    "updated_at": "2026-09-27T06:36:39Z",
-    "url": "https://github.com/Harmitx7/tribunal-kit"
   },
   {
     "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
@@ -115,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T06:34:06Z",
     "url": "https://github.com/jr-create/dsh-prompt-wisp"
-  },
-  {
-    "description": "A curated, open-source gallery of image generation prompts. Tweak the options inside each prompt, then copy it or open i",
-    "id": "thinkingjimmy/Image-Prompt-Book",
-    "language": "TypeScript",
-    "name": "thinkingjimmy/Image-Prompt-Book",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:33:55Z",
-    "url": "https://github.com/thinkingjimmy/Image-Prompt-Book"
   },
   {
     "description": "Gen-1 Pok\u00e9mon ontology + visual-consistency toolkit for AI creators: curated visual profiles, prompt builder, and VLM ve",
@@ -180,15 +279,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T06:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
     "id": "skillberry-ai/cap-evolve",
     "language": "Python",
@@ -196,15 +286,6 @@
     "stars": 63,
     "updated_at": "2026-09-27T06:27:48Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:27:18Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "DSH \u63d2\u4ef6 \u00b7 \u6ce8\u5165\u5f0f\u4f18\u5316\u5668 0.7\uff08\u4e3b\u7ebf\uff09\uff1a\u4f60\u7167\u5e38\u8bf4\u8bdd\uff0c\u5b83\u5728\u4f60\u53d1\u9001\u540e,AI\u63a5\u6536\u524d\u628a\"\u8fd9\u4e00\u8f6e\u5230\u5e95\u8981\u4ec0\u4e48\"\u7406\u6e05\u695a\uff0c\u518d\u628a\u8fd9\u4efd\u7406\u89e3\u4ea4\u7ed9\u5de5\u4f5c AI(\u4e0a\u4e0b\u6587\u6ce8\u5165) \u2014\u2014 \u539f\u8bdd\u4e0d\u6539\u5199\uff0c\u6761\u6761\u5e26\u9010\u5b57\u4f9d\u636e\u3002\u542b\u63a7\u5236\u754c\u9762\uff08\u6863\u4f4d/\u6743\u9650/\u6a21\u578b/\u4e0a\u4e0b\u6587/\u53ea\u8bfb\u5de5\u5177\uff09\u3001",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T06:16:12Z",
     "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
-    "id": "ai-moge/awesome-image-prompts",
-    "language": "\u2014",
-    "name": "ai-moge/awesome-image-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:15:59Z",
-    "url": "https://github.com/ai-moge/awesome-image-prompts"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:15:24Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:15:15Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:15:01Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:15:00Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Harness Engineering \u2014 a practical guide to the platform layer of coding agents (Claude Code & Codex): skills, hooks, con",
-    "id": "androidZzT/harness-engineering-practice",
-    "language": "\u2014",
-    "name": "androidZzT/harness-engineering-practice",
-    "stars": 2,
-    "updated_at": "2026-09-27T06:13:05Z",
-    "url": "https://github.com/androidZzT/harness-engineering-practice"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-09-27T06:11:23Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-09-27T06:10:57Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-27T06:10:49Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
