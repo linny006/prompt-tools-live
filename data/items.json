@@ -1,12 +1,111 @@
 [
   {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-09-27T05:14:10Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Ultra-fast, zero-dependency, type-safe prompt template engine for AI agents and LLMs",
+    "id": "swaraj792725/prompt-template-builder",
+    "language": "TypeScript",
+    "name": "swaraj792725/prompt-template-builder",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:14:05Z",
+    "url": "https://github.com/swaraj792725/prompt-template-builder"
+  },
+  {
+    "description": "\u804a\u5929\u56de\u590d\u51b3\u7b56\u8f85\u52a9\uff08\u547d\u4ee4\u884c\u7248\uff09\uff1a\u7ed3\u6784\u5316\u5224\u65ad -> \u751f\u62103\u6761\u5019\u9009 -> \u5224\u65ad\u6a21\u578b\u6392\u5e8f",
+    "id": "myselfyzd/jev-cli",
+    "language": "Python",
+    "name": "myselfyzd/jev-cli",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:13:31Z",
+    "url": "https://github.com/myselfyzd/jev-cli"
+  },
+  {
+    "description": "Orchestrator prompt + worker contract for coding agents, driven by herdr",
+    "id": "Herdanis/the-cat-concerto",
+    "language": "Shell",
+    "name": "Herdanis/the-cat-concerto",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:13:30Z",
+    "url": "https://github.com/Herdanis/the-cat-concerto"
+  },
+  {
+    "description": "Benchmark of demonstration-selection methods for in-context learning with LLMs: IDS, RDES, influence-based selection, Se",
+    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "language": "Jupyter Notebook",
+    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "stars": 4,
+    "updated_at": "2026-09-27T05:13:25Z",
+    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
+  },
+  {
+    "description": "An agent-oriented search discipline: tiered budgets, evidence rules and stop criteria for LLM agents doing research.",
+    "id": "WangYr-Peppa/search-playbook",
+    "language": "\u2014",
+    "name": "WangYr-Peppa/search-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:13:23Z",
+    "url": "https://github.com/WangYr-Peppa/search-playbook"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:13:12Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
     "description": "Author agent skills once and install them anywhere. A tested CLI for Claude Code, Codex, Cursor, Windsurf, Copilot, Zed,",
     "id": "emiliodominguez/flow-skills",
     "language": "TypeScript",
     "name": "emiliodominguez/flow-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T04:59:40Z",
+    "updated_at": "2026-09-27T05:12:53Z",
     "url": "https://github.com/emiliodominguez/flow-skills"
+  },
+  {
+    "description": "Evaluation environment for the llm-mailroom pipeline.",
+    "id": "LLM-Mailroom-Services/eval-environment",
+    "language": "Python",
+    "name": "LLM-Mailroom-Services/eval-environment",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:10:30Z",
+    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:06:38Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "One AI, Every Role \u2014 A system that configures teams of specialized AI agents (Architect, Backend, Frontend, DevOps, Secu",
+    "id": "erniker/understudy",
+    "language": "Shell",
+    "name": "erniker/understudy",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:02:16Z",
+    "url": "https://github.com/erniker/understudy"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T05:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25482,
-    "updated_at": "2026-09-27T04:58:44Z",
+    "updated_at": "2026-09-27T05:07:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -61,33 +160,6 @@
     "stars": 1001,
     "updated_at": "2026-09-27T04:54:03Z",
     "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "An agent-oriented search discipline: tiered budgets, evidence rules and stop criteria for LLM agents doing research.",
-    "id": "WangYr-Peppa/search-playbook",
-    "language": "\u2014",
-    "name": "WangYr-Peppa/search-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:53:49Z",
-    "url": "https://github.com/WangYr-Peppa/search-playbook"
-  },
-  {
-    "description": "One AI, Every Role \u2014 A system that configures teams of specialized AI agents (Architect, Backend, Frontend, DevOps, Secu",
-    "id": "erniker/understudy",
-    "language": "Shell",
-    "name": "erniker/understudy",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:53:37Z",
-    "url": "https://github.com/erniker/understudy"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:52:59Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Comprehensive repository of production AI Agent Skills and workflows for Antigravity, Claude, and AI coding assistants.",
@@ -117,15 +189,6 @@
     "url": "https://github.com/cspiritsong/SB-PICOR"
   },
   {
-    "description": "Evaluation environment for the llm-mailroom pipeline.",
-    "id": "LLM-Mailroom-Services/eval-environment",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/eval-environment",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:48:13Z",
-    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -133,15 +196,6 @@
     "stars": 1860,
     "updated_at": "2026-09-27T04:46:53Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T04:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
@@ -160,15 +214,6 @@
     "stars": 2233,
     "updated_at": "2026-09-27T04:41:48Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Orchestrator prompt + worker contract for coding agents, driven by herdr",
-    "id": "Herdanis/the-cat-concerto",
-    "language": "Shell",
-    "name": "Herdanis/the-cat-concerto",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:35:58Z",
-    "url": "https://github.com/Herdanis/the-cat-concerto"
   },
   {
     "description": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills \u2014 AI media generation, research",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "conorbronsdon/agent-context-os",
     "stars": 25,
-    "updated_at": "2026-09-27T04:21:00Z",
+    "updated_at": "2026-09-27T05:05:59Z",
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:20:54Z",
     "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-27T04:20:26Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:20:13Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:20:05Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:19:39Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:19:09Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
