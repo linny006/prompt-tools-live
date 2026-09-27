@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T20:22:31Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-27T20:21:13Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "[Emacs] Compose LLM prompts from building blocks.",
+    "id": "mrcnski/promptu.el",
+    "language": "Emacs Lisp",
+    "name": "mrcnski/promptu.el",
+    "stars": 1,
+    "updated_at": "2026-09-27T20:15:52Z",
+    "url": "https://github.com/mrcnski/promptu.el"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-27T20:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
     "id": "chemaw8/claude-kit-chema",
     "language": "Shell",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T20:12:27Z",
     "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T20:11:32Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-27T20:02:20Z",
+    "updated_at": "2026-09-27T20:17:17Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T20:01:01Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-27T20:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
@@ -126,6 +144,15 @@
     "url": "https://github.com/yzhao062/agent-style"
   },
   {
+    "description": "LordGen: skill-authoring workflow and the LordGen reference set (architecture, brand, offers, platform map, human-in-the",
+    "id": "Kikobazz123/lordgen-skill-builder",
+    "language": "\u2014",
+    "name": "Kikobazz123/lordgen-skill-builder",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:55:52Z",
+    "url": "https://github.com/Kikobazz123/lordgen-skill-builder"
+  },
+  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4881,
-    "updated_at": "2026-09-27T20:14:48Z",
+    "updated_at": "2026-09-27T20:22:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T19:40:37Z",
     "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:40:23Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:40:23Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:40:18Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
   }
 ]
