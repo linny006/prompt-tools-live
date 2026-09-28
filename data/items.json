@@ -1,11 +1,182 @@
 [
   {
+    "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
+    "id": "muzimu217/ui-design-agent-kit",
+    "language": "JavaScript",
+    "name": "muzimu217/ui-design-agent-kit",
+    "stars": 20,
+    "updated_at": "2026-09-28T17:30:16Z",
+    "url": "https://github.com/muzimu217/ui-design-agent-kit"
+  },
+  {
+    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
+    "id": "karanarora-aideveloper/stack-ai-tools",
+    "language": "TypeScript",
+    "name": "karanarora-aideveloper/stack-ai-tools",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:30:08Z",
+    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
+  },
+  {
+    "description": "Blane's AI PM Repository",
+    "id": "enalbenerraw/blanewarrene",
+    "language": "Python",
+    "name": "enalbenerraw/blanewarrene",
+    "stars": 1,
+    "updated_at": "2026-09-28T17:29:15Z",
+    "url": "https://github.com/enalbenerraw/blanewarrene"
+  },
+  {
+    "description": "A no-code, read-only email Morning Brief starter kit for ChatGPT. Gmail validated; Outlook Email pilot included.",
+    "id": "ivie-clifford/email-triage-starter-kit",
+    "language": "\u2014",
+    "name": "ivie-clifford/email-triage-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:29:08Z",
+    "url": "https://github.com/ivie-clifford/email-triage-starter-kit"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-09-28T17:28:00Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-28T17:26:45Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
+    "id": "novanoticia/bayesian-compose-plugin",
+    "language": "\u2014",
+    "name": "novanoticia/bayesian-compose-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:30:21Z",
+    "url": "https://github.com/novanoticia/bayesian-compose-plugin"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:26:33Z",
+    "url": "https://github.com/chriscantu/claude-config"
+  },
+  {
+    "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
+    "id": "pxlcrtiv/inject-scout",
+    "language": "Python",
+    "name": "pxlcrtiv/inject-scout",
+    "stars": 1,
+    "updated_at": "2026-09-28T17:23:31Z",
+    "url": "https://github.com/pxlcrtiv/inject-scout"
+  },
+  {
+    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
+    "id": "dean0x/mdscript",
+    "language": "Rust",
+    "name": "dean0x/mdscript",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:24:29Z",
+    "url": "https://github.com/dean0x/mdscript"
+  },
+  {
+    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
+    "id": "koi-bito/what-should-i-do-next",
+    "language": "TypeScript",
+    "name": "koi-bito/what-should-i-do-next",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:21:25Z",
+    "url": "https://github.com/koi-bito/what-should-i-do-next"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-28T17:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 7,
+    "updated_at": "2026-09-28T17:20:13Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-09-28T17:20:01Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "A harness for Claude Code: 22 playbooks and 22 principles you call by name, judgment routed to another model family, and",
+    "id": "Haruki1090/plumb",
+    "language": "Shell",
+    "name": "Haruki1090/plumb",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:19:23Z",
+    "url": "https://github.com/Haruki1090/plumb"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "Python",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 4,
+    "updated_at": "2026-09-28T17:27:03Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-28T17:17:14Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "47 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor & Windsurf ",
+    "id": "ssrjkk/claude-skills",
+    "language": "Python",
+    "name": "ssrjkk/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:16:56Z",
+    "url": "https://github.com/ssrjkk/claude-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T17:15:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
     "id": "nicholyx/ai-skills",
     "language": "Python",
     "name": "nicholyx/ai-skills",
     "stars": 6,
-    "updated_at": "2026-09-28T17:15:10Z",
+    "updated_at": "2026-09-28T17:15:34Z",
     "url": "https://github.com/nicholyx/ai-skills"
   },
   {
@@ -23,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11645,
-    "updated_at": "2026-09-28T17:14:30Z",
+    "updated_at": "2026-09-28T17:25:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,17 +239,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25533,
-    "updated_at": "2026-09-28T17:15:08Z",
+    "updated_at": "2026-09-28T17:26:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
-    "id": "novanoticia/bayesian-compose-plugin",
-    "language": "\u2014",
-    "name": "novanoticia/bayesian-compose-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:11:07Z",
-    "url": "https://github.com/novanoticia/bayesian-compose-plugin"
   },
   {
     "description": "AIM: Modular, opt-in AI agent instructions for any codebase",
@@ -90,15 +252,6 @@
     "url": "https://github.com/tablackburn/ai-agent-instruction-modules"
   },
   {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 4,
-    "updated_at": "2026-09-28T17:15:26Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
     "description": " A self-hosted Claude agent that actually remembers \u2014 verbatim memory palace at zero retrieval cost, Discord + web UI, a",
     "id": "avasol/galadriel-public",
     "language": "Python",
@@ -106,15 +259,6 @@
     "stars": 50,
     "updated_at": "2026-09-28T17:09:42Z",
     "url": "https://github.com/avasol/galadriel-public"
-  },
-  {
-    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
-    "id": "koi-bito/what-should-i-do-next",
-    "language": "TypeScript",
-    "name": "koi-bito/what-should-i-do-next",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:09:25Z",
-    "url": "https://github.com/koi-bito/what-should-i-do-next"
   },
   {
     "description": "Agentic-AI prompts for software delivery. 19 cross-stack practice, 19 finance/trading. MIT.",
@@ -194,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22269,
-    "updated_at": "2026-09-28T17:11:19Z",
+    "updated_at": "2026-09-28T17:19:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +356,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28167,
-    "updated_at": "2026-09-28T17:02:59Z",
+    "updated_at": "2026-09-28T17:23:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -232,24 +376,6 @@
     "stars": 3,
     "updated_at": "2026-09-28T17:00:46Z",
     "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T17:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:59:10Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
   },
   {
     "description": "BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C",
@@ -288,15 +414,6 @@
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
-    "description": "47 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor & Windsurf ",
-    "id": "ssrjkk/claude-skills",
-    "language": "Python",
-    "name": "ssrjkk/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T16:58:15Z",
-    "url": "https://github.com/ssrjkk/claude-skills"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T16:51:45Z",
     "url": "https://github.com/StevenMacchia/ts-ai-assistants"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-28T16:51:20Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "\u4ee5 DSH \u4e3a\u6307\u6325\u5b98\u7684\u591a Agent \u534f\u540c\u7f16\u6392\u5b9e\u5f55\uff1aheadless \u5de5\u4eba + OpenCode + \u672c\u5730\u6a21\u578b\uff0c\u514d\u8d39\u6a21\u578b\u5168\u81ea\u52a8/\u4eba\u5728\u73af\u53cc\u6a21\u5f0f\uff0c\u542b\u5b9e\u6d4b\u6848\u4f8b\u4e0e\u8e29\u5751",
-    "id": "niuyiming87-pixel/dsh-agent-orchestra",
-    "language": "PowerShell",
-    "name": "niuyiming87-pixel/dsh-agent-orchestra",
-    "stars": 1,
-    "updated_at": "2026-09-28T16:47:39Z",
-    "url": "https://github.com/niuyiming87-pixel/dsh-agent-orchestra"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 108169,
-    "updated_at": "2026-09-28T16:47:05Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "",
-    "id": "LLM-Mailroom-Services/Entity-Extraction-Experiments",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/Entity-Extraction-Experiments",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:46:53Z",
-    "url": "https://github.com/LLM-Mailroom-Services/Entity-Extraction-Experiments"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 187,
-    "updated_at": "2026-09-28T16:48:47Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-09-28T16:46:22Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship.",
-    "id": "minhtran3124/agent-harness",
-    "language": "Python",
-    "name": "minhtran3124/agent-harness",
-    "stars": 7,
-    "updated_at": "2026-09-28T16:59:28Z",
-    "url": "https://github.com/minhtran3124/agent-harness"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 9,
-    "updated_at": "2026-09-28T16:44:20Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Evaluation environment for the llm-mailroom pipeline.",
-    "id": "LLM-Mailroom-Services/eval-environment",
-    "language": "Python",
-    "name": "LLM-Mailroom-Services/eval-environment",
-    "stars": 1,
-    "updated_at": "2026-09-28T16:42:52Z",
-    "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
-  },
-  {
-    "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
-    "id": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "language": "JavaScript",
-    "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:41:41Z",
-    "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
-  },
-  {
-    "description": "\u751f\u6210AI\u5b9f\u52d9\u8005\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3002Copilot Studio \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u958b\u767a\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u751f\u6210AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3",
-    "id": "sanarita/sakuhin",
-    "language": "HTML",
-    "name": "sanarita/sakuhin",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:40:27Z",
-    "url": "https://github.com/sanarita/sakuhin"
-  },
-  {
-    "description": "Blane's AI PM Repository",
-    "id": "enalbenerraw/blanewarrene",
-    "language": "Python",
-    "name": "enalbenerraw/blanewarrene",
-    "stars": 1,
-    "updated_at": "2026-09-28T16:39:31Z",
-    "url": "https://github.com/enalbenerraw/blanewarrene"
-  },
-  {
-    "description": "Your prompts deserve git diff, not a database row. Templates as plain YAML, rendered through Jinja's SandboxedEnvironmen",
-    "id": "Furkiozknn/prompt-template-manager",
-    "language": "Python",
-    "name": "Furkiozknn/prompt-template-manager",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:40:16Z",
-    "url": "https://github.com/Furkiozknn/prompt-template-manager"
   }
 ]
