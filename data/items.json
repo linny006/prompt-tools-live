@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
+    "id": "dairui1/agentlab",
+    "language": "JavaScript",
+    "name": "dairui1/agentlab",
+    "stars": 4,
+    "updated_at": "2026-09-28T04:28:11Z",
+    "url": "https://github.com/dairui1/agentlab"
+  },
+  {
+    "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
+    "id": "flashfrogluo/second-take",
+    "language": "Python",
+    "name": "flashfrogluo/second-take",
+    "stars": 0,
+    "updated_at": "2026-09-28T04:26:01Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "id": "blader/humanizer",
+    "language": "Python",
+    "name": "blader/humanizer",
+    "stars": 52411,
+    "updated_at": "2026-09-28T04:24:07Z",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-09-28T04:24:04Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "My personal AI coding tool prompts (SKILL.md)",
+    "id": "jim60105/copilot-prompt",
+    "language": "Python",
+    "name": "jim60105/copilot-prompt",
+    "stars": 21,
+    "updated_at": "2026-09-28T04:22:37Z",
+    "url": "https://github.com/jim60105/copilot-prompt"
+  },
+  {
+    "description": "Free AI-powered learning resources, Masterclass Prompt Kits & practical training materials by MissAlpha\u2122 AI Labs \u2014 cover",
+    "id": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
+    "language": "\u2014",
+    "name": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
+    "stars": 10,
+    "updated_at": "2026-09-28T04:21:16Z",
+    "url": "https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-28T04:21:00Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Free 45-day AI engineering course: LLM APIs, prompt engineering, tool calling, embeddings, vector search and RAG with No",
+    "id": "kirangautam45/ai-engineering-course",
+    "language": "JavaScript",
+    "name": "kirangautam45/ai-engineering-course",
+    "stars": 0,
+    "updated_at": "2026-09-28T04:19:09Z",
+    "url": "https://github.com/kirangautam45/ai-engineering-course"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 29,
+    "updated_at": "2026-09-28T04:16:09Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-28T04:16:06Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T04:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
@@ -13,18 +112,9 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2049,
+    "stars": 2050,
     "updated_at": "2026-09-28T04:11:51Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Free 45-day AI engineering course: LLM APIs, prompt engineering, tool calling, embeddings, vector search and RAG with No",
-    "id": "kirangautam45/ai-engineering-course",
-    "language": "JavaScript",
-    "name": "kirangautam45/ai-engineering-course",
-    "stars": 0,
-    "updated_at": "2026-09-28T04:09:19Z",
-    "url": "https://github.com/kirangautam45/ai-engineering-course"
   },
   {
     "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
@@ -99,15 +189,6 @@
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-09-28T04:03:29Z",
-    "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T04:02:34Z",
     "url": "https://github.com/QingYunA/picpocket"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T04:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Content Repurposing Engine berbasis storytelling: ubah 1 ide/artikel jadi Carousel 3D Clay, Caption Medsos, Threads, Lin",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T03:51:21Z",
     "url": "https://github.com/caidaxing/iprompt-2.0"
-  },
-  {
-    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
-    "id": "bogheorghiu/ex-cog-dev",
-    "language": "Python",
-    "name": "bogheorghiu/ex-cog-dev",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:50:41Z",
-    "url": "https://github.com/bogheorghiu/ex-cog-dev"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:50:18Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2.3"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-09-28T03:49:26Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T03:49:10Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-09-28T03:48:52Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-09-28T03:48:51Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:47:56Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:47:51Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
