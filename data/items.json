@@ -1,12 +1,120 @@
 [
   {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10325,
+    "updated_at": "2026-09-28T02:45:19Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-28T02:43:53Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 263,
+    "updated_at": "2026-09-28T02:42:47Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
     "id": "bitranox/bitranox-skills",
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-09-28T02:30:10Z",
+    "updated_at": "2026-09-28T02:42:19Z",
     "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\u26a1 Describe the problem. /god picks the right skills and sees the job through. 106 skills, 6 subagents and one protocol f",
+    "id": "Gastonchevarria/god-mode",
+    "language": "JavaScript",
+    "name": "Gastonchevarria/god-mode",
+    "stars": 1,
+    "updated_at": "2026-09-28T02:41:51Z",
+    "url": "https://github.com/Gastonchevarria/god-mode"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:40:04Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
+    "id": "mytech-today-now/prompt-refined",
+    "language": "\u2014",
+    "name": "mytech-today-now/prompt-refined",
+    "stars": 4,
+    "updated_at": "2026-09-28T02:39:16Z",
+    "url": "https://github.com/mytech-today-now/prompt-refined"
+  },
+  {
+    "description": "AI review of personalised Shopify orders with a human in the loop: Supabase (RLS, Edge Functions), n8n, Codex/Claude beh",
+    "id": "SamukDantas/order-ops-copilot",
+    "language": "TypeScript",
+    "name": "SamukDantas/order-ops-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:36:45Z",
+    "url": "https://github.com/SamukDantas/order-ops-copilot"
+  },
+  {
+    "description": "Browse, diff, validate & generate AI system prompts (20,475 prompts from 55 repos) + FastMCP Server with 226 curated age",
+    "id": "4pixeltechBR/promptograph",
+    "language": "Python",
+    "name": "4pixeltechBR/promptograph",
+    "stars": 2,
+    "updated_at": "2026-09-28T02:36:40Z",
+    "url": "https://github.com/4pixeltechBR/promptograph"
+  },
+  {
+    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 591,
+    "updated_at": "2026-09-28T02:35:17Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "\u4e2a\u4eba agent skill \u5408\u96c6 \u00b7 40 \u4e2a skill\uff1a\u6587\u6863\u5904\u7406 / \u8f6f\u4ef6\u5f00\u53d1 / \u8bbe\u8ba1\u521b\u610f / \u79d1\u7814\u5b66\u672f\u3002\u542b\u5f00\u6e90\u514b\u9686\u3001\u53d7\u9650\u91cd\u5199\u4e0e\u539f\u521b\u5b9a\u5236\u3002",
+    "id": "Andyt2666/agent-skills",
+    "language": "Python",
+    "name": "Andyt2666/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:34:45Z",
+    "url": "https://github.com/Andyt2666/agent-skills"
+  },
+  {
+    "description": "\u9762\u5411\u666e\u901a\u7528\u6237\u7684AI\u4e2a\u4eba\u6210\u957f\u5de5\u4f5c\u53f0\uff1a\u753b\u50cf \u2192 \u80fd\u529b\u6a21\u578b \u2192 90 \u5929\u8ba1\u5212 \u2192 \u4eca\u65e5\u6267\u884c \u2192 \u8bc1\u636e \u2192 \u8003\u6838\u590d\u76d8\u3002\u57fa\u4e8eDSH\u5e95\u5ea7\u3002",
+    "id": "mingdui/dsh-growth-workbench",
+    "language": "JavaScript",
+    "name": "mingdui/dsh-growth-workbench",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:30:52Z",
+    "url": "https://github.com/mingdui/dsh-growth-workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T02:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "XioAISolutions/crumb-format",
     "stars": 2,
-    "updated_at": "2026-09-28T02:28:56Z",
+    "updated_at": "2026-09-28T02:45:13Z",
     "url": "https://github.com/XioAISolutions/crumb-format"
   },
   {
@@ -45,20 +153,11 @@
     "url": "https://github.com/Minifigures/aws-ai-ml-scholars-productivity-app"
   },
   {
-    "description": "\u4e2a\u4eba agent skill \u5408\u96c6 \u00b7 40 \u4e2a skill\uff1a\u6587\u6863\u5904\u7406 / \u8f6f\u4ef6\u5f00\u53d1 / \u8bbe\u8ba1\u521b\u610f / \u79d1\u7814\u5b66\u672f\u3002\u542b\u5f00\u6e90\u514b\u9686\u3001\u53d7\u9650\u91cd\u5199\u4e0e\u539f\u521b\u5b9a\u5236\u3002",
-    "id": "Andyt2666/agent-skills",
-    "language": "Python",
-    "name": "Andyt2666/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:26:04Z",
-    "url": "https://github.com/Andyt2666/agent-skills"
-  },
-  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9961,
+    "stars": 9962,
     "updated_at": "2026-09-28T02:25:54Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -76,7 +175,7 @@
     "id": "aaddrick/building-with-typesafe-jev",
     "language": "Python",
     "name": "aaddrick/building-with-typesafe-jev",
-    "stars": 88,
+    "stars": 89,
     "updated_at": "2026-09-28T02:25:46Z",
     "url": "https://github.com/aaddrick/building-with-typesafe-jev"
   },
@@ -162,15 +261,6 @@
     "url": "https://github.com/nuttaruj/rolepod"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T02:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
     "id": "FURUYAN1234/nano-banana-pro",
     "language": "JavaScript",
@@ -178,15 +268,6 @@
     "stars": 18,
     "updated_at": "2026-09-28T02:15:13Z",
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 263,
-    "updated_at": "2026-09-28T02:11:25Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -223,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T02:02:04Z",
     "url": "https://github.com/coilyco/housecast"
-  },
-  {
-    "description": "AI review of personalised Shopify orders with a human in the loop: Supabase (RLS, Edge Functions), n8n, Codex/Claude beh",
-    "id": "SamukDantas/order-ops-copilot",
-    "language": "TypeScript",
-    "name": "SamukDantas/order-ops-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:18:36Z",
-    "url": "https://github.com/SamukDantas/order-ops-copilot"
   },
   {
     "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T01:49:57Z",
     "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:49:43Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:49:27Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:49:22Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:02:57Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:47:50Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:47:21Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-09-28T01:46:48Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T01:46:39Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
   }
 ]
