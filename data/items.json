@@ -1,5 +1,185 @@
 [
   {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-28T18:44:53Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "\uac15\uc9c0\ud638 \u2014 AI Product Engineer \ud3ec\ud2b8\ud3f4\ub9ac\uc624. \ubc14\uc774\ube0c \ucf54\ub529\uc73c\ub85c \ub9cc\ub4e0 5\uac1c \uc81c\ud488 (AI \uc6f9\ube4c\ub354 \u00b7 FinPle \u00b7 \ub9c8\ucf00\ud305 \uc790\ub3d9\ud654 \ud5c8\ube0c \u00b7 AI \ubca0\ud0c0\ud14c\uc2a4\ud130 \u00b7 \ucee4\ubba4\ub2c8\ud2f0 \ub2e4\uc774\uc81c\uc2a4\ud2b8)",
+    "id": "StockHedge/portfolio",
+    "language": "HTML",
+    "name": "StockHedge/portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:43:33Z",
+    "url": "https://github.com/StockHedge/portfolio"
+  },
+  {
+    "description": "A standardized multi-agent harness for Opencode and Claude Code. Installs into any project with a single command.",
+    "id": "jordimarsal/harness-standard",
+    "language": "Shell",
+    "name": "jordimarsal/harness-standard",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:43:57Z",
+    "url": "https://github.com/jordimarsal/harness-standard"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 83,
+    "updated_at": "2026-09-28T18:43:02Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
+  },
+  {
+    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
+    "id": "xhulz/nina",
+    "language": "JavaScript",
+    "name": "xhulz/nina",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:42:16Z",
+    "url": "https://github.com/xhulz/nina"
+  },
+  {
+    "description": "Red/green tests for prompt-based skills: deterministic checks first, and a model grader counts only after it grades know",
+    "id": "OrenSegal/litmus",
+    "language": "Python",
+    "name": "OrenSegal/litmus",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:41:28Z",
+    "url": "https://github.com/OrenSegal/litmus"
+  },
+  {
+    "description": "Self-improving LLM document extraction on AWS. Each human QA correction improves future extractions via few-shot self-he",
+    "id": "aws-samples/sample-prompt-correction-memory",
+    "language": "Python",
+    "name": "aws-samples/sample-prompt-correction-memory",
+    "stars": 1,
+    "updated_at": "2026-09-28T18:41:20Z",
+    "url": "https://github.com/aws-samples/sample-prompt-correction-memory"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74018,
+    "updated_at": "2026-09-28T18:40:24Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
+    "id": "koi-bito/what-should-i-do-next",
+    "language": "TypeScript",
+    "name": "koi-bito/what-should-i-do-next",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:40:23Z",
+    "url": "https://github.com/koi-bito/what-should-i-do-next"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:39:25Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:39:19Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Layered, agent-agnostic context architecture for AI coding agents: a tiny always-on baseline, on-demand skills & memory,",
+    "id": "lx-wnk/Agent-Context",
+    "language": "Shell",
+    "name": "lx-wnk/Agent-Context",
+    "stars": 7,
+    "updated_at": "2026-09-28T18:37:40Z",
+    "url": "https://github.com/lx-wnk/Agent-Context"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-28T18:36:46Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-09-28T18:36:33Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 64,
+    "updated_at": "2026-09-28T18:39:53Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Git, GitLab e IA aplicada \u00e0 Engenharia de Software \u2014 Publica\u00e7\u00e3o no Pages",
+    "id": "andradasdev/git-ia",
+    "language": "HTML",
+    "name": "andradasdev/git-ia",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:33:43Z",
+    "url": "https://github.com/andradasdev/git-ia"
+  },
+  {
+    "description": "Git, GitLab e IA aplicada \u00e0 Engenharia de Software: slides, apostila e roteiro de falas",
+    "id": "ronidomingues/git-ia-docs",
+    "language": "TeX",
+    "name": "ronidomingues/git-ia-docs",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:33:39Z",
+    "url": "https://github.com/ronidomingues/git-ia-docs"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 4,
+    "updated_at": "2026-09-28T18:33:27Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "Practical Tips for Getting the Most Out of GPT and Other Large Language Models",
+    "id": "djeada/llm-queries",
+    "language": "Python",
+    "name": "djeada/llm-queries",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:45:14Z",
+    "url": "https://github.com/djeada/llm-queries"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T18:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Military-inspired command and control operating system for AI agents.",
     "id": "wnsdy95/cannae-os",
     "language": "JavaScript",
@@ -18,60 +198,6 @@
     "url": "https://github.com/eddy-decastro/Assistant_de_recherche_de_stage_IA"
   },
   {
-    "description": " Evaluate and improve agentic prompts using Jev.",
-    "id": "joacotornello/prompt-enhancer",
-    "language": "Shell",
-    "name": "joacotornello/prompt-enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:30:06Z",
-    "url": "https://github.com/joacotornello/prompt-enhancer"
-  },
-  {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-28T18:29:03Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:28:42Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:28:20Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74017,
-    "updated_at": "2026-09-28T18:28:44Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Self-improving LLM document extraction on AWS. Each human QA correction improves future extractions via few-shot self-he",
-    "id": "aws-samples/sample-prompt-correction-memory",
-    "language": "Python",
-    "name": "aws-samples/sample-prompt-correction-memory",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:26:30Z",
-    "url": "https://github.com/aws-samples/sample-prompt-correction-memory"
-  },
-  {
     "description": "254 installable AI-agent skills for Italian work life (invoices, payslips, taxes, rentals, grants, health, school) + 24 ",
     "id": "terzastella/italy-work-skills",
     "language": "Python",
@@ -88,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T18:26:17Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
-    "id": "koi-bito/what-should-i-do-next",
-    "language": "TypeScript",
-    "name": "koi-bito/what-should-i-do-next",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:25:40Z",
-    "url": "https://github.com/koi-bito/what-should-i-do-next"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -158,7 +275,7 @@
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-09-28T18:22:19Z",
+    "updated_at": "2026-09-28T18:32:10Z",
     "url": "https://github.com/dgaramos/dr-agents"
   },
   {
@@ -196,15 +313,6 @@
     "stars": 4886,
     "updated_at": "2026-09-28T18:27:10Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T18:15:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u6cd5\u5f8b\u8bba\u6587 CoT \u63d0\u793a\u5de5\u7a0b\uff1a6 \u7c7b\u8bba\u6587\u6a21\u677f + \u94fe\u8def\u6838\u5bf9 CLI\uff08MIT\uff09| Chain-of-thought prompt templates & CLI for legal thesis writing",
@@ -315,24 +423,6 @@
     "url": "https://github.com/roedyrustam/vibes-plug"
   },
   {
-    "description": "Git, GitLab e IA aplicada \u00e0 Engenharia de Software \u2014 Publica\u00e7\u00e3o no Pages",
-    "id": "andradasdev/git-ia",
-    "language": "HTML",
-    "name": "andradasdev/git-ia",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:05:55Z",
-    "url": "https://github.com/andradasdev/git-ia"
-  },
-  {
-    "description": "Git, GitLab e IA aplicada \u00e0 Engenharia de Software: slides, apostila e roteiro de falas",
-    "id": "ronidomingues/git-ia-docs",
-    "language": "TeX",
-    "name": "ronidomingues/git-ia-docs",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:05:53Z",
-    "url": "https://github.com/ronidomingues/git-ia-docs"
-  },
-  {
     "description": "Browse, diff, validate & generate AI system prompts (20,475 prompts from 55 repos) + FastMCP Server with 226 curated age",
     "id": "4pixeltechBR/promptograph",
     "language": "Python",
@@ -347,7 +437,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25535,
-    "updated_at": "2026-09-28T18:25:31Z",
+    "updated_at": "2026-09-28T18:38:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T18:04:23Z",
     "url": "https://github.com/ivie-clifford/email-triage-starter-kit"
-  },
-  {
-    "description": "CRUMB is the copy-paste AI handoff format. Switch AIs without losing the plot.",
-    "id": "XioAISolutions/crumb-format",
-    "language": "Python",
-    "name": "XioAISolutions/crumb-format",
-    "stars": 2,
-    "updated_at": "2026-09-28T18:28:20Z",
-    "url": "https://github.com/XioAISolutions/crumb-format"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5126,
-    "updated_at": "2026-09-28T18:03:32Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
-    "id": "voytas75/PromptManager",
-    "language": "Python",
-    "name": "voytas75/PromptManager",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:02:22Z",
-    "url": "https://github.com/voytas75/PromptManager"
-  },
-  {
-    "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
-    "id": "ford442/weeks_on_fire",
-    "language": "TypeScript",
-    "name": "ford442/weeks_on_fire",
-    "stars": 1,
-    "updated_at": "2026-09-28T18:02:04Z",
-    "url": "https://github.com/ford442/weeks_on_fire"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-28T18:01:52Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
-    "id": "xhulz/nina",
-    "language": "JavaScript",
-    "name": "xhulz/nina",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:01:01Z",
-    "url": "https://github.com/xhulz/nina"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:00:18Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
-  },
-  {
-    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
-    "id": "5dive-ai/skills",
-    "language": "Shell",
-    "name": "5dive-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-09-28T17:59:08Z",
-    "url": "https://github.com/5dive-ai/skills"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-09-28T17:58:12Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
-    "id": "nicholyx/ai-skills",
-    "language": "Python",
-    "name": "nicholyx/ai-skills",
-    "stars": 6,
-    "updated_at": "2026-09-28T17:58:13Z",
-    "url": "https://github.com/nicholyx/ai-skills"
   }
 ]
