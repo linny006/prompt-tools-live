@@ -1,5 +1,122 @@
 [
   {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-28T21:13:51Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 3,
+    "updated_at": "2026-09-28T21:13:21Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Curated library of Zero-Anchor autonomous coding agent roles for Google's Jules, Cursor, Claude Code, and Copilot.",
+    "id": "Evgenii-Zinner/jules-roles",
+    "language": "\u2014",
+    "name": "Evgenii-Zinner/jules-roles",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:12:16Z",
+    "url": "https://github.com/Evgenii-Zinner/jules-roles"
+  },
+  {
+    "description": "Coding agents forget your repo. mcp-brain is the missing memory layer \u2014 repo-aware, team-aware, lifecycle-aware. 63% Hit",
+    "id": "PierfrancescoLijoi/mcp-brain",
+    "language": "Python",
+    "name": "PierfrancescoLijoi/mcp-brain",
+    "stars": 5,
+    "updated_at": "2026-09-28T21:12:04Z",
+    "url": "https://github.com/PierfrancescoLijoi/mcp-brain"
+  },
+  {
+    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
+    "id": "PLLima/ai-resume-agent",
+    "language": "Python",
+    "name": "PLLima/ai-resume-agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:11:33Z",
+    "url": "https://github.com/PLLima/ai-resume-agent"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-09-28T21:10:49Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7217,
+    "updated_at": "2026-09-28T21:08:32Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 7208,
+    "updated_at": "2026-09-28T21:07:06Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-09-28T21:04:29Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Static Taint Linter for LLM Prompt-Cache Determinism (OpenAI & Anthropic)",
+    "id": "ZhiwarSajadi/pcdlint",
+    "language": "Python",
+    "name": "ZhiwarSajadi/pcdlint",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:03:19Z",
+    "url": "https://github.com/ZhiwarSajadi/pcdlint"
+  },
+  {
+    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
+    "id": "ardha27/seedance-prompts",
+    "language": "Python",
+    "name": "ardha27/seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-28T21:00:50Z",
+    "url": "https://github.com/ardha27/seedance-prompts"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-09-28T21:00:39Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T21:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -27,12 +144,21 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74025,
+    "updated_at": "2026-09-28T20:58:35Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11645,
-    "updated_at": "2026-09-28T21:00:05Z",
+    "updated_at": "2026-09-28T21:15:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +167,7 @@
     "language": "TypeScript",
     "name": "OpenScribbler/Katharsis",
     "stars": 4,
-    "updated_at": "2026-09-28T20:59:19Z",
+    "updated_at": "2026-09-28T21:04:52Z",
     "url": "https://github.com/OpenScribbler/Katharsis"
   },
   {
@@ -86,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25537,
-    "updated_at": "2026-09-28T20:57:28Z",
+    "updated_at": "2026-09-28T21:09:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -99,21 +225,12 @@
     "url": "https://github.com/Osama-Alzahrani-UQU/OmniAgentic"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74024,
-    "updated_at": "2026-09-28T20:58:35Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Gobstopper makes long Claude Code and Codex sessions smaller. Preview each cut, write a compacted copy, and keep every o",
     "id": "hraness/gobstopper",
     "language": "Rust",
     "name": "hraness/gobstopper",
     "stars": 8,
-    "updated_at": "2026-09-28T20:54:17Z",
+    "updated_at": "2026-09-28T21:07:24Z",
     "url": "https://github.com/hraness/gobstopper"
   },
   {
@@ -151,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:46:17Z",
     "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T20:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
@@ -225,15 +333,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 3,
-    "updated_at": "2026-09-28T20:37:25Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
-  },
-  {
     "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
     "id": "voytas75/PromptManager",
     "language": "Python",
@@ -250,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:34:46Z",
     "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
-    "id": "eric-sabe/engsys",
-    "language": "JavaScript",
-    "name": "eric-sabe/engsys",
-    "stars": 3,
-    "updated_at": "2026-09-28T20:30:20Z",
-    "url": "https://github.com/eric-sabe/engsys"
   },
   {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:19:51Z",
     "url": "https://github.com/1438388098-glitch/JurisCoT"
-  },
-  {
-    "description": "AI assistants for policy, enforcement notices and appeals, with prompts and example outputs.",
-    "id": "StevenMacchia/ts-ai-assistants",
-    "language": "\u2014",
-    "name": "StevenMacchia/ts-ai-assistants",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:17:36Z",
-    "url": "https://github.com/StevenMacchia/ts-ai-assistants"
-  },
-  {
-    "description": "Static Taint Linter for LLM Prompt-Cache Determinism (OpenAI & Anthropic)",
-    "id": "ZhiwarSajadi/pcdlint",
-    "language": "Python",
-    "name": "ZhiwarSajadi/pcdlint",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:17:18Z",
-    "url": "https://github.com/ZhiwarSajadi/pcdlint"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-09-28T20:16:54Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Harness orchestration for Claude Code: composes a gated multi-agent pipeline into projects from versioned layers, holds ",
-    "id": "xhulz/nina",
-    "language": "JavaScript",
-    "name": "xhulz/nina",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:15:33Z",
-    "url": "https://github.com/xhulz/nina"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-28T20:15:27Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-09-28T20:14:52Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI built this whole portfolio \u2014 pretty cool, right!",
-    "id": "AnmolPatel20/Anmol_Portfolio",
-    "language": "CSS",
-    "name": "AnmolPatel20/Anmol_Portfolio",
-    "stars": 1,
-    "updated_at": "2026-09-28T20:13:10Z",
-    "url": "https://github.com/AnmolPatel20/Anmol_Portfolio"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:12:40Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco/agent-compose",
-    "language": "Go",
-    "name": "coilyco/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-28T20:30:58Z",
-    "url": "https://github.com/coilyco/agent-compose"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22273,
-    "updated_at": "2026-09-28T20:08:32Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
