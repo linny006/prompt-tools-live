@@ -1,20 +1,11 @@
 [
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-28T15:55:14Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Layered, agent-agnostic context architecture for AI coding agents: a tiny always-on baseline, on-demand skills & memory,",
     "id": "lx-wnk/Agent-Context",
     "language": "Shell",
     "name": "lx-wnk/Agent-Context",
     "stars": 7,
-    "updated_at": "2026-09-28T15:54:58Z",
+    "updated_at": "2026-09-28T15:59:27Z",
     "url": "https://github.com/lx-wnk/Agent-Context"
   },
   {
@@ -23,8 +14,44 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-09-28T15:53:34Z",
+    "updated_at": "2026-09-28T15:59:22Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:59:21Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Static Taint Linter for LLM Prompt-Cache Determinism (OpenAI & Anthropic)",
+    "id": "ZhiwarSajadi/pcdlint",
+    "language": "Python",
+    "name": "ZhiwarSajadi/pcdlint",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:58:19Z",
+    "url": "https://github.com/ZhiwarSajadi/pcdlint"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-28T15:55:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 1,
+    "updated_at": "2026-09-28T15:55:14Z",
+    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "Kiln-AI/Kiln",
     "stars": 5124,
-    "updated_at": "2026-09-28T15:51:00Z",
+    "updated_at": "2026-09-28T15:56:39Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:45:41Z",
     "url": "https://github.com/sahilnikam2410/distill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-28T15:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "lilhammerfun/clumsies",
     "stars": 18,
-    "updated_at": "2026-09-28T15:52:19Z",
+    "updated_at": "2026-09-28T15:59:01Z",
     "url": "https://github.com/lilhammerfun/clumsies"
   },
   {
@@ -414,6 +432,15 @@
     "url": "https://github.com/imymi/ComfyUI-IYKYK"
   },
   {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2338,
+    "updated_at": "2026-09-28T15:11:21Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T15:10:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-28T15:10:46Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 2,
-    "updated_at": "2026-09-28T15:10:04Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-09-28T15:09:35Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   }
 ]
