@@ -1,5 +1,167 @@
 [
   {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:00:02Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:59:54Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4763,
+    "updated_at": "2026-09-29T05:59:51Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-09-29T05:59:23Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Open-source library of practical AI agents: prompts, runbooks, evaluations, and install kits for Codex, Claude Code, and",
+    "id": "yohan-work/agentive",
+    "language": "TypeScript",
+    "name": "yohan-work/agentive",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:57:49Z",
+    "url": "https://github.com/yohan-work/agentive"
+  },
+  {
+    "description": "Six Claude Code skills (architect, review-swarm, ask-the-council, prompt-generator, up-to-date, ponytail) bundled as an ",
+    "id": "alonbaron/claude-skills",
+    "language": "JavaScript",
+    "name": "alonbaron/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-09-29T05:56:45Z",
+    "url": "https://github.com/alonbaron/claude-skills"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-09-29T05:53:56Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 313,
+    "updated_at": "2026-09-29T05:52:55Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evalua",
+    "id": "Natchannnn/repository-engineering-skills",
+    "language": "Python",
+    "name": "Natchannnn/repository-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:52:37Z",
+    "url": "https://github.com/Natchannnn/repository-engineering-skills"
+  },
+  {
+    "description": "OmniAiLab AI Director\uff5c\u5f71\u89c6\u7ea7\u5168\u6d41\u7a0b AI \u5bfc\u6f14 Skill\uff1a\u8986\u76d6\u5199\u5b9e\u4e0e\u52a8\u753b\u4e24\u7c7b\u5a92\u4ecb\uff0c\u4ece\u5267\u672c\u89e3\u6790\u5230\u6210\u7247\u4ea4\u4ed8\u3002OmniAiLab AI Director \u2014 a film-industry-grade end-to-end",
+    "id": "tomatoparkdao/omniailab-ai-director",
+    "language": "JavaScript",
+    "name": "tomatoparkdao/omniailab-ai-director",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:52:32Z",
+    "url": "https://github.com/tomatoparkdao/omniailab-ai-director"
+  },
+  {
+    "description": "Tech-lead orchestration for Claude Code \u2014 the top-tier model (Fable) keeps architecture & decisions, cheap subagents (So",
+    "id": "AndyShaman/senior-fable",
+    "language": "\u2014",
+    "name": "AndyShaman/senior-fable",
+    "stars": 26,
+    "updated_at": "2026-09-29T05:51:35Z",
+    "url": "https://github.com/AndyShaman/senior-fable"
+  },
+  {
+    "description": "\u9762\u5411 AI / Agent \u4e0e Markdown \u6587\u6863\u7684\u901a\u7528\u6587\u672c\u7ed3\u6784\u6807\u51c6\uff1a\u9ad8\u4fe1\u606f\u5bc6\u5ea6\u3001\u771f\u5b9e\u8bed\u4e49\u5c42\u7ea7\u3001\u4f4e\u65e0\u6548\u7559\u767d\uff0c\u5e76\u63d0\u4f9b\u89c4\u5219\u3001\u793a\u4f8b\u3001\u9a8c\u8bc1\u5668\u4e0e\u56de\u5f52\u6d4b\u8bd5\u3002",
+    "id": "yunmin311/universal-text-structure-standard",
+    "language": "Python",
+    "name": "yunmin311/universal-text-structure-standard",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:51:25Z",
+    "url": "https://github.com/yunmin311/universal-text-structure-standard"
+  },
+  {
+    "description": "Assignments, mini-projects, and practical implementations from the TuteDude Generative AI course.",
+    "id": "parthdadhaniya/Tute-Dude-Gen-Ai-Course-Assignments",
+    "language": "Python",
+    "name": "parthdadhaniya/Tute-Dude-Gen-Ai-Course-Assignments",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:50:13Z",
+    "url": "https://github.com/parthdadhaniya/Tute-Dude-Gen-Ai-Course-Assignments"
+  },
+  {
+    "description": "Claude Code enterprise multi-agent system \u2014 139 skills, 38 subagents, hooks-based quality gates, MCP integration",
+    "id": "GktuOktay/claude-agency",
+    "language": "Shell",
+    "name": "GktuOktay/claude-agency",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:49:24Z",
+    "url": "https://github.com/GktuOktay/claude-agency"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 3,
+    "updated_at": "2026-09-29T05:48:18Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Prompt design companion for DeepSeek Harness. Designs next development prompts and optimizes current drafts with project",
+    "id": "XXXXXQ-0206/dsh-prompt-for-me",
+    "language": "JavaScript",
+    "name": "XXXXXQ-0206/dsh-prompt-for-me",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:47:35Z",
+    "url": "https://github.com/XXXXXQ-0206/dsh-prompt-for-me"
+  },
+  {
+    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
+    "id": "heronbo111/HeronBo-AIGC-Prompt",
+    "language": "Tcl",
+    "name": "heronbo111/HeronBo-AIGC-Prompt",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:58:51Z",
+    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-29T05:46:05Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
     "id": "sou350121/Agent-Playbook",
     "language": "PowerShell",
@@ -63,15 +225,6 @@
     "url": "https://github.com/VSSK007/ZodicogAI"
   },
   {
-    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
-    "id": "heronbo111/HeronBo-AIGC-Prompt",
-    "language": "Tcl",
-    "name": "heronbo111/HeronBo-AIGC-Prompt",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:41:33Z",
-    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
-  },
-  {
     "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
     "id": "chemaw8/claude-kit-chema",
     "language": "Shell",
@@ -88,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T05:38:18Z",
     "url": "https://github.com/theluckystrike/claudflow.com"
-  },
-  {
-    "description": "OmniAiLab AI Director\uff5c\u5f71\u89c6\u7ea7\u5168\u6d41\u7a0b AI \u5bfc\u6f14 Skill\uff1a\u8986\u76d6\u5199\u5b9e\u4e0e\u52a8\u753b\u4e24\u7c7b\u5a92\u4ecb\uff0c\u4ece\u5267\u672c\u89e3\u6790\u5230\u6210\u7247\u4ea4\u4ed8\u3002OmniAiLab AI Director \u2014 a film-industry-grade end-to-end",
-    "id": "tomatoparkdao/omniailab-ai-director",
-    "language": "JavaScript",
-    "name": "tomatoparkdao/omniailab-ai-director",
-    "stars": 1,
-    "updated_at": "2026-09-29T05:37:42Z",
-    "url": "https://github.com/tomatoparkdao/omniailab-ai-director"
   },
   {
     "description": "Task-to-skill routing system for AI agents. Engineering automation workflow with conflict resolution & decision logic.",
@@ -144,6 +288,15 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74045,
+    "updated_at": "2026-09-29T05:55:43Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "Tells you which lines in your CLAUDE.md are not rules, and which should stop being prose and become hooks. Backed by 2,0",
     "id": "V-Songbird/disregard",
     "language": "JavaScript",
@@ -153,49 +306,13 @@
     "url": "https://github.com/V-Songbird/disregard"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 12,
-    "updated_at": "2026-09-29T05:34:14Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 3,
-    "updated_at": "2026-09-29T05:32:52Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
-  },
-  {
-    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evalua",
-    "id": "Natchannnn/repository-engineering-skills",
-    "language": "Python",
-    "name": "Natchannnn/repository-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:32:25Z",
-    "url": "https://github.com/Natchannnn/repository-engineering-skills"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7262,
-    "updated_at": "2026-09-29T05:45:02Z",
+    "updated_at": "2026-09-29T05:46:06Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-29T05:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Free step-by-step guide to Claude: prompting, artifacts, projects, MCP connectors, Cowork, skills, plugins, Claude Code,",
@@ -288,21 +405,12 @@
     "url": "https://github.com/meghal86/promptsonar"
   },
   {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-29T05:16:38Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
     "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
     "id": "OpenScribbler/Katharsis",
     "language": "TypeScript",
     "name": "OpenScribbler/Katharsis",
     "stars": 4,
-    "updated_at": "2026-09-29T05:17:10Z",
+    "updated_at": "2026-09-29T05:59:01Z",
     "url": "https://github.com/OpenScribbler/Katharsis"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T05:12:03Z",
     "url": "https://github.com/shing1211/prompt-engineering"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2237,
-    "updated_at": "2026-09-29T05:09:59Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-29T05:08:05Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Regression testing for prompts, agents, and models. Know what breaks before you switch.",
-    "id": "ArsinShaabani/promptseal",
-    "language": "Python",
-    "name": "ArsinShaabani/promptseal",
-    "stars": 1,
-    "updated_at": "2026-09-29T05:02:15Z",
-    "url": "https://github.com/ArsinShaabani/promptseal"
-  },
-  {
-    "description": "AI-driven dev toolkit",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:05:53Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4763,
-    "updated_at": "2026-09-29T04:55:36Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:52:53Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "WKJ-Human \u00b7 \u9762\u5411\u5546\u4e1a\u5199\u4f5c\u7684\u4eba\u5473\u5ba1\u9605\u4e0e\u6700\u5c0f\u5316\u6539\u5199 Agent Skill | Review & minimally rewrite AI-flavored business writing. Not an AI detector.",
-    "id": "Keji-Wang/wkj-human",
-    "language": "\u2014",
-    "name": "Keji-Wang/wkj-human",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:52:50Z",
-    "url": "https://github.com/Keji-Wang/wkj-human"
-  },
-  {
-    "description": "Claude Code / Agent Skill: /prompt-optimizer polishes your existing AI prompts \u2014 fixes wording, grammar and structure wi",
-    "id": "talki-io/prompt-optimizer",
-    "language": "\u2014",
-    "name": "talki-io/prompt-optimizer",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:52:00Z",
-    "url": "https://github.com/talki-io/prompt-optimizer"
-  },
-  {
-    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
-    "id": "redwheeler3/penta-application-screener",
-    "language": "Python",
-    "name": "redwheeler3/penta-application-screener",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:50:50Z",
-    "url": "https://github.com/redwheeler3/penta-application-screener"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 198,
-    "updated_at": "2026-09-29T04:50:25Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "Go",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:50:17Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Insight Distiller \u00b7 \u8bbf\u8c08\u5185\u5bb9\u6d1e\u5bdf \u2014 Agent Skill: source-grounded insight memos from interviews, meeting notes & transcripts. \u533a\u5206",
-    "id": "Keji-Wang/wkj-insight-distiller",
-    "language": "\u2014",
-    "name": "Keji-Wang/wkj-insight-distiller",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:46:14Z",
-    "url": "https://github.com/Keji-Wang/wkj-insight-distiller"
   }
 ]
