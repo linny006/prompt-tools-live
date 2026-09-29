@@ -1,12 +1,147 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:29:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
+    "id": "kingjethro999/promptdock",
+    "language": "JavaScript",
+    "name": "kingjethro999/promptdock",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:29:11Z",
+    "url": "https://github.com/kingjethro999/promptdock"
+  },
+  {
+    "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
+    "id": "theultimate-dev/skills",
+    "language": "Python",
+    "name": "theultimate-dev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:28:54Z",
+    "url": "https://github.com/theultimate-dev/skills"
+  },
+  {
+    "description": "Modular AI assistant with long-term memory, plugin SDK, and universal LLM routing. Built with Prompt Engineering.",
+    "id": "ebluffy/Neyra-AIAssist",
+    "language": "Python",
+    "name": "ebluffy/Neyra-AIAssist",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:27:38Z",
+    "url": "https://github.com/ebluffy/Neyra-AIAssist"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-09-29T21:27:31Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74100,
+    "updated_at": "2026-09-29T21:26:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\u751f\u6210AI\u5b9f\u52d9\u8005\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3002Copilot Studio \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u958b\u767a\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u751f\u6210AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3",
+    "id": "sanarita/sakuhin",
+    "language": "HTML",
+    "name": "sanarita/sakuhin",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:25:21Z",
+    "url": "https://github.com/sanarita/sakuhin"
+  },
+  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-29T21:15:29Z",
+    "updated_at": "2026-09-29T21:25:41Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "43 AI video camera-move prompt recipes (dolly, orbit, crane, FPV\u2026) with example clips \u2014 open dataset, CC BY 4.0",
+    "id": "fueledximagination/fxi-camera-moves",
+    "language": "JavaScript",
+    "name": "fueledximagination/fxi-camera-moves",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:22:09Z",
+    "url": "https://github.com/fueledximagination/fxi-camera-moves"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:21:46Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 7,
+    "updated_at": "2026-09-29T21:21:24Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Free Prompt Engineering interview flashcards for Anki. 100 cards for AI engineer interviews.",
+    "id": "tomaszs/prompt-engineering-interview-flashcards-free",
+    "language": "\u2014",
+    "name": "tomaszs/prompt-engineering-interview-flashcards-free",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:21:08Z",
+    "url": "https://github.com/tomaszs/prompt-engineering-interview-flashcards-free"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-09-29T21:18:08Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Avalia\u00e7\u00e3o de qualidade de atendimento com checagens determin\u00edsticas (LGPD) + LLM-as-judge (Claude) e compara\u00e7\u00e3o A/B de p",
+    "id": "arthurpenedo/atendimento-eval",
+    "language": "Python",
+    "name": "arthurpenedo/atendimento-eval",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:16:12Z",
+    "url": "https://github.com/arthurpenedo/atendimento-eval"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:16:03Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-29T21:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -23,7 +158,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-29T21:14:51Z",
+    "updated_at": "2026-09-29T21:24:00Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T21:13:56Z",
     "url": "https://github.com/alirezzazm/promptaria"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:13:25Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
@@ -72,21 +198,12 @@
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-09-29T21:12:19Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
     "id": "lowqualityloey/promptkit-os",
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-29T21:11:48Z",
+    "updated_at": "2026-09-29T21:25:51Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -97,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T21:11:18Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "43 AI video camera-move prompt recipes (dolly, orbit, crane, FPV\u2026) with example clips \u2014 open dataset, CC BY 4.0",
-    "id": "fueledximagination/fxi-camera-moves",
-    "language": "JavaScript",
-    "name": "fueledximagination/fxi-camera-moves",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:11:09Z",
-    "url": "https://github.com/fueledximagination/fxi-camera-moves"
   },
   {
     "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
@@ -133,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T21:10:13Z",
     "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
-  },
-  {
-    "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
-    "id": "theultimate-dev/skills",
-    "language": "Python",
-    "name": "theultimate-dev/skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:09:08Z",
-    "url": "https://github.com/theultimate-dev/skills"
   },
   {
     "description": "\u8ba9\u6211\u4eec\u8bb2\u4e2d\u6587\uff01\u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u7684\u4e2d\u6587\u5199\u4f5c\u89c4\u8303\uff0c\u542b\u9010\u6761\u5224\u636e\u4e0e\u68c0\u67e5\u7a0b\u5e8f",
@@ -225,15 +324,6 @@
     "url": "https://github.com/hemekci/AIE640"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-29T21:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A French-first, privacy-conscious AI toolkit for career growth, job applications, and interview preparation. It coaches ",
     "id": "JeromeJ77/career-ai-toolkit",
     "language": "Markdown",
@@ -241,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T20:59:23Z",
     "url": "https://github.com/JeromeJ77/career-ai-toolkit"
-  },
-  {
-    "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
-    "id": "kingjethro999/promptdock",
-    "language": "JavaScript",
-    "name": "kingjethro999/promptdock",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:58:31Z",
-    "url": "https://github.com/kingjethro999/promptdock"
   },
   {
     "description": "Interactive CLI tool written in Go that walks your repository and packs it into a beautifully formatted Markdown documen",
@@ -320,7 +401,7 @@
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-09-29T20:53:56Z",
+    "updated_at": "2026-09-29T21:21:18Z",
     "url": "https://github.com/dgaramos/dr-agents"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-29T20:48:13Z",
     "url": "https://github.com/mytech-today-now/prompt-refined"
-  },
-  {
-    "description": "Shared agent configuration for Claude Code, Codex, and Pi. One AGENTS.md instruction source, 35 portable skills, 16 expe",
-    "id": "domengabrovsek/agent-config",
-    "language": "Shell",
-    "name": "domengabrovsek/agent-config",
-    "stars": 17,
-    "updated_at": "2026-09-29T20:47:55Z",
-    "url": "https://github.com/domengabrovsek/agent-config"
-  },
-  {
-    "description": "GitHub Action to sync, validate, generate, and diff AI IDE configuration files with LynxPrompt",
-    "id": "GeiserX/lynxprompt-action",
-    "language": "TypeScript",
-    "name": "GeiserX/lynxprompt-action",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:47:37Z",
-    "url": "https://github.com/GeiserX/lynxprompt-action"
-  },
-  {
-    "description": "25 versioned skill files that make an AI agent run the same procedure the same way every time.",
-    "id": "MrMinor-dev/ai-skills-framework",
-    "language": "\u2014",
-    "name": "MrMinor-dev/ai-skills-framework",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:47:19Z",
-    "url": "https://github.com/MrMinor-dev/ai-skills-framework"
-  },
-  {
-    "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
-    "id": "yangzhou-chaofan/awesome-jev-prompt",
-    "language": "CSS",
-    "name": "yangzhou-chaofan/awesome-jev-prompt",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:46:07Z",
-    "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
-  },
-  {
-    "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
-    "id": "Khyodaattu/awesome-skillkit",
-    "language": "\u2014",
-    "name": "Khyodaattu/awesome-skillkit",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:45:47Z",
-    "url": "https://github.com/Khyodaattu/awesome-skillkit"
-  },
-  {
-    "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
-    "id": "randolfglorious1317/skillpack",
-    "language": "TypeScript",
-    "name": "randolfglorious1317/skillpack",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:45:11Z",
-    "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
-    "id": "unmanageable-mauiisland8443/PromptLedger",
-    "language": "\u2014",
-    "name": "unmanageable-mauiisland8443/PromptLedger",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:45:01Z",
-    "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:44:39Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:44:24Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
   }
 ]
