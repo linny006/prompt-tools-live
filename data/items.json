@@ -1,12 +1,21 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
+    "id": "SatyaVardhanM/Resuto",
+    "language": "Python",
+    "name": "SatyaVardhanM/Resuto",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:45:07Z",
+    "url": "https://github.com/SatyaVardhanM/Resuto"
+  },
+  {
+    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
+    "id": "ryanportfolio/Corewise.Academy",
+    "language": "MDX",
+    "name": "ryanportfolio/Corewise.Academy",
     "stars": 1,
-    "updated_at": "2026-09-29T21:29:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-09-29T21:44:48Z",
+    "url": "https://github.com/ryanportfolio/Corewise.Academy"
   },
   {
     "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
@@ -14,8 +23,143 @@
     "language": "JavaScript",
     "name": "kingjethro999/promptdock",
     "stars": 0,
-    "updated_at": "2026-09-29T21:29:11Z",
+    "updated_at": "2026-09-29T21:44:06Z",
     "url": "https://github.com/kingjethro999/promptdock"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:44:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\u751f\u6210AI\u5b9f\u52d9\u8005\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3002Copilot Studio \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u958b\u767a\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u751f\u6210AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3",
+    "id": "sanarita/sakuhin",
+    "language": "HTML",
+    "name": "sanarita/sakuhin",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:43:47Z",
+    "url": "https://github.com/sanarita/sakuhin"
+  },
+  {
+    "description": "Human-graded behavior evaluations: the grader, for any consumer.",
+    "id": "coilyco/housecast",
+    "language": "Python",
+    "name": "coilyco/housecast",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:42:36Z",
+    "url": "https://github.com/coilyco/housecast"
+  },
+  {
+    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+    "id": "K-Dense-AI/scientific-agents",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agents",
+    "stars": 191,
+    "updated_at": "2026-09-29T21:42:19Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agents"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 64,
+    "updated_at": "2026-09-29T21:44:38Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco/agent-compose",
+    "language": "Go",
+    "name": "coilyco/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:40:45Z",
+    "url": "https://github.com/coilyco/agent-compose"
+  },
+  {
+    "description": "C3 \u2014 a multiplicative context-synthesis & decision-gating pattern for autonomous agents (Wise-Tech OS / Runix). Spec, pr",
+    "id": "iskenderunic/c3-semantic-engine",
+    "language": "Python",
+    "name": "iskenderunic/c3-semantic-engine",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:40:39Z",
+    "url": "https://github.com/iskenderunic/c3-semantic-engine"
+  },
+  {
+    "description": "GoRi custom nodes for ComfyUI \u2014 camera-aware prompts for Qwen-Image 2.1 (full conditioning), KREA 2, MiniMax H3",
+    "id": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
+    "language": "Python",
+    "name": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:39:45Z",
+    "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74100,
+    "updated_at": "2026-09-29T21:38:39Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:39:52Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
+    "id": "alptugharun/ai-social-media-toolkit",
+    "language": "Python",
+    "name": "alptugharun/ai-social-media-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:37:38Z",
+    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
+    "id": "muzimu217/ui-design-agent-kit",
+    "language": "JavaScript",
+    "name": "muzimu217/ui-design-agent-kit",
+    "stars": 20,
+    "updated_at": "2026-09-29T21:33:54Z",
+    "url": "https://github.com/muzimu217/ui-design-agent-kit"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-09-29T21:32:51Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Enterprise-grade AI coding agents for Claude Code and GitHub Copilot",
+    "id": "asrms/enterprise-agents-claude-copilot",
+    "language": "\u2014",
+    "name": "asrms/enterprise-agents-claude-copilot",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:30:33Z",
+    "url": "https://github.com/asrms/enterprise-agents-claude-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-29T21:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
@@ -32,7 +176,7 @@
     "language": "Python",
     "name": "ebluffy/Neyra-AIAssist",
     "stars": 3,
-    "updated_at": "2026-09-29T21:27:38Z",
+    "updated_at": "2026-09-29T21:31:16Z",
     "url": "https://github.com/ebluffy/Neyra-AIAssist"
   },
   {
@@ -41,26 +185,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-09-29T21:27:31Z",
+    "updated_at": "2026-09-29T21:42:04Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74100,
-    "updated_at": "2026-09-29T21:26:05Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\u751f\u6210AI\u5b9f\u52d9\u8005\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3002Copilot Studio \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u958b\u767a\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u751f\u6210AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3",
-    "id": "sanarita/sakuhin",
-    "language": "HTML",
-    "name": "sanarita/sakuhin",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:25:21Z",
-    "url": "https://github.com/sanarita/sakuhin"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -135,15 +261,6 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-29T21:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -216,15 +333,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco/agent-compose",
-    "language": "Go",
-    "name": "coilyco/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:10:44Z",
-    "url": "https://github.com/coilyco/agent-compose"
-  },
-  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -232,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T21:10:19Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "GoRi custom nodes for ComfyUI \u2014 camera-aware prompts for Qwen-Image 2.1 (full conditioning), KREA 2, MiniMax H3",
-    "id": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
-    "language": "Python",
-    "name": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:10:13Z",
-    "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
   },
   {
     "description": "\u8ba9\u6211\u4eec\u8bb2\u4e2d\u6587\uff01\u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u7684\u4e2d\u6587\u5199\u4f5c\u89c4\u8303\uff0c\u542b\u9010\u6761\u5224\u636e\u4e0e\u68c0\u67e5\u7a0b\u5e8f",
@@ -349,104 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-29T20:56:18Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:54:56Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "npm for prompts \u2014 publish versioned prompt templates, pull them into your code as typed functions",
-    "id": "sufleur/cli",
-    "language": "Go",
-    "name": "sufleur/cli",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:54:51Z",
-    "url": "https://github.com/sufleur/cli"
-  },
-  {
-    "description": "Static security scanner for AI prompts, MCP configs, and agent workflows. Zero LLM calls. Local-first. OWASP LLM Top 10 ",
-    "id": "meghal86/promptsonar",
-    "language": "TypeScript",
-    "name": "meghal86/promptsonar",
-    "stars": 6,
-    "updated_at": "2026-09-29T20:54:42Z",
-    "url": "https://github.com/meghal86/promptsonar"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:54:35Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:52:56Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
-    "id": "dgaramos/dr-agents",
-    "language": "Shell",
-    "name": "dgaramos/dr-agents",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:21:18Z",
-    "url": "https://github.com/dgaramos/dr-agents"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:52:15Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Human-graded behavior evaluations: the grader, for any consumer.",
-    "id": "coilyco/housecast",
-    "language": "Python",
-    "name": "coilyco/housecast",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:52:00Z",
-    "url": "https://github.com/coilyco/housecast"
-  },
-  {
-    "description": "The Ultimate Claude Code Toolkit \u2014 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands,",
-    "id": "travisjneuman/.claude",
-    "language": "TypeScript",
-    "name": "travisjneuman/.claude",
-    "stars": 100,
-    "updated_at": "2026-09-29T20:49:29Z",
-    "url": "https://github.com/travisjneuman/.claude"
-  },
-  {
-    "description": "Enterprise-grade AI coding agents for Claude Code and GitHub Copilot",
-    "id": "asrms/enterprise-agents-claude-copilot",
-    "language": "JavaScript",
-    "name": "asrms/enterprise-agents-claude-copilot",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:48:35Z",
-    "url": "https://github.com/asrms/enterprise-agents-claude-copilot"
-  },
-  {
-    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
-    "id": "mytech-today-now/prompt-refined",
-    "language": "CSS",
-    "name": "mytech-today-now/prompt-refined",
-    "stars": 4,
-    "updated_at": "2026-09-29T20:48:13Z",
-    "url": "https://github.com/mytech-today-now/prompt-refined"
   }
 ]
