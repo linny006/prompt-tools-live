@@ -1,5 +1,149 @@
 [
   {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:59:59Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:59:32Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "65 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:59:09Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
+    "id": "kingjethro999/promptdock",
+    "language": "JavaScript",
+    "name": "kingjethro999/promptdock",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:58:34Z",
+    "url": "https://github.com/kingjethro999/promptdock"
+  },
+  {
+    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
+    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "language": "HTML",
+    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:57:08Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:54:16Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5130,
+    "updated_at": "2026-09-29T21:55:57Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco/agent-compose",
+    "language": "Go",
+    "name": "coilyco/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:50:47Z",
+    "url": "https://github.com/coilyco/agent-compose"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-09-29T21:50:31Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:49:29Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "IAPro-Community/Orquestrador-Maestro",
+    "language": "JavaScript",
+    "name": "IAPro-Community/Orquestrador-Maestro",
+    "stars": 52,
+    "updated_at": "2026-09-29T21:49:16Z",
+    "url": "https://github.com/IAPro-Community/Orquestrador-Maestro"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25562,
+    "updated_at": "2026-09-29T22:00:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:47:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "npm for prompts \u2014 publish versioned prompt templates, pull them into your code as typed functions",
+    "id": "sufleur/cli",
+    "language": "Go",
+    "name": "sufleur/cli",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:45:52Z",
+    "url": "https://github.com/sufleur/cli"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:45:49Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-29T21:45:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
     "id": "SatyaVardhanM/Resuto",
     "language": "Python",
@@ -16,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T21:44:48Z",
     "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
-    "id": "kingjethro999/promptdock",
-    "language": "JavaScript",
-    "name": "kingjethro999/promptdock",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:44:06Z",
-    "url": "https://github.com/kingjethro999/promptdock"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:44:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\u751f\u6210AI\u5b9f\u52d9\u8005\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3002Copilot Studio \u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u958b\u767a\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u751f\u6210AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3",
@@ -68,17 +194,8 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 64,
-    "updated_at": "2026-09-29T21:44:38Z",
+    "updated_at": "2026-09-29T21:56:33Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco/agent-compose",
-    "language": "Go",
-    "name": "coilyco/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:40:45Z",
-    "url": "https://github.com/coilyco/agent-compose"
   },
   {
     "description": "C3 \u2014 a multiplicative context-synthesis & decision-gating pattern for autonomous agents (Wise-Tech OS / Runix). Spec, pr",
@@ -106,15 +223,6 @@
     "stars": 74100,
     "updated_at": "2026-09-29T21:38:39Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:39:52Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
     "description": "AI-powered workflows, tools and resources for social media strategy, content creation and digital marketing.",
@@ -153,21 +261,12 @@
     "url": "https://github.com/asrms/enterprise-agents-claude-copilot"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-29T21:30:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
     "id": "theultimate-dev/skills",
     "language": "Python",
     "name": "theultimate-dev/skills",
     "stars": 0,
-    "updated_at": "2026-09-29T21:28:54Z",
+    "updated_at": "2026-09-29T21:49:32Z",
     "url": "https://github.com/theultimate-dev/skills"
   },
   {
@@ -176,7 +275,7 @@
     "language": "Python",
     "name": "ebluffy/Neyra-AIAssist",
     "stars": 3,
-    "updated_at": "2026-09-29T21:31:16Z",
+    "updated_at": "2026-09-29T21:45:55Z",
     "url": "https://github.com/ebluffy/Neyra-AIAssist"
   },
   {
@@ -297,15 +396,6 @@
     "url": "https://github.com/dustin-olenslager/claude-phalanx"
   },
   {
-    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
-    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "language": "HTML",
-    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:12:48Z",
-    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
     "description": "Free, open-source standalone CAT tool: editor, AI translation, termbases, TMs, plus system-wide clipboard manager, Super",
     "id": "Supervertaler/Supervertaler-Workbench",
     "language": "Python",
@@ -313,15 +403,6 @@
     "stars": 57,
     "updated_at": "2026-09-29T21:12:36Z",
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:25:51Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -367,86 +448,5 @@
     "stars": 142,
     "updated_at": "2026-09-29T21:05:47Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Lightweight AI assistant plugin for Notepad++ with visible prompts and single-turn behavior",
-    "id": "pingqLIN/NppAIAssistant",
-    "language": "C++",
-    "name": "pingqLIN/NppAIAssistant",
-    "stars": 7,
-    "updated_at": "2026-09-29T21:05:31Z",
-    "url": "https://github.com/pingqLIN/NppAIAssistant"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:04:33Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "Lauff\u00e4higes, domain-neutrales Starter-Harness f\u00fcr AI-Projekte (zuerst Claude Code). Zwei Schichten: Governance (Markdown",
-    "id": "Luis247911/universal-ai-workspace-foundation",
-    "language": "Python",
-    "name": "Luis247911/universal-ai-workspace-foundation",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:02:48Z",
-    "url": "https://github.com/Luis247911/universal-ai-workspace-foundation"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 5,
-    "updated_at": "2026-09-29T21:02:43Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "OpenCode fork with flexible System prompt control, bundled Codex prompts, and a Codex-compatible ChatGPT Responses wire.",
-    "id": "Krablante/opencodez",
-    "language": "TypeScript",
-    "name": "Krablante/opencodez",
-    "stars": 7,
-    "updated_at": "2026-09-29T21:06:58Z",
-    "url": "https://github.com/Krablante/opencodez"
-  },
-  {
-    "description": "AIE640 \u2013 Artificial Intelligence Applications | Hacettepe University, Institute of Informatics | Assoc. Prof. Dr. Hakan ",
-    "id": "hemekci/AIE640",
-    "language": "Jupyter Notebook",
-    "name": "hemekci/AIE640",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:00:54Z",
-    "url": "https://github.com/hemekci/AIE640"
-  },
-  {
-    "description": "A French-first, privacy-conscious AI toolkit for career growth, job applications, and interview preparation. It coaches ",
-    "id": "JeromeJ77/career-ai-toolkit",
-    "language": "Markdown",
-    "name": "JeromeJ77/career-ai-toolkit",
-    "stars": 3,
-    "updated_at": "2026-09-29T20:59:23Z",
-    "url": "https://github.com/JeromeJ77/career-ai-toolkit"
-  },
-  {
-    "description": "Interactive CLI tool written in Go that walks your repository and packs it into a beautifully formatted Markdown documen",
-    "id": "QubeUtils/repowalk",
-    "language": "Go",
-    "name": "QubeUtils/repowalk",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:57:15Z",
-    "url": "https://github.com/QubeUtils/repowalk"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 14,
-    "updated_at": "2026-09-29T20:56:18Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   }
 ]
