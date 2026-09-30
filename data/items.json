@@ -1,12 +1,120 @@
 [
   {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-09-30T18:45:23Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "\u4e2d\u6587\u5f00\u6e90\u63d0\u793a\u8bcd\u7f51\u7ad9\uff5c80 \u6761 AI \u63d0\u793a\u8bcd\u6a21\u677f\uff1a\u56fe\u751f\u56fe\u98ce\u683c\u8f6c\u6362\u3001\u5199\u4f5c\u3001\u7f16\u7a0b\u3001\u5206\u6790\u4e0e\u529e\u516c\u3002\u514d\u767b\u5f55\uff0c\u652f\u6301\u9700\u6c42\u586b\u5199\u3001\u641c\u7d22\u3001\u6536\u85cf\u3001\u590d\u5236\u4e0e\u5bfc\u51fa\u3002Open-source AI prompt website with Chinese-first navi",
+    "id": "BryceYuuu/ai-prompt-website",
+    "language": "JavaScript",
+    "name": "BryceYuuu/ai-prompt-website",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:45:16Z",
+    "url": "https://github.com/BryceYuuu/ai-prompt-website"
+  },
+  {
+    "description": "A local-first workshop for image generation \u2014 one prompt, several models side by side, and a JSON tab that shows the rea",
+    "id": "samuelboulery/img-creator",
+    "language": "TypeScript",
+    "name": "samuelboulery/img-creator",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:45:19Z",
+    "url": "https://github.com/samuelboulery/img-creator"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4891,
+    "updated_at": "2026-09-30T18:44:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Export a public PromptBase profile's prompts into TXT, Markdown, JSON, CSV, or searchable HTML catalogs, and diff them o",
+    "id": "IACBI/promptbase-profile-exporter",
+    "language": "Python",
+    "name": "IACBI/promptbase-profile-exporter",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:45:00Z",
+    "url": "https://github.com/IACBI/promptbase-profile-exporter"
+  },
+  {
     "description": "Turn any chat assistant into a music prompt engineer. Twelve files for Suno v5.5, Google Lyria 3, Flow Music, ElevenMusi",
     "id": "sanic732/SunoForge",
     "language": "\u2014",
     "name": "sanic732/SunoForge",
     "stars": 14,
-    "updated_at": "2026-09-30T18:41:35Z",
+    "updated_at": "2026-09-30T18:44:37Z",
     "url": "https://github.com/sanic732/SunoForge"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 3,
+    "updated_at": "2026-09-30T18:44:11Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:43:23Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Self-hosted web sharing portal and snapshot viewer for PromptBranch (Next.js SSR & Docker deployment).",
+    "id": "PromptBranch/promptbranch-portal",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch-portal",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:45:23Z",
+    "url": "https://github.com/PromptBranch/promptbranch-portal"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:43:00Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-09-30T18:42:49Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-30T18:42:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 83,
+    "updated_at": "2026-09-30T18:42:33Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
   },
   {
     "description": "Switch AIs without re-explaining everything.",
@@ -18,15 +126,6 @@
     "url": "https://github.com/spidey889/context-generator"
   },
   {
-    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
-    "id": "adambkovacs/candidate-experience-benchmark",
-    "language": "HTML",
-    "name": "adambkovacs/candidate-experience-benchmark",
-    "stars": 3,
-    "updated_at": "2026-09-30T18:40:47Z",
-    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
-  },
-  {
     "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
     "id": "nicholyx/ai-skills",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-09-30T18:40:34Z",
     "url": "https://github.com/nicholyx/ai-skills"
-  },
-  {
-    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-09-30T18:40:12Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -117,15 +207,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-30T18:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
     "id": "gufranco/claude-engineering-rules",
     "language": "Python",
@@ -189,15 +270,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Export a public PromptBase profile's prompts into TXT, Markdown, JSON, CSV, or searchable HTML catalogs, and diff them o",
-    "id": "IACBI/promptbase-profile-exporter",
-    "language": "Python",
-    "name": "IACBI/promptbase-profile-exporter",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:36:01Z",
-    "url": "https://github.com/IACBI/promptbase-profile-exporter"
-  },
-  {
     "description": "PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more.",
     "id": "voytas75/PromptManager",
     "language": "Python",
@@ -243,15 +315,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
-    "id": "YanpengQi7/ai-reliability-copilot",
-    "language": "TypeScript",
-    "name": "YanpengQi7/ai-reliability-copilot",
-    "stars": 83,
-    "updated_at": "2026-09-30T18:42:33Z",
-    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
-  },
-  {
     "description": "AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: n",
     "id": "Azhi-ss/academic-figure-skills",
     "language": "Python",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 65,
-    "updated_at": "2026-09-30T18:39:17Z",
+    "updated_at": "2026-09-30T18:44:18Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T18:01:58Z",
     "url": "https://github.com/lowenbjer/claude-terse"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-09-30T18:41:50Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\u4e2d\u6587\u5f00\u6e90\u63d0\u793a\u8bcd\u7f51\u7ad9\uff5c80 \u6761 AI \u63d0\u793a\u8bcd\u6a21\u677f\uff1a\u56fe\u751f\u56fe\u98ce\u683c\u8f6c\u6362\u3001\u5199\u4f5c\u3001\u7f16\u7a0b\u3001\u5206\u6790\u4e0e\u529e\u516c\u3002\u514d\u767b\u5f55\uff0c\u652f\u6301\u9700\u6c42\u586b\u5199\u3001\u641c\u7d22\u3001\u6536\u85cf\u3001\u590d\u5236\u4e0e\u5bfc\u51fa\u3002Open-source AI prompt website with Chinese-first navi",
-    "id": "BryceYuuu/ai-prompt-website",
-    "language": "JavaScript",
-    "name": "BryceYuuu/ai-prompt-website",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:54:35Z",
-    "url": "https://github.com/BryceYuuu/ai-prompt-website"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1865,
-    "updated_at": "2026-09-30T17:52:35Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
-    "id": "pero3dev/ai-agent-library",
-    "language": "JavaScript",
-    "name": "pero3dev/ai-agent-library",
-    "stars": 2,
-    "updated_at": "2026-09-30T17:52:35Z",
-    "url": "https://github.com/pero3dev/ai-agent-library"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2239,
-    "updated_at": "2026-09-30T17:50:46Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
-    "id": "aalbeek-ai/voice-evals",
-    "language": "\u2014",
-    "name": "aalbeek-ai/voice-evals",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:48:54Z",
-    "url": "https://github.com/aalbeek-ai/voice-evals"
-  },
-  {
-    "description": "AI-driven dev toolkit",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:44:41Z",
-    "url": "https://github.com/joshuafolkken/kit"
   }
 ]
