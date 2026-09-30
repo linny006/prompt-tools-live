@@ -1,12 +1,30 @@
 [
   {
-    "description": "Hands-on AI engineering lab in ASP.NET Core: weekly LLM experiments, real evals (Haiku vs Sonnet, keyword vs embedding R",
-    "id": "Franksmallz/AiEngineeringLab",
-    "language": "C#",
-    "name": "Franksmallz/AiEngineeringLab",
+    "description": "Open-source library of practical AI agents: prompts, runbooks, evaluations, and install kits for Codex, Claude Code, and",
+    "id": "yohan-work/agentive",
+    "language": "TypeScript",
+    "name": "yohan-work/agentive",
     "stars": 0,
-    "updated_at": "2026-09-29T23:45:29Z",
-    "url": "https://github.com/Franksmallz/AiEngineeringLab"
+    "updated_at": "2026-09-29T23:58:41Z",
+    "url": "https://github.com/yohan-work/agentive"
+  },
+  {
+    "description": "Multi-agent engineering with cold review, artifact validation and resumable run state.",
+    "id": "Novadiem-Studio/bureau",
+    "language": "Shell",
+    "name": "Novadiem-Studio/bureau",
+    "stars": 14,
+    "updated_at": "2026-09-29T23:59:46Z",
+    "url": "https://github.com/Novadiem-Studio/bureau"
+  },
+  {
+    "description": "Modular AI assistant with long-term memory, plugin SDK, and universal LLM routing. Built with Prompt Engineering.",
+    "id": "ebluffy/Neyra-AIAssist",
+    "language": "Python",
+    "name": "ebluffy/Neyra-AIAssist",
+    "stars": 3,
+    "updated_at": "2026-09-29T23:54:20Z",
+    "url": "https://github.com/ebluffy/Neyra-AIAssist"
   },
   {
     "description": "Human-graded behavior evaluations: the grader, for any consumer.",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "coilyco/housecast",
     "stars": 1,
-    "updated_at": "2026-09-29T23:42:04Z",
+    "updated_at": "2026-09-29T23:51:58Z",
     "url": "https://github.com/coilyco/housecast"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2057,
+    "updated_at": "2026-09-29T23:51:32Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Effect of Prompt Phrasing on LLMs (Dylan Santwani, 2025): does SAT/textbook-style formatting change how Qwen2.5, GPT-4o,",
+    "id": "dylansantwani/prompt-phrasing-llms",
+    "language": "\u2014",
+    "name": "dylansantwani/prompt-phrasing-llms",
+    "stars": 0,
+    "updated_at": "2026-09-29T23:51:03Z",
+    "url": "https://github.com/dylansantwani/prompt-phrasing-llms"
+  },
+  {
+    "description": "A portable AI skill that learns its owner, finds its own tools, refuses to guess, refuses to coast, and keeps every less",
+    "id": "a42599-blip/lorekeeper",
+    "language": "PowerShell",
+    "name": "a42599-blip/lorekeeper",
+    "stars": 0,
+    "updated_at": "2026-09-29T23:48:40Z",
+    "url": "https://github.com/a42599-blip/lorekeeper"
+  },
+  {
+    "description": "Research with Perplexity, ChatGPT or Gemini and know which claims hold up. An agent skill for source-demanding research ",
+    "id": "dogancoban/deep-research-companion",
+    "language": "Python",
+    "name": "dogancoban/deep-research-companion",
+    "stars": 1,
+    "updated_at": "2026-09-29T23:48:06Z",
+    "url": "https://github.com/dogancoban/deep-research-companion"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +77,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-09-29T23:41:43Z",
+    "updated_at": "2026-09-29T23:47:51Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
+    "id": "Moeeryani/Vibe-Coding-Production-Kit",
+    "language": "JavaScript",
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 32,
+    "updated_at": "2026-09-29T23:51:26Z",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
+  },
+  {
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evalua",
+    "id": "Natchannnn/repository-engineering-skills",
+    "language": "Python",
+    "name": "Natchannnn/repository-engineering-skills",
+    "stars": 1,
+    "updated_at": "2026-09-29T23:45:56Z",
+    "url": "https://github.com/Natchannnn/repository-engineering-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-09-29T23:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Hands-on AI engineering lab in ASP.NET Core: weekly LLM experiments, real evals (Haiku vs Sonnet, keyword vs embedding R",
+    "id": "Franksmallz/AiEngineeringLab",
+    "language": "C#",
+    "name": "Franksmallz/AiEngineeringLab",
+    "stars": 0,
+    "updated_at": "2026-09-29T23:45:39Z",
+    "url": "https://github.com/Franksmallz/AiEngineeringLab"
   },
   {
     "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
@@ -45,15 +135,6 @@
     "url": "https://github.com/MichengAI/dsh-pua"
   },
   {
-    "description": "Effect of Prompt Phrasing on LLMs (Dylan Santwani, 2025): does SAT/textbook-style formatting change how Qwen2.5, GPT-4o,",
-    "id": "dylansantwani/prompt-phrasing-llms",
-    "language": "\u2014",
-    "name": "dylansantwani/prompt-phrasing-llms",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:38:09Z",
-    "url": "https://github.com/dylansantwani/prompt-phrasing-llms"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -72,13 +153,13 @@
     "url": "https://github.com/github/awesome-copilot"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-09-29T23:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74105,
+    "updated_at": "2026-09-29T23:33:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25564,
-    "updated_at": "2026-09-29T23:44:22Z",
+    "updated_at": "2026-09-29T23:58:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T23:22:50Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Research with Perplexity, ChatGPT or Gemini and know which claims hold up. An agent skill for source-demanding research ",
-    "id": "dogancoban/deep-research-companion",
-    "language": "Python",
-    "name": "dogancoban/deep-research-companion",
-    "stars": 1,
-    "updated_at": "2026-09-29T23:23:07Z",
-    "url": "https://github.com/dogancoban/deep-research-companion"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T23:09:49Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:09:31Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:08:26Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T23:07:33Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
-    "id": "minirr890112-byte/HermesMade",
-    "language": "Shell",
-    "name": "minirr890112-byte/HermesMade",
-    "stars": 3,
-    "updated_at": "2026-09-29T23:06:44Z",
-    "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
-    "description": "\ud83d\ude80 Enterprise Multi-Agent Operating Framework: 404 curated production skills & 120 specialized subagents for Antigravity,",
-    "id": "Osama-Alzahrani-UQU/OmniAgentic",
-    "language": "Python",
-    "name": "Osama-Alzahrani-UQU/OmniAgentic",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:04:10Z",
-    "url": "https://github.com/Osama-Alzahrani-UQU/OmniAgentic"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 27,
-    "updated_at": "2026-09-29T23:03:10Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 1,
-    "updated_at": "2026-09-29T23:02:23Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "C3 \u2014 a multiplicative context-synthesis & decision-gating pattern for autonomous agents (Wise-Tech OS / Runix). Spec, pr",
-    "id": "iskenderunic/c3-semantic-engine",
-    "language": "Python",
-    "name": "iskenderunic/c3-semantic-engine",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:02:02Z",
-    "url": "https://github.com/iskenderunic/c3-semantic-engine"
   }
 ]
