@@ -1,12 +1,147 @@
 [
   {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:59:21Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-01T16:59:14Z",
+    "url": "https://github.com/1arry1iu/archetype"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-01T16:58:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Public examples of my AI prompt systems and evaluation work (IP-safe, no client data).",
+    "id": "ndrorchestration/ai-prompt-systems-portfolio",
+    "language": "Python",
+    "name": "ndrorchestration/ai-prompt-systems-portfolio",
+    "stars": 1,
+    "updated_at": "2026-10-01T17:00:10Z",
+    "url": "https://github.com/ndrorchestration/ai-prompt-systems-portfolio"
+  },
+  {
+    "description": "A compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence.",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 592,
+    "updated_at": "2026-10-01T16:58:12Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "A structured prompt pipeline that turns vague ideas into implementable RFCs \u2014 works with any AI assistant.",
+    "id": "nurettincoban/ai-prd-workflow",
+    "language": "Python",
+    "name": "nurettincoban/ai-prd-workflow",
+    "stars": 295,
+    "updated_at": "2026-10-01T16:57:50Z",
+    "url": "https://github.com/nurettincoban/ai-prd-workflow"
+  },
+  {
+    "description": "Revenantworks Agent Skills for Claude \u2014 the foundation wrights, the gamedev smiths, and the localops runners.",
+    "id": "revenantworks/claude-skills",
+    "language": "Python",
+    "name": "revenantworks/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-10-01T16:56:55Z",
+    "url": "https://github.com/revenantworks/claude-skills"
+  },
+  {
+    "description": "Production-ready LangChain sandbox & masterclass featuring Multi-Provider LLM Integrations (OpenAI, Anthropic, Gemini, H",
+    "id": "Danyal-0276/Langchain",
+    "language": "Python",
+    "name": "Danyal-0276/Langchain",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:56:20Z",
+    "url": "https://github.com/Danyal-0276/Langchain"
+  },
+  {
     "description": "Projet personnel: Plateforme d'ing\u00e9nierie pour sourcer et d\u00e9crocher des stages d'\u00e9lite en IA/Data. Pipeline ETL r\u00e9silien",
     "id": "eddy-decastro/Assistant_de_recherche_de_stage_IA",
     "language": "Python",
     "name": "eddy-decastro/Assistant_de_recherche_de_stage_IA",
     "stars": 0,
-    "updated_at": "2026-10-01T16:45:21Z",
+    "updated_at": "2026-10-01T16:53:51Z",
     "url": "https://github.com/eddy-decastro/Assistant_de_recherche_de_stage_IA"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-01T16:52:30Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Regression testing for prompts, agents, and models. Know what breaks before you switch.",
+    "id": "ArsinShaabani/promptseal",
+    "language": "Python",
+    "name": "ArsinShaabani/promptseal",
+    "stars": 1,
+    "updated_at": "2026-10-01T16:50:04Z",
+    "url": "https://github.com/ArsinShaabani/promptseal"
+  },
+  {
+    "description": "A development toolkit for AI-assisted work ",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:51:18Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T16:58:44Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
+    "id": "yunaremaia/context-bridge",
+    "language": "Python",
+    "name": "yunaremaia/context-bridge",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:49:03Z",
+    "url": "https://github.com/yunaremaia/context-bridge"
+  },
+  {
+    "description": "Terminal-first autonomous research agent. Takes a question, breaks it into sub-queries, searches and fetches web sources",
+    "id": "RitikPatill/researchmate-web-agent",
+    "language": "Python",
+    "name": "RitikPatill/researchmate-web-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:46:10Z",
+    "url": "https://github.com/RitikPatill/researchmate-web-agent"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-01T16:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An agent skill that keeps prompt scaffolding out of AI-generated deliverables, and treats untrusted content as data rath",
@@ -16,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:45:11Z",
     "url": "https://github.com/seun-john/clean-output"
-  },
-  {
-    "description": "A structured prompt pipeline that turns vague ideas into implementable RFCs \u2014 works with any AI assistant.",
-    "id": "nurettincoban/ai-prd-workflow",
-    "language": "Python",
-    "name": "nurettincoban/ai-prd-workflow",
-    "stars": 295,
-    "updated_at": "2026-10-01T16:42:01Z",
-    "url": "https://github.com/nurettincoban/ai-prd-workflow"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -59,17 +185,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25622,
-    "updated_at": "2026-10-01T16:36:26Z",
+    "updated_at": "2026-10-01T16:46:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:35:43Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Multi-model panel for AI agents: poll independent AIs at once, get a consensus / unique-findings / contradictions report",
@@ -140,7 +257,7 @@
     "language": "Python",
     "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
     "stars": 3,
-    "updated_at": "2026-10-01T16:32:19Z",
+    "updated_at": "2026-10-01T16:59:31Z",
     "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
@@ -180,15 +297,6 @@
     "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-01T16:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Pit AI models against each other. Score them sealed. Crown a winner. All built using the GitHub Copilot CLI. \u26a1 ",
     "id": "DUBSOpenHub/havoc-hackathon",
     "language": "Python",
@@ -196,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-10-01T16:29:50Z",
     "url": "https://github.com/DUBSOpenHub/havoc-hackathon"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-01T16:45:24Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "",
@@ -247,7 +346,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74234,
+    "stars": 74233,
     "updated_at": "2026-10-01T16:28:35Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:23:27Z",
     "url": "https://github.com/JTSDM/ai-dev-pipeline"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:23:14Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-10-01T16:22:54Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:22:28Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:21:45Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:21:40Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:21:33Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
-    "id": "yunaremaia/context-bridge",
-    "language": "Python",
-    "name": "yunaremaia/context-bridge",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:21:19Z",
-    "url": "https://github.com/yunaremaia/context-bridge"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:21:08Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-01T16:21:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Build a B2B sales policy copilot for compliance, pricing, and risk checks with LLMs, LangChain, and structured business ",
-    "id": "Stunning-navelorange917/Agent-Pathway",
-    "language": "Python",
-    "name": "Stunning-navelorange917/Agent-Pathway",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:21:00Z",
-    "url": "https://github.com/Stunning-navelorange917/Agent-Pathway"
-  },
-  {
-    "description": "Explore Claude Code prompt references for system, tool, skill, command, memory, and agent prompts in one organized repo",
-    "id": "moiralongspurred78/claude-code-prompts-reference",
-    "language": "\u2014",
-    "name": "moiralongspurred78/claude-code-prompts-reference",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:20:49Z",
-    "url": "https://github.com/moiralongspurred78/claude-code-prompts-reference"
   }
 ]
