@@ -1,5 +1,140 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25612,
+    "updated_at": "2026-10-01T11:44:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Briefbound Agent Skills\uff1a\u4e2d\u6587\u4f18\u5148\u7684\u7f16\u7801/\u7814\u7a76/\u8bc4\u5ba1 Agent \u6280\u80fd\u5305\uff0c\u542b Briefbound Router \u8def\u7531\u5165\u53e3\u3002",
+    "id": "CCDawn/briefbound-skills",
+    "language": "HTML",
+    "name": "CCDawn/briefbound-skills",
+    "stars": 6,
+    "updated_at": "2026-10-01T11:44:18Z",
+    "url": "https://github.com/CCDawn/briefbound-skills"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-01T11:43:31Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-01T11:41:36Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
+    "id": "yaniv-golan/skill-creator-plus",
+    "language": "Python",
+    "name": "yaniv-golan/skill-creator-plus",
+    "stars": 5,
+    "updated_at": "2026-10-01T11:41:31Z",
+    "url": "https://github.com/yaniv-golan/skill-creator-plus"
+  },
+  {
+    "description": "1894 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 340,
+    "updated_at": "2026-10-01T11:41:29Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Puhti supe",
+    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "language": "Python",
+    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "stars": 3,
+    "updated_at": "2026-10-01T11:40:59Z",
+    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:40:29Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Review a set of Agent Skills as one system and produce a reviewable improved version, with evidence for every change. Fo",
+    "id": "alexliu072903-bit/meta-skill-optimizer",
+    "language": "Python",
+    "name": "alexliu072903-bit/meta-skill-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:40:02Z",
+    "url": "https://github.com/alexliu072903-bit/meta-skill-optimizer"
+  },
+  {
+    "description": "Universal image skin for the DSH (DeepSeek Harness) web UI - replace large UI regions and corner stickers with your own ",
+    "id": "Hwayn-pixel/dsh-image-skin",
+    "language": "JavaScript",
+    "name": "Hwayn-pixel/dsh-image-skin",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:37:25Z",
+    "url": "https://github.com/Hwayn-pixel/dsh-image-skin"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 49,
+    "updated_at": "2026-10-01T11:34:59Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Personal agent skills for Claude Code and Codex, installable via the skills CLI (skills.sh): context-window and memory i",
+    "id": "Mark-Life/agent-skills",
+    "language": "TypeScript",
+    "name": "Mark-Life/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-01T11:33:16Z",
+    "url": "https://github.com/Mark-Life/agent-skills"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:33:14Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28209,
+    "updated_at": "2026-10-01T11:30:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-01T11:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi",
     "id": "IonDen/skills",
     "language": "Python",
@@ -41,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22316,
-    "updated_at": "2026-10-01T11:28:38Z",
+    "updated_at": "2026-10-01T11:37:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -113,7 +248,7 @@
     "language": "Go",
     "name": "flexigpt/flexigpt-app",
     "stars": 4,
-    "updated_at": "2026-10-01T11:16:41Z",
+    "updated_at": "2026-10-01T11:39:30Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
@@ -124,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T11:15:55Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-01T11:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Biblioteca gratuita de prompts, skills e ferramentas de IA em portugu\u00eas. Material testado, organizado por finalidade e a",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T11:03:39Z",
     "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Regression testing for prompts, agents, and models. Know what breaks before you switch.",
-    "id": "ArsinShaabani/promptseal",
-    "language": "Python",
-    "name": "ArsinShaabani/promptseal",
-    "stars": 1,
-    "updated_at": "2026-10-01T11:02:23Z",
-    "url": "https://github.com/ArsinShaabani/promptseal"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 6083,
-    "updated_at": "2026-10-01T11:01:58Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-10-01T11:01:02Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-01T11:00:56Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-10-01T11:00:55Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-01T11:00:04Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:59:27Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-10-01T10:59:10Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:58:37Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:57:48Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Curated MiniMax Music 3.0 prompt library, lyrics-formatting guide, and MuAPI Python client for text-to-music generation",
-    "id": "Anil-matcha/awesome-minimax-music-3-prompts",
-    "language": "Python",
-    "name": "Anil-matcha/awesome-minimax-music-3-prompts",
-    "stars": 9,
-    "updated_at": "2026-10-01T10:57:46Z",
-    "url": "https://github.com/Anil-matcha/awesome-minimax-music-3-prompts"
-  },
-  {
-    "description": "Curated GPT-Image-2 prompts for the OpenAI API \u2014 portraits, posters, UI mockups, game screenshots, character sheets, and",
-    "id": "Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 21,
-    "updated_at": "2026-10-01T10:57:44Z",
-    "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:57:43Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Exclusive access to Gemini Omni API along with popular Gemini Omni prompts. No other platform (Fal, Replicate) offers Ge",
-    "id": "Anil-matcha/Awesome-Gemini-Omni-API-Prompts",
-    "language": "\u2014",
-    "name": "Anil-matcha/Awesome-Gemini-Omni-API-Prompts",
-    "stars": 8,
-    "updated_at": "2026-10-01T10:57:39Z",
-    "url": "https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts"
   }
 ]
