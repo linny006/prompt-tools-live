@@ -1,5 +1,185 @@
 [
   {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:15:21Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "Python",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:14:11Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
+    "id": "Gus2708/whatsapp-agent",
+    "language": "JavaScript",
+    "name": "Gus2708/whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:13:37Z",
+    "url": "https://github.com/Gus2708/whatsapp-agent"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-10-01T09:12:07Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28207,
+    "updated_at": "2026-10-01T09:11:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:10:45Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 177,
+    "updated_at": "2026-10-01T09:10:33Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "\u9762\u5411\u751f\u4ea7\u73af\u5883\u7684 AI Agent \u52a8\u6001\u6280\u80fd\u7f51\u5173\u4e0e\u81ea\u8fdb\u5316\u5e95\u5ea7\uff1a\u4e09\u5c42\u7ea7\u8054\u610f\u56fe\u8def\u7531(R@1=98%)\u30018\u7ef4\u6c99\u7bb1\u8bc4\u4f30\u30018\u91cd\u9632\u5fa1\u9632\u7ebf\u3001LangGraph\u72b6\u6001\u56fe\u65c1\u8def\u4e0eSQLite\u539f\u5b50\u53d1\u5e03\u72b6\u6001\u673a\u3002",
+    "id": "SuperGODOG/skillforge",
+    "language": "Python",
+    "name": "SuperGODOG/skillforge",
+    "stars": 2,
+    "updated_at": "2026-10-01T09:10:05Z",
+    "url": "https://github.com/SuperGODOG/skillforge"
+  },
+  {
+    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Puhti supe",
+    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "language": "Python",
+    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:09:57Z",
+    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 384,
+    "updated_at": "2026-10-01T09:08:27Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-10-01T09:07:48Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22315,
+    "updated_at": "2026-10-01T09:12:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Seven Claude Code skills that make the agent check before the expensive mistakes: plan pre-mortems, declaring unattended",
+    "id": "GvHildebrand/claude-code-skills",
+    "language": "Python",
+    "name": "GvHildebrand/claude-code-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:06:39Z",
+    "url": "https://github.com/GvHildebrand/claude-code-skills"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:11:16Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "\u628a\u5782\u76f4\u9886\u57df\u7684\u6743\u5a01\u6807\u51c6\uff0c\u505a\u6210\"\u7b54\u9519\u6709\u540e\u679c\u3001\u6240\u4ee5\u8981\u7ecf\u5f97\u8d77\u67e5\"\u7684 AI \u4e13\u5bb6\u5305\uff1a\u6bcf\u6761\u5224\u636e\u6302\u4e09\u4ef6\u5957\uff08\u6765\u6e90\u6761\u6b3e + \u6838\u9a8c\u5c42\u7ea7 + \u65f6\u6548\u6233\uff09\uff0c\u5173\u952e\u6570\u5b57\u90fd\u67e5\u5f97\u5230\u51fa\u5904\u3002\u4e5d\u73af\u8282\u6d41\u6c34\u7ebf + 18 \u6761\u65ad\u8a00\u6a21\u5f0f + \u4e09\u5f20\u68c0\u67e5\u8868\uff0c\u6bcf\u4e2a\u95f8\u95e8\u90fd\u8981\u8bc1\u660e\"\u574f\u5185\u5bb9\u4f1a\u88ab\u62e6\"\u3002\u96f6",
+    "id": "eiway112/build-expert",
+    "language": "\u2014",
+    "name": "eiway112/build-expert",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:04:03Z",
+    "url": "https://github.com/eiway112/build-expert"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4894,
+    "updated_at": "2026-10-01T09:15:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Export a public PromptBase profile's prompts into TXT, Markdown, JSON, CSV, or searchable HTML catalogs, and diff them o",
+    "id": "IACBI/promptbase-profile-exporter",
+    "language": "Python",
+    "name": "IACBI/promptbase-profile-exporter",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:13:02Z",
+    "url": "https://github.com/IACBI/promptbase-profile-exporter"
+  },
+  {
+    "description": "AI-first engineering toolkit that turns coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Aider) into Sen",
+    "id": "sokpichdev/mobie",
+    "language": "JavaScript",
+    "name": "sokpichdev/mobie",
+    "stars": 4,
+    "updated_at": "2026-10-01T09:01:13Z",
+    "url": "https://github.com/sokpichdev/mobie"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:01:09Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-01T09:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
     "id": "leeex1/Quillan-Ronin",
     "language": "HTML",
@@ -13,7 +193,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 108643,
+    "stars": 108644,
     "updated_at": "2026-10-01T08:58:43Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -41,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35256,
-    "updated_at": "2026-10-01T08:58:42Z",
+    "updated_at": "2026-10-01T09:11:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -52,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T08:55:57Z",
     "url": "https://github.com/rikilamadrid/pathfinder"
-  },
-  {
-    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Puhti supe",
-    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "language": "Python",
-    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "stars": 3,
-    "updated_at": "2026-10-01T08:55:05Z",
-    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -94,7 +265,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 50045,
+    "stars": 50047,
     "updated_at": "2026-10-01T08:52:23Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -104,17 +275,8 @@
     "language": "Shell",
     "name": "terrylica/cc-skills",
     "stars": 75,
-    "updated_at": "2026-10-01T08:51:52Z",
+    "updated_at": "2026-10-01T09:15:03Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22315,
-    "updated_at": "2026-10-01T08:56:21Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
@@ -169,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T08:49:03Z",
     "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-01T08:47:51Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "Diagnose whether an ongoing delay is genuine indecision, an unstated concern, a real dependency, or a soft no. Free, no ",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T08:46:05Z",
     "url": "https://github.com/shaunmarsden/list-hygiene-checker"
-  },
-  {
-    "description": "Separate a genuine recurring cause from similar wording that hides different problems, across any log of complaints, fee",
-    "id": "shaunmarsden/is-this-really-a-pattern",
-    "language": "\u2014",
-    "name": "shaunmarsden/is-this-really-a-pattern",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:46:00Z",
-    "url": "https://github.com/shaunmarsden/is-this-really-a-pattern"
-  },
-  {
-    "description": "Classify each aspect of a decision as a good fit, poor fit, or genuinely uncertain, before a case gets built around one ",
-    "id": "shaunmarsden/is-this-a-good-fit",
-    "language": "\u2014",
-    "name": "shaunmarsden/is-this-a-good-fit",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:54Z",
-    "url": "https://github.com/shaunmarsden/is-this-a-good-fit"
-  },
-  {
-    "description": "Pick a cold outreach target and draft a first message worth a reply, anchored to a real signal, not a generic observatio",
-    "id": "shaunmarsden/first-contact-that-isnt-generic",
-    "language": "\u2014",
-    "name": "shaunmarsden/first-contact-that-isnt-generic",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:49Z",
-    "url": "https://github.com/shaunmarsden/first-contact-that-isnt-generic"
-  },
-  {
-    "description": "Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, no cod",
-    "id": "shaunmarsden/evidence-labelled-meeting-notes",
-    "language": "\u2014",
-    "name": "shaunmarsden/evidence-labelled-meeting-notes",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:44Z",
-    "url": "https://github.com/shaunmarsden/evidence-labelled-meeting-notes"
-  },
-  {
-    "description": "Diagnose what is actually driving a customer complaint before drafting a reply. Free, no coding required.",
-    "id": "shaunmarsden/diagnose-before-you-respond",
-    "language": "\u2014",
-    "name": "shaunmarsden/diagnose-before-you-respond",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:38Z",
-    "url": "https://github.com/shaunmarsden/diagnose-before-you-respond"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-01T08:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Check whether a tracked status is actually supported by the evidence held, separate from the record. Free, no coding req",
-    "id": "shaunmarsden/claims-vs-evidence-checker",
-    "language": "\u2014",
-    "name": "shaunmarsden/claims-vs-evidence-checker",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:33Z",
-    "url": "https://github.com/shaunmarsden/claims-vs-evidence-checker"
-  },
-  {
-    "description": "Build a fixed scoring rubric for judging AI output in your own domain, instead of gut feel. Free, no coding required.",
-    "id": "shaunmarsden/build-your-own-rubric",
-    "language": "\u2014",
-    "name": "shaunmarsden/build-your-own-rubric",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:29Z",
-    "url": "https://github.com/shaunmarsden/build-your-own-rubric"
-  },
-  {
-    "description": "Prepare someone else to carry your case to a third party you cannot be in the room for. Free, no coding required.",
-    "id": "shaunmarsden/brief-your-advocate",
-    "language": "\u2014",
-    "name": "shaunmarsden/brief-your-advocate",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:45:23Z",
-    "url": "https://github.com/shaunmarsden/brief-your-advocate"
-  },
-  {
-    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
-    "id": "shaunmarsden/book-to-skill",
-    "language": "\u2014",
-    "name": "shaunmarsden/book-to-skill",
-    "stars": 1,
-    "updated_at": "2026-10-01T08:45:01Z",
-    "url": "https://github.com/shaunmarsden/book-to-skill"
-  },
-  {
-    "description": "Eighteen free AI tools for everyday work, each one a pattern that already proved itself in sales. Includes a router to h",
-    "id": "shaunmarsden/sibling-projects",
-    "language": "\u2014",
-    "name": "shaunmarsden/sibling-projects",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:44:55Z",
-    "url": "https://github.com/shaunmarsden/sibling-projects"
-  },
-  {
-    "description": "Plain-English, evidence-grounded guides for using AI well at work. No technical background required.",
-    "id": "shaunmarsden/practical-ai-adoption",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-adoption",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:44:45Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-adoption"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-01T08:44:44Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 4,
-    "updated_at": "2026-10-01T08:44:39Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
-    "id": "toverux/cantrips",
-    "language": "TypeScript",
-    "name": "toverux/cantrips",
-    "stars": 3,
-    "updated_at": "2026-10-01T08:44:32Z",
-    "url": "https://github.com/toverux/cantrips"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:43:15Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-01T08:43:46Z",
-    "url": "https://github.com/event4u-app/agent-config"
   }
 ]
