@@ -1,21 +1,48 @@
 [
   {
-    "description": "\u6296\u97f3/\u7ea2\u679c\u7206\u6b3e\u77ed\u5267\u5de5\u4e1a\u5316\u7f16\u5267\u7cfb\u7edf v4.4 \u2014 \u7eaf\u5267\u672c\u5f15\u64ce\uff0840\u8d5b\u9053+\u516d\u6bcd\u578b\u94a9\u5b50+\u4e5d\u7c7b\u53cd\u8f6c+\u5e7f\u753516\u53f7\u4ee4\u5408\u89c4\uff0c\u81ea\u5e26 E1~E24 / S1~S8 \u673a\u68c0\u811a\u672c\uff09",
-    "id": "wsf73/short-drama-factory",
+    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Puhti supe",
+    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
     "language": "Python",
-    "name": "wsf73/short-drama-factory",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:45:14Z",
-    "url": "https://github.com/wsf73/short-drama-factory"
+    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "stars": 3,
+    "updated_at": "2026-10-01T19:00:09Z",
+    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 75,
-    "updated_at": "2026-10-01T18:43:42Z",
-    "url": "https://github.com/terrylica/cc-skills"
+    "description": "A collection of 210 agent skills across 23 categories \u2014 the reference library for my Hermes Agent environment.",
+    "id": "loggger101/Hermes_Skills",
+    "language": "HTML",
+    "name": "loggger101/Hermes_Skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:58:46Z",
+    "url": "https://github.com/loggger101/Hermes_Skills"
+  },
+  {
+    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-01T18:58:30Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "RFC-driven development for AI coding agents: idea or existing codebase \u2192 verified PRD \u2192 features \u2192 rules \u2192 sequenced RFC",
+    "id": "nurettincoban/ai-prd-workflow",
+    "language": "Python",
+    "name": "nurettincoban/ai-prd-workflow",
+    "stars": 295,
+    "updated_at": "2026-10-01T18:57:18Z",
+    "url": "https://github.com/nurettincoban/ai-prd-workflow"
+  },
+  {
+    "description": "ChainPrompt: Queue up a series of prompts for Claude Code and walk away",
+    "id": "mehmetkahya0/chain-prompt",
+    "language": "TypeScript",
+    "name": "mehmetkahya0/chain-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:57:11Z",
+    "url": "https://github.com/mehmetkahya0/chain-prompt"
   },
   {
     "description": "Export a public PromptBase profile's prompts into TXT, Markdown, JSON, CSV, or searchable HTML catalogs, and diff them o",
@@ -23,8 +50,98 @@
     "language": "Python",
     "name": "IACBI/promptbase-profile-exporter",
     "stars": 1,
-    "updated_at": "2026-10-01T18:44:06Z",
+    "updated_at": "2026-10-01T18:56:04Z",
     "url": "https://github.com/IACBI/promptbase-profile-exporter"
+  },
+  {
+    "description": "\u6296\u97f3/\u7ea2\u679c\u7206\u6b3e\u77ed\u5267\u5de5\u4e1a\u5316\u7f16\u5267\u7cfb\u7edf v4.4 \u2014 \u7eaf\u5267\u672c\u5f15\u64ce\uff0840\u8d5b\u9053+\u516d\u6bcd\u578b\u94a9\u5b50+\u4e5d\u7c7b\u53cd\u8f6c+\u5e7f\u753516\u53f7\u4ee4\u5408\u89c4\uff0c\u81ea\u5e26 E1~E24 / S1~S8 \u673a\u68c0\u811a\u672c\uff09",
+    "id": "wsf73/short-drama-factory",
+    "language": "Python",
+    "name": "wsf73/short-drama-factory",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:56:39Z",
+    "url": "https://github.com/wsf73/short-drama-factory"
+  },
+  {
+    "description": "A production-minded Python platform for evaluating GenAI quality, groundedness, safety, citations, latency, and regressi",
+    "id": "krishna-theja-nooka/genai-evaluation-platform",
+    "language": "Python",
+    "name": "krishna-theja-nooka/genai-evaluation-platform",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:56:17Z",
+    "url": "https://github.com/krishna-theja-nooka/genai-evaluation-platform"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25627,
+    "updated_at": "2026-10-01T18:53:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-10-01T18:52:45Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
+    "id": "yunaremaia/context-bridge",
+    "language": "Python",
+    "name": "yunaremaia/context-bridge",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:51:39Z",
+    "url": "https://github.com/yunaremaia/context-bridge"
+  },
+  {
+    "description": "Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 3,
+    "updated_at": "2026-10-01T18:48:01Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "Independent open-source reproduction of the Pac-Man demo in Ollama's decision-model post. Browser UI: replay runs, play ",
+    "id": "kevinyuan/ollamas-pac-man",
+    "language": "Python",
+    "name": "kevinyuan/ollamas-pac-man",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:46:07Z",
+    "url": "https://github.com/kevinyuan/ollamas-pac-man"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-01T18:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
+    "id": "pero3dev/ai-agent-library",
+    "language": "JavaScript",
+    "name": "pero3dev/ai-agent-library",
+    "stars": 2,
+    "updated_at": "2026-10-01T18:45:13Z",
+    "url": "https://github.com/pero3dev/ai-agent-library"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-10-01T18:59:50Z",
+    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "A development toolkit for AI-assisted work ",
@@ -63,13 +180,13 @@
     "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
   },
   {
-    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Puhti supe",
-    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "stars": 3,
-    "updated_at": "2026-10-01T18:38:21Z",
-    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74233,
+    "updated_at": "2026-10-01T18:38:49Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "GXP \u2014 Guided eXecution Protocol: a verification-first, binary-criteria workflow for bounded AI agents.",
@@ -79,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:37:18Z",
     "url": "https://github.com/TinkerandScribe/gxp"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-01T18:35:22Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -104,35 +212,8 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-10-01T18:33:41Z",
+    "updated_at": "2026-10-01T18:46:08Z",
     "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "A collection of 210 agent skills across 23 categories \u2014 the reference library for my Hermes Agent environment.",
-    "id": "loggger101/Hermes_Skills",
-    "language": "HTML",
-    "name": "loggger101/Hermes_Skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:31:31Z",
-    "url": "https://github.com/loggger101/Hermes_Skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-01T18:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-01T18:45:18Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "DSH \u63d2\u4ef6 \u00b7 \u6ce8\u5165\u5f0f\u4f18\u5316\u5668 0.7\uff08\u4e3b\u7ebf\uff09\uff1a\u4f60\u7167\u5e38\u8bf4\u8bdd\uff0c\u5b83\u5728\u4f60\u53d1\u9001\u540e,AI\u63a5\u6536\u524d\u628a\"\u8fd9\u4e00\u8f6e\u5230\u5e95\u8981\u4ec0\u4e48\"\u7406\u6e05\u695a\uff0c\u518d\u628a\u8fd9\u4efd\u7406\u89e3\u4ea4\u7ed9\u5de5\u4f5c AI(\u4e0a\u4e0b\u6587\u6ce8\u5165) \u2014\u2014 \u539f\u8bdd\u4e0d\u6539\u5199\uff0c\u6761\u6761\u5e26\u9010\u5b57\u4f9d\u636e\u3002\u542b\u63a7\u5236\u754c\u9762\uff08\u6863\u4f4d/\u6743\u9650/\u6a21\u578b/\u4e0a\u4e0b\u6587/\u53ea\u8bfb\u5de5\u5177\uff09\u3001",
@@ -151,15 +232,6 @@
     "stars": 592,
     "updated_at": "2026-10-01T18:29:19Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74232,
-    "updated_at": "2026-10-01T18:38:49Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "Kiln-AI/Kiln",
     "stars": 5143,
-    "updated_at": "2026-10-01T18:39:37Z",
+    "updated_at": "2026-10-01T18:45:59Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
@@ -356,7 +428,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-10-01T18:18:40Z",
+    "updated_at": "2026-10-01T18:45:58Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:18:31Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:18:29Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:20:14Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-10-01T18:17:50Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:17:34Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Independent open-source reproduction of the Pac-Man demo in Ollama's decision-model post. Browser UI: replay runs, play ",
-    "id": "kevinyuan/ollamas-pac-man",
-    "language": "Python",
-    "name": "kevinyuan/ollamas-pac-man",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:17:14Z",
-    "url": "https://github.com/kevinyuan/ollamas-pac-man"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:17:04Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-10-01T18:16:46Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:16:18Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
