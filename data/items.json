@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25651,
+    "updated_at": "2026-10-02T20:14:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u79d1\u7814\u5199\u4f5c Prompt \u5408\u96c6\uff1a22 \u4e2a\u573a\u666f\u300144 \u6761 prompt\uff08\u9996\u9009+\u66ff\u4ee3\uff09\uff0c\u9010\u6761\u6807\u660e\u6765\u6e90\uff0c\u590d\u5236\u5373\u7528",
     "id": "dengzhe-hou/research-writing-prompts",
     "language": "Python",
     "name": "dengzhe-hou/research-writing-prompts",
     "stars": 5,
-    "updated_at": "2026-10-02T20:00:02Z",
+    "updated_at": "2026-10-02T20:12:56Z",
     "url": "https://github.com/dengzhe-hou/research-writing-prompts"
   },
   {
@@ -14,8 +23,116 @@
     "language": "TypeScript",
     "name": "hermes-hq/hodios",
     "stars": 0,
-    "updated_at": "2026-10-02T19:59:42Z",
+    "updated_at": "2026-10-02T20:12:41Z",
     "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Roihu supe",
+    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "language": "Python",
+    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
+    "stars": 3,
+    "updated_at": "2026-10-02T20:12:33Z",
+    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:10:45Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
+    "id": "chemaw8/claude-kit-chema",
+    "language": "Shell",
+    "name": "chemaw8/claude-kit-chema",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:10:09Z",
+    "url": "https://github.com/chemaw8/claude-kit-chema"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11684,
+    "updated_at": "2026-10-02T20:10:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Quality-gated toolkit for building Claude Code skills \u2014 trigger evaluation, description optimization, six-gate packaging",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:11:20Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
+    "id": "pero3dev/ai-agent-library",
+    "language": "JavaScript",
+    "name": "pero3dev/ai-agent-library",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:05:54Z",
+    "url": "https://github.com/pero3dev/ai-agent-library"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13526,
+    "updated_at": "2026-10-02T20:04:38Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:03:45Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "\ud83c\udf0a Lagune is your security copilot as you build, your Blue Team when you audit, whether you're a developer or not (no API",
+    "id": "wellwelwel/lagune",
+    "language": "TypeScript",
+    "name": "wellwelwel/lagune",
+    "stars": 172,
+    "updated_at": "2026-10-02T20:03:54Z",
+    "url": "https://github.com/wellwelwel/lagune"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:02:26Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\ud83d\ude80 Enterprise Multi-Agent Operating Framework: 404 curated production skills & 120 specialized subagents for Antigravity,",
+    "id": "Osama-Alzahrani-UQU/OmniAgentic",
+    "language": "Python",
+    "name": "Osama-Alzahrani-UQU/OmniAgentic",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:01:58Z",
+    "url": "https://github.com/Osama-Alzahrani-UQU/OmniAgentic"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-02T20:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Chat assistant that turns plain-English pharma sales questions into SQL over 2M rows, with role-based access enforced in",
@@ -25,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T19:58:37Z",
     "url": "https://github.com/ankitpatil3003/NL-to-SQL-Chatbot-with-RBAC"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:54:47Z",
-    "url": "https://github.com/l4ci/hv-skills"
   },
   {
     "description": "A no-code AI morning briefing: one scheduled Claude task, three markdown files, emailed to you every weekday.",
@@ -95,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4905,
-    "updated_at": "2026-10-02T19:57:00Z",
+    "updated_at": "2026-10-02T20:13:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -104,7 +212,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-02T19:49:09Z",
+    "updated_at": "2026-10-02T20:07:19Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -153,24 +261,6 @@
     "url": "https://github.com/hermes-labs-ai/lintlang"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-02T19:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Roihu supe",
-    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "language": "Python",
-    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "stars": 3,
-    "updated_at": "2026-10-02T19:45:20Z",
-    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
-  },
-  {
     "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
     "id": "tsetsugekka/AGENTS.md",
     "language": "Python",
@@ -194,7 +284,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-10-02T19:42:53Z",
+    "updated_at": "2026-10-02T20:15:18Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -239,7 +329,7 @@
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 12,
-    "updated_at": "2026-10-02T19:57:14Z",
+    "updated_at": "2026-10-02T20:10:43Z",
     "url": "https://github.com/spidey889/context-generator"
   },
   {
@@ -268,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T19:31:38Z",
     "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25651,
-    "updated_at": "2026-10-02T19:34:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:26:45Z",
     "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:26:28Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:25:44Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding agents.",
-    "id": "karthikrshet/aiskills",
-    "language": "Python",
-    "name": "karthikrshet/aiskills",
-    "stars": 4,
-    "updated_at": "2026-10-02T19:25:37Z",
-    "url": "https://github.com/karthikrshet/aiskills"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:25:27Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:25:25Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "NekroAgent \u63d2\u4ef6\uff1a\u628a\u300c\u4f55\u65f6\u7528\u5de5\u5177\u3001\u600e\u4e48\u7528\u5de5\u5177\u300d\u7684\u63d0\u793a\u8bcd\u4ece\u4eba\u683c\u9884\u8bbe\u91cc\u5265\u79bb\uff0c\u4ee5\u7cfb\u7edf\u7ea7\u89c4\u8303\u6309\u56de\u5408\u6ce8\u5165\uff0c\u5e76\u652f\u6301\u6309\u5173\u952e\u8bcd\u641c\u7d22\u5168\u90e8\u5df2\u542f\u7528\u63d2\u4ef6\u7684\u5de5\u5177",
-    "id": "NTidal/nekro_tool_prompt_hub",
-    "language": "Python",
-    "name": "NTidal/nekro_tool_prompt_hub",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:25:17Z",
-    "url": "https://github.com/NTidal/nekro_tool_prompt_hub"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:25:16Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "\ud83e\uddec Stop guessing which LLM prompt works best. ab_explorer evolves prompts via automated genetic A/B testing: it breeds, c",
-    "id": "Kos-M/ab_explorer",
-    "language": "Python",
-    "name": "Kos-M/ab_explorer",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:23:30Z",
-    "url": "https://github.com/Kos-M/ab_explorer"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:36:21Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   }
 ]
