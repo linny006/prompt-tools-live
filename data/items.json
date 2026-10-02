@@ -1,11 +1,119 @@
 [
   {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-10-02T01:14:51Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-fo",
+    "id": "Ferousco-dev/anti-slop-design",
+    "language": "Python",
+    "name": "Ferousco-dev/anti-slop-design",
+    "stars": 14,
+    "updated_at": "2026-10-02T01:13:17Z",
+    "url": "https://github.com/Ferousco-dev/anti-slop-design"
+  },
+  {
+    "description": "Cuts Claude Code reply length in half and removes mannered prose. Writing rules for replies, docs, commits and subagents",
+    "id": "lowenbjer/claude-terse",
+    "language": "Python",
+    "name": "lowenbjer/claude-terse",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:12:57Z",
+    "url": "https://github.com/lowenbjer/claude-terse"
+  },
+  {
+    "description": "15 open-source visual creation skills for image prompts, reference analysis, product art direction, and result diagnosis",
+    "id": "PigeonAI-Yang/oneirloom",
+    "language": "Python",
+    "name": "PigeonAI-Yang/oneirloom",
+    "stars": 2,
+    "updated_at": "2026-10-02T01:10:38Z",
+    "url": "https://github.com/PigeonAI-Yang/oneirloom"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28218,
+    "updated_at": "2026-10-02T01:14:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11674,
+    "updated_at": "2026-10-02T01:08:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Verbatim text of Claude Code's built-in output styles (Proactive, Concise, Explanatory, Learning)",
+    "id": "AnniePosting/Claude-Code-Output-Styles",
+    "language": "\u2014",
+    "name": "AnniePosting/Claude-Code-Output-Styles",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:07:35Z",
+    "url": "https://github.com/AnniePosting/Claude-Code-Output-Styles"
+  },
+  {
+    "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
+    "id": "mattdweigand-sketch/agent-skills",
+    "language": "Python",
+    "name": "mattdweigand-sketch/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:07:25Z",
+    "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "A curated, open-source gallery of image generation prompts. Tweak the options inside each prompt, then copy it or open i",
+    "id": "thinkingjimmy/Image-Prompt-Book",
+    "language": "TypeScript",
+    "name": "thinkingjimmy/Image-Prompt-Book",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:03:33Z",
+    "url": "https://github.com/thinkingjimmy/Image-Prompt-Book"
+  },
+  {
+    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
+    "id": "Evan-Daruwalla/claude-skill-suite",
+    "language": "JavaScript",
+    "name": "Evan-Daruwalla/claude-skill-suite",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:03:28Z",
+    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
+  },
+  {
+    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
+    "id": "pero3dev/ai-agent-library",
+    "language": "JavaScript",
+    "name": "pero3dev/ai-agent-library",
+    "stars": 2,
+    "updated_at": "2026-10-02T01:03:35Z",
+    "url": "https://github.com/pero3dev/ai-agent-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-02T01:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Write clear prompts for AI coding agents, split them into tasks, and run them on a local Kanban board with your own CLI ",
     "id": "datasound-projects/Promptboard",
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-02T00:59:14Z",
+    "updated_at": "2026-10-02T01:12:30Z",
     "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T00:54:27Z",
     "url": "https://github.com/tk030-lotto/ai-dev-beginner-navigator"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 75,
-    "updated_at": "2026-10-02T00:52:18Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
@@ -117,15 +216,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-02T00:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -139,18 +229,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 50092,
+    "stars": 50091,
     "updated_at": "2026-10-02T00:44:59Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28218,
-    "updated_at": "2026-10-02T00:54:36Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
@@ -216,15 +297,6 @@
     "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11674,
-    "updated_at": "2026-10-02T00:50:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -286,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T00:25:06Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
-    "id": "pero3dev/ai-agent-library",
-    "language": "JavaScript",
-    "name": "pero3dev/ai-agent-library",
-    "stars": 2,
-    "updated_at": "2026-10-02T00:26:10Z",
-    "url": "https://github.com/pero3dev/ai-agent-library"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T00:14:12Z",
     "url": "https://github.com/Muhannad-Khaled/PromptLog"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Shell",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:12:48Z",
-    "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
-    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
-    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "language": "HTML",
-    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:12:32Z",
-    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
-    "description": "The extraction engine behind Farkad: one sentence about your day, typed, spoken or photographed, becomes health entries ",
-    "id": "brmel/farkad-ai",
-    "language": "Python",
-    "name": "brmel/farkad-ai",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:12:16Z",
-    "url": "https://github.com/brmel/farkad-ai"
-  },
-  {
-    "description": "Ready-to-install AI agent squads for Hermes Agent: job search, marketing, web development, or your own. An orchestrator ",
-    "id": "PuntoyComaTech/hermes-agent-squads",
-    "language": "HTML",
-    "name": "PuntoyComaTech/hermes-agent-squads",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:11:45Z",
-    "url": "https://github.com/PuntoyComaTech/hermes-agent-squads"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7227,
-    "updated_at": "2026-10-02T00:10:21Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Claude Code skill: expand-then-contract request handling. Surfaces unstated requirements, asks only high-stakes question",
-    "id": "shervinemp/double-diamond-skill",
-    "language": "Python",
-    "name": "shervinemp/double-diamond-skill",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:09:25Z",
-    "url": "https://github.com/shervinemp/double-diamond-skill"
-  },
-  {
-    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
-    "id": "minirr890112-byte/HermesMade",
-    "language": "Shell",
-    "name": "minirr890112-byte/HermesMade",
-    "stars": 4,
-    "updated_at": "2026-10-02T00:08:21Z",
-    "url": "https://github.com/minirr890112-byte/HermesMade"
   }
 ]
