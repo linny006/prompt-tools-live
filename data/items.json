@@ -1,5 +1,41 @@
 [
   {
+    "description": "A does-my-prompt-still-work merge gate: gate a PR's eval run against the main baseline and block on regression. Built on",
+    "id": "egnaro9/prompt-regress",
+    "language": "Python",
+    "name": "egnaro9/prompt-regress",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:18:54Z",
+    "url": "https://github.com/egnaro9/prompt-regress"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:18:52Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-10-02T23:18:45Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-02T23:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
     "id": "AN0099/toothpaste-kit",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 75,
-    "updated_at": "2026-10-02T23:15:10Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
     "description": "A very opinionated Claude Code plugin designed by a Rustacean",
     "id": "xsyetopz/dotclaude",
     "language": "Shell",
     "name": "xsyetopz/dotclaude",
     "stars": 0,
-    "updated_at": "2026-10-02T23:13:39Z",
+    "updated_at": "2026-10-02T23:15:38Z",
     "url": "https://github.com/xsyetopz/dotclaude"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
     "stars": 3,
-    "updated_at": "2026-10-02T23:13:27Z",
+    "updated_at": "2026-10-02T23:18:48Z",
     "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-02T23:14:19Z",
+    "updated_at": "2026-10-02T23:15:54Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T23:01:02Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-02T23:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T22:45:36Z",
     "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-10-02T22:45:34Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:45:24Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
   }
 ]
