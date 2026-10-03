@@ -1,11 +1,155 @@
 [
   {
+    "description": "A home for small, quiet tools. Eleven so far \u2014 all run in your browser and keep nothing.",
+    "id": "unfoldingdimensions/Capytools",
+    "language": "TypeScript",
+    "name": "unfoldingdimensions/Capytools",
+    "stars": 1,
+    "updated_at": "2026-10-03T15:00:06Z",
+    "url": "https://github.com/unfoldingdimensions/Capytools"
+  },
+  {
+    "description": "Hodios \u2014 open prompts by Hermes IDE. Expert prompts, personas and workflows for work, learning, creativity and everyday ",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:58:26Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "Deterministic verifier for concise AI output. Pass, fail, rewrite, and emit receipts without model calls.",
+    "id": "electricwolfemarshmallowhypertext/laconic-skill",
+    "language": "TypeScript",
+    "name": "electricwolfemarshmallowhypertext/laconic-skill",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:58:16Z",
+    "url": "https://github.com/electricwolfemarshmallowhypertext/laconic-skill"
+  },
+  {
+    "description": "15 open-source visual creation skills for image prompts, reference analysis, product art direction, and result diagnosis",
+    "id": "PigeonAI-Yang/oneirloom",
+    "language": "HTML",
+    "name": "PigeonAI-Yang/oneirloom",
+    "stars": 2,
+    "updated_at": "2026-10-03T14:58:06Z",
+    "url": "https://github.com/PigeonAI-Yang/oneirloom"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 141,
+    "updated_at": "2026-10-03T14:57:41Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
+    "id": "Allan-Nava/qrspi",
+    "language": "JavaScript",
+    "name": "Allan-Nava/qrspi",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:56:32Z",
+    "url": "https://github.com/Allan-Nava/qrspi"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:55:54Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 7,
+    "updated_at": "2026-10-03T14:53:36Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-03T14:53:05Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u672c\u5730 AI \u56fe\u7247\u521b\u4f5c\u5de5\u4f5c\u53f0\uff1a\u7edf\u4e00\u63a5\u5165\u591a\u79cd\u514d\u8d39\u3001\u4ed8\u8d39\u4e0e\u5546\u7528 AI \u751f\u56fe\u670d\u52a1\uff0c\u652f\u6301\u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u3001\u667a\u80fd\u8def\u7531\u3001Prompt \u4f18\u5316\u3001\u6279\u91cf\u53d8\u4f53\u4e0e\u4efb\u52a1\u961f\u5217\uff0c\u8ba9\u4e0d\u540c AI \u56fe\u50cf\u6a21\u578b\u5728\u4e00\u4e2a\u684c\u9762\u5de5\u5177\u91cc\u534f\u540c\u521b\u4f5c\u3002",
+    "id": "Aswellle/2image",
+    "language": "Python",
+    "name": "Aswellle/2image",
+    "stars": 3,
+    "updated_at": "2026-10-03T14:52:43Z",
+    "url": "https://github.com/Aswellle/2image"
+  },
+  {
+    "description": "Agent \u6280\u80fd\uff1a\u989d\u5ea6\u8017\u5c3d\u3001\u65e0\u6cd5\u5199\u6587\u4ef6\u65f6\uff0c\u628a\u5bf9\u8bdd\u6574\u7406\u6210\u53ef\u76f4\u63a5\u590d\u5236\u7684\u4ea4\u63a5\u6587\u672c\uff0c\u8ba9\u4e0b\u4e00\u4e2a\u667a\u80fd\u4f53\u65e0\u7f1d\u63a5\u624b\u672a\u5b8c\u6210\u4efb\u52a1\u3002\u542b\u963b\u65ad\u9879\u3001\u9a8c\u8bc1\u8bc1\u636e\u4e0e\u53ef\u590d\u5236\u547d\u4ee4\u3002",
+    "id": "64922/luna-reserve-handoff",
+    "language": "\u2014",
+    "name": "64922/luna-reserve-handoff",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:52:10Z",
+    "url": "https://github.com/64922/luna-reserve-handoff"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:51:41Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 6091,
+    "updated_at": "2026-10-03T14:50:07Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:47:14Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-03T14:45:49Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T14:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 4837,
-    "updated_at": "2026-10-03T14:44:58Z",
+    "updated_at": "2026-10-03T15:00:01Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
@@ -31,18 +175,9 @@
     "id": "jprevo/microcouncil",
     "language": "TypeScript",
     "name": "jprevo/microcouncil",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-03T14:42:56Z",
     "url": "https://github.com/jprevo/microcouncil"
-  },
-  {
-    "description": "\u672c\u5730 AI \u56fe\u7247\u521b\u4f5c\u5de5\u4f5c\u53f0\uff1a\u7edf\u4e00\u63a5\u5165\u591a\u79cd\u514d\u8d39\u3001\u4ed8\u8d39\u4e0e\u5546\u7528 AI \u751f\u56fe\u670d\u52a1\uff0c\u652f\u6301\u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u3001\u667a\u80fd\u8def\u7531\u3001Prompt \u4f18\u5316\u3001\u6279\u91cf\u53d8\u4f53\u4e0e\u4efb\u52a1\u961f\u5217\uff0c\u8ba9\u4e0d\u540c AI \u56fe\u50cf\u6a21\u578b\u5728\u4e00\u4e2a\u684c\u9762\u5de5\u5177\u91cc\u534f\u540c\u521b\u4f5c\u3002",
-    "id": "Aswellle/2image",
-    "language": "Python",
-    "name": "Aswellle/2image",
-    "stars": 3,
-    "updated_at": "2026-10-03T14:40:54Z",
-    "url": "https://github.com/Aswellle/2image"
   },
   {
     "description": "Deterministic context and policy compiler for supported AI coding agents.",
@@ -63,21 +198,12 @@
     "url": "https://github.com/karloows/orchraft"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-03T14:40:15Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
     "id": "AN0099/toothpaste-kit",
     "language": "Python",
     "name": "AN0099/toothpaste-kit",
     "stars": 1,
-    "updated_at": "2026-10-03T14:39:11Z",
+    "updated_at": "2026-10-03T14:58:01Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
@@ -94,7 +220,7 @@
     "id": "angel291592/Intent-Router",
     "language": "Python",
     "name": "angel291592/Intent-Router",
-    "stars": 678,
+    "stars": 679,
     "updated_at": "2026-10-03T14:38:12Z",
     "url": "https://github.com/angel291592/Intent-Router"
   },
@@ -108,21 +234,12 @@
     "url": "https://github.com/nkostelnik/legal-engineer-bootcamp"
   },
   {
-    "description": "Deterministic verifier for concise AI output. Pass, fail, rewrite, and emit receipts without model calls.",
-    "id": "electricwolfemarshmallowhypertext/laconic-skill",
-    "language": "TypeScript",
-    "name": "electricwolfemarshmallowhypertext/laconic-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T14:37:30Z",
-    "url": "https://github.com/electricwolfemarshmallowhypertext/laconic-skill"
-  },
-  {
     "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
     "id": "Eltarras/thunc",
     "language": "Python",
     "name": "Eltarras/thunc",
     "stars": 0,
-    "updated_at": "2026-10-03T14:37:24Z",
+    "updated_at": "2026-10-03T14:58:32Z",
     "url": "https://github.com/Eltarras/thunc"
   },
   {
@@ -171,15 +288,6 @@
     "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T14:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
@@ -194,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T14:45:21Z",
+    "updated_at": "2026-10-03T14:58:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -205,15 +313,6 @@
     "stars": 316,
     "updated_at": "2026-10-03T14:23:22Z",
     "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-03T14:22:56Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
@@ -232,24 +331,6 @@
     "stars": 8,
     "updated_at": "2026-10-03T14:21:15Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 7,
-    "updated_at": "2026-10-03T14:20:41Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:37:25Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
     "description": "How a good skill is written, and the gate that checks it",
@@ -302,7 +383,7 @@
     "language": "JavaScript",
     "name": "BotShelfVampire/botshelf",
     "stars": 0,
-    "updated_at": "2026-10-03T14:36:41Z",
+    "updated_at": "2026-10-03T14:58:47Z",
     "url": "https://github.com/BotShelfVampire/botshelf"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-03T13:59:36Z",
     "url": "https://github.com/gufranco/claude-engineering-rules"
-  },
-  {
-    "description": "AI sizing and evaluation workbench: business scenario parameters in, technology route decision (confidence + rule ids + ",
-    "id": "wangsir720/ai-sizing-evaluation-workbench",
-    "language": "Python",
-    "name": "wangsir720/ai-sizing-evaluation-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:57:31Z",
-    "url": "https://github.com/wangsir720/ai-sizing-evaluation-workbench"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-03T13:55:31Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
-    "id": "Ayush-2703/Large_languaage_Models",
-    "language": "Python",
-    "name": "Ayush-2703/Large_languaage_Models",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:52:41Z",
-    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
-  },
-  {
-    "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
-    "id": "sanlee-ys/defense-news-classifier",
-    "language": "Python",
-    "name": "sanlee-ys/defense-news-classifier",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:55:19Z",
-    "url": "https://github.com/sanlee-ys/defense-news-classifier"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:50:38Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Zero-dependency GitHub Copilot instruction, prompt, VS Code, and local memory harness.",
-    "id": "hihihhi/copilot-setup",
-    "language": "JavaScript",
-    "name": "hihihhi/copilot-setup",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:50:20Z",
-    "url": "https://github.com/hihihhi/copilot-setup"
-  },
-  {
-    "description": "Portable Claude Code workspace harness with role overlays, local hooks, and integrity checks.",
-    "id": "hihihhi/claude-setup",
-    "language": "Shell",
-    "name": "hihihhi/claude-setup",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:50:17Z",
-    "url": "https://github.com/hihihhi/claude-setup"
-  },
-  {
-    "description": "Photo Skills R8 \u2014 A+B+C \u5408\u5305\uff1a\u771f\u5b9e\u6444\u5f71\u540e\u671f \u00b7 Photo Zine \u7f16\u8f91\u8bbe\u8ba1 \u00b7 \u4eba\u50cf\u771f\u5b9e\u5904\u7406\u3002\u9762\u5411 AI Agent \u5de5\u4f5c\u6d41\u7684\u7167\u7247\u6280\u80fd\u5305\u3002",
-    "id": "tuozhekongqi/photo-skills",
-    "language": "\u2014",
-    "name": "tuozhekongqi/photo-skills",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:49:14Z",
-    "url": "https://github.com/tuozhekongqi/photo-skills"
-  },
-  {
-    "description": "Does prompt-only Claude Haiku beat a majority-class baseline at predicting which GitHub issues get bounced back as info-",
-    "id": "Kakumanu26/LLM-Bug-Triage-Eval",
-    "language": "Python",
-    "name": "Kakumanu26/LLM-Bug-Triage-Eval",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:46:18Z",
-    "url": "https://github.com/Kakumanu26/LLM-Bug-Triage-Eval"
   }
 ]
