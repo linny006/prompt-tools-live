@@ -1,12 +1,12 @@
 [
   {
-    "description": "Hermes Agent plugin: rewrites your prompts before they hit the LLM \u2014 across CLI, TUI, Discord, Telegram. Quality scoring",
-    "id": "Sahil-SS9/hermes-multichannel-prompt-optimizer",
-    "language": "Python",
-    "name": "Sahil-SS9/hermes-multichannel-prompt-optimizer",
-    "stars": 34,
-    "updated_at": "2026-10-03T13:00:12Z",
-    "url": "https://github.com/Sahil-SS9/hermes-multichannel-prompt-optimizer"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-03T13:15:05Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Deterministic context and policy compiler for supported AI coding agents.",
@@ -14,8 +14,170 @@
     "language": "JavaScript",
     "name": "kok-o/contextos-agents",
     "stars": 10,
-    "updated_at": "2026-10-03T12:59:57Z",
+    "updated_at": "2026-10-03T13:12:32Z",
     "url": "https://github.com/kok-o/contextos-agents"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:12:22Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Persistent memory of rejected ideas for LLM agents. Injects a 'rejected approaches' block after context compaction or ha",
+    "id": "niallsemple/rejection-memory-guard",
+    "language": "Python",
+    "name": "niallsemple/rejection-memory-guard",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:12:07Z",
+    "url": "https://github.com/niallsemple/rejection-memory-guard"
+  },
+  {
+    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 315,
+    "updated_at": "2026-10-03T13:10:29Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
+    "description": "BotShelf Vampire: free, focused AI prompt packs for Grok Bot, Claude Code and ChatGPT. Practical research, writing and c",
+    "id": "BotShelfVampire/botshelf",
+    "language": "JavaScript",
+    "name": "BotShelfVampire/botshelf",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:10:15Z",
+    "url": "https://github.com/BotShelfVampire/botshelf"
+  },
+  {
+    "description": "Full-stack prompt engineering workbench \u2014 multi-provider streaming, version diffs, A/B comparison, test cases, cost trac",
+    "id": "saagpatel/prompt-englab",
+    "language": "TypeScript",
+    "name": "saagpatel/prompt-englab",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:10:12Z",
+    "url": "https://github.com/saagpatel/prompt-englab"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "Python",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:09:55Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:08:46Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 18,
+    "updated_at": "2026-10-03T13:08:33Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 50254,
+    "updated_at": "2026-10-03T13:08:25Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 8,
+    "updated_at": "2026-10-03T13:07:22Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "AI sizing and evaluation workbench: business scenario parameters in, technology route decision (confidence + rule ids + ",
+    "id": "wangsir720/ai-sizing-evaluation-workbench",
+    "language": "Python",
+    "name": "wangsir720/ai-sizing-evaluation-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:07:16Z",
+    "url": "https://github.com/wangsir720/ai-sizing-evaluation-workbench"
+  },
+  {
+    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
+    "id": "jbogocz/awesome-automated-ai",
+    "language": "TypeScript",
+    "name": "jbogocz/awesome-automated-ai",
+    "stars": 5,
+    "updated_at": "2026-10-03T13:06:52Z",
+    "url": "https://github.com/jbogocz/awesome-automated-ai"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:06:36Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-10-03T13:04:29Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "Shell",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:02:10Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 8,
+    "updated_at": "2026-10-03T13:00:53Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T13:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Hermes Agent plugin: rewrites your prompts before they hit the LLM \u2014 across CLI, TUI, Discord, Telegram. Quality scoring",
+    "id": "Sahil-SS9/hermes-multichannel-prompt-optimizer",
+    "language": "Python",
+    "name": "Sahil-SS9/hermes-multichannel-prompt-optimizer",
+    "stars": 34,
+    "updated_at": "2026-10-03T13:00:12Z",
+    "url": "https://github.com/Sahil-SS9/hermes-multichannel-prompt-optimizer"
   },
   {
     "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
@@ -34,33 +196,6 @@
     "stars": 4,
     "updated_at": "2026-10-03T12:59:12Z",
     "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "Python",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:59:08Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:58:53Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
-    "id": "jbogocz/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "jbogocz/awesome-automated-ai",
-    "stars": 5,
-    "updated_at": "2026-10-03T12:57:52Z",
-    "url": "https://github.com/jbogocz/awesome-automated-ai"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -95,7 +230,7 @@
     "language": "Shell",
     "name": "xsefirosus/sefi-agents",
     "stars": 1,
-    "updated_at": "2026-10-03T12:55:25Z",
+    "updated_at": "2026-10-03T13:01:22Z",
     "url": "https://github.com/xsefirosus/sefi-agents"
   },
   {
@@ -113,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T12:55:21Z",
+    "updated_at": "2026-10-03T13:09:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -126,13 +261,13 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
-    "id": "apoapostolov/humanizer",
-    "language": "JavaScript",
-    "name": "apoapostolov/humanizer",
-    "stars": 8,
-    "updated_at": "2026-10-03T12:55:11Z",
-    "url": "https://github.com/apoapostolov/humanizer"
+    "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
+    "id": "Eltarras/thunc",
+    "language": "Python",
+    "name": "Eltarras/thunc",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:11:13Z",
+    "url": "https://github.com/Eltarras/thunc"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -167,7 +302,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 0,
-    "updated_at": "2026-10-03T12:52:08Z",
+    "updated_at": "2026-10-03T13:13:39Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -207,15 +342,6 @@
     "url": "https://github.com/rotem914/ProjectOS"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T12:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
     "id": "deadly-centropomus6106/image-gen-open-source",
     "language": "JavaScript",
@@ -229,7 +355,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68802,
+    "stars": 68803,
     "updated_at": "2026-10-03T12:44:45Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:37:11Z",
     "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "LLM-powered sales voice agent (loan-lead qualifier) with automated evaluation harness, LLM-as-judge scoring, versioned p",
-    "id": "mdashfaqq/SalesVoice-Eval",
-    "language": "Python",
-    "name": "mdashfaqq/SalesVoice-Eval",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:36:50Z",
-    "url": "https://github.com/mdashfaqq/SalesVoice-Eval"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:36:36Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:36:35Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:35:55Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:35:49Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:35:41Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:51:42Z",
-    "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:35:29Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:35:19Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 50252,
-    "updated_at": "2026-10-03T12:35:16Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 13,
-    "updated_at": "2026-10-03T12:33:29Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:32:53Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:32:40Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build better AI prompts in seconds. Choose from templates for categories like coding, cinema, and more, fill out a simpl",
-    "id": "pedram95kzm/prompt-studio",
-    "language": "TypeScript",
-    "name": "pedram95kzm/prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:32:24Z",
-    "url": "https://github.com/pedram95kzm/prompt-studio"
   }
 ]
