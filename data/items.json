@@ -1,5 +1,131 @@
 [
   {
+    "description": "Hodios \u2014 prompts by Hermes IDE: install tree for skills, plugins and marketplaces. Bot-built, do not PR here. Source: he",
+    "id": "hermes-hq/hodios-dist",
+    "language": "\u2014",
+    "name": "hermes-hq/hodios-dist",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:00:09Z",
+    "url": "https://github.com/hermes-hq/hodios-dist"
+  },
+  {
+    "description": "Your coding friend in the terminal.",
+    "id": "johnsellin93/trace",
+    "language": "Shell",
+    "name": "johnsellin93/trace",
+    "stars": 26,
+    "updated_at": "2026-10-03T09:59:39Z",
+    "url": "https://github.com/johnsellin93/trace"
+  },
+  {
+    "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
+    "id": "paro-studio/web",
+    "language": "TypeScript",
+    "name": "paro-studio/web",
+    "stars": 14,
+    "updated_at": "2026-10-03T09:59:30Z",
+    "url": "https://github.com/paro-studio/web"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-10-03T09:59:22Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "A daily series of small AI tools, one folder each. Most help product managers and customer success teams diagnose proble",
+    "id": "kakkarprerna/daily-ai-builds",
+    "language": "JavaScript",
+    "name": "kakkarprerna/daily-ai-builds",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:59:19Z",
+    "url": "https://github.com/kakkarprerna/daily-ai-builds"
+  },
+  {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 26,
+    "updated_at": "2026-10-03T09:59:05Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
+    "description": "Hodios \u2014 open prompts by Hermes IDE. Expert prompts, personas and workflows for work, learning, creativity and everyday ",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:58:31Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "freestylefly/awesome-gpt-image-2",
+    "language": "JavaScript",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "stars": 33875,
+    "updated_at": "2026-10-03T09:56:12Z",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:57:57Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
+    "id": "projectbom/dev-guard",
+    "language": "TypeScript",
+    "name": "projectbom/dev-guard",
+    "stars": 2,
+    "updated_at": "2026-10-03T09:55:11Z",
+    "url": "https://github.com/projectbom/dev-guard"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-10-03T09:55:14Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 313,
+    "updated_at": "2026-10-03T09:49:51Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
+    "description": "PromptJolt: Chrome extension that turns a rough idea into a clear, detailed AI prompt in one click, inside ChatGPT, Clau",
+    "id": "yasininprofili/promptjolt",
+    "language": "\u2014",
+    "name": "yasininprofili/promptjolt",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:46:11Z",
+    "url": "https://github.com/yasininprofili/promptjolt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T09:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Photo Skills R8 \u2014 A+B+C \u5408\u5305\uff1a\u771f\u5b9e\u6444\u5f71\u540e\u671f \u00b7 Photo Zine \u7f16\u8f91\u8bbe\u8ba1 \u00b7 \u4eba\u50cf\u771f\u5b9e\u5904\u7406\u3002\u9762\u5411 AI Agent \u5de5\u4f5c\u6d41\u7684\u7167\u7247\u6280\u80fd\u5305\u3002",
     "id": "tuozhekongqi/photo-skills",
     "language": "\u2014",
@@ -9,21 +135,12 @@
     "url": "https://github.com/tuozhekongqi/photo-skills"
   },
   {
-    "description": "Hodios \u2014 open prompts by Hermes IDE. Expert prompts, personas and workflows for work, learning, creativity and everyday ",
-    "id": "hermes-hq/hodios",
-    "language": "TypeScript",
-    "name": "hermes-hq/hodios",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:44:08Z",
-    "url": "https://github.com/hermes-hq/hodios"
-  },
-  {
     "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
     "id": "l4ci/hv-skills",
     "language": "Go",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-10-03T09:45:19Z",
+    "updated_at": "2026-10-03T09:55:28Z",
     "url": "https://github.com/l4ci/hv-skills"
   },
   {
@@ -54,15 +171,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:34:21Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
@@ -72,15 +180,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T09:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Canonical generated plugin catalog for Claude Code, Codex, GitHub Copilot, and portable Agent Plugins",
     "id": "hermes-labs-ai/plugins",
     "language": "JavaScript",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:30:10Z",
     "url": "https://github.com/hermes-labs-ai/plugins"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 12,
-    "updated_at": "2026-10-03T09:30:06Z",
-    "url": "https://github.com/spidey889/context-generator"
   },
   {
     "description": "The 1770 Mechanical Turk, reborn!",
@@ -144,15 +234,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "A daily series of small AI tools, one folder each. Most help product managers and customer success teams diagnose proble",
-    "id": "kakkarprerna/daily-ai-builds",
-    "language": "JavaScript",
-    "name": "kakkarprerna/daily-ai-builds",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:27:09Z",
-    "url": "https://github.com/kakkarprerna/daily-ai-builds"
-  },
-  {
     "description": "dsh-prompt-system\u63d0\u793a\u8bcd\u4f18\u5316\u7cfb\u7edf\u2014\u2014\u6839\u636e\u5de5\u4f5c\u533a\uff0c\u5f53\u524d\u4f1a\u8bdd\uff0c\u4f18\u5316\u63d0\u793a\u8bcd",
     "id": "yuloong07-star/dsh-prompt-system",
     "language": "JavaScript",
@@ -176,26 +257,8 @@
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-03T09:42:50Z",
+    "updated_at": "2026-10-03T09:59:50Z",
     "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
-    "id": "projectbom/dev-guard",
-    "language": "TypeScript",
-    "name": "projectbom/dev-guard",
-    "stars": 2,
-    "updated_at": "2026-10-03T09:25:27Z",
-    "url": "https://github.com/projectbom/dev-guard"
-  },
-  {
-    "description": "Hodios \u2014 prompts by Hermes IDE: install tree for skills, plugins and marketplaces. Bot-built, do not PR here. Source: he",
-    "id": "hermes-hq/hodios-dist",
-    "language": "\u2014",
-    "name": "hermes-hq/hodios-dist",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:25:17Z",
-    "url": "https://github.com/hermes-hq/hodios-dist"
   },
   {
     "description": "Universal AI Agent development framework & skills. Slashes context token consumption by up to 80% with codebase-first do",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "lucasmartins-ai/lcc",
     "stars": 9,
-    "updated_at": "2026-10-03T09:10:38Z",
+    "updated_at": "2026-10-03T09:53:04Z",
     "url": "https://github.com/lucasmartins-ai/lcc"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "roedyrustam/vibes-plug",
     "stars": 73,
-    "updated_at": "2026-10-03T09:09:40Z",
+    "updated_at": "2026-10-03T09:56:32Z",
     "url": "https://github.com/roedyrustam/vibes-plug"
   },
   {
@@ -360,15 +423,6 @@
     "url": "https://github.com/farfarfun/paper-agent"
   },
   {
-    "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
-    "id": "freestylefly/awesome-gpt-image-2",
-    "language": "JavaScript",
-    "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 33875,
-    "updated_at": "2026-10-03T09:06:18Z",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-  },
-  {
     "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 68794,
     "updated_at": "2026-10-03T08:53:50Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedance-2.5-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedance-2.5-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-03T08:53:26Z",
-    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
-  },
-  {
-    "description": "A collection of agent skills I use in real work.",
-    "id": "crimx/skills",
-    "language": "\u2014",
-    "name": "crimx/skills",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:52:52Z",
-    "url": "https://github.com/crimx/skills"
-  },
-  {
-    "description": "Open AI research experiment and LLM benchmark testing whether curiosity-driven warm-ups improve Claude reasoning accurac",
-    "id": "MeLinResearch/TheOctopiTrial",
-    "language": "Python",
-    "name": "MeLinResearch/TheOctopiTrial",
-    "stars": 2,
-    "updated_at": "2026-10-03T08:50:11Z",
-    "url": "https://github.com/MeLinResearch/TheOctopiTrial"
-  },
-  {
-    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-03T08:47:56Z",
-    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28240,
-    "updated_at": "2026-10-03T08:47:55Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Automated, production-grade CI/CD evaluation pipeline for Hugging Face chatbots using DeepEval and dynamic JSON test dat",
-    "id": "h00w/PromptPulse",
-    "language": "Python",
-    "name": "h00w/PromptPulse",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:44:52Z",
-    "url": "https://github.com/h00w/PromptPulse"
   }
 ]
