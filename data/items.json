@@ -1,12 +1,120 @@
 [
   {
-    "description": "Deterministic context and policy compiler for supported AI coding agents.",
-    "id": "kok-o/contextos-agents",
+    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
+    "id": "jbogocz/awesome-automated-ai",
+    "language": "TypeScript",
+    "name": "jbogocz/awesome-automated-ai",
+    "stars": 5,
+    "updated_at": "2026-10-03T13:44:15Z",
+    "url": "https://github.com/jbogocz/awesome-automated-ai"
+  },
+  {
+    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 67,
+    "updated_at": "2026-10-03T13:43:26Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
+    "id": "Eltarras/thunc",
+    "language": "Python",
+    "name": "Eltarras/thunc",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:42:43Z",
+    "url": "https://github.com/Eltarras/thunc"
+  },
+  {
+    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
+    "id": "Ayush-2703/Large_languaage_Models",
+    "language": "Python",
+    "name": "Ayush-2703/Large_languaage_Models",
+    "stars": 3,
+    "updated_at": "2026-10-03T13:41:00Z",
+    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
+  },
+  {
+    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
+    "id": "datasound-projects/Promptboard",
     "language": "JavaScript",
-    "name": "kok-o/contextos-agents",
-    "stars": 10,
-    "updated_at": "2026-10-03T13:30:28Z",
-    "url": "https://github.com/kok-o/contextos-agents"
+    "name": "datasound-projects/Promptboard",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:41:00Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 316,
+    "updated_at": "2026-10-03T13:38:38Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 16,
+    "updated_at": "2026-10-03T13:38:17Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Catch every submitted prompt, brainstorm it, research it on the web, and hand the findings back to the model before it r",
+    "id": "cbuntingde/opencode-prepilot",
+    "language": "TypeScript",
+    "name": "cbuntingde/opencode-prepilot",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:37:32Z",
+    "url": "https://github.com/cbuntingde/opencode-prepilot"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "Python",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:36:21Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7226,
+    "updated_at": "2026-10-03T13:35:16Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Deutscher Text-Humanizer f\u00fcr Claude Code & Codex. Redigiert KI-Floskeln, sch\u00fctzt deine Schreibstimme und pr\u00fcft 72 deutsc",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 169,
+    "updated_at": "2026-10-03T13:37:04Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:34:02Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:32:51Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "LLM-powered sales voice agent (loan-lead qualifier) with automated evaluation harness, LLM-as-judge scoring, versioned p",
@@ -14,8 +122,26 @@
     "language": "Python",
     "name": "mdashfaqq/SalesVoice-Eval",
     "stars": 0,
-    "updated_at": "2026-10-03T13:30:08Z",
+    "updated_at": "2026-10-03T13:32:22Z",
     "url": "https://github.com/mdashfaqq/SalesVoice-Eval"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T13:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Deterministic context and policy compiler for supported AI coding agents.",
+    "id": "kok-o/contextos-agents",
+    "language": "JavaScript",
+    "name": "kok-o/contextos-agents",
+    "stars": 10,
+    "updated_at": "2026-10-03T13:30:50Z",
+    "url": "https://github.com/kok-o/contextos-agents"
   },
   {
     "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
@@ -41,7 +167,7 @@
     "language": "JavaScript",
     "name": "404mw/MARWIX-SKILLS",
     "stars": 0,
-    "updated_at": "2026-10-03T13:29:09Z",
+    "updated_at": "2026-10-03T13:31:09Z",
     "url": "https://github.com/404mw/MARWIX-SKILLS"
   },
   {
@@ -52,24 +178,6 @@
     "stars": 13528,
     "updated_at": "2026-10-03T13:29:05Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
-    "id": "Ayush-2703/Large_languaage_Models",
-    "language": "Python",
-    "name": "Ayush-2703/Large_languaage_Models",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:29:03Z",
-    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
-  },
-  {
-    "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
-    "id": "Eltarras/thunc",
-    "language": "Python",
-    "name": "Eltarras/thunc",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:28:46Z",
-    "url": "https://github.com/Eltarras/thunc"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -108,38 +216,11 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-03T13:27:37Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "Python",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:27:06Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
-    "id": "jbogocz/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "jbogocz/awesome-automated-ai",
-    "stars": 5,
-    "updated_at": "2026-10-03T13:26:31Z",
-    "url": "https://github.com/jbogocz/awesome-automated-ai"
-  },
-  {
     "description": "Photo Skills R8 \u2014 A+B+C \u5408\u5305\uff1a\u771f\u5b9e\u6444\u5f71\u540e\u671f \u00b7 Photo Zine \u7f16\u8f91\u8bbe\u8ba1 \u00b7 \u4eba\u50cf\u771f\u5b9e\u5904\u7406\u3002\u9762\u5411 AI Agent \u5de5\u4f5c\u6d41\u7684\u7167\u7247\u6280\u80fd\u5305\u3002",
     "id": "tuozhekongqi/photo-skills",
     "language": "\u2014",
     "name": "tuozhekongqi/photo-skills",
-    "stars": 1,
+    "stars": 3,
     "updated_at": "2026-10-03T13:22:14Z",
     "url": "https://github.com/tuozhekongqi/photo-skills"
   },
@@ -158,24 +239,24 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T13:22:11Z",
+    "updated_at": "2026-10-03T13:33:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T13:19:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Teaching kit for prompt, context and harness engineering. Setup scripts that turn a project directory into one the IBM B",
+    "id": "techcwbldr26/bob-scripts-gregorys-awesome-teams",
+    "language": "JavaScript",
+    "name": "techcwbldr26/bob-scripts-gregorys-awesome-teams",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:18:06Z",
+    "url": "https://github.com/techcwbldr26/bob-scripts-gregorys-awesome-teams"
   },
   {
     "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68804,
+    "stars": 68805,
     "updated_at": "2026-10-03T13:16:57Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -225,21 +306,12 @@
     "url": "https://github.com/niallsemple/rejection-memory-guard"
   },
   {
-    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 316,
-    "updated_at": "2026-10-03T13:10:29Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
     "description": "BotShelf Vampire: free, focused AI prompt packs for Grok Bot, Claude Code and ChatGPT. Practical research, writing and c",
     "id": "BotShelfVampire/botshelf",
     "language": "JavaScript",
     "name": "BotShelfVampire/botshelf",
     "stars": 0,
-    "updated_at": "2026-10-03T13:10:15Z",
+    "updated_at": "2026-10-03T13:44:25Z",
     "url": "https://github.com/BotShelfVampire/botshelf"
   },
   {
@@ -295,6 +367,15 @@
     "stars": 1,
     "updated_at": "2026-10-03T13:06:36Z",
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35335,
+    "updated_at": "2026-10-03T13:05:48Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:56:21Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with",
-    "id": "LearnPrompt/awesome-seedance",
-    "language": "JavaScript",
-    "name": "LearnPrompt/awesome-seedance",
-    "stars": 1673,
-    "updated_at": "2026-10-03T12:56:12Z",
-    "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "A 17-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
-    "id": "xsefirosus/sefi-agents",
-    "language": "Shell",
-    "name": "xsefirosus/sefi-agents",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:01:22Z",
-    "url": "https://github.com/xsefirosus/sefi-agents"
-  },
-  {
-    "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
-    "id": "paro-studio/web",
-    "language": "TypeScript",
-    "name": "paro-studio/web",
-    "stars": 13,
-    "updated_at": "2026-10-03T12:55:23Z",
-    "url": "https://github.com/paro-studio/web"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:54:52Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:54:00Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:54:00Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:52:33Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:51:52Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:50:38Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
   }
 ]
