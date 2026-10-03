@@ -1,5 +1,86 @@
 [
   {
+    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
+    "id": "yunaremaia/context-bridge",
+    "language": "Python",
+    "name": "yunaremaia/context-bridge",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:45:18Z",
+    "url": "https://github.com/yunaremaia/context-bridge"
+  },
+  {
+    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:43:31Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-03T06:42:59Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Terse, minimal, safe coding agent: less code and fewer tokens without dropping safeguards",
+    "id": "krurkrit/paws",
+    "language": "Python",
+    "name": "krurkrit/paws",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:42:07Z",
+    "url": "https://github.com/krurkrit/paws"
+  },
+  {
+    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 67,
+    "updated_at": "2026-10-03T06:41:07Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "\u9762\u5411\u8f6f\u4ef6\u7814\u53d1\u6d41\u7a0b\u7684 AI Agent \u63d0\u793a\u8bcd\u6a21\u677f\u96c6\u5408\uff0c\u6db5\u76d6\u4ea7\u54c1 PRD\u3001\u6280\u672f\u8bbe\u8ba1\u3001\u524d\u7aef\u89c4\u683c\u3001\u524d\u540e\u7aef\u5de5\u7a0b\u5e08\u4e0e\u9879\u76ee\u8d1f\u8d23\u4eba\u7b49\u89d2\u8272\uff0cMarkdown \u683c\u5f0f\u53ef\u76f4\u63a5\u7528\u4e8e Cursor/Claude \u7b49\u5de5\u5177",
+    "id": "farfarfun/funagent",
+    "language": "Python",
+    "name": "farfarfun/funagent",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:40:51Z",
+    "url": "https://github.com/farfarfun/funagent"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:39:09Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:35:38Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T06:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
     "id": "TomasHer/prompting-blueprints",
     "language": "HTML",
@@ -9,13 +90,13 @@
     "url": "https://github.com/TomasHer/prompting-blueprints"
   },
   {
-    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:29:04Z",
-    "url": "https://github.com/joshuafolkken/kit"
+    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 68786,
+    "updated_at": "2026-10-03T06:29:58Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -23,17 +104,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-03T06:27:28Z",
+    "updated_at": "2026-10-03T06:40:36Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:27:10Z",
-    "url": "https://github.com/l4ci/hv-skills"
   },
   {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
@@ -43,15 +115,6 @@
     "stars": 231,
     "updated_at": "2026-10-03T06:24:58Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "Terse, minimal, safe coding agent: less code and fewer tokens without dropping safeguards",
-    "id": "krurkrit/paws",
-    "language": "Python",
-    "name": "krurkrit/paws",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:26:07Z",
-    "url": "https://github.com/krurkrit/paws"
   },
   {
     "description": "BotShelf Vampire: free, focused AI prompt packs for Grok Bot, Claude Code and ChatGPT. Practical research, writing and c",
@@ -121,7 +184,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 50213,
+    "stars": 50214,
     "updated_at": "2026-10-03T06:16:04Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -133,15 +196,6 @@
     "stars": 21,
     "updated_at": "2026-10-03T06:16:02Z",
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -229,7 +283,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 2453,
+    "stars": 2454,
     "updated_at": "2026-10-03T06:06:40Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28239,
-    "updated_at": "2026-10-03T05:53:09Z",
+    "updated_at": "2026-10-03T06:44:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T05:52:57Z",
     "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:52:40Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-10-03T05:52:30Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:52:12Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:52:08Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:51:57Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "HTML",
-    "name": "coco-research/coco",
-    "stars": 406,
-    "updated_at": "2026-10-03T05:51:47Z",
-    "url": "https://github.com/coco-research/coco"
   }
 ]
