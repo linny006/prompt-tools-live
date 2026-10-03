@@ -1,12 +1,111 @@
 [
   {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 151987,
+    "updated_at": "2026-10-03T04:43:01Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2244,
+    "updated_at": "2026-10-03T04:42:59Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74302,
+    "updated_at": "2026-10-03T04:43:21Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 2,
+    "updated_at": "2026-10-03T04:41:33Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 941,
+    "updated_at": "2026-10-03T04:40:40Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:35:50Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "Auditor and educational tool that analyzes AI's tone patterns and demonstrates methods for customizing behavior.",
+    "id": "NobleStripes/AI-Tone-Auditor",
+    "language": "TypeScript",
+    "name": "NobleStripes/AI-Tone-Auditor",
+    "stars": 1,
+    "updated_at": "2026-10-03T04:34:56Z",
+    "url": "https://github.com/NobleStripes/AI-Tone-Auditor"
+  },
+  {
+    "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
+    "id": "VSSK007/ZodicogAI",
+    "language": "TypeScript",
+    "name": "VSSK007/ZodicogAI",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:34:39Z",
+    "url": "https://github.com/VSSK007/ZodicogAI"
+  },
+  {
+    "description": "Prompt-engineering lab: zero-shot vs few-shot vs chain-of-thought plus a prompt-injection defense, behind an honest eval",
+    "id": "andrewjpyle/ailab-prompting",
+    "language": "Python",
+    "name": "andrewjpyle/ailab-prompting",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:33:05Z",
+    "url": "https://github.com/andrewjpyle/ailab-prompting"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-03T04:32:15Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
     "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
     "id": "mattdweigand-sketch/agent-skills",
     "language": "Python",
     "name": "mattdweigand-sketch/agent-skills",
     "stars": 1,
-    "updated_at": "2026-10-03T04:29:42Z",
+    "updated_at": "2026-10-03T04:31:29Z",
     "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T04:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Composer prompt tuner for the DeepSeek Harness Web GUI: rewrites the input draft through a model you choose, with a revi",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "wangkant/personagent",
     "stars": 17,
-    "updated_at": "2026-10-03T04:28:29Z",
+    "updated_at": "2026-10-03T04:31:59Z",
     "url": "https://github.com/wangkant/personagent"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T04:27:09Z",
     "url": "https://github.com/fangyunok/ecommerce-llm-post-training"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-03T04:25:55Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -108,15 +198,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T04:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
@@ -142,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T04:14:01Z",
     "url": "https://github.com/nodej-ai/nodej"
-  },
-  {
-    "description": "Auditor and educational tool that analyzes AI's tone patterns and demonstrates methods for customizing behavior.",
-    "id": "NobleStripes/AI-Tone-Auditor",
-    "language": "TypeScript",
-    "name": "NobleStripes/AI-Tone-Auditor",
-    "stars": 1,
-    "updated_at": "2026-10-03T04:13:37Z",
-    "url": "https://github.com/NobleStripes/AI-Tone-Auditor"
-  },
-  {
-    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 0,
-    "updated_at": "2026-10-03T04:28:27Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
     "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
@@ -279,15 +342,6 @@
     "url": "https://github.com/lulin70/carrymem"
   },
   {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 151973,
-    "updated_at": "2026-10-03T04:01:45Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
     "description": "Grandpa makes AI coding agents work smarter, not harder. Zero-bloat architecture, 8 skills, CLI scanner, and benchmark h",
     "id": "bytewhisker/grandpa",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 126,
     "updated_at": "2026-10-03T03:24:30Z",
     "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
-  },
-  {
-    "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
-    "id": "api-evangelist/promptlayer",
-    "language": "\u2014",
-    "name": "api-evangelist/promptlayer",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:24:20Z",
-    "url": "https://github.com/api-evangelist/promptlayer"
-  },
-  {
-    "description": "\u9f99\u7ffcHermes \u81ea\u8fdb\u5316\u65b9\u6cd5\u8bba \u00b7 \u8ba9 AI Agent \u4ece\"\u964c\u751f\u5916\u5305\"\u53d8\u6210\"\u61c2\u4f60\u7684\u5408\u4f19\u4eba\"\u2014\u2014Hermes \u4e00\u952e\u521d\u59cb\u5316\uff0c\u65b0\u8001\u7528\u6237\u96f6\u914d\u7f6e\u589e\u91cf\u5347\u7ea7\u3001\u96f6\u526f\u4f5c\u7528\uff0cAgent \u8d8a\u7528\u8d8a\u61c2\u4f60",
-    "id": "boainet/hermes-onboarding",
-    "language": "Python",
-    "name": "boainet/hermes-onboarding",
-    "stars": 1,
-    "updated_at": "2026-10-03T03:23:44Z",
-    "url": "https://github.com/boainet/hermes-onboarding"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:23:37Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Design, compile, and audit production-grade Crack interactive story chats from story.md and characters.md into platform-",
-    "id": "CREE1116/crack-story-architect",
-    "language": "Python",
-    "name": "CREE1116/crack-story-architect",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:23:17Z",
-    "url": "https://github.com/CREE1116/crack-story-architect"
-  },
-  {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "TypeScript",
-    "name": "bladeacer/lccst",
-    "stars": 5,
-    "updated_at": "2026-10-03T03:20:40Z",
-    "url": "https://github.com/bladeacer/lccst"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28239,
-    "updated_at": "2026-10-03T04:09:23Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
