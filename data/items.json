@@ -1,12 +1,66 @@
 [
   {
+    "description": "Interactive visual prompt builder for ComfyUI: time-of-day lighting, camera & film simulation, color palettes and random",
+    "id": "perfectmodelslab/ComfyUI-PerfectLab",
+    "language": "JavaScript",
+    "name": "perfectmodelslab/ComfyUI-PerfectLab",
+    "stars": 0,
+    "updated_at": "2026-10-03T22:59:39Z",
+    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "CRISP: a writing protocol for humans and LLMs. Concise \u00b7 Relevant \u00b7 Intuitive \u00b7 Simple \u00b7 Protocol.",
+    "id": "andreiverdes/crisp",
+    "language": "HTML",
+    "name": "andreiverdes/crisp",
+    "stars": 0,
+    "updated_at": "2026-10-03T22:59:18Z",
+    "url": "https://github.com/andreiverdes/crisp"
+  },
+  {
+    "description": "",
+    "id": "g4br/cc-router",
+    "language": "Python",
+    "name": "g4br/cc-router",
+    "stars": 0,
+    "updated_at": "2026-10-03T22:57:23Z",
+    "url": "https://github.com/g4br/cc-router"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-03T22:55:46Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
     "description": "Hexadecimal Attention-State Engine | Universal AI Developer Co-pilot \u00b7 Hyper-Compressed for Low-Parameter & Metered LLMs",
     "id": "pakizito/HASE",
     "language": "Python",
     "name": "pakizito/HASE",
     "stars": 0,
-    "updated_at": "2026-10-03T22:50:59Z",
+    "updated_at": "2026-10-03T22:54:38Z",
     "url": "https://github.com/pakizito/HASE"
+  },
+  {
+    "description": "Agentic Operating System for web and mobile product development",
+    "id": "rotem914/ProjectOS",
+    "language": "JavaScript",
+    "name": "rotem914/ProjectOS",
+    "stars": 1,
+    "updated_at": "2026-10-03T22:51:51Z",
+    "url": "https://github.com/rotem914/ProjectOS"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T22:51:19Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A portable, cross-agent skill library for Claude Code and compatible AI agents.",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:50:50Z",
     "url": "https://github.com/mifunedev/skills"
-  },
-  {
-    "description": "Interactive visual prompt builder for ComfyUI: time-of-day lighting, camera & film simulation, color palettes and random",
-    "id": "perfectmodelslab/ComfyUI-PerfectLab",
-    "language": "JavaScript",
-    "name": "perfectmodelslab/ComfyUI-PerfectLab",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:50:44Z",
-    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
   },
   {
     "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
@@ -41,8 +86,17 @@
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-03T22:49:12Z",
+    "updated_at": "2026-10-03T22:58:26Z",
     "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25679,
+    "updated_at": "2026-10-03T22:48:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-10-03T22:48:14Z",
+    "updated_at": "2026-10-03T22:52:08Z",
     "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "CRISP: a writing protocol for humans and LLMs. Concise \u00b7 Relevant \u00b7 Intuitive \u00b7 Simple \u00b7 Protocol.",
-    "id": "andreiverdes/crisp",
-    "language": "HTML",
-    "name": "andreiverdes/crisp",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:46:17Z",
-    "url": "https://github.com/andreiverdes/crisp"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-03T22:51:01Z",
+    "updated_at": "2026-10-03T22:55:43Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 25,
     "updated_at": "2026-10-03T22:45:30Z",
     "url": "https://github.com/4ndr0666/gpt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T22:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -302,7 +338,7 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 5,
-    "updated_at": "2026-10-03T22:35:09Z",
+    "updated_at": "2026-10-03T22:58:00Z",
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T22:32:48Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-10-03T22:32:15Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:32:15Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "marola's ML side: the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
-    "id": "marola-dev/marola-ml",
-    "language": "Python",
-    "name": "marola-dev/marola-ml",
-    "stars": 1,
-    "updated_at": "2026-10-03T22:33:41Z",
-    "url": "https://github.com/marola-dev/marola-ml"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:32:03Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
   }
 ]
