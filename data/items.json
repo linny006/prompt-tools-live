@@ -1,12 +1,21 @@
 [
   {
-    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
-    "id": "yunaremaia/context-bridge",
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 12,
+    "updated_at": "2026-10-03T20:13:31Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
+    "id": "tsetsugekka/AGENTS.md",
     "language": "Python",
-    "name": "yunaremaia/context-bridge",
+    "name": "tsetsugekka/AGENTS.md",
     "stars": 0,
-    "updated_at": "2026-10-03T20:02:14Z",
-    "url": "https://github.com/yunaremaia/context-bridge"
+    "updated_at": "2026-10-03T20:10:46Z",
+    "url": "https://github.com/tsetsugekka/AGENTS.md"
   },
   {
     "description": "Open-source AI workflows, prompts, assistants, Agent Skills, MCP tools and automation for ChatGPT, Claude, Grok, Gemini ",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "alptugharun/ai-social-media-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-03T20:01:28Z",
+    "updated_at": "2026-10-03T20:09:58Z",
     "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:08:06Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 2,
+    "updated_at": "2026-10-03T20:07:46Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Agentic Operating System for web and mobile product development",
+    "id": "rotem914/ProjectOS",
+    "language": "JavaScript",
+    "name": "rotem914/ProjectOS",
+    "stars": 1,
+    "updated_at": "2026-10-03T20:07:13Z",
+    "url": "https://github.com/rotem914/ProjectOS"
+  },
+  {
+    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map",
+    "id": "p10ns11y/collab-finder",
+    "language": "Rust",
+    "name": "p10ns11y/collab-finder",
+    "stars": 2,
+    "updated_at": "2026-10-03T20:05:00Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
   },
   {
     "description": "A portable, cross-agent skill library for Claude Code and compatible AI agents.",
@@ -23,8 +68,17 @@
     "language": "Shell",
     "name": "mifunedev/skills",
     "stars": 0,
-    "updated_at": "2026-10-03T20:02:47Z",
+    "updated_at": "2026-10-03T20:09:44Z",
     "url": "https://github.com/mifunedev/skills"
+  },
+  {
+    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 317,
+    "updated_at": "2026-10-03T20:02:58Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 11,
-    "updated_at": "2026-10-03T20:00:26Z",
+    "updated_at": "2026-10-03T20:02:55Z",
     "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Universal session memory for AI agents \u2014 capture, index, recall across any AI coding agent",
+    "id": "yunaremaia/context-bridge",
+    "language": "Python",
+    "name": "yunaremaia/context-bridge",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:02:14Z",
+    "url": "https://github.com/yunaremaia/context-bridge"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -144,6 +207,15 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25677,
+    "updated_at": "2026-10-03T19:43:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -178,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T19:41:04Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25676,
-    "updated_at": "2026-10-03T19:43:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -288,6 +351,15 @@
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74344,
+    "updated_at": "2026-10-03T19:28:09Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
@@ -351,15 +423,6 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 12,
-    "updated_at": "2026-10-03T19:17:28Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
     "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
     "id": "kingjethro999/promptdock",
     "language": "JavaScript",
@@ -378,75 +441,12 @@
     "url": "https://github.com/neomjs/neo-agent-skills"
   },
   {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2073,
-    "updated_at": "2026-10-03T19:15:15Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:15:10Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-03T19:15:09Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Clean up bloated Codex Agent Skills while preserving their behavior.",
-    "id": "parzival-000/skilltidy",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "parzival-000/skilltidy",
-    "stars": 1,
-    "updated_at": "2026-10-03T19:14:48Z",
-    "url": "https://github.com/parzival-000/skilltidy"
-  },
-  {
-    "description": "A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assi",
-    "id": "kambleakash0/agent-skills",
-    "language": "Python",
-    "name": "kambleakash0/agent-skills",
-    "stars": 9,
-    "updated_at": "2026-10-03T19:13:41Z",
-    "url": "https://github.com/kambleakash0/agent-skills"
-  },
-  {
-    "description": "Agentic Operating System for web and mobile product development",
-    "id": "rotem914/ProjectOS",
-    "language": "JavaScript",
-    "name": "rotem914/ProjectOS",
-    "stars": 1,
-    "updated_at": "2026-10-03T19:13:21Z",
-    "url": "https://github.com/rotem914/ProjectOS"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 942,
-    "updated_at": "2026-10-03T19:47:35Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:12:26Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+    "name": "Arize-ai/phoenix",
+    "stars": 11693,
+    "updated_at": "2026-10-03T19:15:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
