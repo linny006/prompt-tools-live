@@ -1,5 +1,113 @@
 [
   {
+    "description": "Fa\u00e7a prompts com a sua voz. Extens\u00e3o do VS Code: fale do seu jeito, o Claude lapida e o prompt chega pronto no Claude Co",
+    "id": "rodrigogadita/diz-ai",
+    "language": "JavaScript",
+    "name": "rodrigogadita/diz-ai",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:00:18Z",
+    "url": "https://github.com/rodrigogadita/diz-ai"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 6,
+    "updated_at": "2026-10-03T23:59:23Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Ultra-fast, zero-dependency PII masking and unmasking for AI prompts and LLM agents.",
+    "id": "lui01212/pii-masker-ai",
+    "language": "Python",
+    "name": "lui01212/pii-masker-ai",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:58:36Z",
+    "url": "https://github.com/lui01212/pii-masker-ai"
+  },
+  {
+    "description": "Same prompt, several models -- stopwatch or true race; the starting model judges (time is only one dimension)",
+    "id": "ellmos-ai/compare-race",
+    "language": "Python",
+    "name": "ellmos-ai/compare-race",
+    "stars": 1,
+    "updated_at": "2026-10-03T23:57:50Z",
+    "url": "https://github.com/ellmos-ai/compare-race"
+  },
+  {
+    "description": "CRISP: a writing protocol for humans and LLMs. Concise \u00b7 Relevant \u00b7 Intuitive \u00b7 Simple \u00b7 Protocol.",
+    "id": "andreiverdes/crisp",
+    "language": "HTML",
+    "name": "andreiverdes/crisp",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:57:40Z",
+    "url": "https://github.com/andreiverdes/crisp"
+  },
+  {
+    "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
+    "id": "davehallmon/problem-lens",
+    "language": "\u2014",
+    "name": "davehallmon/problem-lens",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:56:04Z",
+    "url": "https://github.com/davehallmon/problem-lens"
+  },
+  {
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
+    "id": "Moeeryani/Vibe-Coding-Production-Kit",
+    "language": "JavaScript",
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 33,
+    "updated_at": "2026-10-03T23:52:38Z",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-03T23:52:27Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:50:14Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Agentic Operating System for web and mobile product development",
+    "id": "rotem914/ProjectOS",
+    "language": "JavaScript",
+    "name": "rotem914/ProjectOS",
+    "stars": 1,
+    "updated_at": "2026-10-03T23:49:30Z",
+    "url": "https://github.com/rotem914/ProjectOS"
+  },
+  {
+    "description": "Interactive visual prompt builder for ComfyUI: time-of-day lighting, camera & film simulation, color palettes and random",
+    "id": "perfectmodelslab/ComfyUI-PerfectLab",
+    "language": "JavaScript",
+    "name": "perfectmodelslab/ComfyUI-PerfectLab",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:46:08Z",
+    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-03T23:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -36,24 +144,6 @@
     "url": "https://github.com/alexvvr2000/man-made-empathy"
   },
   {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 6,
-    "updated_at": "2026-10-03T23:42:28Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "CRISP: a writing protocol for humans and LLMs. Concise \u00b7 Relevant \u00b7 Intuitive \u00b7 Simple \u00b7 Protocol.",
-    "id": "andreiverdes/crisp",
-    "language": "HTML",
-    "name": "andreiverdes/crisp",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:40:46Z",
-    "url": "https://github.com/andreiverdes/crisp"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 123,
     "updated_at": "2026-10-03T23:37:56Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Agentic Operating System for web and mobile product development",
-    "id": "rotem914/ProjectOS",
-    "language": "JavaScript",
-    "name": "rotem914/ProjectOS",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:37:52Z",
-    "url": "https://github.com/rotem914/ProjectOS"
   },
   {
     "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
@@ -149,7 +230,7 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 5,
-    "updated_at": "2026-10-03T23:34:19Z",
+    "updated_at": "2026-10-04T00:00:04Z",
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
@@ -162,15 +243,6 @@
     "url": "https://github.com/kyegomez/swarms"
   },
   {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:39:53Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -180,21 +252,12 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-03T23:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
     "id": "datasound-projects/Promptboard",
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-03T23:34:45Z",
+    "updated_at": "2026-10-03T23:46:20Z",
     "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:31:11Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
     "description": "Free prompt kit that turns a research question into an evidence-based Deep Research workflow. \u8abf\u3079\u305f\u3044\u3053\u3068\u3092\u66f8\u304f\u3060\u3051\u3002Deep Research\u3092",
     "id": "KS278810/research-robo",
     "language": "HTML",
@@ -297,15 +351,6 @@
     "url": "https://github.com/redwheeler3/penta-application-screener"
   },
   {
-    "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
-    "id": "davehallmon/problem-lens",
-    "language": "\u2014",
-    "name": "davehallmon/problem-lens",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:09:29Z",
-    "url": "https://github.com/davehallmon/problem-lens"
-  },
-  {
     "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
     "id": "minirr890112-byte/HermesMade",
     "language": "Shell",
@@ -331,15 +376,6 @@
     "stars": 2073,
     "updated_at": "2026-10-03T23:01:29Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Interactive visual prompt builder for ComfyUI: time-of-day lighting, camera & film simulation, color palettes and random",
-    "id": "perfectmodelslab/ComfyUI-PerfectLab",
-    "language": "JavaScript",
-    "name": "perfectmodelslab/ComfyUI-PerfectLab",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:59:39Z",
-    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
   },
   {
     "description": "",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25679,
-    "updated_at": "2026-10-03T23:32:42Z",
+    "updated_at": "2026-10-03T23:59:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T22:44:33Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
-    "id": "rolling-codes/better-skill-creator",
-    "language": "Python",
-    "name": "rolling-codes/better-skill-creator",
-    "stars": 2,
-    "updated_at": "2026-10-03T22:49:05Z",
-    "url": "https://github.com/rolling-codes/better-skill-creator"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 8,
-    "updated_at": "2026-10-03T22:43:50Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
-    "id": "Calix-L/awesome-latex-skills",
-    "language": "Python",
-    "name": "Calix-L/awesome-latex-skills",
-    "stars": 177,
-    "updated_at": "2026-10-03T22:49:32Z",
-    "url": "https://github.com/Calix-L/awesome-latex-skills"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T22:43:24Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   }
 ]
