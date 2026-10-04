@@ -1,5 +1,104 @@
 [
   {
+    "description": "Hebdo sur les agents IA",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:45:25Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:43:24Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "A premium Context Staging IDE for AI workflows. Curate, compress, and stage code payloads for LLMs with surgical precisi",
+    "id": "Stinger05189/xcerpt-app",
+    "language": "TypeScript",
+    "name": "Stinger05189/xcerpt-app",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:43:33Z",
+    "url": "https://github.com/Stinger05189/xcerpt-app"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:41:36Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "NodeJ plugins for Claude. Browse at nodej.ai/foundry.",
+    "id": "nodej-ai/nodej",
+    "language": "JavaScript",
+    "name": "nodej-ai/nodej",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:40:24Z",
+    "url": "https://github.com/nodej-ai/nodej"
+  },
+  {
+    "description": "Turn one news signal into a three-page executive brief.",
+    "id": "nodej-ai/signal-brief",
+    "language": "Python",
+    "name": "nodej-ai/signal-brief",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:40:19Z",
+    "url": "https://github.com/nodej-ai/signal-brief"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:37:52Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "A Socratic math tutor that never gives away the answer. Built with the Claude API (streaming, prefill, stop sequences) a",
+    "id": "petrecaLeo/socratic-equation-tutor",
+    "language": "Python",
+    "name": "petrecaLeo/socratic-equation-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:36:46Z",
+    "url": "https://github.com/petrecaLeo/socratic-equation-tutor"
+  },
+  {
+    "description": "\u4ece 700+ \u7bc7\u6587\u7ae0\u300180 \u573a\u76f4\u64ad\u4e2d\u63d0\u70bc\u51fa\u7684 A \u80a1\u5224\u65ad\u89c4\u5219\u4f53\u7cfb\uff0848 \u7ae0\uff0c\u542b\u6570\u5b57\u9608\u503c\u4e0e\u884c\u60c5\u56de\u6d4b\uff09",
+    "id": "201901060324/gator-method",
+    "language": "HTML",
+    "name": "201901060324/gator-method",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:36:33Z",
+    "url": "https://github.com/201901060324/gator-method"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 109605,
+    "updated_at": "2026-10-04T05:34:43Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T05:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "Python",
@@ -25,15 +124,6 @@
     "stars": 1022,
     "updated_at": "2026-10-04T05:26:28Z",
     "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "\u4ece 700+ \u7bc7\u6587\u7ae0\u300180 \u573a\u76f4\u64ad\u4e2d\u63d0\u70bc\u51fa\u7684 A \u80a1\u5224\u65ad\u89c4\u5219\u4f53\u7cfb\uff0848 \u7ae0\uff0c\u542b\u6570\u5b57\u9608\u503c\u4e0e\u884c\u60c5\u56de\u6d4b\uff09",
-    "id": "201901060324/gator-method",
-    "language": "HTML",
-    "name": "201901060324/gator-method",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:25:22Z",
-    "url": "https://github.com/201901060324/gator-method"
   },
   {
     "description": "TOON (Token-Oriented Object Notation) encoder for Ruby \u2014 compact, token-efficient serialization of JSON data for LLM pro",
@@ -63,24 +153,6 @@
     "url": "https://github.com/miyang-ai/alice_fanart"
   },
   {
-    "description": "A Socratic math tutor that never gives away the answer. Built with the Claude API (streaming, prefill, stop sequences) a",
-    "id": "petrecaLeo/socratic-equation-tutor",
-    "language": "Python",
-    "name": "petrecaLeo/socratic-equation-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:20:50Z",
-    "url": "https://github.com/petrecaLeo/socratic-equation-tutor"
-  },
-  {
-    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:29:40Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T05:15:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T05:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Version-controlled catalog of Dryvist LLM prompts",
@@ -329,17 +392,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25686,
-    "updated_at": "2026-10-04T05:26:54Z",
+    "updated_at": "2026-10-04T05:45:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn one news signal into a three-page executive brief.",
-    "id": "nodej-ai/signal-brief",
-    "language": "Python",
-    "name": "nodej-ai/signal-brief",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:47:14Z",
-    "url": "https://github.com/nodej-ai/signal-brief"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -394,59 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-04T04:42:09Z",
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "\u591a\u6a21\u6001\u5185\u5bb9\u7406\u89e3\u4e0e\u5de5\u5177\u7f16\u6392 Agent\uff1a\u5171\u4eab\u5411\u91cf\u7a7a\u95f4\u56fe\u6587\u68c0\u7d22 + Schema \u7ea6\u675f\u7684\u5de5\u5177\u8c03\u7528 + \u53ef\u6eaf\u6e90\u751f\u6210\uff0c\u652f\u6301 MCP \u534f\u8bae\u3001\u591a\u8f6e\u4f1a\u8bdd\u8bb0\u5fc6\u4e0e\u4e0a\u4e0b\u6587\u9884\u7b97\u3001ReAct \u591a\u6b65\u7f16\u6392\uff0c\u542b\u5206\u5c42\u79bb\u7ebf\u8bc4\u6d4b\u4e0e\u4e00\u952e\u590d\u73b0\u3002 | Multimodal cont",
-    "id": "fangyunok/multimodal-shopping-agent",
-    "language": "Python",
-    "name": "fangyunok/multimodal-shopping-agent",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:40:54Z",
-    "url": "https://github.com/fangyunok/multimodal-shopping-agent"
-  },
-  {
-    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
-    "id": "pero3dev/ai-agent-library",
-    "language": "JavaScript",
-    "name": "pero3dev/ai-agent-library",
-    "stars": 2,
-    "updated_at": "2026-10-04T04:39:20Z",
-    "url": "https://github.com/pero3dev/ai-agent-library"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-04T04:34:17Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
-    "id": "aiKunalBisht/Transcript-ai",
-    "language": "Python",
-    "name": "aiKunalBisht/Transcript-ai",
-    "stars": 3,
-    "updated_at": "2026-10-04T04:33:28Z",
-    "url": "https://github.com/aiKunalBisht/Transcript-ai"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 109598,
-    "updated_at": "2026-10-04T05:29:39Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "An AI advisory board for Claude: 17 documented thinking frameworks (Munger, Buffett, Jobs, Sun Tzu, Paul Graham, Karpath",
-    "id": "wolfqing/QadvisorSkills",
-    "language": "HTML",
-    "name": "wolfqing/QadvisorSkills",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:29:50Z",
-    "url": "https://github.com/wolfqing/QadvisorSkills"
   }
 ]
