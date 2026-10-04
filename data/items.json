@@ -1,12 +1,102 @@
 [
   {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 942,
+    "updated_at": "2026-10-04T07:43:51Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-10-04T07:30:25Z",
+    "updated_at": "2026-10-04T07:43:30Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-10-04T07:42:40Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
+    "id": "SunYanbox/ManualAid-Rust",
+    "language": "Rust",
+    "name": "SunYanbox/ManualAid-Rust",
+    "stars": 0,
+    "updated_at": "2026-10-04T07:42:06Z",
+    "url": "https://github.com/SunYanbox/ManualAid-Rust"
+  },
+  {
+    "description": "Alice \u4e8c\u521b\u7d20\u6750\u5e93\u4e0e\u57ab\u56fe\u89c4\u8303\uff08Alice / \u6d1b\u5c0f\u5c71\uff09",
+    "id": "miyang-ai/alice_fanart",
+    "language": "Python",
+    "name": "miyang-ai/alice_fanart",
+    "stars": 11,
+    "updated_at": "2026-10-04T07:41:53Z",
+    "url": "https://github.com/miyang-ai/alice_fanart"
+  },
+  {
+    "description": "Efectral DSL (v2.0.0) - El meta-lenguaje formal, determinista y tipado para programar la cognicion en Inteligencia Artif",
+    "id": "emprendimientojuliogallardo4-oss/efectral-dsl",
+    "language": "Python",
+    "name": "emprendimientojuliogallardo4-oss/efectral-dsl",
+    "stars": 0,
+    "updated_at": "2026-10-04T07:41:44Z",
+    "url": "https://github.com/emprendimientojuliogallardo4-oss/efectral-dsl"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-04T07:40:03Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T07:33:31Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Measure what your AI agent loads before you type a word: the context floor. Per-file attribution across Claude Code/Code",
+    "id": "ar33s08/contextfloor",
+    "language": "Python",
+    "name": "ar33s08/contextfloor",
+    "stars": 0,
+    "updated_at": "2026-10-04T07:33:14Z",
+    "url": "https://github.com/ar33s08/contextfloor"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-10-04T07:32:16Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T07:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
@@ -16,15 +106,6 @@
     "stars": 28,
     "updated_at": "2026-10-04T07:28:12Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Efectral DSL 4.0 \u2014 El meta-lenguaje formal, tipado y determinista para Inteligencia Artificial y Sistemas Ag\u00e9nticos. Pro",
-    "id": "emprendimientojuliogallardo4-oss/efectral-dsl",
-    "language": "Python",
-    "name": "emprendimientojuliogallardo4-oss/efectral-dsl",
-    "stars": 0,
-    "updated_at": "2026-10-04T07:27:38Z",
-    "url": "https://github.com/emprendimientojuliogallardo4-oss/efectral-dsl"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T07:26:35Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Alice \u4e8c\u521b\u7d20\u6750\u5e93\u4e0e\u57ab\u56fe\u89c4\u8303\uff08Alice / \u6d1b\u5c0f\u5c71\uff09",
-    "id": "miyang-ai/alice_fanart",
-    "language": "Python",
-    "name": "miyang-ai/alice_fanart",
-    "stars": 11,
-    "updated_at": "2026-10-04T07:26:29Z",
-    "url": "https://github.com/miyang-ai/alice_fanart"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -315,15 +387,6 @@
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
   },
   {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-10-04T07:18:20Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
     "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
     "id": "colortelevisiontubedavidhilbert296/filtrd",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T07:16:00Z",
     "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-10-04T07:15:42Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-10-04T07:15:31Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T07:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "An operating layer for your agent's judgment \u2014 instruction-only skills that make it verify before it acts, specify befor",
-    "id": "CodeWithJuber/wisdomlens",
-    "language": "JavaScript",
-    "name": "CodeWithJuber/wisdomlens",
-    "stars": 1,
-    "updated_at": "2026-10-04T07:15:21Z",
-    "url": "https://github.com/CodeWithJuber/wisdomlens"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-10-04T07:15:08Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 2,
-    "updated_at": "2026-10-04T07:15:06Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-10-04T07:14:50Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
   }
 ]
