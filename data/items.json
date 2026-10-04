@@ -1,5 +1,95 @@
 [
   {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 154770,
+    "updated_at": "2026-10-04T21:58:08Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-04T21:57:06Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-04T21:55:43Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:51:48Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 14,
+    "updated_at": "2026-10-04T21:49:13Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "CLI and TUI tool for generating LLM prompts from your code.",
+    "id": "seankim658/codeprompts",
+    "language": "Rust",
+    "name": "seankim658/codeprompts",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:48:46Z",
+    "url": "https://github.com/seankim658/codeprompts"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:47:34Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
+    "id": "rolling-codes/better-skill-creator",
+    "language": "Python",
+    "name": "rolling-codes/better-skill-creator",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:47:17Z",
+    "url": "https://github.com/rolling-codes/better-skill-creator"
+  },
+  {
+    "description": "Claude Code skill that turns basic prompts into high-performing prompts tuned for Claude Opus 5.5 or Sonnet 5.5",
+    "id": "lifeofpi-lgtm/prompt-optimizer",
+    "language": "\u2014",
+    "name": "lifeofpi-lgtm/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:45:49Z",
+    "url": "https://github.com/lifeofpi-lgtm/prompt-optimizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T21:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "id": "DenisSergeevitch/agents-best-practices",
     "language": "\u2014",
@@ -18,15 +108,6 @@
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
-    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
-    "id": "rolling-codes/better-skill-creator",
-    "language": "Python",
-    "name": "rolling-codes/better-skill-creator",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:44:15Z",
-    "url": "https://github.com/rolling-codes/better-skill-creator"
-  },
-  {
     "description": "FastAPI backend for storing, versioning, and retrieving LLM prompts with JWT auth",
     "id": "mbommakanti/PromptVault",
     "language": "Python",
@@ -36,15 +117,6 @@
     "url": "https://github.com/mbommakanti/PromptVault"
   },
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:38:16Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T21:36:51Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:35:45Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -85,8 +148,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25703,
-    "updated_at": "2026-10-04T21:33:18Z",
+    "stars": 25704,
+    "updated_at": "2026-10-04T21:56:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:30:33Z",
     "url": "https://github.com/legacyroar7-maker/ai-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T21:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-04T21:19:41Z",
+    "updated_at": "2026-10-04T21:57:03Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "conorbronsdon/agent-context-os",
     "stars": 29,
-    "updated_at": "2026-10-04T21:14:12Z",
+    "updated_at": "2026-10-04T21:52:07Z",
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T21:05:30Z",
     "url": "https://github.com/dburt-proex/PromptBP"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-04T21:05:15Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:04:34Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-04T21:02:59Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Visual prompt builder for ComfyUI: lighting clock, camera & film, palettes, random categories, template forms and a Shot",
-    "id": "perfectmodelslab/ComfyUI-PerfectLab",
-    "language": "JavaScript",
-    "name": "perfectmodelslab/ComfyUI-PerfectLab",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:58:22Z",
-    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-04T20:57:39Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Mathematical modelling competition (Faculty of Mathematics, Complutense University of Madrid), first prize: prompt engin",
-    "id": "jmolinero40/Clinical-NER-Prompt-Engineering",
-    "language": "Python",
-    "name": "jmolinero40/Clinical-NER-Prompt-Engineering",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:56:15Z",
-    "url": "https://github.com/jmolinero40/Clinical-NER-Prompt-Engineering"
   }
 ]
