@@ -1,5 +1,194 @@
 [
   {
+    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
+    "id": "DSeaStar/awesome-kling",
+    "language": "Python",
+    "name": "DSeaStar/awesome-kling",
+    "stars": 3,
+    "updated_at": "2026-10-04T03:15:01Z",
+    "url": "https://github.com/DSeaStar/awesome-kling"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 942,
+    "updated_at": "2026-10-04T03:14:49Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-10-04T03:14:39Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "One-file Cursor rule that kills bullet-point walls. Structured prose, tables, headings. Works with GPT-4o, Claude, Gemin",
+    "id": "Jcxu97/cursor-style-rule",
+    "language": "\u2014",
+    "name": "Jcxu97/cursor-style-rule",
+    "stars": 0,
+    "updated_at": "2026-10-04T03:13:54Z",
+    "url": "https://github.com/Jcxu97/cursor-style-rule"
+  },
+  {
+    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 0,
+    "updated_at": "2026-10-04T03:15:00Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11411,
+    "updated_at": "2026-10-04T03:10:49Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 61,
+    "updated_at": "2026-10-04T03:10:18Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Codex multi-agent workflow with versioned global rules and customized pstack. Sol plans, Astra advises, Luna executes. E",
+    "id": "PigeonAI-Yang/pigeonstack",
+    "language": "TypeScript",
+    "name": "PigeonAI-Yang/pigeonstack",
+    "stars": 1,
+    "updated_at": "2026-10-04T03:09:28Z",
+    "url": "https://github.com/PigeonAI-Yang/pigeonstack"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-04T03:08:31Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "56\u4e2a\u6c11\u65cf\u8bbe\u8ba1\u5408\u89c4\u5ba1\u67e5 Skill\uff08\u6c11\u65cf/\u5b97\u6559\u7981\u5fcc\u7ea2\u7ebf\u5ba1\u67e5\uff09",
+    "id": "apexlabskill/minzu-design-compliance-review",
+    "language": "\u2014",
+    "name": "apexlabskill/minzu-design-compliance-review",
+    "stars": 0,
+    "updated_at": "2026-10-04T03:08:30Z",
+    "url": "https://github.com/apexlabskill/minzu-design-compliance-review"
+  },
+  {
+    "description": "Prompts for GPT Image 2.5, written against the capability areas in OpenAI's announcement \u2014 each shipped with the image i",
+    "id": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
+    "stars": 25,
+    "updated_at": "2026-10-04T03:08:21Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
+  },
+  {
+    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
+    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
+    "stars": 6,
+    "updated_at": "2026-10-04T03:08:00Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
+  },
+  {
+    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "stars": 222,
+    "updated_at": "2026-10-04T03:07:22Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
+    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
+    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
+    "language": "JavaScript",
+    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
+    "stars": 19,
+    "updated_at": "2026-10-04T03:07:01Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
+  },
+  {
+    "description": "A 17-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-10-04T03:06:42Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "Awesome Happy Horse 1.0 Prompts",
+    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "stars": 7,
+    "updated_at": "2026-10-04T03:06:33Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
+  },
+  {
+    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
+    "id": "redwheeler3/penta-application-screener",
+    "language": "Python",
+    "name": "redwheeler3/penta-application-screener",
+    "stars": 1,
+    "updated_at": "2026-10-04T03:06:31Z",
+    "url": "https://github.com/redwheeler3/penta-application-screener"
+  },
+  {
+    "description": "awesome-seedance-2-prompt",
+    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
+    "stars": 10,
+    "updated_at": "2026-10-04T03:06:06Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Awesome GPT Image 2 Prompts",
+    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
+    "stars": 55,
+    "updated_at": "2026-10-04T03:05:25Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "Open library of 2,600+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-04T03:04:25Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T03:01:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -27,24 +216,6 @@
     "url": "https://github.com/nuttaruj/rolepod"
   },
   {
-    "description": "Open library of 2,600+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
-    "id": "hermes-hq/hodios",
-    "language": "TypeScript",
-    "name": "hermes-hq/hodios",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:58:27Z",
-    "url": "https://github.com/hermes-hq/hodios"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-04T02:57:15Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
     "id": "belajarcarabelajar/vivera",
     "language": "JavaScript",
@@ -68,17 +239,8 @@
     "language": "JavaScript",
     "name": "Moeeryani/Vibe-Coding-Production-Kit",
     "stars": 33,
-    "updated_at": "2026-10-04T03:01:32Z",
+    "updated_at": "2026-10-04T03:15:18Z",
     "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
-  },
-  {
-    "description": "Codex multi-agent workflow with versioned global rules and customized pstack. Sol plans, Astra advises, Luna executes. E",
-    "id": "PigeonAI-Yang/pigeonstack",
-    "language": "TypeScript",
-    "name": "PigeonAI-Yang/pigeonstack",
-    "stars": 1,
-    "updated_at": "2026-10-04T02:51:54Z",
-    "url": "https://github.com/PigeonAI-Yang/pigeonstack"
   },
   {
     "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
@@ -108,15 +270,6 @@
     "url": "https://github.com/terrylica/cc-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T02:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
     "id": "hampshirecottage-ai/ootk-thoth-engine",
     "language": "Python",
@@ -139,7 +292,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68835,
+    "stars": 68837,
     "updated_at": "2026-10-04T02:40:53Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -178,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T02:35:24Z",
     "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
-    "id": "redwheeler3/penta-application-screener",
-    "language": "Python",
-    "name": "redwheeler3/penta-application-screener",
-    "stars": 1,
-    "updated_at": "2026-10-04T02:34:59Z",
-    "url": "https://github.com/redwheeler3/penta-application-screener"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T02:29:44Z",
     "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 2,
-    "updated_at": "2026-10-04T02:29:43Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:29:37Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:29:23Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:29:19Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-10-04T02:26:55Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-10-04T02:26:33Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-10-04T02:26:11Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-10-04T02:26:09Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:25:47Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-10-04T02:25:46Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:25:45Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 144,
-    "updated_at": "2026-10-04T02:25:36Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:25:20Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Provider-agnostic LLM gateway (OpenAI, Anthropic) with fallback and a prompt evaluation suite: versioned templates, regr",
-    "id": "mustafajarrah/llm-gateway-eval",
-    "language": "Go",
-    "name": "mustafajarrah/llm-gateway-eval",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:25:19Z",
-    "url": "https://github.com/mustafajarrah/llm-gateway-eval"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:25:06Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-10-04T02:25:03Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
