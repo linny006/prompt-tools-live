@@ -1,5 +1,122 @@
 [
   {
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "id": "DenisSergeevitch/agents-best-practices",
+    "language": "\u2014",
+    "name": "DenisSergeevitch/agents-best-practices",
+    "stars": 2364,
+    "updated_at": "2026-10-04T21:44:55Z",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+  },
+  {
+    "description": "Curated AI skills and Claude Code plugins \u2014 reusable, versioned prompt templates and tools (skillshare/Codex compatible)",
+    "id": "rubicon/ai-skills",
+    "language": "Python",
+    "name": "rubicon/ai-skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:45:04Z",
+    "url": "https://github.com/rubicon/ai-skills"
+  },
+  {
+    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
+    "id": "rolling-codes/better-skill-creator",
+    "language": "Python",
+    "name": "rolling-codes/better-skill-creator",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:44:15Z",
+    "url": "https://github.com/rolling-codes/better-skill-creator"
+  },
+  {
+    "description": "FastAPI backend for storing, versioning, and retrieving LLM prompts with JWT auth",
+    "id": "mbommakanti/PromptVault",
+    "language": "Python",
+    "name": "mbommakanti/PromptVault",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:38:25Z",
+    "url": "https://github.com/mbommakanti/PromptVault"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:38:16Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:36:51Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:35:45Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:34:48Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Open-source AI workflows, prompts, assistants, Agent Skills, MCP tools and automation for ChatGPT, Claude, Grok, Gemini ",
+    "id": "alptugharun/ai-social-media-toolkit",
+    "language": "Python",
+    "name": "alptugharun/ai-social-media-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:33:58Z",
+    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25703,
+    "updated_at": "2026-10-04T21:33:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-10-04T21:31:54Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Everyday AI prompts to copy and paste: planning, emails, money, meals, travel, selling online, small business.",
+    "id": "legacyroar7-maker/ai-prompts",
+    "language": "\u2014",
+    "name": "legacyroar7-maker/ai-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:30:33Z",
+    "url": "https://github.com/legacyroar7-maker/ai-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T21:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
     "id": "christopherlouet/claude-base",
     "language": "Shell",
@@ -22,7 +139,7 @@
     "id": "google/mantis",
     "language": "Python",
     "name": "google/mantis",
-    "stars": 2308,
+    "stars": 2309,
     "updated_at": "2026-10-04T21:28:38Z",
     "url": "https://github.com/google/mantis"
   },
@@ -34,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:26:22Z",
     "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
-    "id": "rolling-codes/better-skill-creator",
-    "language": "Python",
-    "name": "rolling-codes/better-skill-creator",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:25:54Z",
-    "url": "https://github.com/rolling-codes/better-skill-creator"
   },
   {
     "description": "Agentic Operating System for web and mobile product development",
@@ -90,15 +198,6 @@
     "url": "https://github.com/GeiserX/lynxprompt-mcp"
   },
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:18:18Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "Arquitetura de agentes de IA em producao: memoria persistente, procedimento versionado, verificacao e fronteiras de conf",
     "id": "IsraelDev7/ai-agent-architecture",
     "language": "\u2014",
@@ -115,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-10-04T21:18:13Z",
     "url": "https://github.com/CursedPrograms/Image-Generator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T21:17:55Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-related dotfiles and configs",
@@ -180,15 +270,6 @@
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
-    "description": "Open-source AI workflows, prompts, assistants, Agent Skills, MCP tools and automation for ChatGPT, Claude, Grok, Gemini ",
-    "id": "alptugharun/ai-social-media-toolkit",
-    "language": "Python",
-    "name": "alptugharun/ai-social-media-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:15:07Z",
-    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
-  },
-  {
     "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
     "id": "lowmason/agent-skills",
     "language": "Python",
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 74416,
-    "updated_at": "2026-10-04T21:09:41Z",
+    "updated_at": "2026-10-04T21:30:35Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-10-04T21:09:33Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:09:17Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
   },
   {
     "description": "\u7d66\u975e\u6280\u8853\u7528\u6236\u8207 AI agent \u4f7f\u7528\u8005\u7684\u4e2d\u6587 meta instruction\uff1a\u91cd\u9ede\u4e0d\u662f\u8b93 AI \u76f2\u76ee\u670d\u5f9e\uff0c\u800c\u662f\u8981\u6c42\u5148\u6838\u5be6\u3001\u5c11\u4e82\u52d5\u3001\u53ef\u9a57\u6536\u3001\u51fa\u4e8b\u53ef\u8ffd\u6eaf\u3002",
@@ -277,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T21:06:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "FastAPI backend for storing, versioning, and retrieving LLM prompts with JWT auth",
-    "id": "mbommakanti/PromptVault",
-    "language": "Python",
-    "name": "mbommakanti/PromptVault",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:06:31Z",
-    "url": "https://github.com/mbommakanti/PromptVault"
   },
   {
     "description": "A practical Claude Code guide with clear mental models and copy-paste examples \u2014 setup, prompt engineering, slash comman",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:56:15Z",
     "url": "https://github.com/jmolinero40/Clinical-NER-Prompt-Engineering"
-  },
-  {
-    "description": "LLM-powered sales voice agent (loan-lead qualifier) with automated evaluation harness, LLM-as-judge scoring, versioned p",
-    "id": "mdashfaqq/ConvoForge-Voice-Agent",
-    "language": "Python",
-    "name": "mdashfaqq/ConvoForge-Voice-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:55:19Z",
-    "url": "https://github.com/mdashfaqq/ConvoForge-Voice-Agent"
-  },
-  {
-    "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
-    "id": "flashfrogluo/second-take",
-    "language": "Python",
-    "name": "flashfrogluo/second-take",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:53:47Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Homebrew tap for LynxPrompt CLI",
-    "id": "GeiserX/homebrew-lynxprompt",
-    "language": "Shell",
-    "name": "GeiserX/homebrew-lynxprompt",
-    "stars": 2,
-    "updated_at": "2026-10-04T20:53:07Z",
-    "url": "https://github.com/GeiserX/homebrew-lynxprompt"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 49,
-    "updated_at": "2026-10-04T20:52:00Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "A curated AI workflow product for marketing, brand, and product leaders. Free to read and copy; sign-in is earned throug",
-    "id": "nicoleminoza/house-style",
-    "language": "TypeScript",
-    "name": "nicoleminoza/house-style",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:49:34Z",
-    "url": "https://github.com/nicoleminoza/house-style"
-  },
-  {
-    "description": "The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain M",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 593,
-    "updated_at": "2026-10-04T20:48:27Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "UI/UX system for Claude Code: 71 plugins, 93 agents, 74 skills. Design mastery, archetypal design, accessibility, and fr",
-    "id": "HermeticOrmus/LibreUIUX-Claude-Code",
-    "language": "Shell",
-    "name": "HermeticOrmus/LibreUIUX-Claude-Code",
-    "stars": 111,
-    "updated_at": "2026-10-04T20:48:21Z",
-    "url": "https://github.com/HermeticOrmus/LibreUIUX-Claude-Code"
   }
 ]
