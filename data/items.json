@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI-related dotfiles and configs",
+    "id": "kubasejdak-org/dotfiles-ai",
+    "language": "Shell",
+    "name": "kubasejdak-org/dotfiles-ai",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:17:33Z",
+    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
+  },
+  {
+    "description": "Diff two LLM system prompts \u2014 token/cost deltas, sentence-level changes, overlap score; zero-dep CLI",
+    "id": "sulaimanvesal/promptdiff",
+    "language": "Python",
+    "name": "sulaimanvesal/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:17:31Z",
+    "url": "https://github.com/sulaimanvesal/promptdiff"
+  },
+  {
+    "description": "Build the right thing before building it right. 10 AI-augmented product discovery skills with matching prompts, Products",
+    "id": "deanpeters/AI-Augmented-Product-Discovery-Lab",
+    "language": "Python",
+    "name": "deanpeters/AI-Augmented-Product-Discovery-Lab",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:16:54Z",
+    "url": "https://github.com/deanpeters/AI-Augmented-Product-Discovery-Lab"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-10-04T21:16:39Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:16:25Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:16:19Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T21:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open-source AI workflows, prompts, assistants, Agent Skills, MCP tools and automation for ChatGPT, Claude, Grok, Gemini ",
     "id": "alptugharun/ai-social-media-toolkit",
     "language": "Python",
@@ -162,15 +225,6 @@
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   },
   {
-    "description": "AI-related dotfiles and configs",
-    "id": "kubasejdak-org/dotfiles-ai",
-    "language": "Shell",
-    "name": "kubasejdak-org/dotfiles-ai",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:07:49Z",
-    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -187,24 +241,6 @@
     "stars": 74414,
     "updated_at": "2026-10-04T21:09:41Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T21:01:02Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Build the right thing before building it right. 10 AI-augmented product discovery skills with matching prompts, Products",
-    "id": "deanpeters/AI-Augmented-Product-Discovery-Lab",
-    "language": "Python",
-    "name": "deanpeters/AI-Augmented-Product-Discovery-Lab",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:58:26Z",
-    "url": "https://github.com/deanpeters/AI-Augmented-Product-Discovery-Lab"
   },
   {
     "description": "Visual prompt builder for ComfyUI: lighting clock, camera & film, palettes, random categories, template forms and a Shot",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-04T20:40:37Z",
     "url": "https://github.com/Eltarras/thunc"
-  },
-  {
-    "description": "Free AI course for beginners: 53 lessons in English and Russian. CC BY 4.0. Site: https://aimayak.com",
-    "id": "hhcreativelab-lang/ai-mayak-course",
-    "language": "\u2014",
-    "name": "hhcreativelab-lang/ai-mayak-course",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:39:10Z",
-    "url": "https://github.com/hhcreativelab-lang/ai-mayak-course"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 57,
-    "updated_at": "2026-10-04T20:38:26Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "A personal marketplace of Agent Skills for organizing an Obsidian vault, compiling research into wikis, and writing prom",
-    "id": "bryancowan/skills",
-    "language": "Shell",
-    "name": "bryancowan/skills",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:02:43Z",
-    "url": "https://github.com/bryancowan/skills"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:33:04Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
   }
 ]
