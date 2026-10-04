@@ -1,5 +1,149 @@
 [
   {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:15:14Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2595,
+    "updated_at": "2026-10-04T01:14:54Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "589 searchable agent skills for GPT/Codex, Claude and OpenCode, including reproducible medical/physio literature researc",
+    "id": "yigityildiz0/universal-ai-skill-library",
+    "language": "Python",
+    "name": "yigityildiz0/universal-ai-skill-library",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:14:22Z",
+    "url": "https://github.com/yigityildiz0/universal-ai-skill-library"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "JavaScript",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:15:23Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Create Suno Prompts Using Gemini Flash, works with the Suno API. Create professional-looking timed word-for-word lyrics ",
+    "id": "Lumi-Script/Suno-Architect",
+    "language": "TypeScript",
+    "name": "Lumi-Script/Suno-Architect",
+    "stars": 46,
+    "updated_at": "2026-10-04T01:11:52Z",
+    "url": "https://github.com/Lumi-Script/Suno-Architect"
+  },
+  {
+    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
+    "id": "Calix-L/awesome-latex-skills",
+    "language": "Python",
+    "name": "Calix-L/awesome-latex-skills",
+    "stars": 177,
+    "updated_at": "2026-10-04T01:10:42Z",
+    "url": "https://github.com/Calix-L/awesome-latex-skills"
+  },
+  {
+    "description": "Assistant for junior security analysts - study project on Blue Team fundamentals, triage and defensive workflows.",
+    "id": "EDY075/edy-security-junior-analyst-ai",
+    "language": "\u2014",
+    "name": "EDY075/edy-security-junior-analyst-ai",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:10:18Z",
+    "url": "https://github.com/EDY075/edy-security-junior-analyst-ai"
+  },
+  {
+    "description": "Open library of 2,600+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:10:06Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "DIO prompt-engineering challenge for responsible customer-feedback analysis with AI.",
+    "id": "EDY075/desafios-criativos-dio",
+    "language": "\u2014",
+    "name": "EDY075/desafios-criativos-dio",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:09:25Z",
+    "url": "https://github.com/EDY075/desafios-criativos-dio"
+  },
+  {
+    "description": "\u26a1 PromptMaster Studio v3 \u2014 Zero-dependency Prompt Engineering & Meta-Optimization Suite with Diff Engine, Version Histor",
+    "id": "1nc0gn30/promptmaster-studio",
+    "language": "Python",
+    "name": "1nc0gn30/promptmaster-studio",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:09:12Z",
+    "url": "https://github.com/1nc0gn30/promptmaster-studio"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:09:02Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-10-04T01:06:25Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 75,
+    "updated_at": "2026-10-04T01:05:32Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Suno style recipes: 564 styles, CC0 \u00b7 by MUSAI Song \u00b7 musaisong.app",
+    "id": "samuelgrupolimex-prog/suno-style-recipes",
+    "language": "Python",
+    "name": "samuelgrupolimex-prog/suno-style-recipes",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:02:06Z",
+    "url": "https://github.com/samuelgrupolimex-prog/suno-style-recipes"
+  },
+  {
+    "description": "\ud83e\udd4a Mini Arena: a Claude skill that makes rival drafts fight it out and hands you only the winner. Works in regular Claude",
+    "id": "Brain-ai-biz/mini-arena",
+    "language": "\u2014",
+    "name": "Brain-ai-biz/mini-arena",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:01:26Z",
+    "url": "https://github.com/Brain-ai-biz/mini-arena"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T01:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
     "id": "ghalynho10/JobHunt",
     "language": "TypeScript",
@@ -45,31 +189,13 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Open library of 2,600+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
-    "id": "hermes-hq/hodios",
-    "language": "TypeScript",
-    "name": "hermes-hq/hodios",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:52:54Z",
-    "url": "https://github.com/hermes-hq/hodios"
-  },
-  {
     "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
     "id": "datasound-projects/Promptboard",
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-04T00:56:29Z",
+    "updated_at": "2026-10-04T01:09:49Z",
     "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "\ud83e\udd4a Mini Arena: a Claude skill that makes rival drafts fight it out and hands you only the winner. Works in regular Claude",
-    "id": "Brain-ai-biz/mini-arena",
-    "language": "\u2014",
-    "name": "Brain-ai-biz/mini-arena",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:52:25Z",
-    "url": "https://github.com/Brain-ai-biz/mini-arena"
   },
   {
     "description": "Agentic Operating System for web and mobile product development",
@@ -99,15 +225,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T00:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -115,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T00:44:27Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "\u26a1 PromptMaster Studio v3 \u2014 Zero-dependency Prompt Engineering & Meta-Optimization Suite with Diff Engine, Version Histor",
-    "id": "1nc0gn30/promptmaster-studio",
-    "language": "Python",
-    "name": "1nc0gn30/promptmaster-studio",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:43:24Z",
-    "url": "https://github.com/1nc0gn30/promptmaster-studio"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -153,15 +261,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:40:29Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -171,7 +270,7 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Interactive visual prompt builder for ComfyUI: time-of-day lighting, camera & film simulation, color palettes and random",
+    "description": "Visual prompt builder for ComfyUI: lighting clock, camera & film, palettes, random categories, template forms and a Shot",
     "id": "perfectmodelslab/ComfyUI-PerfectLab",
     "language": "JavaScript",
     "name": "perfectmodelslab/ComfyUI-PerfectLab",
@@ -196,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:31:05Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
-    "id": "Calix-L/awesome-latex-skills",
-    "language": "Python",
-    "name": "Calix-L/awesome-latex-skills",
-    "stars": 177,
-    "updated_at": "2026-10-04T00:34:57Z",
-    "url": "https://github.com/Calix-L/awesome-latex-skills"
   },
   {
     "description": "Local-first golden-file snapshot testing for prompts, skills, and agent instruction packs.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:01:20Z",
     "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
-    "description": "Fa\u00e7a prompts com a sua voz. Extens\u00e3o do VS Code: fale do seu jeito, o Claude lapida e o prompt chega pronto no Claude Co",
-    "id": "rodrigogadita/diz-ai",
-    "language": "JavaScript",
-    "name": "rodrigogadita/diz-ai",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:00:18Z",
-    "url": "https://github.com/rodrigogadita/diz-ai"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25682,
-    "updated_at": "2026-10-03T23:59:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Ultra-fast, zero-dependency PII masking and unmasking for AI prompts and LLM agents.",
-    "id": "lui01212/pii-masker-ai",
-    "language": "Python",
-    "name": "lui01212/pii-masker-ai",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:58:36Z",
-    "url": "https://github.com/lui01212/pii-masker-ai"
-  },
-  {
-    "description": "Same prompt, several models -- stopwatch or true race; the starting model judges (time is only one dimension)",
-    "id": "ellmos-ai/compare-race",
-    "language": "Python",
-    "name": "ellmos-ai/compare-race",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:57:50Z",
-    "url": "https://github.com/ellmos-ai/compare-race"
-  },
-  {
-    "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
-    "id": "davehallmon/problem-lens",
-    "language": "\u2014",
-    "name": "davehallmon/problem-lens",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:56:04Z",
-    "url": "https://github.com/davehallmon/problem-lens"
-  },
-  {
-    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
-    "id": "Moeeryani/Vibe-Coding-Production-Kit",
-    "language": "JavaScript",
-    "name": "Moeeryani/Vibe-Coding-Production-Kit",
-    "stars": 33,
-    "updated_at": "2026-10-04T00:48:32Z",
-    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:50:14Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-10-03T23:44:51Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Coursework, labs, and interactive visualizers for Generative AI, LLM orchestration, and Agentic AI systems using Python,",
-    "id": "lowkey999-netizen/genai-course-work",
-    "language": "Jupyter Notebook",
-    "name": "lowkey999-netizen/genai-course-work",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:44:08Z",
-    "url": "https://github.com/lowkey999-netizen/genai-course-work"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:43:59Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
