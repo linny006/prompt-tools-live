@@ -1,5 +1,131 @@
 [
   {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-10-04T21:29:57Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 13,
+    "updated_at": "2026-10-04T21:29:52Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+    "id": "google/mantis",
+    "language": "Python",
+    "name": "google/mantis",
+    "stars": 2308,
+    "updated_at": "2026-10-04T21:28:38Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:26:22Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Build Claude Code skills that trigger correctly \u2014 multi-angle design analysis, adversarial review, six quality gates, an",
+    "id": "rolling-codes/better-skill-creator",
+    "language": "Python",
+    "name": "rolling-codes/better-skill-creator",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:25:54Z",
+    "url": "https://github.com/rolling-codes/better-skill-creator"
+  },
+  {
+    "description": "Agentic Operating System for web and mobile product development",
+    "id": "rotem914/ProjectOS",
+    "language": "JavaScript",
+    "name": "rotem914/ProjectOS",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:23:12Z",
+    "url": "https://github.com/rotem914/ProjectOS"
+  },
+  {
+    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
+    "id": "Calix-L/awesome-latex-skills",
+    "language": "Python",
+    "name": "Calix-L/awesome-latex-skills",
+    "stars": 178,
+    "updated_at": "2026-10-04T21:27:43Z",
+    "url": "https://github.com/Calix-L/awesome-latex-skills"
+  },
+  {
+    "description": "A LangGraph-powered multi-agent AI research assistant featuring parallel analyst workflows, human-in-the-loop feedback, ",
+    "id": "SKR18156592/multi-agent-research-assistant",
+    "language": "Jupyter Notebook",
+    "name": "SKR18156592/multi-agent-research-assistant",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:22:27Z",
+    "url": "https://github.com/SKR18156592/multi-agent-research-assistant"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 6,
+    "updated_at": "2026-10-04T21:21:42Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "MCP Server for LynxPrompt \u2014 browse, search, and manage AI configuration blueprints (AGENTS.md, CLAUDE.md) via MCP",
+    "id": "GeiserX/lynxprompt-mcp",
+    "language": "Go",
+    "name": "GeiserX/lynxprompt-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:21:04Z",
+    "url": "https://github.com/GeiserX/lynxprompt-mcp"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:18:18Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Arquitetura de agentes de IA em producao: memoria persistente, procedimento versionado, verificacao e fronteiras de conf",
+    "id": "IsraelDev7/ai-agent-architecture",
+    "language": "\u2014",
+    "name": "IsraelDev7/ai-agent-architecture",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:18:13Z",
+    "url": "https://github.com/IsraelDev7/ai-agent-architecture"
+  },
+  {
+    "description": "This project leverages the SDXL-Turbo model for versatile image processing tasks. Offering a simple command-line interfa",
+    "id": "CursedPrograms/Image-Generator",
+    "language": "Python",
+    "name": "CursedPrograms/Image-Generator",
+    "stars": 10,
+    "updated_at": "2026-10-04T21:18:13Z",
+    "url": "https://github.com/CursedPrograms/Image-Generator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T21:17:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-related dotfiles and configs",
     "id": "kubasejdak-org/dotfiles-ai",
     "language": "Shell",
@@ -50,17 +176,8 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-04T21:16:19Z",
+    "updated_at": "2026-10-04T21:19:41Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T21:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open-source AI workflows, prompts, assistants, Agent Skills, MCP tools and automation for ChatGPT, Claude, Grok, Gemini ",
@@ -106,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:13:05Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74416,
+    "updated_at": "2026-10-04T21:09:41Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -234,15 +360,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74414,
-    "updated_at": "2026-10-04T21:09:41Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Visual prompt builder for ComfyUI: lighting clock, camera & film, palettes, random categories, template forms and a Shot",
     "id": "perfectmodelslab/ComfyUI-PerfectLab",
     "language": "JavaScript",
@@ -279,15 +396,6 @@
     "url": "https://github.com/mdashfaqq/ConvoForge-Voice-Agent"
   },
   {
-    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 13,
-    "updated_at": "2026-10-04T21:03:09Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
     "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
     "id": "flashfrogluo/second-take",
     "language": "Python",
@@ -306,15 +414,6 @@
     "url": "https://github.com/GeiserX/homebrew-lynxprompt"
   },
   {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 6,
-    "updated_at": "2026-10-04T20:52:14Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
@@ -322,15 +421,6 @@
     "stars": 49,
     "updated_at": "2026-10-04T20:52:00Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
-    "id": "Calix-L/awesome-latex-skills",
-    "language": "Python",
-    "name": "Calix-L/awesome-latex-skills",
-    "stars": 178,
-    "updated_at": "2026-10-04T20:55:39Z",
-    "url": "https://github.com/Calix-L/awesome-latex-skills"
   },
   {
     "description": "A curated AI workflow product for marketing, brand, and product leaders. Free to read and copy; sign-in is earned throug",
@@ -358,95 +448,5 @@
     "stars": 111,
     "updated_at": "2026-10-04T20:48:21Z",
     "url": "https://github.com/HermeticOrmus/LibreUIUX-Claude-Code"
-  },
-  {
-    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
-    "id": "Almotasembellahawwad/Verve",
-    "language": "TypeScript",
-    "name": "Almotasembellahawwad/Verve",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:00:57Z",
-    "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
-    "id": "yangzhou-chaofan/awesome-jev-prompt",
-    "language": "CSS",
-    "name": "yangzhou-chaofan/awesome-jev-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:46:32Z",
-    "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 49,
-    "updated_at": "2026-10-04T20:46:10Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "A collection of 210 agent skills across 23 categories \u2014 the reference library for my Hermes Agent environment.",
-    "id": "loggger101/Hermes_Skills",
-    "language": "HTML",
-    "name": "loggger101/Hermes_Skills",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:45:58Z",
-    "url": "https://github.com/loggger101/Hermes_Skills"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 9,
-    "updated_at": "2026-10-04T20:50:53Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:44:21Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:42:50Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:42:48Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13535,
-    "updated_at": "2026-10-04T20:42:25Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
-    "id": "Eltarras/thunc",
-    "language": "Python",
-    "name": "Eltarras/thunc",
-    "stars": 2,
-    "updated_at": "2026-10-04T20:40:37Z",
-    "url": "https://github.com/Eltarras/thunc"
   }
 ]
