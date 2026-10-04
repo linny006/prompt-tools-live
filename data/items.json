@@ -1,12 +1,102 @@
 [
   {
-    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
-    "id": "kwokwile/awesome-aigc-tools",
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-04T09:59:59Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Claude Code \u5de5\u4f5c\u53f0\uff1a\u591a\u884c\u72b6\u6001\u680f\uff08\u4e0a\u4e0b\u6587/5 \u5c0f\u65f6/\u5468\u989d\u5ea6\uff09\u3001\u8f93\u5165\u6846\u4e0a\u65b9\u52a9\u624b\u680f\uff08\u63d0\u793a\u8bcd\u589e\u5f3a\u3001\u4e0b\u4e00\u6b65\u5efa\u8bae\u3001\u5207\u6a21\u578b\u4e0e\u63a8\u7406\u5f3a\u5ea6\u3001\u5b50\u4ee3\u7406\u8fdb\u5ea6\uff09\u3002Windows/macOS \u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "limin940603/cc-workbench",
+    "language": "JavaScript",
+    "name": "limin940603/cc-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-04T09:58:58Z",
+    "url": "https://github.com/limin940603/cc-workbench"
+  },
+  {
+    "description": "Visual prompt builder for ComfyUI: lighting clock, camera & film, palettes, random categories, template forms and a Shot",
+    "id": "perfectmodelslab/ComfyUI-PerfectLab",
+    "language": "JavaScript",
+    "name": "perfectmodelslab/ComfyUI-PerfectLab",
+    "stars": 1,
+    "updated_at": "2026-10-04T09:58:17Z",
+    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-10-04T09:57:45Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Codex multi-agent workflow with versioned global rules and customized pstack. Sol plans, Astra advises, Luna executes. E",
+    "id": "PigeonAI-Yang/pigeonstack",
     "language": "TypeScript",
-    "name": "kwokwile/awesome-aigc-tools",
+    "name": "PigeonAI-Yang/pigeonstack",
+    "stars": 1,
+    "updated_at": "2026-10-04T09:57:25Z",
+    "url": "https://github.com/PigeonAI-Yang/pigeonstack"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "Python",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 42,
+    "updated_at": "2026-10-04T09:54:47Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-04T09:54:37Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "A clan of orcs hauling a solo dev's mundane chores, so the code wins the glory.",
+    "id": "karloows/orchraft",
+    "language": "Shell",
+    "name": "karloows/orchraft",
     "stars": 2,
-    "updated_at": "2026-10-04T09:44:48Z",
-    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+    "updated_at": "2026-10-04T09:53:55Z",
+    "url": "https://github.com/karloows/orchraft"
+  },
+  {
+    "description": "\u628a\u9898\u76ee\u4e22\u7ed9 AI\uff0c\u8ba9\u5b83\u7528\u5927\u767d\u8bdd\u3001\u751f\u6d3b\u4f8b\u5b50\u548c\u201c\u4e3a\u4ec0\u4e48\u201d\uff0c\u4e00\u76f4\u8bb2\u5230\u4f60\u61c2 | Simple & sustainable AI learning prompts",
+    "id": "FanBroWell/simple-learning-prompts",
+    "language": "Python",
+    "name": "FanBroWell/simple-learning-prompts",
+    "stars": 1,
+    "updated_at": "2026-10-04T09:52:07Z",
+    "url": "https://github.com/FanBroWell/simple-learning-prompts"
+  },
+  {
+    "description": "\u8de8\u5de5\u5177 AI \u8bb0\u5fc6\u5e93\uff1a\u4e00\u4e2a\u7eaf Markdown \u76ee\u5f55 + \u89c4\u5219\u4f53\u7cfb + \u95e8\u7981\u811a\u672c\uff0c\u51e0\u4e4e\u96f6\u914d\u7f6e\uff08\u4f5c\u8005\u7528 Obsidian \u67e5\u770b\uff09 / A cross-tool AI memory vault: a plain Markdown folder ",
+    "id": "star-nebula/ai-memory-vault",
+    "language": "Python",
+    "name": "star-nebula/ai-memory-vault",
+    "stars": 0,
+    "updated_at": "2026-10-04T09:49:21Z",
+    "url": "https://github.com/star-nebula/ai-memory-vault"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-04T09:47:38Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
     "description": "Hybrid adaptive memory system for Claude Code \u2014 Cheatsheet (positive patterns) + Immune (negative patterns)",
@@ -14,8 +104,26 @@
     "language": "JavaScript",
     "name": "Mnemoclaw/immune",
     "stars": 0,
-    "updated_at": "2026-10-04T09:44:23Z",
+    "updated_at": "2026-10-04T09:47:28Z",
     "url": "https://github.com/Mnemoclaw/immune"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T09:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-10-04T09:44:48Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
   },
   {
     "description": "Six Claude Code skills + an unattended build loop, each measured with and without the plugin. 19/19 evals passing.",
@@ -72,15 +180,6 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
-    "description": "A clan of orcs hauling a solo dev's mundane chores, so the code wins the glory.",
-    "id": "karloows/orchraft",
-    "language": "Shell",
-    "name": "karloows/orchraft",
-    "stars": 2,
-    "updated_at": "2026-10-04T09:34:07Z",
-    "url": "https://github.com/karloows/orchraft"
-  },
-  {
     "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
     "id": "projectbom/dev-guard",
     "language": "TypeScript",
@@ -106,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-10-04T09:30:58Z",
     "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T09:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Context engineering toolkit for LLMs \u2014 pack, cache, debug, red-team, and orchestrate context windows. Council of Experts",
@@ -189,15 +279,6 @@
     "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
   },
   {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:22:36Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -238,7 +319,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28250,
+    "stars": 28251,
     "updated_at": "2026-10-04T09:18:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T09:15:00Z",
     "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:14:46Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-04T09:14:30Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:13:59Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:13:44Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "id": "Spielewoy/autoprompt-skill",
-    "language": "JavaScript",
-    "name": "Spielewoy/autoprompt-skill",
-    "stars": 1298,
-    "updated_at": "2026-10-04T09:13:14Z",
-    "url": "https://github.com/Spielewoy/autoprompt-skill"
-  },
-  {
-    "description": "Official portfolio of Kia (KiaAgentX): 60 production projects, live previews, in-site source viewer, skills & pricing. T",
-    "id": "KiaAgentX/portfolio",
-    "language": "HTML",
-    "name": "KiaAgentX/portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:34:35Z",
-    "url": "https://github.com/KiaAgentX/portfolio"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:11:49Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Prompts IA en francais testes, avec images avant/apres. Par Formez-vous a l'IA (FVIA).",
-    "id": "ottomatepro-beep/prompts-ia-francais",
-    "language": "\u2014",
-    "name": "ottomatepro-beep/prompts-ia-francais",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:11:40Z",
-    "url": "https://github.com/ottomatepro-beep/prompts-ia-francais"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:10:56Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
