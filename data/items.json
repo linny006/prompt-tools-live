@@ -1,5 +1,59 @@
 [
   {
+    "description": "Kia soul + 11 skill modules distilled from 60 production projects - give this address to any agent (start with SOUL.md).",
+    "id": "KiaAgentX/skills",
+    "language": "\u2014",
+    "name": "KiaAgentX/skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T08:30:17Z",
+    "url": "https://github.com/KiaAgentX/skills"
+  },
+  {
+    "description": "Official portfolio of Kia (KiaAgentX): 60 production projects, live previews, in-site source viewer, skills & pricing. T",
+    "id": "KiaAgentX/portfolio",
+    "language": "HTML",
+    "name": "KiaAgentX/portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-04T08:30:13Z",
+    "url": "https://github.com/KiaAgentX/portfolio"
+  },
+  {
+    "description": "Open library of 2,600+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-04T08:29:08Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 7,
+    "updated_at": "2026-10-04T08:28:41Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 13,
+    "updated_at": "2026-10-04T08:29:00Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-04T08:24:15Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-augmented software and product engineer \u2014 agent pipelines run under a written harness, and the Next.js / TypeScript p",
     "id": "brandonperfetti/brandonperfetti",
     "language": "JavaScript",
@@ -61,15 +115,6 @@
     "stars": 172,
     "updated_at": "2026-10-04T08:15:49Z",
     "url": "https://github.com/wellwelwel/lagune"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-04T08:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An autonomous, multi-agent curriculum designer built with the Google Agent Development Kit (ADK) and Gemini 2.0. Automat",
@@ -153,15 +198,6 @@
     "url": "https://github.com/Wenaixi/dsh-ponytail"
   },
   {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-10-04T08:09:30Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
     "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
     "id": "fernando-bertholdo/4-successful-AI-life",
     "language": "Python",
@@ -243,15 +279,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 7,
-    "updated_at": "2026-10-04T07:54:10Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
     "description": "\u793e\u533a\u5171\u5efa\u7684 DSH\uff08DeepSeek Harness\uff09\u4e13\u5bb6/\u4e13\u5bb6\u56e2\u7cbe\u9009\u4e0e\u8d21\u732e\u4ed3\u5e93\uff1aMarkdown+manifest \u5b9a\u4e49\u4e13\u5bb6\uff0c\u626b\u63cf\u5668\u81ea\u52a8\u751f\u6210\u76ee\u5f55\uff0c\u672a\u6765\u4ee5 DSH \u63d2\u4ef6\u5f62\u5f0f\u96c6\u6210\u3002",
     "id": "fuchao2pku/awesome-dsh-experts",
     "language": "JavaScript",
@@ -274,7 +301,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 109649,
+    "stars": 109650,
     "updated_at": "2026-10-04T07:51:14Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T07:25:11Z",
     "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-10-04T07:24:30Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Espanso triggers that rewrite rough drafts into precise, structured LLM prompts via OpenRouter, Anthropic, Ollama or LM ",
-    "id": "vlastimilbures/espanso-prompt-rewriter",
-    "language": "Python",
-    "name": "vlastimilbures/espanso-prompt-rewriter",
-    "stars": 1,
-    "updated_at": "2026-10-04T07:58:43Z",
-    "url": "https://github.com/vlastimilbures/espanso-prompt-rewriter"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-10-04T07:24:09Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
