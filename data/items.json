@@ -1,12 +1,156 @@
 [
   {
+    "description": "\u9a71\u52a8 agent\uff0c\u5e2e\u4f60\u628a\u623f\u9009\u597d \u00b7 \u9700\u6c42\u3001\u653f\u7b56\u3001\u57ce\u5e02\u89c4\u5212\u3001\u5e02\u573a\u52a8\u6001\u4e00\u4f53\u5316\u7684\u8d2d\u623f\u51b3\u7b56\u4f53\u7cfb\u3002Drive your agent, choose the right home.",
+    "id": "ohwald/house-ops",
+    "language": "JavaScript",
+    "name": "ohwald/house-ops",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:00:23Z",
+    "url": "https://github.com/ohwald/house-ops"
+  },
+  {
+    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
+    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "language": "HTML",
+    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:58:36Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
+  },
+  {
+    "description": "Zero-dependency, high-performance CLI for prompt enhancement, markdown restructuring, offline image prompt assembly, and",
+    "id": "dotcommander/prompter",
+    "language": "Go",
+    "name": "dotcommander/prompter",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:58:03Z",
+    "url": "https://github.com/dotcommander/prompter"
+  },
+  {
+    "description": "Custom mode for DeepSeek Harness (dsh): edit a mode's system prompt, base mode and plugin switches in a settings page th",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 6,
+    "updated_at": "2026-10-05T06:57:39Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 13,
+    "updated_at": "2026-10-05T06:54:44Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25712,
+    "updated_at": "2026-10-05T07:00:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "Python",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:54:09Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
+    "id": "JGRFW/comfyui-AICG3D",
+    "language": "Python",
+    "name": "JGRFW/comfyui-AICG3D",
+    "stars": 123,
+    "updated_at": "2026-10-05T06:53:02Z",
+    "url": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  {
+    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:58:01Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
     "description": "Call an LLM like a typed Python function. Docstring is the prompt, return type is the contract.",
     "id": "Eltarras/thunc",
     "language": "Python",
     "name": "Eltarras/thunc",
     "stars": 2,
-    "updated_at": "2026-10-05T06:45:10Z",
+    "updated_at": "2026-10-05T06:51:40Z",
     "url": "https://github.com/Eltarras/thunc"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:49:20Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-10-05T06:55:20Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Epistemic discipline for AI assistants \u2014 truth statuses, an error registry, mutation-tested guards. Plain files, git as ",
+    "id": "nowespojrzenie/HEXAGRAM",
+    "language": "Shell",
+    "name": "nowespojrzenie/HEXAGRAM",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:48:14Z",
+    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
+  },
+  {
+    "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt \u2014 Sora \u00b7 Kling \u00b7 Veo \u00b7 Seedance. 21 gen",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "Python",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 454,
+    "updated_at": "2026-10-05T06:47:39Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
+    "description": "The toolchain that stops AI coding agents from writing broken, deprecated code.",
+    "id": "Aaditya1273/Agent.md",
+    "language": "\u2014",
+    "name": "Aaditya1273/Agent.md",
+    "stars": 8,
+    "updated_at": "2026-10-05T06:46:25Z",
+    "url": "https://github.com/Aaditya1273/Agent.md"
+  },
+  {
+    "description": "\ud83c\udfa8 AI \u56fe\u50cf\u63d0\u793a\u8bcd\u753b\u5eca \u2014 541+1497\u6761\u7cbe\u9009\u6848\u4f8b\u751f\u56fe\u63d0\u793a\u8bcd\uff0c\u4e3agpt-image-2\u7b49\u6a21\u578b\u63d0\u4f9b\u53c2\u8003\uff0c\u6bcf\u5468\u81ea\u52a8\u66f4\u65b0",
+    "id": "Sxuan-Coder/ImagePromptHub",
+    "language": "TypeScript",
+    "name": "Sxuan-Coder/ImagePromptHub",
+    "stars": 2,
+    "updated_at": "2026-10-05T06:45:44Z",
+    "url": "https://github.com/Sxuan-Coder/ImagePromptHub"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-05T06:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -14,17 +158,8 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-05T06:44:36Z",
+    "updated_at": "2026-10-05T06:59:15Z",
     "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25711,
-    "updated_at": "2026-10-05T06:44:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,15 +180,6 @@
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
-    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
-    "id": "JGRFW/comfyui-AICG3D",
-    "language": "Python",
-    "name": "JGRFW/comfyui-AICG3D",
-    "stars": 123,
-    "updated_at": "2026-10-05T06:42:37Z",
-    "url": "https://github.com/JGRFW/comfyui-AICG3D"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -68,7 +194,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 65,
-    "updated_at": "2026-10-05T06:43:21Z",
+    "updated_at": "2026-10-05T06:59:57Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -117,15 +243,6 @@
     "url": "https://github.com/m-sanchez/u-pack"
   },
   {
-    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:44:05Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "\u65b0\u624b\u53cb\u597d\u7684\u53cc\u8bed\u6280\u672f\u57f9\u8bad\u4e0e\u8bfe\u7a0b\u5f00\u53d1 Skill | Beginner-friendly bilingual technical training and course-development skill",
     "id": "550YU/Zlearning",
     "language": "\u2014",
@@ -133,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:37:29Z",
     "url": "https://github.com/550YU/Zlearning"
-  },
-  {
-    "description": "\u9a71\u52a8 agent\uff0c\u5e2e\u4f60\u628a\u623f\u9009\u597d \u00b7 \u9700\u6c42\u3001\u653f\u7b56\u3001\u57ce\u5e02\u89c4\u5212\u3001\u5e02\u573a\u52a8\u6001\u4e00\u4f53\u5316\u7684\u8d2d\u623f\u51b3\u7b56\u4f53\u7cfb\u3002Drive your agent, choose the right home.",
-    "id": "ohwald/house-ops",
-    "language": "JavaScript",
-    "name": "ohwald/house-ops",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:37:12Z",
-    "url": "https://github.com/ohwald/house-ops"
   },
   {
     "description": "Photo Skills R8 \u2014 A+B+C \u5408\u5305\uff1a\u771f\u5b9e\u6444\u5f71\u540e\u671f \u00b7 Photo Zine \u7f16\u8f91\u8bbe\u8ba1 \u00b7 \u4eba\u50cf\u771f\u5b9e\u5904\u7406\u3002\u9762\u5411 AI Agent \u5de5\u4f5c\u6d41\u7684\u7167\u7247\u6280\u80fd\u5305\u3002",
@@ -175,8 +283,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28258,
-    "updated_at": "2026-10-05T06:32:03Z",
+    "stars": 28259,
+    "updated_at": "2026-10-05T07:00:27Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -196,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T06:30:52Z",
     "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-05T06:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Download every AI skill, agent, plugin and MCP server you find without breaking your coding agent. Tools stay parked on ",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:10:51Z",
     "url": "https://github.com/pkong-173/Digital-Lab-Coach-v0.1.2.3"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:10:40Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:10:38Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-10-05T06:10:18Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-10-05T06:10:15Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:10:12Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:09:57Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/UR",
-    "id": "MohamedAbdallah-14/unslop",
-    "language": "Python",
-    "name": "MohamedAbdallah-14/unslop",
-    "stars": 153,
-    "updated_at": "2026-10-05T06:09:58Z",
-    "url": "https://github.com/MohamedAbdallah-14/unslop"
-  },
-  {
-    "description": "Local-first workspace to compose prompts, run coding tasks on Kanban boards, and reuse agent profiles, skills, and knowl",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:36:45Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:09:15Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
-    "id": "redwheeler3/penta-application-screener",
-    "language": "Python",
-    "name": "redwheeler3/penta-application-screener",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:08:54Z",
-    "url": "https://github.com/redwheeler3/penta-application-screener"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:06:42Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
