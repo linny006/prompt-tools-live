@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 05:29 UTC
+> ⏰ Last updated: 2026-10-05 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pkong-173/Digital-Lab-Coach-v0.1.2.3](https://github.com/pkong-173/Digital-Lab-Coach-v0.1.2.3) | 0 | Python | 2026-10-05 | 🛠️ UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool |
-| 2 | [fangyunok/multimodal-shopping-agent](https://github.com/fangyunok/multimodal-shopping-agent) | 0 | Python | 2026-10-05 | 多模态内容理解与工具编排 Agent：共享向量空间图文检索 + Schema 约束的工具调用 + 可溯源生成，支持 MCP 协议、多轮会话记忆与上下文预算、ReAct 多步编排，含分层离线评测与一键复现。 \| Multimodal cont |
-| 3 | [miguelcotrinaia/gcp-ai-agent-starter-kit](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) | 21 | Jupyter Notebook | 2026-10-05 | Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery). |
-| 4 | [giladbarnea/soft-skills](https://github.com/giladbarnea/soft-skills) | 0 | Python | 2026-10-05 | Communication toolkit for burnt-out humans and collaborative AI's |
-| 5 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 8 | JavaScript | 2026-10-05 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 6 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 0 | TypeScript | 2026-10-05 | Write a GitHub Issue. Your AI agent takes it to a merged PR — the same way in every project. |
-| 7 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 11 | TypeScript | 2026-10-05 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 8 | [twaldin/hone](https://github.com/twaldin/hone) | 47 | TypeScript | 2026-10-05 | CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required |
-| 9 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-05 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-05 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [pkong-173/Digital-Lab-Coach-v0.1.2.3](https://github.com/pkong-173/Digital-Lab-Coach-v0.1.2.3) | 0 | Python | 2026-10-05 | 🛠️ UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool |
+| 3 | [fangyunok/multimodal-shopping-agent](https://github.com/fangyunok/multimodal-shopping-agent) | 0 | Python | 2026-10-05 | 多模态内容理解与工具编排 Agent：共享向量空间图文检索 + Schema 约束的工具调用 + 可溯源生成，支持 MCP 协议、多轮会话记忆与上下文预算、ReAct 多步编排，含分层离线评测与一键复现。 \| Multimodal cont |
+| 4 | [miguelcotrinaia/gcp-ai-agent-starter-kit](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) | 21 | Jupyter Notebook | 2026-10-05 | Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery). |
+| 5 | [giladbarnea/soft-skills](https://github.com/giladbarnea/soft-skills) | 0 | Python | 2026-10-05 | Communication toolkit for burnt-out humans and collaborative AI's |
+| 6 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 8 | JavaScript | 2026-10-05 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 7 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 0 | TypeScript | 2026-10-05 | Write a GitHub Issue. Your AI agent takes it to a merged PR — the same way in every project. |
+| 8 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 11 | TypeScript | 2026-10-05 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 9 | [twaldin/hone](https://github.com/twaldin/hone) | 47 | TypeScript | 2026-10-05 | CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required |
 | 10 | [flexigpt/flexigpt-app](https://github.com/flexigpt/flexigpt-app) | 4 | Go | 2026-10-05 | Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history  |
 | 11 | [Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1027 | Python | 2026-10-05 | 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。 |
 | 12 | [minipuft/claude-prompts-mcp](https://github.com/minipuft/claude-prompts-mcp) | 187 | TypeScript | 2026-10-05 | MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with  |
