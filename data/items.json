@@ -5,17 +5,17 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-10-05T12:28:07Z",
+    "updated_at": "2026-10-05T12:30:08Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25717,
-    "updated_at": "2026-10-05T12:27:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-05T12:28:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
@@ -25,6 +25,15 @@
     "stars": 6107,
     "updated_at": "2026-10-05T12:28:36Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25717,
+    "updated_at": "2026-10-05T12:27:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -130,7 +139,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 155541,
+    "stars": 155542,
     "updated_at": "2026-10-05T12:21:47Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -142,6 +151,15 @@
     "stars": 344,
     "updated_at": "2026-10-05T12:21:45Z",
     "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "EN Skill for coding agents: turns work done with a human into a build-along tutorial. It\u2019s suitable not only for code. M",
+    "id": "FLS76/build-with-me",
+    "language": "\u2014",
+    "name": "FLS76/build-with-me",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:20:44Z",
+    "url": "https://github.com/FLS76/build-with-me"
   },
   {
     "description": "Switch AIs without re-explaining everything.",
@@ -162,13 +180,13 @@
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-05T12:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "mlflow/mlflow",
+    "stars": 28262,
+    "updated_at": "2026-10-05T12:18:49Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "My personal Claude Code skills",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22384,
-    "updated_at": "2026-10-05T12:28:32Z",
+    "updated_at": "2026-10-05T12:29:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T11:46:29Z",
     "url": "https://github.com/malkreide/idea-synthesis-skill"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:45:49Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-05T11:45:04Z",
-    "url": "https://github.com/doodersrage/castcut"
   }
 ]
