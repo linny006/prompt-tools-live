@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "pkong-173/Digital-Lab-Coach-v0.1.2.3",
+    "language": "Python",
+    "name": "pkong-173/Digital-Lab-Coach-v0.1.2.3",
+    "stars": 0,
+    "updated_at": "2026-10-05T05:26:53Z",
+    "url": "https://github.com/pkong-173/Digital-Lab-Coach-v0.1.2.3"
+  },
+  {
+    "description": "\u591a\u6a21\u6001\u5185\u5bb9\u7406\u89e3\u4e0e\u5de5\u5177\u7f16\u6392 Agent\uff1a\u5171\u4eab\u5411\u91cf\u7a7a\u95f4\u56fe\u6587\u68c0\u7d22 + Schema \u7ea6\u675f\u7684\u5de5\u5177\u8c03\u7528 + \u53ef\u6eaf\u6e90\u751f\u6210\uff0c\u652f\u6301 MCP \u534f\u8bae\u3001\u591a\u8f6e\u4f1a\u8bdd\u8bb0\u5fc6\u4e0e\u4e0a\u4e0b\u6587\u9884\u7b97\u3001ReAct \u591a\u6b65\u7f16\u6392\uff0c\u542b\u5206\u5c42\u79bb\u7ebf\u8bc4\u6d4b\u4e0e\u4e00\u952e\u590d\u73b0\u3002 | Multimodal cont",
+    "id": "fangyunok/multimodal-shopping-agent",
+    "language": "Python",
+    "name": "fangyunok/multimodal-shopping-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T05:25:19Z",
+    "url": "https://github.com/fangyunok/multimodal-shopping-agent"
+  },
+  {
+    "description": "Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery).",
+    "id": "miguelcotrinaia/gcp-ai-agent-starter-kit",
+    "language": "Jupyter Notebook",
+    "name": "miguelcotrinaia/gcp-ai-agent-starter-kit",
+    "stars": 21,
+    "updated_at": "2026-10-05T05:23:55Z",
+    "url": "https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit"
+  },
+  {
+    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
+    "id": "giladbarnea/soft-skills",
+    "language": "Python",
+    "name": "giladbarnea/soft-skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T05:21:19Z",
+    "url": "https://github.com/giladbarnea/soft-skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-05T05:20:41Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-05T05:28:37Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-05T05:19:02Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required",
+    "id": "twaldin/hone",
+    "language": "TypeScript",
+    "name": "twaldin/hone",
+    "stars": 47,
+    "updated_at": "2026-10-05T05:17:34Z",
+    "url": "https://github.com/twaldin/hone"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-05T05:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
     "id": "flexigpt/flexigpt-app",
     "language": "Go",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 187,
-    "updated_at": "2026-10-05T05:12:48Z",
+    "updated_at": "2026-10-05T05:24:41Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T05:13:10Z",
     "url": "https://github.com/niels-emmer/myace"
-  },
-  {
-    "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:13:56Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
@@ -68,7 +140,7 @@
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 0,
-    "updated_at": "2026-10-05T05:10:53Z",
+    "updated_at": "2026-10-05T05:22:00Z",
     "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 14,
     "updated_at": "2026-10-05T05:00:58Z",
     "url": "https://github.com/AMRITO-KUNDU/llmscribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-05T05:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
@@ -198,15 +261,6 @@
     "url": "https://github.com/nicoleminoza/house-style"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-05T05:07:31Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4913,
-    "updated_at": "2026-10-05T04:27:13Z",
+    "updated_at": "2026-10-05T05:20:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/kangraemin/claude-inspector"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-05T04:20:41Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
     "id": "Unclecheng-li/AI_Animation",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T04:20:20Z",
     "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-10-05T04:20:06Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-10-05T04:19:48Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-10-05T04:19:39Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-10-05T04:19:37Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-10-05T04:19:26Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
   }
 ]
