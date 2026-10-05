@@ -1,12 +1,174 @@
 [
   {
+    "description": "Regression alarms for prompts and skills: fixed cases, deterministic scorers, and an alarm when a change scores worse th",
+    "id": "eliferres/eval-alarm",
+    "language": "Python",
+    "name": "eliferres/eval-alarm",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:15:04Z",
+    "url": "https://github.com/eliferres/eval-alarm"
+  },
+  {
+    "description": "\u50cf\u642d\u79ef\u6728\u4e00\u6837\u62fcPrompt - \u53ef\u89c6\u5316Prompt\u7ec4\u88c5\u5de5\u5177",
+    "id": "wyjing333-dev/promptblocks",
+    "language": "HTML",
+    "name": "wyjing333-dev/promptblocks",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:13:26Z",
+    "url": "https://github.com/wyjing333-dev/promptblocks"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 3,
+    "updated_at": "2026-10-05T00:14:29Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 4,
+    "updated_at": "2026-10-05T00:12:29Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
+  },
+  {
+    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
+    "id": "Calix-L/awesome-latex-skills",
+    "language": "Python",
+    "name": "Calix-L/awesome-latex-skills",
+    "stars": 178,
+    "updated_at": "2026-10-05T00:10:31Z",
+    "url": "https://github.com/Calix-L/awesome-latex-skills"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13535,
+    "updated_at": "2026-10-05T00:09:29Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Free AI course for beginners: 53 lessons in English and Russian. CC BY 4.0. Site: https://aimayak.com",
+    "id": "hhcreativelab-lang/ai-mayak-course",
+    "language": "\u2014",
+    "name": "hhcreativelab-lang/ai-mayak-course",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:09:26Z",
+    "url": "https://github.com/hhcreativelab-lang/ai-mayak-course"
+  },
+  {
+    "description": "idealjs \u7684 AI skill \u96c6\u5408\uff1a\u6bcf\u4e2a skill \u90fd\u751f\u957f\u81ea\u771f\u5b9e\u7684\u4eba\u673a\u5bf9\u8bdd\u2014\u2014\u7ed9 AI \u7684\u64cd\u4f5c\u6307\u5f15\uff0c\u7ed9\u4eba\u7684\u6765\u9f99\u53bb\u8109\u3002code-tree / distill / ai-era-tutorial (AI skills distille",
+    "id": "idealjs/skills",
+    "language": "\u2014",
+    "name": "idealjs/skills",
+    "stars": 4,
+    "updated_at": "2026-10-05T00:09:21Z",
+    "url": "https://github.com/idealjs/skills"
+  },
+  {
+    "description": "Portfolio of Admiral Walker, Founder & CEO of UnHidden Holdings LLC. Cloud and AI product builder. Scittle, Slyvoryn, PA",
+    "id": "admralwalker/admralwalker.github.io",
+    "language": "HTML",
+    "name": "admralwalker/admralwalker.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:08:29Z",
+    "url": "https://github.com/admralwalker/admralwalker.github.io"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22378,
+    "updated_at": "2026-10-05T00:08:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Universal Tampermonkey prompt-button panel for ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity, and other AI chat si",
+    "id": "vacterro/AI-Chat-Buttons",
+    "language": "JavaScript",
+    "name": "vacterro/AI-Chat-Buttons",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:06:59Z",
+    "url": "https://github.com/vacterro/AI-Chat-Buttons"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-05T00:06:43Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-05T00:06:32Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-10-05T00:05:13Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 13,
+    "updated_at": "2026-10-05T00:04:23Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "A curated AI workflow product for marketing, brand, and product leaders. Free to read and copy; sign-in is earned throug",
+    "id": "nicoleminoza/house-style",
+    "language": "TypeScript",
+    "name": "nicoleminoza/house-style",
+    "stars": 3,
+    "updated_at": "2026-10-05T00:04:11Z",
+    "url": "https://github.com/nicoleminoza/house-style"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:02:51Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 11,
-    "updated_at": "2026-10-05T00:00:26Z",
+    "updated_at": "2026-10-05T00:00:54Z",
     "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "CSE v1.0: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
+    "id": "limabravoecho-collab/canonical-substrate-engine",
+    "language": "Python",
+    "name": "limabravoecho-collab/canonical-substrate-engine",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:00:51Z",
+    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
   },
   {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
@@ -16,15 +178,6 @@
     "stars": 434,
     "updated_at": "2026-10-04T23:59:29Z",
     "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "CSE v1.0: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
-    "id": "limabravoecho-collab/canonical-substrate-engine",
-    "language": "Python",
-    "name": "limabravoecho-collab/canonical-substrate-engine",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:59:15Z",
-    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
   },
   {
     "description": "Oversized bootstrap files silently truncate. Audit and trim OpenClaw bootstrap surfaces before sessions start broken.",
@@ -45,29 +198,11 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Portfolio of Admiral Walker, Founder & CEO of UnHidden Holdings LLC. Cloud and AI product builder. Scittle, Slyvoryn, PA",
-    "id": "admralwalker/admralwalker.github.io",
-    "language": "HTML",
-    "name": "admralwalker/admralwalker.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:57:55Z",
-    "url": "https://github.com/admralwalker/admralwalker.github.io"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-04T23:56:58Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 154848,
+    "stars": 154858,
     "updated_at": "2026-10-04T23:55:20Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -90,24 +225,6 @@
     "url": "https://github.com/apoapostolov/humanizer"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-10-04T23:52:21Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
-    "id": "eric-sabe/engsys",
-    "language": "JavaScript",
-    "name": "eric-sabe/engsys",
-    "stars": 3,
-    "updated_at": "2026-10-04T23:51:12Z",
-    "url": "https://github.com/eric-sabe/engsys"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -121,7 +238,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 39695,
+    "stars": 39696,
     "updated_at": "2026-10-04T23:45:13Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -153,15 +270,6 @@
     "url": "https://github.com/api-evangelist/vellum"
   },
   {
-    "description": "LaTeX manuscript workflows with five agent skills, project diagnostics, reproducible builds and offline change review.",
-    "id": "Calix-L/awesome-latex-skills",
-    "language": "Python",
-    "name": "Calix-L/awesome-latex-skills",
-    "stars": 178,
-    "updated_at": "2026-10-04T23:49:34Z",
-    "url": "https://github.com/Calix-L/awesome-latex-skills"
-  },
-  {
     "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
     "id": "api-evangelist/taste",
     "language": "\u2014",
@@ -169,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T23:39:59Z",
     "url": "https://github.com/api-evangelist/taste"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22377,
-    "updated_at": "2026-10-04T23:39:56Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
@@ -283,7 +382,7 @@
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 942,
+    "stars": 943,
     "updated_at": "2026-10-04T23:31:52Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T23:30:56Z",
     "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:30:13Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:30:07Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:27:39Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:27:36Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:27:36Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-10-04T23:27:32Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:26:45Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:26:13Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-04T23:25:58Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:25:42Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:25:31Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
