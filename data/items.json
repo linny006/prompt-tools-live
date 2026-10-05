@@ -1,12 +1,147 @@
 [
   {
+    "description": "22 lessons building generative AI apps with the Google Gemini API \u2014 quizzes, graded exercises, and every API claim verif",
+    "id": "Himanshu-paghadar/ai-engineering-with-gemini",
+    "language": "Python",
+    "name": "Himanshu-paghadar/ai-engineering-with-gemini",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:44:59Z",
+    "url": "https://github.com/Himanshu-paghadar/ai-engineering-with-gemini"
+  },
+  {
+    "description": "\u751f\u6210\u5f0f\u5a92\u4f53\uff1a\u56fe\u7247\u751f\u6210\uff08ComfyUI Z-Image-Turbo / \u65b9\u821f Seedream\uff09+ \u89c6\u9891\u751f\u6210\uff08Seedance / local fastvideo3\uff09\u77e5\u8bc6\u5e93\u4e0e\u4f5c\u54c1\u96c6",
+    "id": "THZSummer/gen-media",
+    "language": "Python",
+    "name": "THZSummer/gen-media",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:44:13Z",
+    "url": "https://github.com/THZSummer/gen-media"
+  },
+  {
     "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
     "id": "adambkovacs/candidate-experience-benchmark",
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-10-05T12:30:08Z",
+    "updated_at": "2026-10-05T12:43:21Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T12:42:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:42:12Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "Official hands-on labs, operational prompts, and automation benchmarks for the IEEE Computer Society Region 8 AI Caravan",
+    "id": "RobinaMirbahar/ai-administrator-caravan-2026",
+    "language": "\u2014",
+    "name": "RobinaMirbahar/ai-administrator-caravan-2026",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:41:17Z",
+    "url": "https://github.com/RobinaMirbahar/ai-administrator-caravan-2026"
+  },
+  {
+    "description": "Claude Skill for seed-based idea synthesis over a Notion knowledge base, with provenance",
+    "id": "malkreide/idea-synthesis-skill",
+    "language": "\u2014",
+    "name": "malkreide/idea-synthesis-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:41:02Z",
+    "url": "https://github.com/malkreide/idea-synthesis-skill"
+  },
+  {
+    "description": "Production-grade RAG system for multilingual question answering over YouTube video content. Final project Ironhack AI Bo",
+    "id": "DanielHuette/Multilingual_YouTube_Analyzer",
+    "language": "Jupyter Notebook",
+    "name": "DanielHuette/Multilingual_YouTube_Analyzer",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:40:31Z",
+    "url": "https://github.com/DanielHuette/Multilingual_YouTube_Analyzer"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-05T12:41:21Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
+    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "language": "HTML",
+    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:36:47Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
+  },
+  {
+    "description": "Espanso triggers that rewrite rough drafts into precise, structured LLM prompts via OpenRouter, Anthropic, Ollama or LM ",
+    "id": "vlastimilbures/espanso-prompt-rewriter",
+    "language": "Python",
+    "name": "vlastimilbures/espanso-prompt-rewriter",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:36:48Z",
+    "url": "https://github.com/vlastimilbures/espanso-prompt-rewriter"
+  },
+  {
+    "description": "Queue prompts for ChatGPT, Claude, Gemini, Google AI Mode & DeepSeek \u2014 the next one auto-sends when the AI finishes repl",
+    "id": "thegreatLUCY/prompt-stacker",
+    "language": "JavaScript",
+    "name": "thegreatLUCY/prompt-stacker",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:33:06Z",
+    "url": "https://github.com/thegreatLUCY/prompt-stacker"
+  },
+  {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:32:54Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35396,
+    "updated_at": "2026-10-05T12:43:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u7b80\u660e\u6280\u672f\u4e2d\u6587 / Simplified Technical Chinese: a controlled language for Chinese technical writing, modelled on ASD-STE100. 40 r",
+    "id": "mzopedia/simplified-technical-chinese",
+    "language": "Python",
+    "name": "mzopedia/simplified-technical-chinese",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:31:23Z",
+    "url": "https://github.com/mzopedia/simplified-technical-chinese"
+  },
+  {
+    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
+    "id": "aalbeek-ai/voice-evals",
+    "language": "\u2014",
+    "name": "aalbeek-ai/voice-evals",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:30:36Z",
+    "url": "https://github.com/aalbeek-ai/voice-evals"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 11,
-    "updated_at": "2026-10-05T12:28:42Z",
+    "updated_at": "2026-10-05T12:30:32Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -31,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25717,
+    "stars": 25718,
     "updated_at": "2026-10-05T12:27:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -58,27 +193,9 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "Python",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68933,
+    "stars": 68934,
     "updated_at": "2026-10-05T12:26:27Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "\u751f\u6210\u5f0f\u5a92\u4f53\uff1a\u56fe\u7247\u751f\u6210\uff08ComfyUI Z-Image-Turbo / \u65b9\u821f Seedream\uff09+ \u89c6\u9891\u751f\u6210\uff08Seedance / local fastvideo3\uff09\u77e5\u8bc6\u5e93\u4e0e\u4f5c\u54c1\u96c6",
-    "id": "THZSummer/gen-media",
-    "language": "Python",
-    "name": "THZSummer/gen-media",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:26:15Z",
-    "url": "https://github.com/THZSummer/gen-media"
-  },
-  {
-    "description": "Espanso triggers that rewrite rough drafts into precise, structured LLM prompts via OpenRouter, Anthropic, Ollama or LM ",
-    "id": "vlastimilbures/espanso-prompt-rewriter",
-    "language": "Python",
-    "name": "vlastimilbures/espanso-prompt-rewriter",
-    "stars": 1,
-    "updated_at": "2026-10-05T12:27:27Z",
-    "url": "https://github.com/vlastimilbures/espanso-prompt-rewriter"
   },
   {
     "description": "Write a GitHub Issue. Your AI agent takes it to a merged PR \u2014 the same way in every project.",
@@ -139,7 +256,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 155542,
+    "stars": 155555,
     "updated_at": "2026-10-05T12:21:47Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -167,7 +284,7 @@
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 12,
-    "updated_at": "2026-10-05T12:20:37Z",
+    "updated_at": "2026-10-05T12:42:08Z",
     "url": "https://github.com/spidey889/context-generator"
   },
   {
@@ -184,7 +301,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28262,
+    "stars": 28263,
     "updated_at": "2026-10-05T12:18:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -223,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T12:13:19Z",
     "url": "https://github.com/theluckystrike/claudflow.com"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-05T12:24:04Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -306,15 +414,6 @@
     "url": "https://github.com/moiz-za/svg-design-intelligence-system"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35395,
-    "updated_at": "2026-10-05T12:27:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -342,111 +441,12 @@
     "url": "https://github.com/rafaelfgx/AI"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-05T12:24:15Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "Communication toolkit for burnt-out humans and collaborative AI's",
     "id": "giladbarnea/soft-skills",
     "language": "\u2014",
     "name": "giladbarnea/soft-skills",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-05T12:00:54Z",
     "url": "https://github.com/giladbarnea/soft-skills"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-05T12:00:48Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Agent skill that stops the ten AI slop-UI tells in any interface: gradient abuse, rainbow palettes, fake status badges, ",
-    "id": "airtaxi/frontend-slop-guard",
-    "language": "\u2014",
-    "name": "airtaxi/frontend-slop-guard",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:00:25Z",
-    "url": "https://github.com/airtaxi/frontend-slop-guard"
-  },
-  {
-    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
-    "id": "aalbeek-ai/voice-evals",
-    "language": "\u2014",
-    "name": "aalbeek-ai/voice-evals",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:59:15Z",
-    "url": "https://github.com/aalbeek-ai/voice-evals"
-  },
-  {
-    "description": "One rough sentence in. A reviewed run plan out. Planner, approval gate, worker and web UI for Claude Code runs.",
-    "id": "crizex/promptwerk",
-    "language": "Python",
-    "name": "crizex/promptwerk",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:58:23Z",
-    "url": "https://github.com/crizex/promptwerk"
-  },
-  {
-    "description": "",
-    "id": "ai-engineering-curriculum/applied-ai-engineer-learning",
-    "language": "\u2014",
-    "name": "ai-engineering-curriculum/applied-ai-engineer-learning",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:57:44Z",
-    "url": "https://github.com/ai-engineering-curriculum/applied-ai-engineer-learning"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 942,
-    "updated_at": "2026-10-05T11:57:29Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "\u7b80\u660e\u6280\u672f\u4e2d\u6587 / Simplified Technical Chinese: a controlled language for Chinese technical writing, modelled on ASD-STE100. 40 r",
-    "id": "mzopedia/simplified-technical-chinese",
-    "language": "Python",
-    "name": "mzopedia/simplified-technical-chinese",
-    "stars": 3,
-    "updated_at": "2026-10-05T11:53:36Z",
-    "url": "https://github.com/mzopedia/simplified-technical-chinese"
-  },
-  {
-    "description": "Advanced local AI prompt generator for image & video models \u2014 reference images, dataset creation, prompt refinement, mod",
-    "id": "Jolanoff/goated-prompter",
-    "language": "Python",
-    "name": "Jolanoff/goated-prompter",
-    "stars": 7,
-    "updated_at": "2026-10-05T11:50:56Z",
-    "url": "https://github.com/Jolanoff/goated-prompter"
-  },
-  {
-    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
-    "id": "AhmedMerza/agent-skills",
-    "language": "Python",
-    "name": "AhmedMerza/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:50:20Z",
-    "url": "https://github.com/AhmedMerza/agent-skills"
-  },
-  {
-    "description": "Claude Skill for seed-based idea synthesis over a Notion knowledge base, with provenance",
-    "id": "malkreide/idea-synthesis-skill",
-    "language": "\u2014",
-    "name": "malkreide/idea-synthesis-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:46:29Z",
-    "url": "https://github.com/malkreide/idea-synthesis-skill"
   }
 ]
