@@ -1,12 +1,129 @@
 [
   {
+    "description": "Agent Skills for Claude Code, built and used in production: client-site pipeline, scroll-choreographed WebGL particle mo",
+    "id": "igdigitallab/claude-skills",
+    "language": "JavaScript",
+    "name": "igdigitallab/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:44:21Z",
+    "url": "https://github.com/igdigitallab/claude-skills"
+  },
+  {
+    "description": "A personal command language for conversation. Composable prompts, local learning, and portable MCP integration.",
+    "id": "sonofakel/steerlang",
+    "language": "JavaScript",
+    "name": "sonofakel/steerlang",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:43:01Z",
+    "url": "https://github.com/sonofakel/steerlang"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 81,
+    "updated_at": "2026-10-06T01:40:48Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7231,
+    "updated_at": "2026-10-06T01:40:44Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:40:12Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "HoonStyle/agent-policy-radar",
+    "language": "Python",
+    "name": "HoonStyle/agent-policy-radar",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:39:46Z",
+    "url": "https://github.com/HoonStyle/agent-policy-radar"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-06T01:39:37Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25730,
+    "updated_at": "2026-10-06T01:37:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
+    "id": "ystk-kai/claude-harness",
+    "language": "Shell",
+    "name": "ystk-kai/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:37:19Z",
+    "url": "https://github.com/ystk-kai/claude-harness"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74459,
+    "updated_at": "2026-10-06T01:37:39Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI image generation prompt flow example app focused on prompt engineering and prompt optimization, comparing models GPT ",
+    "id": "backblaze-b2-samples/image-generation-prompt-flow",
+    "language": "TypeScript",
+    "name": "backblaze-b2-samples/image-generation-prompt-flow",
+    "stars": 4,
+    "updated_at": "2026-10-06T01:36:02Z",
+    "url": "https://github.com/backblaze-b2-samples/image-generation-prompt-flow"
+  },
+  {
     "description": "A tiny YAML-driven eval harness for LLM prompts and agents",
     "id": "GuillermoBarreto/evalkit",
     "language": "Python",
     "name": "GuillermoBarreto/evalkit",
     "stars": 0,
-    "updated_at": "2026-10-06T01:29:44Z",
+    "updated_at": "2026-10-06T01:33:57Z",
     "url": "https://github.com/GuillermoBarreto/evalkit"
+  },
+  {
+    "description": "Enterprise-Grade Engineering Narrative & Resume Verification Engine for AI Agents (Claude Code, Gemini CLI, Codex)",
+    "id": "CHOOSLA/jasoforge",
+    "language": "Python",
+    "name": "CHOOSLA/jasoforge",
+    "stars": 1,
+    "updated_at": "2026-10-06T01:32:46Z",
+    "url": "https://github.com/CHOOSLA/jasoforge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T01:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Free AI course for beginners: 53 lessons in English and Russian. CC BY 4.0. Site: https://aimayak.com",
@@ -27,21 +144,12 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "AI image generation prompt flow example app focused on prompt engineering and prompt optimization, comparing models GPT ",
-    "id": "backblaze-b2-samples/image-generation-prompt-flow",
-    "language": "TypeScript",
-    "name": "backblaze-b2-samples/image-generation-prompt-flow",
-    "stars": 4,
-    "updated_at": "2026-10-06T01:30:20Z",
-    "url": "https://github.com/backblaze-b2-samples/image-generation-prompt-flow"
-  },
-  {
     "description": "Espanso triggers that rewrite rough drafts into precise, structured LLM prompts via OpenRouter, Anthropic, Ollama or LM ",
     "id": "vlastimilbures/espanso-prompt-rewriter",
     "language": "Python",
     "name": "vlastimilbures/espanso-prompt-rewriter",
     "stars": 1,
-    "updated_at": "2026-10-06T01:28:26Z",
+    "updated_at": "2026-10-06T01:45:07Z",
     "url": "https://github.com/vlastimilbures/espanso-prompt-rewriter"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/Khyodaattu/awesome-skillkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T01:25:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
     "id": "randolfglorious1317/skillpack",
     "language": "TypeScript",
@@ -94,7 +193,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 110010,
+    "stars": 110013,
     "updated_at": "2026-10-06T01:25:28Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -158,7 +257,7 @@
     "language": "JavaScript",
     "name": "Moeeryani/Vibe-Coding-Production-Kit",
     "stars": 35,
-    "updated_at": "2026-10-06T01:27:39Z",
+    "updated_at": "2026-10-06T01:45:24Z",
     "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
   },
   {
@@ -234,15 +333,6 @@
     "url": "https://github.com/twaldin/hone"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74459,
-    "updated_at": "2026-10-06T01:26:50Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -275,7 +365,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28274,
-    "updated_at": "2026-10-06T01:17:59Z",
+    "updated_at": "2026-10-06T01:37:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T01:14:49Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:14:40Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:14:29Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-10-06T01:14:28Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-10-06T01:14:18Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 2,
-    "updated_at": "2026-10-06T01:14:16Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:14:09Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
-  },
-  {
-    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
-    "id": "Scenic-urochordate607/claude-emotion-prompting",
-    "language": "\u2014",
-    "name": "Scenic-urochordate607/claude-emotion-prompting",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:13:51Z",
-    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "Cognitive Layer Language (CLL) \u2014 a DSL that makes LLM output structure predictable and auditable, especially where the t",
-    "id": "ZitoMorenoTech/cognitive-layer-language",
-    "language": "\u2014",
-    "name": "ZitoMorenoTech/cognitive-layer-language",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:13:51Z",
-    "url": "https://github.com/ZitoMorenoTech/cognitive-layer-language"
-  },
-  {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:13:50Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:13:36Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
   }
 ]
