@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open-source browser workspace for writing, improving, organizing, and reusing AI prompts.",
+    "id": "AlmostArtist/PROMPTIFY",
+    "language": "TypeScript",
+    "name": "AlmostArtist/PROMPTIFY",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:00:12Z",
+    "url": "https://github.com/AlmostArtist/PROMPTIFY"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-10-06T04:58:14Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
+    "id": "tsetsugekka/AGENTS.md",
+    "language": "Python",
+    "name": "tsetsugekka/AGENTS.md",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:57:27Z",
+    "url": "https://github.com/tsetsugekka/AGENTS.md"
+  },
+  {
+    "description": "A 17-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-10-06T04:56:03Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "\u8425\u9500\u6587\u6848\u4e8b\u5b9e\u5ba1\u6821\u4e0e\u89c6\u9891\u5408\u6210 Agent\uff1aQwen \u7ecf MCP \u68c0\u7d22\u8d44\u6599\u9010\u53e5\u6838\u67e5\uff0c\u7f3a\u8bc1\u636e\u5373\u505c\u6b62\uff1b5 \u79cd\u68c0\u7d22\u7b56\u7565 Hit@5 10%\u219243.3%\uff0c4B/14B \u5bf9\u7167\u7559\u51fa\u96c6 75%\u2192100%\uff1b148 \u6d4b\u8bd5\u3001OTEL/Prometheus \u53ef\u89c2\u6d4b\u3001",
+    "id": "fangyunok/claim-studio",
+    "language": "Python",
+    "name": "fangyunok/claim-studio",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:55:29Z",
+    "url": "https://github.com/fangyunok/claim-studio"
+  },
+  {
+    "description": "\ud83c\udf9e\ufe0f The ultimate Seedance-2 video prompt dataset (12GB+). 2000+ video generation prompts with full metadata and preview f",
+    "id": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "language": "Python",
+    "name": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "stars": 3,
+    "updated_at": "2026-10-06T04:54:30Z",
+    "url": "https://github.com/Goku-OpenLab/seedance-2-prompts-datasets"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "HTML",
+    "name": "coco-research/coco",
+    "stars": 448,
+    "updated_at": "2026-10-06T04:54:21Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "PromptDrifter \u2013 one\u2011command CI guardrail that catches prompt drift and fails the build when your LLM answers change.",
+    "id": "Code-and-Sorts/PromptDrifter",
+    "language": "Python",
+    "name": "Code-and-Sorts/PromptDrifter",
+    "stars": 9,
+    "updated_at": "2026-10-06T04:51:36Z",
+    "url": "https://github.com/Code-and-Sorts/PromptDrifter"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-10-06T04:49:39Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Nano Banana Pro (Gemini 3 Pro Image) \u5168\u7f51\u6700\u5168\u63d0\u793a\u8bcd 908+ \u6848\u4f8b\uff0c\u9644\u6548\u679c\u56fe\u4e0e\u5728\u7ebf\u56fe\u5e93 | Best Nano Banana Pro prompts with images",
+    "id": "xianyu110/awesome-nanobananapro-prompts",
+    "language": "HTML",
+    "name": "xianyu110/awesome-nanobananapro-prompts",
+    "stars": 813,
+    "updated_at": "2026-10-06T04:49:03Z",
+    "url": "https://github.com/xianyu110/awesome-nanobananapro-prompts"
+  },
+  {
+    "description": "A Claude Skill that tells you what to do first about a problem: five solutions from five lens families plus an Occam's R",
+    "id": "davehallmon/problem-lens",
+    "language": "Python",
+    "name": "davehallmon/problem-lens",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:46:57Z",
+    "url": "https://github.com/davehallmon/problem-lens"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:46:27Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Agent Skill for distinctive, consistent AI-video faces \u2014 reduce cast convergence and identity drift.",
+    "id": "hongzuoj-pixel/distinct-video-faces",
+    "language": "Python",
+    "name": "hongzuoj-pixel/distinct-video-faces",
+    "stars": 1,
+    "updated_at": "2026-10-06T04:46:06Z",
+    "url": "https://github.com/hongzuoj-pixel/distinct-video-faces"
+  },
+  {
+    "description": "Tell your AI agent the change. It files the GitHub Issue and takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:45:37Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T04:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
     "id": "pkong-173/Digital-Lab-Coach-v0.1.2.3",
     "language": "Python",
@@ -23,7 +158,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-06T04:42:52Z",
+    "updated_at": "2026-10-06T04:53:41Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -40,18 +175,9 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 110033,
+    "stars": 110035,
     "updated_at": "2026-10-06T04:42:15Z",
     "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "A Claude Skill that tells you what to do first about a problem: five solutions from five lens families plus an Occam's R",
-    "id": "davehallmon/problem-lens",
-    "language": "Python",
-    "name": "davehallmon/problem-lens",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:43:55Z",
-    "url": "https://github.com/davehallmon/problem-lens"
   },
   {
     "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
@@ -61,15 +187,6 @@
     "stars": 35,
     "updated_at": "2026-10-06T04:41:08Z",
     "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
-  },
-  {
-    "description": "Tell your AI agent the change. It files the GitHub Issue and takes it to a merged PR \u2014 the same way in every project.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:42:45Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -97,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T04:36:51Z",
     "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-10-06T04:36:32Z",
-    "url": "https://github.com/nuttaruj/rolepod"
   },
   {
     "description": "Open-source agent skills for writing, editing, summarization, and business communications.",
@@ -162,22 +270,13 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "Agent Skill for distinctive, consistent AI-video faces \u2014 reduce cast convergence and identity drift.",
-    "id": "hongzuoj-pixel/distinct-video-faces",
+    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
+    "id": "LeydLayd/RAG",
     "language": "Python",
-    "name": "hongzuoj-pixel/distinct-video-faces",
+    "name": "LeydLayd/RAG",
     "stars": 0,
-    "updated_at": "2026-10-06T04:31:15Z",
-    "url": "https://github.com/hongzuoj-pixel/distinct-video-faces"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T04:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "updated_at": "2026-10-06T04:30:52Z",
+    "url": "https://github.com/LeydLayd/RAG"
   },
   {
     "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
@@ -198,15 +297,6 @@
     "url": "https://github.com/kiritype/AtelierX"
   },
   {
-    "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
-    "id": "tsetsugekka/AGENTS.md",
-    "language": "Python",
-    "name": "tsetsugekka/AGENTS.md",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:26:09Z",
-    "url": "https://github.com/tsetsugekka/AGENTS.md"
-  },
-  {
     "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
     "id": "ZeroLu/awesome-seedance-2.5",
     "language": "Shell",
@@ -221,7 +311,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 187,
-    "updated_at": "2026-10-06T04:43:24Z",
+    "updated_at": "2026-10-06T04:59:52Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -247,7 +337,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74464,
+    "stars": 74465,
     "updated_at": "2026-10-06T04:23:11Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -358,95 +448,5 @@
     "stars": 13537,
     "updated_at": "2026-10-06T04:05:19Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 25.7% token\u3002why use many token when one Chi",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:04:51Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
-    "description": "Portable open-source Second Brain framework and governance toolkit (v0.1.0)",
-    "id": "DiaryOfUranus/second-brain-framework",
-    "language": "Python",
-    "name": "DiaryOfUranus/second-brain-framework",
-    "stars": 1,
-    "updated_at": "2026-10-06T04:03:25Z",
-    "url": "https://github.com/DiaryOfUranus/second-brain-framework"
-  },
-  {
-    "description": "RAG \u77e5\u8bc6\u5e93\u95ee\u7b54 + \u5de5\u5177\u8c03\u7528 Agent\uff1a\u6df7\u5408\u68c0\u7d22(BM25+\u5411\u91cf+RRF) + Cross-Encoder \u91cd\u6392 + \u7ae0\u8282\u7ea7\u5f15\u7528 + \u4e3b\u52a8\u62d2\u7b54\uff1b169 \u4e2a\u79bb\u7ebf\u5355\u6d4b\u3002Hit@1 0.657 / MRR 0.806\uff0c\u5fe0\u5b9e\u5ea6\u4e0e\u5f15\u7528\u6b63\u786e\u6027 5",
-    "id": "kanochan1224/ai-app-lab",
-    "language": "Python",
-    "name": "kanochan1224/ai-app-lab",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:02:42Z",
-    "url": "https://github.com/kanochan1224/ai-app-lab"
-  },
-  {
-    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
-    "id": "Dannykkh/skill-olympus",
-    "language": "Python",
-    "name": "Dannykkh/skill-olympus",
-    "stars": 7,
-    "updated_at": "2026-10-06T04:02:40Z",
-    "url": "https://github.com/Dannykkh/skill-olympus"
-  },
-  {
-    "description": "100+ open source security agents for the agentgg scanner. Every agent is a markdown file. Found a bug class we're missin",
-    "id": "agentgg-dev/agentgg-agents",
-    "language": "Shell",
-    "name": "agentgg-dev/agentgg-agents",
-    "stars": 5,
-    "updated_at": "2026-10-06T04:02:43Z",
-    "url": "https://github.com/agentgg-dev/agentgg-agents"
-  },
-  {
-    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
-    "id": "ZeroLu/awesome-nanobanana-pro",
-    "language": "\u2014",
-    "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10329,
-    "updated_at": "2026-10-06T04:00:58Z",
-    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-06T04:01:33Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Free English and Turkish image-tool comparison kits, fillable editing worksheets and presentation outlines. Editable pla",
-    "id": "Brainbaby-OS/free-creative-resources",
-    "language": "\u2014",
-    "name": "Brainbaby-OS/free-creative-resources",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:00:32Z",
-    "url": "https://github.com/Brainbaby-OS/free-creative-resources"
-  },
-  {
-    "description": "Searchable tag library, saved prompts, history and local AI (TIPO, Qwen-VL, WD14) for Stable Diffusion WebUI Forge.",
-    "id": "sca-285/sd-webui-prompt-vault",
-    "language": "Python",
-    "name": "sca-285/sd-webui-prompt-vault",
-    "stars": 1,
-    "updated_at": "2026-10-06T04:45:14Z",
-    "url": "https://github.com/sca-285/sd-webui-prompt-vault"
-  },
-  {
-    "description": "Keeps AI assistants on track during long conversations by tracking tasks across sessions",
-    "id": "obrenoalvim/zero-drift",
-    "language": "JavaScript",
-    "name": "obrenoalvim/zero-drift",
-    "stars": 81,
-    "updated_at": "2026-10-06T03:57:21Z",
-    "url": "https://github.com/obrenoalvim/zero-drift"
   }
 ]
