@@ -1,5 +1,131 @@
 [
   {
+    "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
+    "id": "opascope/skills",
+    "language": "Python",
+    "name": "opascope/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:30:07Z",
+    "url": "https://github.com/opascope/skills"
+  },
+  {
+    "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
+    "id": "tsetsugekka/AGENTS.md",
+    "language": "Python",
+    "name": "tsetsugekka/AGENTS.md",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:26:09Z",
+    "url": "https://github.com/tsetsugekka/AGENTS.md"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
+    "id": "ZeroLu/awesome-seedance-2.5",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance-2.5",
+    "stars": 127,
+    "updated_at": "2026-10-06T04:24:52Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-10-06T04:26:03Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "\u77ed\u5267\u5de5\u4f5c\u53f0\uff5cComfyUI + MiniMax H3 \u672c\u5730\u65e0\u9650\u957f\u89c6\u9891\u751f\u6210\u5de5\u4f5c\u6d41",
+    "id": "JGRFW/comfyui-AICG3D",
+    "language": "Python",
+    "name": "JGRFW/comfyui-AICG3D",
+    "stars": 127,
+    "updated_at": "2026-10-06T04:23:37Z",
+    "url": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-10-06T04:23:21Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74463,
+    "updated_at": "2026-10-06T04:23:11Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 52,
+    "updated_at": "2026-10-06T04:22:07Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "One interview writes a profile and rule files every AI you use reads: CLAUDE.md, AGENTS.md, GEMINI.md and ChatGPT, kept ",
+    "id": "aunysillyme/agent-personalizer",
+    "language": "JavaScript",
+    "name": "aunysillyme/agent-personalizer",
+    "stars": 5,
+    "updated_at": "2026-10-06T04:24:24Z",
+    "url": "https://github.com/aunysillyme/agent-personalizer"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 110032,
+    "updated_at": "2026-10-06T04:21:50Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:19:55Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
+    "id": "OpenScribbler/Katharsis",
+    "language": "TypeScript",
+    "name": "OpenScribbler/Katharsis",
+    "stars": 4,
+    "updated_at": "2026-10-06T04:25:25Z",
+    "url": "https://github.com/OpenScribbler/Katharsis"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 2,
+    "updated_at": "2026-10-06T04:18:37Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T04:16:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "31-chapter open textbook on text-to-image generation (v1.0, DOI on Zenodo). \u4e2d\u6587\u3002",
     "id": "aidless/morphagent-textbook",
     "language": "Python",
@@ -9,13 +135,13 @@
     "url": "https://github.com/aidless/morphagent-textbook"
   },
   {
-    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 52,
-    "updated_at": "2026-10-06T04:13:49Z",
-    "url": "https://github.com/ariffazil/arifOS"
+    "description": "Curated open-source agent skills for writing, editing, summarization, and business communications.",
+    "id": "osspakistan/agent-skills",
+    "language": "\u2014",
+    "name": "osspakistan/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:13:37Z",
+    "url": "https://github.com/osspakistan/agent-skills"
   },
   {
     "description": "Unofficial, auto-updating agent skill that distills Anthropic's claude.dev engineering blog into own-words playbooks for",
@@ -54,6 +180,15 @@
     "url": "https://github.com/hongzuoj-pixel/distinct-video-faces"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25734,
+    "updated_at": "2026-10-06T04:08:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -70,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T04:07:21Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25733,
-    "updated_at": "2026-10-06T04:08:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -162,15 +288,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T04:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Free English and Turkish image-tool comparison kits, fillable editing worksheets and presentation outlines. Editable pla",
     "id": "Brainbaby-OS/free-creative-resources",
     "language": "\u2014",
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-06T04:12:06Z",
+    "updated_at": "2026-10-06T04:29:54Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -214,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T03:56:14Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 110029,
-    "updated_at": "2026-10-06T04:13:34Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -293,7 +401,7 @@
     "language": "Python",
     "name": "kiritype/AtelierX",
     "stars": 0,
-    "updated_at": "2026-10-06T03:44:20Z",
+    "updated_at": "2026-10-06T04:27:46Z",
     "url": "https://github.com/kiritype/AtelierX"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T03:30:56Z",
     "url": "https://github.com/primaybr/quench"
-  },
-  {
-    "description": "Pixel-precise DOM inspector that turns any element into a ready-to-run AI coding prompt. Works with Claude Code, Cursor,",
-    "id": "hooosberg/DOMPrompter",
-    "language": "TypeScript",
-    "name": "hooosberg/DOMPrompter",
-    "stars": 26,
-    "updated_at": "2026-10-06T03:30:50Z",
-    "url": "https://github.com/hooosberg/DOMPrompter"
-  },
-  {
-    "description": "marola's ML side: the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
-    "id": "marola-dev/marola-ml",
-    "language": "Python",
-    "name": "marola-dev/marola-ml",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:31:00Z",
-    "url": "https://github.com/marola-dev/marola-ml"
-  },
-  {
-    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
-    "id": "DSXiangLi/DecryptPrompt",
-    "language": "\u2014",
-    "name": "DSXiangLi/DecryptPrompt",
-    "stars": 3443,
-    "updated_at": "2026-10-06T03:25:07Z",
-    "url": "https://github.com/DSXiangLi/DecryptPrompt"
-  },
-  {
-    "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
-    "id": "Khyodaattu/awesome-skillkit",
-    "language": "\u2014",
-    "name": "Khyodaattu/awesome-skillkit",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:55Z",
-    "url": "https://github.com/Khyodaattu/awesome-skillkit"
-  },
-  {
-    "description": "AI image generation prompt flow example app focused on prompt engineering and prompt optimization, comparing models GPT ",
-    "id": "backblaze-b2-samples/image-generation-prompt-flow",
-    "language": "TypeScript",
-    "name": "backblaze-b2-samples/image-generation-prompt-flow",
-    "stars": 4,
-    "updated_at": "2026-10-06T03:24:21Z",
-    "url": "https://github.com/backblaze-b2-samples/image-generation-prompt-flow"
-  },
-  {
-    "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
-    "id": "randolfglorious1317/skillpack",
-    "language": "TypeScript",
-    "name": "randolfglorious1317/skillpack",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:13Z",
-    "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
-    "id": "unmanageable-mauiisland8443/PromptLedger",
-    "language": "\u2014",
-    "name": "unmanageable-mauiisland8443/PromptLedger",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:06Z",
-    "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:23:46Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:23:28Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:23:22Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:23:22Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:23:16Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
   }
 ]
