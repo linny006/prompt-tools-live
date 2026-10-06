@@ -1,29 +1,11 @@
 [
   {
-    "description": "Generate a project-specific Claude Code harness (CLAUDE.md, hooks, subagents, commands) from one paragraph. Any stack. E",
-    "id": "sagaga144/claude-harness-bootstrap",
-    "language": "JavaScript",
-    "name": "sagaga144/claude-harness-bootstrap",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:45:08Z",
-    "url": "https://github.com/sagaga144/claude-harness-bootstrap"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35422,
-    "updated_at": "2026-10-06T08:45:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
     "id": "adambkovacs/candidate-experience-benchmark",
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-10-06T08:45:05Z",
+    "updated_at": "2026-10-06T09:00:17Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
@@ -32,8 +14,161 @@
     "language": "TypeScript",
     "name": "BajKasum/PromptPrinter",
     "stars": 0,
-    "updated_at": "2026-10-06T08:45:00Z",
+    "updated_at": "2026-10-06T08:59:20Z",
     "url": "https://github.com/BajKasum/PromptPrinter"
+  },
+  {
+    "description": "\u590d\u523b Studio\uff1a\u7c98\u8d34\u6296\u97f3/B\u7ad9/TikTok/Instagram \u94fe\u63a5 \u2192 \u6293\u53d6\u539f\u7247 \u2192 \u5207\u955c \u2192 AI \u5bfc\u6f14\u62c6\u89e3 \u2192 LibTV/Seedance \u82f1\u6587\u5206\u6bb5\u63d0\u793a\u8bcd\u3001\u5e26\u8d27\u6587\u6848\u4e0e\u7d20\u6750\u5305",
+    "id": "Joho6666/video-replicate-studio",
+    "language": "Python",
+    "name": "Joho6666/video-replicate-studio",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:59:02Z",
+    "url": "https://github.com/Joho6666/video-replicate-studio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35426,
+    "updated_at": "2026-10-06T08:59:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
+    "id": "Moeeryani/Vibe-Coding-Production-Kit",
+    "language": "JavaScript",
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 35,
+    "updated_at": "2026-10-06T08:57:46Z",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
+  },
+  {
+    "description": "ComfyUI nodes that turn filmmaker-style fields and images into MiniMax H3 T2VA/I2VA prompts via local Ollama or the xAI ",
+    "id": "flamin-galah/ComfyUI-Flamin-Galah",
+    "language": "Python",
+    "name": "flamin-galah/ComfyUI-Flamin-Galah",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:57:32Z",
+    "url": "https://github.com/flamin-galah/ComfyUI-Flamin-Galah"
+  },
+  {
+    "description": "Prompt injection detection API. One HTTP call detects jailbreaks, system-prompt extraction, code injection and credentia",
+    "id": "ianreboot/safeprompt",
+    "language": "Python",
+    "name": "ianreboot/safeprompt",
+    "stars": 2,
+    "updated_at": "2026-10-06T08:57:24Z",
+    "url": "https://github.com/ianreboot/safeprompt"
+  },
+  {
+    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
+    "id": "rikilamadrid/pathfinder",
+    "language": "JavaScript",
+    "name": "rikilamadrid/pathfinder",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:58:50Z",
+    "url": "https://github.com/rikilamadrid/pathfinder"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-06T08:56:24Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4918,
+    "updated_at": "2026-10-06T08:57:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:55:20Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "\u751f\u6210\u5f0f\u5a92\u4f53\uff1a\u56fe\u7247\u751f\u6210\uff08ComfyUI Z-Image-Turbo / \u65b9\u821f Seedream\uff09+ \u89c6\u9891\u751f\u6210\uff08Seedance / local fastvideo3\uff09\u77e5\u8bc6\u5e93\u4e0e\u4f5c\u54c1\u96c6",
+    "id": "THZSummer/gen-media",
+    "language": "Python",
+    "name": "THZSummer/gen-media",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:54:39Z",
+    "url": "https://github.com/THZSummer/gen-media"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:56:25Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "Immersive time awareness for AI agents. Real quota pulses, decisive work, and a self-rewriting time lens.",
+    "id": "demidko/finite-time",
+    "language": "Python",
+    "name": "demidko/finite-time",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:54:22Z",
+    "url": "https://github.com/demidko/finite-time"
+  },
+  {
+    "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
+    "id": "projectbom/dev-guard",
+    "language": "TypeScript",
+    "name": "projectbom/dev-guard",
+    "stars": 2,
+    "updated_at": "2026-10-06T08:51:42Z",
+    "url": "https://github.com/projectbom/dev-guard"
+  },
+  {
+    "description": "\u4e2d\u6587 AI Agent \u5b9e\u6218\u624b\u518c | Chinese AI Agent Handbook - \u4ece\u96f6\u57fa\u7840\u5230\u5168\u6808\u5f00\u53d1\uff0c\u6700\u901a\u4fd7\u6613\u61c2\u7684 Agent \u6559\u7a0b\uff08\u53cc\u8bed Bilingual\uff09",
+    "id": "Xwh630/ai-agent-handbook",
+    "language": "Python",
+    "name": "Xwh630/ai-agent-handbook",
+    "stars": 41,
+    "updated_at": "2026-10-06T08:51:29Z",
+    "url": "https://github.com/Xwh630/ai-agent-handbook"
+  },
+  {
+    "description": "Tell your AI agent the change. It files the GitHub Issue and takes it to a merged PR \u2014 the same way in every project.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:47:24Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T08:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Generate a project-specific Claude Code harness (CLAUDE.md, hooks, subagents, commands) from one paragraph. Any stack. E",
+    "id": "sagaga144/claude-harness-bootstrap",
+    "language": "JavaScript",
+    "name": "sagaga144/claude-harness-bootstrap",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:45:08Z",
+    "url": "https://github.com/sagaga144/claude-harness-bootstrap"
   },
   {
     "description": "A Claude Skill that runs your idea past seven philosophers' ways of reasoning, Socrates to Hegel, one at a time, and sho",
@@ -54,21 +189,12 @@
     "url": "https://github.com/fuchao2pku/awesome-dsh-experts"
   },
   {
-    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and b",
-    "id": "Moeeryani/Vibe-Coding-Production-Kit",
-    "language": "JavaScript",
-    "name": "Moeeryani/Vibe-Coding-Production-Kit",
-    "stars": 35,
-    "updated_at": "2026-10-06T08:41:14Z",
-    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22401,
-    "updated_at": "2026-10-06T08:40:27Z",
+    "updated_at": "2026-10-06T08:54:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -144,15 +270,6 @@
     "url": "https://github.com/kakkarprerna/daily-ai-builds"
   },
   {
-    "description": "Immersive time awareness for AI agents. Real quota pulses, decisive work, and a self-rewriting time lens.",
-    "id": "demidko/finite-time",
-    "language": "Python",
-    "name": "demidko/finite-time",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:35:36Z",
-    "url": "https://github.com/demidko/finite-time"
-  },
-  {
     "description": "Software Engineering Interview preparation and placement notes.",
     "id": "Adarsh-Chaubey03/SDE-F-B-Interview-Prep-Notes",
     "language": "JavaScript",
@@ -167,7 +284,7 @@
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1426,
-    "updated_at": "2026-10-06T08:34:27Z",
+    "updated_at": "2026-10-06T08:48:41Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-06T08:44:58Z",
+    "updated_at": "2026-10-06T08:58:17Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -203,7 +320,7 @@
     "language": "Python",
     "name": "Nanako0129/sepia",
     "stars": 2995,
-    "updated_at": "2026-10-06T08:33:40Z",
+    "updated_at": "2026-10-06T08:46:27Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
   {
@@ -243,21 +360,12 @@
     "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T08:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
-    "stars": 7271,
-    "updated_at": "2026-10-06T08:30:09Z",
+    "stars": 7272,
+    "updated_at": "2026-10-06T08:56:59Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -275,7 +383,7 @@
     "language": "JavaScript",
     "name": "T8mars/minimax-h3-prompt-skill-T8",
     "stars": 277,
-    "updated_at": "2026-10-06T08:34:43Z",
+    "updated_at": "2026-10-06T08:45:44Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
   },
   {
@@ -284,7 +392,7 @@
     "language": "TypeScript",
     "name": "BootBlock/SpriteGubbins",
     "stars": 0,
-    "updated_at": "2026-10-06T08:23:05Z",
+    "updated_at": "2026-10-06T08:58:01Z",
     "url": "https://github.com/BootBlock/SpriteGubbins"
   },
   {
@@ -333,15 +441,6 @@
     "url": "https://github.com/mdesalvo/Morgana"
   },
   {
-    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:43:43Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
     "description": "An AI-powered writing assistant that helps users rewrite, humanize, summarize, paraphrase, and improve text with context",
     "id": "tymepas/WriteWise_Project",
     "language": "JavaScript",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:17:11Z",
     "url": "https://github.com/tymepas/WriteWise_Project"
-  },
-  {
-    "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
-    "id": "deadly-centropomus6106/image-gen-open-source",
-    "language": "JavaScript",
-    "name": "deadly-centropomus6106/image-gen-open-source",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:16:19Z",
-    "url": "https://github.com/deadly-centropomus6106/image-gen-open-source"
-  },
-  {
-    "description": "Transcribe voice memos locally with trim, tag, and export tools\u2014no cloud uploads, ever.",
-    "id": "hhakahhhaj-blip/WhisperDeck",
-    "language": "Python",
-    "name": "hhakahhhaj-blip/WhisperDeck",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:16:12Z",
-    "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
-    "id": "2148-wq/DLSS5-for-Nuke",
-    "language": "C++",
-    "name": "2148-wq/DLSS5-for-Nuke",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:15:41Z",
-    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:15:31Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Local-first LLM evaluation, prompt comparison, and regression detection using Ollama, FastAPI, and Streamlit",
-    "id": "mayureshmohnalkar22/llm-regression-detector",
-    "language": "Python",
-    "name": "mayureshmohnalkar22/llm-regression-detector",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:15:31Z",
-    "url": "https://github.com/mayureshmohnalkar22/llm-regression-detector"
-  },
-  {
-    "description": "Persona is a plugin for OpenCode that adapts the assistant to each user's professional role.",
-    "id": "RuloGB/opencode-persona",
-    "language": "TypeScript",
-    "name": "RuloGB/opencode-persona",
-    "stars": 2,
-    "updated_at": "2026-10-06T08:15:08Z",
-    "url": "https://github.com/RuloGB/opencode-persona"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:14:51Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Professional skills for nasty bugs, hard decisions and reliable software delivery with Claude Code, Codex and other AI a",
-    "id": "simonasrazm/skills",
-    "language": "TypeScript",
-    "name": "simonasrazm/skills",
-    "stars": 5,
-    "updated_at": "2026-10-06T08:14:48Z",
-    "url": "https://github.com/simonasrazm/skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:14:05Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
-    "id": "Global-AI-Group-Inc/content-generation-skills",
-    "language": "JavaScript",
-    "name": "Global-AI-Group-Inc/content-generation-skills",
-    "stars": 6,
-    "updated_at": "2026-10-06T08:13:45Z",
-    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:13:09Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
   }
 ]
