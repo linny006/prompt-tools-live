@@ -1,12 +1,75 @@
 [
   {
+    "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
+    "id": "chemaw8/claude-kit-chema",
+    "language": "Shell",
+    "name": "chemaw8/claude-kit-chema",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:36:21Z",
+    "url": "https://github.com/chemaw8/claude-kit-chema"
+  },
+  {
+    "description": "CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required",
+    "id": "twaldin/hone",
+    "language": "TypeScript",
+    "name": "twaldin/hone",
+    "stars": 47,
+    "updated_at": "2026-10-06T19:35:46Z",
+    "url": "https://github.com/twaldin/hone"
+  },
+  {
+    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
+    "id": "Dhi13man/skivolve",
+    "language": "Python",
+    "name": "Dhi13man/skivolve",
+    "stars": 1,
+    "updated_at": "2026-10-06T19:34:17Z",
+    "url": "https://github.com/Dhi13man/skivolve"
+  },
+  {
+    "description": "Portable agent skills you carry into any project. A Claude Code plugin marketplace in the open SKILL.md format, so other",
+    "id": "matiinchauspe/arsenal",
+    "language": "\u2014",
+    "name": "matiinchauspe/arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:34:18Z",
+    "url": "https://github.com/matiinchauspe/arsenal"
+  },
+  {
+    "description": "A prompt-engineering setup that makes any AI coding tool plan first, build in order, and hold an elite bar. Skills pack ",
+    "id": "BlurryVisions/offthemode",
+    "language": "HTML",
+    "name": "BlurryVisions/offthemode",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:33:29Z",
+    "url": "https://github.com/BlurryVisions/offthemode"
+  },
+  {
     "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
     "id": "adambkovacs/candidate-experience-benchmark",
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-10-06T19:26:31Z",
+    "updated_at": "2026-10-06T19:33:18Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-06T19:31:30Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T19:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11732,
-    "updated_at": "2026-10-06T19:29:31Z",
+    "updated_at": "2026-10-06T19:33:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/dean815/promptgremlin"
   },
   {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-10-06T19:22:43Z",
-    "url": "https://github.com/Dhi13man/skivolve"
-  },
-  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
@@ -97,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-06T19:19:57Z",
     "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "A prompt-engineering setup that makes any AI coding tool plan first, build in order, and hold an elite bar. Skills pack ",
-    "id": "BlurryVisions/offthemode",
-    "language": "HTML",
-    "name": "BlurryVisions/offthemode",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:19:52Z",
-    "url": "https://github.com/BlurryVisions/offthemode"
   },
   {
     "description": "\u65e0\u6781\u519b\u56e2 4.0\uff1a\u4ee5\u963f\u6781\u4e3a\u552f\u4e00\u5165\u53e3\u7684\u4efb\u52a1\u4f18\u5148\u5de5\u4f5c\u4f53\u7cfb\uff0c\u6309\u9700\u7ec4\u5408\u539f\u5b50\u80fd\u529b\u4e0e\u73b0\u6709\u5de5\u5177\uff0c\u5f3a\u8c03\u767d\u5e3d\u5224\u65ad\u3001\u8bc1\u636e\u95ed\u73af\u3001\u517c\u5bb9\u6027\u548c\u53d7\u63a7\u8fdb\u5316\u3002",
@@ -133,15 +178,6 @@
     "stars": 21,
     "updated_at": "2026-10-06T19:16:12Z",
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T19:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4922,
-    "updated_at": "2026-10-06T19:27:55Z",
+    "updated_at": "2026-10-06T19:35:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-06T18:48:34Z",
     "url": "https://github.com/FoxsterDev/ai-research-hub"
-  },
-  {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:46:49Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
-    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
-    "id": "dakotamurphyucf/ochat",
-    "language": "OCaml",
-    "name": "dakotamurphyucf/ochat",
-    "stars": 30,
-    "updated_at": "2026-10-06T18:46:42Z",
-    "url": "https://github.com/dakotamurphyucf/ochat"
-  },
-  {
-    "description": "BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C",
-    "id": "BotShelfVampire/botshelf-ai-team-registry",
-    "language": "Python",
-    "name": "BotShelfVampire/botshelf-ai-team-registry",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:46:41Z",
-    "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
-  },
-  {
-    "description": "\u957f\u671f\u7ef4\u62a4\u7684\u5fc3\u5b9d\u2764ComfyUI \u5b9e\u7528\u8282\u70b9\u7ec4\uff1a\u56fe\u7247\u6807\u51c6\u5316\u4e0e\u4ea4\u4e92\u5f0f\u6784\u56fe",
-    "id": "lishuihan123/ComfyUI-Xinbao-Node-Group",
-    "language": "JavaScript",
-    "name": "lishuihan123/ComfyUI-Xinbao-Node-Group",
-    "stars": 3,
-    "updated_at": "2026-10-06T18:46:21Z",
-    "url": "https://github.com/lishuihan123/ComfyUI-Xinbao-Node-Group"
   }
 ]
