@@ -5,17 +5,35 @@
     "language": "HTML",
     "name": "adambkovacs/candidate-experience-benchmark",
     "stars": 3,
-    "updated_at": "2026-10-06T19:45:45Z",
+    "updated_at": "2026-10-06T20:00:09Z",
     "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11732,
-    "updated_at": "2026-10-06T19:45:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 2,
+    "updated_at": "2026-10-06T19:59:53Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Prompts and skills I use every day in Claude Code.",
+    "id": "Pawel-Kica/claude-code-100",
+    "language": "HTML",
+    "name": "Pawel-Kica/claude-code-100",
+    "stars": 2,
+    "updated_at": "2026-10-06T19:57:19Z",
+    "url": "https://github.com/Pawel-Kica/claude-code-100"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:56:53Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
     "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
@@ -23,8 +41,143 @@
     "language": "\u2014",
     "name": "novanoticia/bayesian-compose-plugin",
     "stars": 0,
-    "updated_at": "2026-10-06T19:43:50Z",
+    "updated_at": "2026-10-06T19:55:55Z",
     "url": "https://github.com/novanoticia/bayesian-compose-plugin"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 187,
+    "updated_at": "2026-10-06T19:55:45Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Local-first AI prompt generator with a Gradio UI: 132 tuned roles for video, image, audio, 3D and creative AI tools. Run",
+    "id": "kekzl/PromptMill",
+    "language": "Python",
+    "name": "kekzl/PromptMill",
+    "stars": 8,
+    "updated_at": "2026-10-06T19:55:27Z",
+    "url": "https://github.com/kekzl/PromptMill"
+  },
+  {
+    "description": "A curated collection of advanced prompt templates for Claude and other LLMs, featuring systematic analysis    frameworks",
+    "id": "aarora79/my-ai-assets",
+    "language": "HTML",
+    "name": "aarora79/my-ai-assets",
+    "stars": 22,
+    "updated_at": "2026-10-06T19:54:59Z",
+    "url": "https://github.com/aarora79/my-ai-assets"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 22,
+    "updated_at": "2026-10-06T19:55:31Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo",
+    "id": "lentago/music-curator",
+    "language": "Python",
+    "name": "lentago/music-curator",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:53:31Z",
+    "url": "https://github.com/lentago/music-curator"
+  },
+  {
+    "description": "\u4e3a AI bot \u6ce8\u5165\u6301\u4e45\u8ba4\u77e5\u4e0e\u65e0\u7f1d\u6c89\u6d78\u7684\u901a\u7528\u589e\u5f3a\u6846\u67b6 \u2014\u2014 \u6cbb\u91d1\u9c7c\u8bb0\u5fc6\u3001\u6587\u5b57\u673a\u5668\u3001\u673a\u68b0\u51fa\u620f",
+    "id": "Illusory-moon/bot-mindscape",
+    "language": "Python",
+    "name": "Illusory-moon/bot-mindscape",
+    "stars": 6,
+    "updated_at": "2026-10-06T19:52:44Z",
+    "url": "https://github.com/Illusory-moon/bot-mindscape"
+  },
+  {
+    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
+    "id": "Dhi13man/skivolve",
+    "language": "Python",
+    "name": "Dhi13man/skivolve",
+    "stars": 1,
+    "updated_at": "2026-10-06T19:52:43Z",
+    "url": "https://github.com/Dhi13man/skivolve"
+  },
+  {
+    "description": "Stop your agent from answering on its first plausible idea. A platform-neutral agent skill: multi-option divergence, adv",
+    "id": "zyphraxns/deep-reasoning",
+    "language": "Python",
+    "name": "zyphraxns/deep-reasoning",
+    "stars": 2,
+    "updated_at": "2026-10-06T19:52:37Z",
+    "url": "https://github.com/zyphraxns/deep-reasoning"
+  },
+  {
+    "description": "GSD, redesigned for a 67.5% aggregate token reduction across benchmark scenarios, with individual task savings reaching ",
+    "id": "udaydeep1992/gsd-x",
+    "language": "JavaScript",
+    "name": "udaydeep1992/gsd-x",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:52:04Z",
+    "url": "https://github.com/udaydeep1992/gsd-x"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "Python",
+    "name": "coco-research/coco",
+    "stars": 466,
+    "updated_at": "2026-10-06T19:50:38Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
+    "id": "chemaw8/claude-kit-chema",
+    "language": "Shell",
+    "name": "chemaw8/claude-kit-chema",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:50:03Z",
+    "url": "https://github.com/chemaw8/claude-kit-chema"
+  },
+  {
+    "description": "\u4e24\u4e2a skill \u753b\u8bba\u6587\u56fe\uff1a\u5148\u770b 6 \u79cd\u98ce\u683c\u9884\u89c8\u518d\u51fa\u56fe\uff0c\u63a5\u53d7\u6210\u56fe\u540e\u53ef\u4ee5\u628a\u5b57\u6362\u6210\u53ef\u7f16\u8f91 PPT\u3002npx skills add Azhi-ss/academic-figure-skills",
+    "id": "Azhi-ss/academic-figure-skills",
+    "language": "Python",
+    "name": "Azhi-ss/academic-figure-skills",
+    "stars": 145,
+    "updated_at": "2026-10-06T19:49:37Z",
+    "url": "https://github.com/Azhi-ss/academic-figure-skills"
+  },
+  {
+    "description": "The layer between your idea and your build.",
+    "id": "AtharvaK-XD/Bedrock",
+    "language": "TypeScript",
+    "name": "AtharvaK-XD/Bedrock",
+    "stars": 2,
+    "updated_at": "2026-10-06T19:48:41Z",
+    "url": "https://github.com/AtharvaK-XD/Bedrock"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T19:46:10Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11732,
+    "updated_at": "2026-10-06T20:00:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The toolchain that stops AI coding agents from writing broken, deprecated code.",
@@ -34,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-10-06T19:42:07Z",
     "url": "https://github.com/Aaditya1273/Agent.md"
-  },
-  {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "Python",
-    "name": "coco-research/coco",
-    "stars": 466,
-    "updated_at": "2026-10-06T19:45:52Z",
-    "url": "https://github.com/coco-research/coco"
   },
   {
     "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
@@ -90,24 +234,6 @@
     "url": "https://github.com/buidangminh23/claude-dev-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T19:36:57Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
-    "id": "chemaw8/claude-kit-chema",
-    "language": "Shell",
-    "name": "chemaw8/claude-kit-chema",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:36:21Z",
-    "url": "https://github.com/chemaw8/claude-kit-chema"
-  },
-  {
     "description": "CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required",
     "id": "twaldin/hone",
     "language": "TypeScript",
@@ -115,15 +241,6 @@
     "stars": 47,
     "updated_at": "2026-10-06T19:35:46Z",
     "url": "https://github.com/twaldin/hone"
-  },
-  {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-10-06T19:37:34Z",
-    "url": "https://github.com/Dhi13man/skivolve"
   },
   {
     "description": "Portable agent skills you carry into any project. A Claude Code plugin marketplace in the open SKILL.md format, so other",
@@ -169,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T19:24:51Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Stop your agent from answering on its first plausible idea. A platform-neutral agent skill: multi-option divergence, adv",
-    "id": "zyphraxns/deep-reasoning",
-    "language": "Python",
-    "name": "zyphraxns/deep-reasoning",
-    "stars": 2,
-    "updated_at": "2026-10-06T19:24:47Z",
-    "url": "https://github.com/zyphraxns/deep-reasoning"
   },
   {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
@@ -234,15 +342,6 @@
     "url": "https://github.com/AI-wuji/wuji-legion-codex"
   },
   {
-    "description": "\u4e3a AI bot \u6ce8\u5165\u6301\u4e45\u8ba4\u77e5\u4e0e\u65e0\u7f1d\u6c89\u6d78\u7684\u901a\u7528\u589e\u5f3a\u6846\u67b6 \u2014\u2014 \u6cbb\u91d1\u9c7c\u8bb0\u5fc6\u3001\u6587\u5b57\u673a\u5668\u3001\u673a\u68b0\u51fa\u620f",
-    "id": "Illusory-moon/bot-mindscape",
-    "language": "Python",
-    "name": "Illusory-moon/bot-mindscape",
-    "stars": 6,
-    "updated_at": "2026-10-06T19:17:39Z",
-    "url": "https://github.com/Illusory-moon/bot-mindscape"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -259,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-10-06T19:15:19Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "GSD, redesigned to save up to 67.5% of your tokens. Smart memory, intelligent context compression, adaptive token compil",
-    "id": "udaydeep1992/gsd-x",
-    "language": "JavaScript",
-    "name": "udaydeep1992/gsd-x",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:12:49Z",
-    "url": "https://github.com/udaydeep1992/gsd-x"
   },
   {
     "description": "Expert-level AI agent skills for designing scalable software architectures, refactoring monoliths, documenting with C4 m",
@@ -351,15 +441,6 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:09:13Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T19:05:27Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:04:12Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "A skill that rewrites technical prose so a reader outside the field follows it on first read, while an expert reading ov",
-    "id": "jmsmrgn/einstein-simplify",
-    "language": "\u2014",
-    "name": "jmsmrgn/einstein-simplify",
-    "stars": 3,
-    "updated_at": "2026-10-06T19:04:01Z",
-    "url": "https://github.com/jmsmrgn/einstein-simplify"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39743,
-    "updated_at": "2026-10-06T19:02:17Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
-    "id": "paro-studio/web",
-    "language": "TypeScript",
-    "name": "paro-studio/web",
-    "stars": 13,
-    "updated_at": "2026-10-06T19:00:49Z",
-    "url": "https://github.com/paro-studio/web"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-06T19:01:34Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
-    "id": "Global-AI-Group-Inc/content-generation-skills",
-    "language": "JavaScript",
-    "name": "Global-AI-Group-Inc/content-generation-skills",
-    "stars": 6,
-    "updated_at": "2026-10-06T19:00:34Z",
-    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
-    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "language": "HTML",
-    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:00:16Z",
-    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
-    "description": "Evidence-based, behaviour-first personas as versioned Markdown with JTBD, lint and prompt export",
-    "id": "malkreide/personakit",
-    "language": "Python",
-    "name": "malkreide/personakit",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:58:33Z",
-    "url": "https://github.com/malkreide/personakit"
-  },
-  {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
-    "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
-    "stars": 7,
-    "updated_at": "2026-10-06T18:58:15Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
   }
 ]
