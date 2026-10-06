@@ -1,5 +1,50 @@
 [
   {
+    "description": "42 free AI workflows for real estate professionals. Listing copy, lead follow-ups, market research, investment analysis,",
+    "id": "evyevans/realtyskills",
+    "language": "Python",
+    "name": "evyevans/realtyskills",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:30:18Z",
+    "url": "https://github.com/evyevans/realtyskills"
+  },
+  {
+    "description": "FastAPI + React + SQLite \u7684\u4eba\u673a\u534f\u540c\u786e\u5b9a\u6027 LLM \u8bba\u6587\u5199\u4f5c\u5de5\u4f5c\u6d41\u7cfb\u7edf\uff087 \u7c7b\u8bba\u6587\u5dee\u5f02\u5316\u5de5\u5e8f / 10 \u72b6\u6001\u72b6\u6001\u673a / \u4e24\u9053\u4eba\u5de5\u786e\u8ba4\u95f8\u95e8 / 0 \u5e7b\u89c9\u5f15\u7528\uff09",
+    "id": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "language": "Python",
+    "name": "EricAndHisWordcards/ai-academic-writing-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:28:38Z",
+    "url": "https://github.com/EricAndHisWordcards/ai-academic-writing-assistant"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 65,
+    "updated_at": "2026-10-06T14:29:28Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "",
+    "id": "BajKasum/PromptPrinter",
+    "language": "TypeScript",
+    "name": "BajKasum/PromptPrinter",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:27:22Z",
+    "url": "https://github.com/BajKasum/PromptPrinter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-06T14:26:54Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
     "id": "adambkovacs/candidate-experience-benchmark",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35435,
-    "updated_at": "2026-10-06T14:25:30Z",
+    "updated_at": "2026-10-06T14:29:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -76,7 +121,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28284,
+    "stars": 28285,
     "updated_at": "2026-10-06T14:21:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -108,13 +153,13 @@
     "url": "https://github.com/grimaldost/craft-collection"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-06T14:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74495,
+    "updated_at": "2026-10-06T14:17:13Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "\u957f\u671f\u7ef4\u62a4\u7684\u5fc3\u5b9d\u2764ComfyUI \u5b9e\u7528\u8282\u70b9\u7ec4\uff1a\u56fe\u7247\u6807\u51c6\u5316\u4e0e\u4ea4\u4e92\u5f0f\u6784\u56fe",
@@ -220,8 +265,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22405,
-    "updated_at": "2026-10-06T14:08:51Z",
+    "stars": 22406,
+    "updated_at": "2026-10-06T14:30:10Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T14:08:49Z",
     "url": "https://github.com/redwheeler3/penta-application-screener"
-  },
-  {
-    "description": "",
-    "id": "BajKasum/PromptPrinter",
-    "language": "TypeScript",
-    "name": "BajKasum/PromptPrinter",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:22:49Z",
-    "url": "https://github.com/BajKasum/PromptPrinter"
   },
   {
     "description": "Forge Neo extension for local KREA2 prompt generation with the active Qwen3-VL text encoder, reusable personas, determin",
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4920,
-    "updated_at": "2026-10-06T14:23:50Z",
+    "updated_at": "2026-10-06T14:30:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T14:06:49Z",
     "url": "https://github.com/jordimarsal/harness-standard"
-  },
-  {
-    "description": "FastAPI + React + SQLite \u7684\u4eba\u673a\u534f\u540c\u786e\u5b9a\u6027 LLM \u8bba\u6587\u5199\u4f5c\u5de5\u4f5c\u6d41\u7cfb\u7edf\uff087 \u7c7b\u8bba\u6587\u5dee\u5f02\u5316\u5de5\u5e8f / 10 \u72b6\u6001\u72b6\u6001\u673a / \u4e24\u9053\u4eba\u5de5\u786e\u8ba4\u95f8\u95e8 / 0 \u5e7b\u89c9\u5f15\u7528\uff09",
-    "id": "EricAndHisWordcards/ai-academic-writing-assistant",
-    "language": "Python",
-    "name": "EricAndHisWordcards/ai-academic-writing-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:05:24Z",
-    "url": "https://github.com/EricAndHisWordcards/ai-academic-writing-assistant"
   },
   {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
@@ -329,7 +356,7 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-06T14:24:22Z",
+    "updated_at": "2026-10-06T14:28:03Z",
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T13:54:42Z",
     "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
-    "description": "DSH composer plugin: turn a one-line seed into an executable prompt behind a semantic fidelity gate; signals infer, dire",
-    "id": "Zian-anson/dsh-prompt-seed",
-    "language": "JavaScript",
-    "name": "Zian-anson/dsh-prompt-seed",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:54:13Z",
-    "url": "https://github.com/Zian-anson/dsh-prompt-seed"
-  },
-  {
-    "description": "\ud83e\udeb6 Quetzalcoatl \u2014 Meaning-First AI Project OS. /Quetzalcoatl \ud55c \ubc88\uc73c\ub85c \uc758\ubbf8\uac80\uc99d\u2192Office Hours\u2192\ub300\uc548\u2192\uad50\ucc28\uac80\uc99d\u2192\ubb38\uc11c\u00b7\ub300\uc2dc\ubcf4\ub4dc\u2192\ubc30\ud3ec\uae4c\uc9c0 \uc6b4\uc601\ud558\ub294 \ubaa8\ub378 \uc911\ub9bd\ud615 \uc2a4\ud0ac",
-    "id": "chquandogong/Quetzalcoatl",
-    "language": "Markdown",
-    "name": "chquandogong/Quetzalcoatl",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:53:28Z",
-    "url": "https://github.com/chquandogong/Quetzalcoatl"
-  },
-  {
-    "description": "Turns an idea into a timed short-form video script (hook, body, CTA). Zypit internship assignment.",
-    "id": "Gurukiran10/script-bench",
-    "language": "Python",
-    "name": "Gurukiran10/script-bench",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:53:00Z",
-    "url": "https://github.com/Gurukiran10/script-bench"
   }
 ]
