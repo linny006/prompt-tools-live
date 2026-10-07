@@ -1,12 +1,84 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "Prompt Optimizer for Codex and ChatGPT: an AI prompt optimizer and prompt improver. Rewrites a draft prompt into one cle",
+    "id": "bitcompool/prompt-optimizer-codex-plugin",
+    "language": "\u2014",
+    "name": "bitcompool/prompt-optimizer-codex-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:44:36Z",
+    "url": "https://github.com/bitcompool/prompt-optimizer-codex-plugin"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:44:16Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:44:14Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-07T06:29:27Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langfuse/langfuse",
+    "stars": 35455,
+    "updated_at": "2026-10-07T06:42:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Evidence-based User Journeys for public administration \u2014 schema, lints, renderer, Claude skill",
+    "id": "malkreide/journeykit",
+    "language": "\u2014",
+    "name": "malkreide/journeykit",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:42:19Z",
+    "url": "https://github.com/malkreide/journeykit"
+  },
+  {
+    "description": "\u4e00\u5957\u7528\u4e8e\u89c4\u8303 ChatGPT \u4e2d\u6587\u8868\u8fbe\u3001\u6392\u7248\u3001\u6587\u6863\u5199\u4f5c\u4e0e\u884c\u4e3a\u65b9\u5f0f\u7684\u4e2a\u4eba\u63d0\u793a\u8bcd\u4f53\u7cfb\u3002",
+    "id": "montricwang/gpt-finishing-school",
+    "language": "\u2014",
+    "name": "montricwang/gpt-finishing-school",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:42:17Z",
+    "url": "https://github.com/montricwang/gpt-finishing-school"
+  },
+  {
+    "description": "Question scoring for data interfaces, with offline fixtures and separate accuracy and judge measures.",
+    "id": "urmeo/glassbox",
+    "language": "Python",
+    "name": "urmeo/glassbox",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:42:06Z",
+    "url": "https://github.com/urmeo/glassbox"
+  },
+  {
+    "description": "Prompt Enhancer for Codex and ChatGPT: an AI prompt enhancer and prompt optimizer. Rewrites a draft prompt or coding tas",
+    "id": "bitcompool/prompt-enhancer-codex-plugin",
+    "language": "\u2014",
+    "name": "bitcompool/prompt-enhancer-codex-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:41:53Z",
+    "url": "https://github.com/bitcompool/prompt-enhancer-codex-plugin"
+  },
+  {
+    "description": "An agent skill that interrogates your plan, understanding, or decision with one ruthless question per turn \u2014 and refuses",
+    "id": "wang29a/grill-me",
+    "language": "\u2014",
+    "name": "wang29a/grill-me",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:41:36Z",
+    "url": "https://github.com/wang29a/grill-me"
   },
   {
     "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "qlheric/xizi-rujin",
     "stars": 1,
-    "updated_at": "2026-10-07T06:29:16Z",
+    "updated_at": "2026-10-07T06:41:15Z",
     "url": "https://github.com/qlheric/xizi-rujin"
   },
   {
@@ -23,8 +95,89 @@
     "language": "OCaml",
     "name": "cuihtlauac/y-skill",
     "stars": 0,
-    "updated_at": "2026-10-07T06:29:08Z",
+    "updated_at": "2026-10-07T06:41:13Z",
     "url": "https://github.com/cuihtlauac/y-skill"
+  },
+  {
+    "description": "Battle-tested AI prompt suites for game dev & SKSE plugin review. Game Forge creation cycle + hostile polish audits.",
+    "id": "SenjuWoo/ai-prompt-library",
+    "language": "\u2014",
+    "name": "SenjuWoo/ai-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:40:02Z",
+    "url": "https://github.com/SenjuWoo/ai-prompt-library"
+  },
+  {
+    "description": "SKILL.md compatibility and execution written in rust",
+    "id": "tinyhumansai/tinyskills",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyskills",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:39:39Z",
+    "url": "https://github.com/tinyhumansai/tinyskills"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:38:12Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
+    "id": "koi-bito/what-should-i-do-next",
+    "language": "TypeScript",
+    "name": "koi-bito/what-should-i-do-next",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:37:16Z",
+    "url": "https://github.com/koi-bito/what-should-i-do-next"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 110259,
+    "updated_at": "2026-10-07T06:32:27Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Orchestrator prompt + worker contract for coding agents, driven by herdr",
+    "id": "Herdanis/the-cat-concerto",
+    "language": "Shell",
+    "name": "Herdanis/the-cat-concerto",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:31:32Z",
+    "url": "https://github.com/Herdanis/the-cat-concerto"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco/agent-compose",
+    "language": "Go",
+    "name": "coilyco/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:40:43Z",
+    "url": "https://github.com/coilyco/agent-compose"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T06:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T06:29:27Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -99,15 +252,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "An agent skill that interrogates your plan, understanding, or decision with one ruthless question per turn \u2014 and refuses",
-    "id": "wang29a/grill-me",
-    "language": "\u2014",
-    "name": "wang29a/grill-me",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:17:43Z",
-    "url": "https://github.com/wang29a/grill-me"
-  },
-  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "TypeScript",
@@ -122,17 +266,8 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-07T06:16:19Z",
+    "updated_at": "2026-10-07T06:41:02Z",
     "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T06:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -140,7 +275,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25770,
-    "updated_at": "2026-10-07T06:15:07Z",
+    "updated_at": "2026-10-07T06:35:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -167,7 +302,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-07T06:19:43Z",
+    "updated_at": "2026-10-07T06:36:41Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -194,7 +329,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28294,
-    "updated_at": "2026-10-07T06:05:18Z",
+    "updated_at": "2026-10-07T06:44:31Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -306,15 +441,6 @@
     "url": "https://github.com/Apsion9231/writing-prompts"
   },
   {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 110258,
-    "updated_at": "2026-10-07T05:57:19Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "description": "My personal AI coding tool prompts (SKILL.md)",
     "id": "jim60105/copilot-prompt",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-07T05:56:48Z",
     "url": "https://github.com/jim60105/copilot-prompt"
-  },
-  {
-    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 297,
-    "updated_at": "2026-10-07T05:55:25Z",
-    "url": "https://github.com/Wholiver/metis"
-  },
-  {
-    "description": "AI \u7f16\u7a0b\u8bbe\u8ba1\u8d44\u4ea7\uff1a\u4e1a\u52a1\u89c4\u5219\u3001\u540e\u7aef\u67b6\u6784\u3001\u754c\u9762\u8bbe\u8ba1\u4e0e\u4ea4\u4ed8\u68c0\u67e5\u3002\u516c\u5f00\u9605\u8bfb\uff0c\u6682\u4e0d\u6388\u4e88\u989d\u5916\u4f7f\u7528\u8bb8\u53ef\u3002",
-    "id": "Xuuuuu04/practical-agent-skills",
-    "language": "Shell",
-    "name": "Xuuuuu04/practical-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:53:04Z",
-    "url": "https://github.com/Xuuuuu04/practical-agent-skills"
-  },
-  {
-    "description": "A standardized multi-agent harness for Opencode and Claude Code. Installs into any project with a single command.",
-    "id": "jordimarsal/harness-standard",
-    "language": "Shell",
-    "name": "jordimarsal/harness-standard",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:50:28Z",
-    "url": "https://github.com/jordimarsal/harness-standard"
-  },
-  {
-    "description": "The toolchain that stops AI coding agents from writing broken, deprecated code.",
-    "id": "Aaditya1273/Agent.md",
-    "language": "\u2014",
-    "name": "Aaditya1273/Agent.md",
-    "stars": 8,
-    "updated_at": "2026-10-07T05:49:46Z",
-    "url": "https://github.com/Aaditya1273/Agent.md"
-  },
-  {
-    "description": "QQ \u7fa4 AI \u4eff\u771f\u7fa4\u53cb \u00b7 OneBot v11 bridge for any OpenAI-compatible LLM + zero-build browser console. \u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002Apache-2",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:49:20Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-07T05:49:00Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:48:43Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\u751f\u6210\u5f0f\u5a92\u4f53\uff1a\u56fe\u7247\u751f\u6210\uff08ComfyUI Z-Image-Turbo / \u65b9\u821f Seedream\uff09+ \u89c6\u9891\u751f\u6210\uff08Seedance / local fastvideo3\uff09\u77e5\u8bc6\u5e93\u4e0e\u4f5c\u54c1\u96c6",
-    "id": "THZSummer/gen-media",
-    "language": "Python",
-    "name": "THZSummer/gen-media",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:46:30Z",
-    "url": "https://github.com/THZSummer/gen-media"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:20:24Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
-    "id": "carpentry-liu/awesome-astra-3d",
-    "language": "TypeScript",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "stars": 15,
-    "updated_at": "2026-10-07T05:45:36Z",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
-  },
-  {
-    "description": "Hebdo sur les agents IA",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:45:23Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
-    "id": "heronbo111/HeronBo-AIGC-Prompt",
-    "language": "Tcl",
-    "name": "heronbo111/HeronBo-AIGC-Prompt",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:44:38Z",
-    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
-  },
-  {
-    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
-    "id": "LeydLayd/RAG",
-    "language": "TypeScript",
-    "name": "LeydLayd/RAG",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:43:39Z",
-    "url": "https://github.com/LeydLayd/RAG"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-10-07T05:41:12Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   }
 ]
