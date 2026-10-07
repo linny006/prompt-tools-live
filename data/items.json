@@ -1,12 +1,165 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T19:29:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-10-07T19:29:20Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74581,
+    "updated_at": "2026-10-07T19:30:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4923,
+    "updated_at": "2026-10-07T19:29:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 5,
+    "updated_at": "2026-10-07T19:27:56Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "Knowledge OS for AI coding agents \u2014 one CLI that routes the right context (memories + rules) to the model on demand, ins",
+    "id": "mcp-tool-shop-org/loadout-os",
+    "language": "TypeScript",
+    "name": "mcp-tool-shop-org/loadout-os",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:27:45Z",
+    "url": "https://github.com/mcp-tool-shop-org/loadout-os"
+  },
+  {
+    "description": "The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain M",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 598,
+    "updated_at": "2026-10-07T19:27:20Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35490,
+    "updated_at": "2026-10-07T19:29:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-10-07T19:25:00Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
+    "id": "nx9161/war-room-protocol",
+    "language": "Shell",
+    "name": "nx9161/war-room-protocol",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:24:58Z",
+    "url": "https://github.com/nx9161/war-room-protocol"
+  },
+  {
+    "description": "Short hair, short code. A Claude Code plugin for the simplest code that works: up to 82 % less code on Opus, every safet",
+    "id": "kaveraa/crewcut",
+    "language": "JavaScript",
+    "name": "kaveraa/crewcut",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:24:42Z",
+    "url": "https://github.com/kaveraa/crewcut"
+  },
+  {
+    "description": "Silent-executor skill for coding agents. Give it a task, it says \"yapar\u0131m...\", works, says \"tamam.\" Nothing in between \u2014",
+    "id": "erayendes/oduncu",
+    "language": "JavaScript",
+    "name": "erayendes/oduncu",
+    "stars": 5,
+    "updated_at": "2026-10-07T19:24:27Z",
+    "url": "https://github.com/erayendes/oduncu"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-10-07T19:21:22Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
     "id": "bjcoombs/ai-native-toolkit",
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 32,
-    "updated_at": "2026-10-07T19:15:17Z",
+    "updated_at": "2026-10-07T19:28:39Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Agent skill that breaks the median, mode-collapsed output of AI in design, writing, naming, ideas and code. Evidence-bas",
+    "id": "lipzadaxlk/bud-sport",
+    "language": "\u2014",
+    "name": "lipzadaxlk/bud-sport",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:17:09Z",
+    "url": "https://github.com/lipzadaxlk/bud-sport"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-07T19:29:11Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-10-07T19:16:36Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T19:15:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11744,
-    "updated_at": "2026-10-07T19:15:05Z",
+    "updated_at": "2026-10-07T19:29:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,42 +178,6 @@
     "stars": 33,
     "updated_at": "2026-10-07T19:12:44Z",
     "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35489,
-    "updated_at": "2026-10-07T19:09:31Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agent skill that breaks the median, mode-collapsed output of AI in design, writing, naming, ideas and code. Evidence-bas",
-    "id": "lipzadaxlk/bud-sport",
-    "language": "\u2014",
-    "name": "lipzadaxlk/bud-sport",
-    "stars": 0,
-    "updated_at": "2026-10-07T19:08:39Z",
-    "url": "https://github.com/lipzadaxlk/bud-sport"
-  },
-  {
-    "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 5,
-    "updated_at": "2026-10-07T19:08:35Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74578,
-    "updated_at": "2026-10-07T19:08:26Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Professional skills for nasty bugs, hard decisions and reliable software delivery with Claude Code, Codex and other AI a",
@@ -81,21 +198,12 @@
     "url": "https://github.com/TEXXXXTURE/frontend-aesthetic-skill"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-10-07T19:02:17Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-07T19:01:06Z",
+    "updated_at": "2026-10-07T19:28:34Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -103,7 +211,7 @@
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4899,
+    "stars": 4900,
     "updated_at": "2026-10-07T19:00:58Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
@@ -115,15 +223,6 @@
     "stars": 8,
     "updated_at": "2026-10-07T19:01:30Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T19:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Give your AI agent persistent, validated memory across sessions and machines. A small set of canonical Markdown files ho",
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "locoprice/SprintBrain",
     "stars": 3,
-    "updated_at": "2026-10-07T18:58:59Z",
+    "updated_at": "2026-10-07T19:23:03Z",
     "url": "https://github.com/locoprice/SprintBrain"
   },
   {
@@ -175,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22433,
+    "stars": 22435,
     "updated_at": "2026-10-07T18:56:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -207,21 +306,12 @@
     "url": "https://github.com/BlurryVisions/offthemode"
   },
   {
-    "description": "Short hair, short code. A Claude Code plugin for the simplest code that works: up to 82 % less code on Opus, every safet",
-    "id": "kaveraa/crewcut",
-    "language": "JavaScript",
-    "name": "kaveraa/crewcut",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:52:04Z",
-    "url": "https://github.com/kaveraa/crewcut"
-  },
-  {
     "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
     "id": "majiayu000/spellbook",
     "language": "Python",
     "name": "majiayu000/spellbook",
     "stars": 286,
-    "updated_at": "2026-10-07T18:51:45Z",
+    "updated_at": "2026-10-07T19:18:09Z",
     "url": "https://github.com/majiayu000/spellbook"
   },
   {
@@ -250,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T18:50:39Z",
     "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
-    "id": "nx9161/war-room-protocol",
-    "language": "Shell",
-    "name": "nx9161/war-room-protocol",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:50:06Z",
-    "url": "https://github.com/nx9161/war-room-protocol"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T18:45:06Z",
     "url": "https://github.com/kingjethro999/promptdock"
-  },
-  {
-    "description": "The layer between your idea and your build.",
-    "id": "AtharvaK-XD/Bedrock",
-    "language": "TypeScript",
-    "name": "AtharvaK-XD/Bedrock",
-    "stars": 2,
-    "updated_at": "2026-10-07T18:44:20Z",
-    "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "Python",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 69076,
-    "updated_at": "2026-10-07T18:44:18Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:44:07Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:44:07Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-07T18:44:06Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1871,
-    "updated_at": "2026-10-07T18:43:31Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-07T18:43:09Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2256,
-    "updated_at": "2026-10-07T18:42:44Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "My Claude Code harness: 17 skills and a 7-agent team (architect, reviewer, security auditor, debugger...), linked into a",
-    "id": "orrrrli/ai-engineering-stack",
-    "language": "Shell",
-    "name": "orrrrli/ai-engineering-stack",
-    "stars": 1,
-    "updated_at": "2026-10-07T18:42:40Z",
-    "url": "https://github.com/orrrrli/ai-engineering-stack"
   }
 ]
