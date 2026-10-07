@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u89c1 AI (SeeAI) \u2014 \u7ed9\u975e\u4e13\u4e1a\u5927\u5b66\u751f\u7684 AI \u5165\u95e8\u8bfe\uff1a76 \u8282\u8bfe / 10 \u6761\u8f68\u9053\uff0c\u542b\u79bb\u7ebf\u63d0\u793a\u8bcd\u7ec3\u4e60\u573a\u300168 \u8bcd\u540d\u8bcd\u8868\u4e0e\u6bcf\u5468\u65b0\u8bcd\u722c\u866b",
+    "id": "dreamnight16/see-ai",
+    "language": "TypeScript",
+    "name": "dreamnight16/see-ai",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:43:48Z",
+    "url": "https://github.com/dreamnight16/see-ai"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-07T22:43:47Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "JavaScript",
+    "name": "ericrisco/rsc-harness",
+    "stars": 166,
+    "updated_at": "2026-10-07T22:42:41Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-10-07T22:40:56Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:39:50Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 29,
+    "updated_at": "2026-10-07T22:37:17Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Studio open source de production audiovisuelle assist\u00e9e par IA : une bible, un d\u00e9coupage, N moteurs. De l'id\u00e9e au film, ",
+    "id": "edwinfranck/regie",
+    "language": "TypeScript",
+    "name": "edwinfranck/regie",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:37:08Z",
+    "url": "https://github.com/edwinfranck/regie"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-07T22:37:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 39778,
+    "updated_at": "2026-10-07T22:31:07Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T22:30:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udffa A meta-harness that creates other agents, built around the one agent that writes their instructions.",
     "id": "Petri-Hub/demiurge",
     "language": "Shell",
@@ -45,15 +135,6 @@
     "url": "https://github.com/Bank848/Claude-Abo"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39777,
-    "updated_at": "2026-10-07T22:26:30Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
     "id": "nx9161/war-room-protocol",
     "language": "Shell",
@@ -86,17 +167,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11744,
-    "updated_at": "2026-10-07T22:27:55Z",
+    "updated_at": "2026-10-07T22:31:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "JavaScript",
-    "name": "ericrisco/rsc-harness",
-    "stars": 166,
-    "updated_at": "2026-10-07T22:22:13Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
     "description": "Turn rough ideas, drafts, and notes into detailed, ready-to-use prompts and technical briefs for Codex, Claude, and othe",
@@ -124,15 +196,6 @@
     "stars": 23,
     "updated_at": "2026-10-07T22:21:20Z",
     "url": "https://github.com/mehrad-dm/mastermind"
-  },
-  {
-    "description": "Studio open source de production audiovisuelle assist\u00e9e par IA : une bible, un d\u00e9coupage, N moteurs. De l'id\u00e9e au film, ",
-    "id": "edwinfranck/regie",
-    "language": "TypeScript",
-    "name": "edwinfranck/regie",
-    "stars": 0,
-    "updated_at": "2026-10-07T22:20:57Z",
-    "url": "https://github.com/edwinfranck/regie"
   },
   {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
@@ -189,15 +252,6 @@
     "url": "https://github.com/mmc7676/skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T22:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "12 original browser-agent prompt modules, 4 workflow templates, and 6 reproducible local recovery demos. MIT; no leaked ",
     "id": "LydiaTools/browser-agent-blueprint",
     "language": "HTML",
@@ -216,6 +270,15 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22437,
+    "updated_at": "2026-10-07T22:09:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "GoRi custom nodes for ComfyUI \u2014 camera-aware prompts for Qwen-Image 2.1 (full conditioning), KREA 2, MiniMax H3",
     "id": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
     "language": "Python",
@@ -223,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T22:08:50Z",
     "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-07T22:07:55Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with",
@@ -259,6 +313,15 @@
     "stars": 1,
     "updated_at": "2026-10-07T22:03:44Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35494,
+    "updated_at": "2026-10-07T22:03:30Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -313,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T21:57:06Z",
     "url": "https://github.com/file-bricks/ProfiPrompt"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-07T21:50:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T21:40:43Z",
     "url": "https://github.com/ProAmineOfficial/GitArchitectureDiagram"
-  },
-  {
-    "description": "8-layer prompt amplification framework with a blind A/B benchmark harness. In our own pilot, amplified prompts lost to r",
-    "id": "neurabytelabs/rune",
-    "language": "Python",
-    "name": "neurabytelabs/rune",
-    "stars": 2,
-    "updated_at": "2026-10-07T21:39:05Z",
-    "url": "https://github.com/neurabytelabs/rune"
-  },
-  {
-    "description": "Curated AI skills and Claude Code plugins \u2014 reusable, versioned prompt templates and tools (skillshare/Codex compatible)",
-    "id": "rubicon/ai-skills",
-    "language": "Python",
-    "name": "rubicon/ai-skills",
-    "stars": 1,
-    "updated_at": "2026-10-07T21:45:15Z",
-    "url": "https://github.com/rubicon/ai-skills"
-  },
-  {
-    "description": "A French-first, privacy-conscious AI toolkit for career growth, job applications, and interview preparation. It coaches ",
-    "id": "JeromeJ77/career-ai-toolkit",
-    "language": "Markdown",
-    "name": "JeromeJ77/career-ai-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-07T21:37:45Z",
-    "url": "https://github.com/JeromeJ77/career-ai-toolkit"
-  },
-  {
-    "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
-    "id": "api-evangelist/promptlayer",
-    "language": "\u2014",
-    "name": "api-evangelist/promptlayer",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:30:55Z",
-    "url": "https://github.com/api-evangelist/promptlayer"
-  },
-  {
-    "description": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarit",
-    "id": "LastSearch-HQ/lastsearch",
-    "language": "TypeScript",
-    "name": "LastSearch-HQ/lastsearch",
-    "stars": 20,
-    "updated_at": "2026-10-07T21:44:52Z",
-    "url": "https://github.com/LastSearch-HQ/lastsearch"
-  },
-  {
-    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:29:18Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
   }
 ]
