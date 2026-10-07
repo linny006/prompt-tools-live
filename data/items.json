@@ -1,5 +1,131 @@
 [
   {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-07T04:29:50Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "Python",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-07T04:28:26Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Back by 85. A real clock for coding agents: the rate-limit window as finite, shared, ending time, steered with one phras",
+    "id": "demidko/finite-time",
+    "language": "Python",
+    "name": "demidko/finite-time",
+    "stars": 1,
+    "updated_at": "2026-10-07T04:28:23Z",
+    "url": "https://github.com/demidko/finite-time"
+  },
+  {
+    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
+    "id": "qlheric/xizi-rujin",
+    "language": "Python",
+    "name": "qlheric/xizi-rujin",
+    "stars": 1,
+    "updated_at": "2026-10-07T04:30:22Z",
+    "url": "https://github.com/qlheric/xizi-rujin"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:24:52Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11735,
+    "updated_at": "2026-10-07T04:23:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:29:05Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
+    "id": "LeydLayd/RAG",
+    "language": "TypeScript",
+    "name": "LeydLayd/RAG",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:22:25Z",
+    "url": "https://github.com/LeydLayd/RAG"
+  },
+  {
+    "description": "Versioned orchestration protocol and Codex configuration for coding-agent delegation, developed through benchmarking and",
+    "id": "r-siddiq/llm-nexus",
+    "language": "Python",
+    "name": "r-siddiq/llm-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:22:15Z",
+    "url": "https://github.com/r-siddiq/llm-nexus"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-07T04:30:03Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 18,
+    "updated_at": "2026-10-07T04:20:19Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "AI \u7f16\u7a0b\u8bbe\u8ba1\u8d44\u4ea7\uff1a\u4e1a\u52a1\u89c4\u5219\u3001\u540e\u7aef\u67b6\u6784\u3001\u754c\u9762\u8bbe\u8ba1\u4e0e\u4ea4\u4ed8\u68c0\u67e5\u3002\u516c\u5f00\u9605\u8bfb\uff0c\u6682\u4e0d\u6388\u4e88\u989d\u5916\u4f7f\u7528\u8bb8\u53ef\u3002",
+    "id": "Xuuuuu04/practical-agent-skills",
+    "language": "Python",
+    "name": "Xuuuuu04/practical-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:18:04Z",
+    "url": "https://github.com/Xuuuuu04/practical-agent-skills"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 39748,
+    "updated_at": "2026-10-07T04:24:18Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T04:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The complete 2026 field guide to SuperClaude v4.3.0 for Claude Code \u2014 24 chapters from first install to expert workflows",
     "id": "Made-in-Jurgistan/superclaude-field-guide",
     "language": "HTML",
@@ -27,6 +153,15 @@
     "url": "https://github.com/zsoftly/ai-craft"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74532,
+    "updated_at": "2026-10-07T04:12:26Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}. Native deskto",
     "id": "hazeliscoding/prompuff",
     "language": "C#",
@@ -34,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T04:11:54Z",
     "url": "https://github.com/hazeliscoding/prompuff"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74531,
-    "updated_at": "2026-10-07T04:12:26Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "QQ \u7fa4 AI \u4eff\u771f\u7fa4\u53cb \u00b7 OneBot v11 bridge for any OpenAI-compatible LLM + zero-build browser console. \u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002Apache-2",
@@ -63,15 +189,6 @@
     "url": "https://github.com/Wholiver/metis"
   },
   {
-    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:14:58Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "TypeScript",
@@ -90,21 +207,12 @@
     "url": "https://github.com/LydiaTools/browser-agent-blueprint"
   },
   {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "Python",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-07T04:06:24Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
     "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
     "id": "vlastimilbures/promptmend",
     "language": "Python",
     "name": "vlastimilbures/promptmend",
     "stars": 2,
-    "updated_at": "2026-10-07T04:05:38Z",
+    "updated_at": "2026-10-07T04:27:51Z",
     "url": "https://github.com/vlastimilbures/promptmend"
   },
   {
@@ -135,15 +243,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Versioned orchestration protocol and Codex configuration for coding-agent delegation, developed through benchmarking and",
-    "id": "r-siddiq/llm-nexus",
-    "language": "Python",
-    "name": "r-siddiq/llm-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:03:08Z",
-    "url": "https://github.com/r-siddiq/llm-nexus"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -153,21 +252,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T04:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 110242,
-    "updated_at": "2026-10-07T03:58:54Z",
+    "stars": 110244,
+    "updated_at": "2026-10-07T04:30:00Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
   {
@@ -187,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T03:56:37Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-07T03:55:23Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
   },
   {
     "description": "Portable, self-contained agent skills for Copilot CLI / Claude Code / Cursor. First skill: project-room.",
@@ -252,42 +333,6 @@
     "url": "https://github.com/nohn3043-arch/story-engine"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39748,
-    "updated_at": "2026-10-07T03:46:28Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Role-specialized engineering squad skills for AI coding agents.",
-    "id": "danh121097/squad-skills",
-    "language": "TypeScript",
-    "name": "danh121097/squad-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:41:52Z",
-    "url": "https://github.com/danh121097/squad-skills"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11735,
-    "updated_at": "2026-10-07T04:14:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-07T03:39:39Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Shrink LLM prompts by 40-70% while preserving meaning, semantic chunking + extractive summarization",
     "id": "Thanatos9404/llmslim",
     "language": "Python",
@@ -328,7 +373,7 @@
     "id": "ZeroLu/awesome-nanobanana-pro",
     "language": "\u2014",
     "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10327,
+    "stars": 10328,
     "updated_at": "2026-10-07T03:28:48Z",
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T03:23:32Z",
     "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:23:20Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:22:55Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:21:59Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:21:56Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:20:53Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
   }
 ]
