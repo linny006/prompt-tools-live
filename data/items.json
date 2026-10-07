@@ -1,5 +1,95 @@
 [
   {
+    "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
+    "id": "SatyaVardhanM/Resuto",
+    "language": "Python",
+    "name": "SatyaVardhanM/Resuto",
+    "stars": 0,
+    "updated_at": "2026-10-07T15:50:39Z",
+    "url": "https://github.com/SatyaVardhanM/Resuto"
+  },
+  {
+    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
+    "id": "dairui1/agentlab",
+    "language": "JavaScript",
+    "name": "dairui1/agentlab",
+    "stars": 4,
+    "updated_at": "2026-10-07T15:50:18Z",
+    "url": "https://github.com/dairui1/agentlab"
+  },
+  {
+    "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
+    "id": "mattdweigand-sketch/agent-skills",
+    "language": "Python",
+    "name": "mattdweigand-sketch/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-07T15:49:59Z",
+    "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
+    "id": "Ayush-2703/Large_languaage_Models",
+    "language": "Python",
+    "name": "Ayush-2703/Large_languaage_Models",
+    "stars": 3,
+    "updated_at": "2026-10-07T15:49:31Z",
+    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-10-07T15:49:04Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "57 structured AI coding prompts, installed as Claude Code slash commands.",
+    "id": "ccprompt/ccprompt",
+    "language": "JavaScript",
+    "name": "ccprompt/ccprompt",
+    "stars": 1,
+    "updated_at": "2026-10-07T15:48:11Z",
+    "url": "https://github.com/ccprompt/ccprompt"
+  },
+  {
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 286,
+    "updated_at": "2026-10-07T15:47:19Z",
+    "url": "https://github.com/majiayu000/spellbook"
+  },
+  {
+    "description": "\u7f51\u6587\u8fde\u8f7d\u521b\u4f5c\u5f15\u64ce\uff08AI Skill\uff09\uff1a\u5355\u7ae0 2000 \u5b57\u3001\u53ef\u8fde\u7eed\u5199\u6570\u767e\u81f3\u4e0a\u5343\u7ae0\u3002\u5185\u7f6e\u9ec4\u91d1\u4e09\u7ae0\u3001\u723d\u71c3\u6cea\u60c5\u7eea\u66f2\u7ebf\u3001\u94a9\u5b50\u5341\u4e8c\u5f0f\u3001\u4f0f\u7b14\u8d26\u672c\u3001\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\u4e0e\u5b57\u6570\u5b9e\u6d4b\u811a\u672c\u3002",
+    "id": "QIUZHIYI1352/webnovel-writer",
+    "language": "Python",
+    "name": "QIUZHIYI1352/webnovel-writer",
+    "stars": 0,
+    "updated_at": "2026-10-07T15:46:50Z",
+    "url": "https://github.com/QIUZHIYI1352/webnovel-writer"
+  },
+  {
+    "description": "Viral AI video templates with copy-paste prompts for Seedance, Kling, CapCut and Dreamina \u2014 make them in one click at zo",
+    "id": "chaojieY26/ai-video-templates",
+    "language": "\u2014",
+    "name": "chaojieY26/ai-video-templates",
+    "stars": 0,
+    "updated_at": "2026-10-07T15:46:39Z",
+    "url": "https://github.com/chaojieY26/ai-video-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T15:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
     "id": "DaveHomeAssist/prompt-lab",
     "language": "JavaScript",
@@ -81,15 +171,6 @@
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
-    "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
-    "id": "Ayush-2703/Large_languaage_Models",
-    "language": "Python",
-    "name": "Ayush-2703/Large_languaage_Models",
-    "stars": 3,
-    "updated_at": "2026-10-07T15:39:50Z",
-    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -104,7 +185,7 @@
     "language": "JavaScript",
     "name": "AltairaLabs/promptpack-spec",
     "stars": 6,
-    "updated_at": "2026-10-07T15:39:07Z",
+    "updated_at": "2026-10-07T15:50:12Z",
     "url": "https://github.com/AltairaLabs/promptpack-spec"
   },
   {
@@ -121,7 +202,7 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2089,
+    "stars": 2090,
     "updated_at": "2026-10-07T15:36:49Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
@@ -176,26 +257,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35484,
-    "updated_at": "2026-10-07T15:44:44Z",
+    "updated_at": "2026-10-07T15:50:40Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T15:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
-    "id": "SatyaVardhanM/Resuto",
-    "language": "Python",
-    "name": "SatyaVardhanM/Resuto",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:30:28Z",
-    "url": "https://github.com/SatyaVardhanM/Resuto"
   },
   {
     "description": "Evidence-based User Journeys for public administration \u2014 schema, lints, renderer, Claude skill",
@@ -223,15 +286,6 @@
     "stars": 19,
     "updated_at": "2026-10-07T15:29:10Z",
     "url": "https://github.com/juventini10/Five-layer-memory-system"
-  },
-  {
-    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
-    "id": "dairui1/agentlab",
-    "language": "JavaScript",
-    "name": "dairui1/agentlab",
-    "stars": 4,
-    "updated_at": "2026-10-07T15:28:41Z",
-    "url": "https://github.com/dairui1/agentlab"
   },
   {
     "description": "The layer between your idea and your build.",
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22429,
-    "updated_at": "2026-10-07T15:42:38Z",
+    "updated_at": "2026-10-07T15:50:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T15:18:03Z",
     "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 8,
-    "updated_at": "2026-10-07T15:17:55Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "Python",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-07T15:17:25Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-07T15:06:40Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-07T15:06:25Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-07T15:05:56Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-10-07T15:05:04Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
   }
 ]
