@@ -1,5 +1,248 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35478,
+    "updated_at": "2026-10-07T13:30:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-07T13:29:39Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "Python",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:29:20Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-10-07T13:28:34Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 3,
+    "updated_at": "2026-10-07T13:27:16Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "Practical guide for dev & ops engineers: get the same results from AI assistants with fewer tokens.",
+    "id": "koolaji/ai-token-optimization",
+    "language": "\u2014",
+    "name": "koolaji/ai-token-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:26:47Z",
+    "url": "https://github.com/koolaji/ai-token-optimization"
+  },
+  {
+    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
+    "id": "tobiast5801/mdp-preflight",
+    "language": "\u2014",
+    "name": "tobiast5801/mdp-preflight",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:22:47Z",
+    "url": "https://github.com/tobiast5801/mdp-preflight"
+  },
+  {
+    "description": "Short hair, short code. A Claude Code plugin for the simplest code that works: up to 82 % less code on Opus, every safet",
+    "id": "kaveraa/crewcut",
+    "language": "JavaScript",
+    "name": "kaveraa/crewcut",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:21:40Z",
+    "url": "https://github.com/kaveraa/crewcut"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22423,
+    "updated_at": "2026-10-07T13:30:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
+    "id": "Irongrey-genusengelmannia453/zero-context",
+    "language": "HTML",
+    "name": "Irongrey-genusengelmannia453/zero-context",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:20:52Z",
+    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
+  },
+  {
+    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
+    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "language": "\u2014",
+    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:20:16Z",
+    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
+  },
+  {
+    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
+    "id": "variant-thripidae875/sols-rng-win-script-hub",
+    "language": "HTML",
+    "name": "variant-thripidae875/sols-rng-win-script-hub",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:20:14Z",
+    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
+  },
+  {
+    "description": "Practice coding and prompting with friends, battle developers live, climb the rankings, build community games. Runs code",
+    "id": "sennaicodes/codearena",
+    "language": "JavaScript",
+    "name": "sennaicodes/codearena",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:19:52Z",
+    "url": "https://github.com/sennaicodes/codearena"
+  },
+  {
+    "description": "A universal, native-Rust governance layer for AI coding agents. Enforces Subagent-Driven Development (SDD) to stop hallu",
+    "id": "Harmitx7/tribunal-kit",
+    "language": "JavaScript",
+    "name": "Harmitx7/tribunal-kit",
+    "stars": 5,
+    "updated_at": "2026-10-07T13:19:34Z",
+    "url": "https://github.com/Harmitx7/tribunal-kit"
+  },
+  {
+    "description": "Dual-profile prompt-as-mental-model harness for LLM agents \u2014 advisory generator profile in the working agent, blocking v",
+    "id": "Xxx91n/jiahao",
+    "language": "JavaScript",
+    "name": "Xxx91n/jiahao",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:19:25Z",
+    "url": "https://github.com/Xxx91n/jiahao"
+  },
+  {
+    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
+    "id": "afrazpindari14-commits/Ontology-Playground",
+    "language": "TypeScript",
+    "name": "afrazpindari14-commits/Ontology-Playground",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:18:30Z",
+    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
+  },
+  {
+    "description": "",
+    "id": "asa834/paperforge-2026-paper-workflow",
+    "language": "HTML",
+    "name": "asa834/paperforge-2026-paper-workflow",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:18:29Z",
+    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
+  },
+  {
+    "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
+    "id": "luiseiman/dotforge",
+    "language": "Shell",
+    "name": "luiseiman/dotforge",
+    "stars": 8,
+    "updated_at": "2026-10-07T13:18:28Z",
+    "url": "https://github.com/luiseiman/dotforge"
+  },
+  {
+    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
+    "id": "nino-chavez/agentic-ways-of-working",
+    "language": "Python",
+    "name": "nino-chavez/agentic-ways-of-working",
+    "stars": 2,
+    "updated_at": "2026-10-07T13:19:05Z",
+    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
+  },
+  {
+    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
+    "id": "Discriminative-shoji607/ui-skills",
+    "language": "TypeScript",
+    "name": "Discriminative-shoji607/ui-skills",
+    "stars": 2,
+    "updated_at": "2026-10-07T13:18:10Z",
+    "url": "https://github.com/Discriminative-shoji607/ui-skills"
+  },
+  {
+    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
+    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
+    "language": "\u2014",
+    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
+    "stars": 2,
+    "updated_at": "2026-10-07T13:18:03Z",
+    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
+  },
+  {
+    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
+    "id": "Kentlight970/Edit-Master-Pro",
+    "language": "Python",
+    "name": "Kentlight970/Edit-Master-Pro",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:17:56Z",
+    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
+  },
+  {
+    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
+    "id": "Ekmsi8525/agentsmith",
+    "language": "\u2014",
+    "name": "Ekmsi8525/agentsmith",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:17:43Z",
+    "url": "https://github.com/Ekmsi8525/agentsmith"
+  },
+  {
+    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
+    "id": "linnetforeign896/app-monitor",
+    "language": "Swift",
+    "name": "linnetforeign896/app-monitor",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:16:59Z",
+    "url": "https://github.com/linnetforeign896/app-monitor"
+  },
+  {
+    "description": "Prompts, workflow, and tools for vibe coders. 39 battle-tested prompts + a 9-step workflow built from the most-starred A",
+    "id": "dotsystemsdevs/pineflow",
+    "language": "TypeScript",
+    "name": "dotsystemsdevs/pineflow",
+    "stars": 10,
+    "updated_at": "2026-10-07T13:16:38Z",
+    "url": "https://github.com/dotsystemsdevs/pineflow"
+  },
+  {
+    "description": " discovery \u2014 blindspot scanning, model routing, fix-loop detection",
+    "id": "orenluxy/fable-method",
+    "language": "Shell",
+    "name": "orenluxy/fable-method",
+    "stars": 1,
+    "updated_at": "2026-10-07T13:16:29Z",
+    "url": "https://github.com/orenluxy/fable-method"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T13:15:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first prompt regression testing and evals for LLM apps.",
     "id": "promptry/promptry",
     "language": "Python",
@@ -45,15 +288,6 @@
     "url": "https://github.com/Vesper2139/huaxiazi"
   },
   {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "Python",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:13:35Z",
-    "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -68,7 +302,7 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-07T13:12:57Z",
+    "updated_at": "2026-10-07T13:27:07Z",
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
@@ -86,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4923,
-    "updated_at": "2026-10-07T13:15:03Z",
+    "updated_at": "2026-10-07T13:27:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,21 +342,12 @@
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35478,
-    "updated_at": "2026-10-07T13:15:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
     "id": "ainova-systems/intelligence",
     "language": "Shell",
     "name": "ainova-systems/intelligence",
     "stars": 1,
-    "updated_at": "2026-10-07T13:11:28Z",
+    "updated_at": "2026-10-07T13:27:57Z",
     "url": "https://github.com/ainova-systems/intelligence"
   },
   {
@@ -223,230 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T13:09:48Z",
     "url": "https://github.com/kentunderage549/cc-harness-skills"
-  },
-  {
-    "description": "Explore reverse engineering specs for Claude Code CLI, with implementation-ready design docs from source map analysis of",
-    "id": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "language": "HCL",
-    "name": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:09:39Z",
-    "url": "https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering"
-  },
-  {
-    "description": "Investigate agentic AI prompt design, sub-agent coordination, and tool safety patterns for coding assistants",
-    "id": "unoccupied-creep552/agentic-ai-prompt-research",
-    "language": "\u2014",
-    "name": "unoccupied-creep552/agentic-ai-prompt-research",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:09:34Z",
-    "url": "https://github.com/unoccupied-creep552/agentic-ai-prompt-research"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22422,
-    "updated_at": "2026-10-07T13:15:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
-    "id": "marysatasselshaped667/skills-collection-1",
-    "language": "Python",
-    "name": "marysatasselshaped667/skills-collection-1",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:09:21Z",
-    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
-  },
-  {
-    "description": "Bootstrap the 45ck agent stack with shared skills, Claude and Codex agents, project tooling, and embedded packs",
-    "id": "blinnieinfertile577/skill-harness",
-    "language": "JavaScript",
-    "name": "blinnieinfertile577/skill-harness",
-    "stars": 2,
-    "updated_at": "2026-10-07T13:08:53Z",
-    "url": "https://github.com/blinnieinfertile577/skill-harness"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28303,
-    "updated_at": "2026-10-07T13:09:56Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Short hair, short code. A Claude Code plugin for the simplest code that works: up to 82 % less code on Opus, every safet",
-    "id": "kaveraa/crewcut",
-    "language": "JavaScript",
-    "name": "kaveraa/crewcut",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:34Z",
-    "url": "https://github.com/kaveraa/crewcut"
-  },
-  {
-    "description": "Build production-grade Claude Code project templates with specialized agents, reusable skills, rules, and hooks for fast",
-    "id": "IuliaIvanaPatras/claude-code-templates",
-    "language": "Shell",
-    "name": "IuliaIvanaPatras/claude-code-templates",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:08:23Z",
-    "url": "https://github.com/IuliaIvanaPatras/claude-code-templates"
-  },
-  {
-    "description": "Manage NeuralVaultCore memory with a safe, low-token system prompt for Claude Code, plus /nvc:init and /nvc:end commands",
-    "id": "Marlorecent554/NeuralVaultSkill",
-    "language": "\u2014",
-    "name": "Marlorecent554/NeuralVaultSkill",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:20Z",
-    "url": "https://github.com/Marlorecent554/NeuralVaultSkill"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-07T13:08:14Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
-    "id": "luiseiman/dotforge",
-    "language": "Shell",
-    "name": "luiseiman/dotforge",
-    "stars": 8,
-    "updated_at": "2026-10-07T13:08:10Z",
-    "url": "https://github.com/luiseiman/dotforge"
-  },
-  {
-    "description": "Build type-safe LLM prompt templates for Rust with compile-time variable checks and clear runtime errors",
-    "id": "mosesking8230/promptml",
-    "language": "Rust",
-    "name": "mosesking8230/promptml",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:08Z",
-    "url": "https://github.com/mosesking8230/promptml"
-  },
-  {
-    "description": "Audit code health with AI using evidence-based checks, risk metrics, and prioritized findings for clear refactor decisio",
-    "id": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "language": "\u2014",
-    "name": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:04Z",
-    "url": "https://github.com/Petrcatapultian539/Code-Health-Check-Prompt"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:08:00Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Harden a Hetzner Ubuntu 24.04 VPS with Claude Code: SSH, UFW, fail2ban, updates, and optional Tailscale setup",
-    "id": "religious-polygoniacomma936/claude-vps-setup-prompt",
-    "language": "\u2014",
-    "name": "religious-polygoniacomma936/claude-vps-setup-prompt",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:07:52Z",
-    "url": "https://github.com/religious-polygoniacomma936/claude-vps-setup-prompt"
-  },
-  {
-    "description": "Build reusable skills from shell, git, browser, and Claude logs to spot patterns and install slash commands in your AI t",
-    "id": "izzidescendent834/skill-builder",
-    "language": "JavaScript",
-    "name": "izzidescendent834/skill-builder",
-    "stars": 4,
-    "updated_at": "2026-10-07T13:07:46Z",
-    "url": "https://github.com/izzidescendent834/skill-builder"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 4,
-    "updated_at": "2026-10-07T13:07:41Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "Build AI chief of staff skills for founders, with frameworks for strategy, GTM, sales, and ops in one repo",
-    "id": "Layneformalized225/ai-cofounder",
-    "language": "Python",
-    "name": "Layneformalized225/ai-cofounder",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:07:30Z",
-    "url": "https://github.com/Layneformalized225/ai-cofounder"
-  },
-  {
-    "description": "Turn AI coding agents into research assistants that design, test, and refine experiments with one file",
-    "id": "Kitakyushulassavirus728/ResearcherSkill",
-    "language": "Python",
-    "name": "Kitakyushulassavirus728/ResearcherSkill",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:07:25Z",
-    "url": "https://github.com/Kitakyushulassavirus728/ResearcherSkill"
-  },
-  {
-    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
-    "id": "promptslab/Awesome-Prompt-Engineering",
-    "language": "TypeScript",
-    "name": "promptslab/Awesome-Prompt-Engineering",
-    "stars": 6360,
-    "updated_at": "2026-10-07T13:07:14Z",
-    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
-  },
-  {
-    "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
-    "id": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "language": "\u2014",
-    "name": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "stars": 3,
-    "updated_at": "2026-10-07T13:06:57Z",
-    "url": "https://github.com/Overseastelegramaliterateperson865/awesome-claude-md"
-  },
-  {
-    "description": "Translate and adapt Superpowers for Chinese AI coding tools, with 20 skills and 6 China-specific workflows for better pl",
-    "id": "Leodorareluctant259/superpowers-zh",
-    "language": "Shell",
-    "name": "Leodorareluctant259/superpowers-zh",
-    "stars": 5,
-    "updated_at": "2026-10-07T13:06:50Z",
-    "url": "https://github.com/Leodorareluctant259/superpowers-zh"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:06:48Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "HangDev: AI-powered Hangman game with a tech theme. Python/Flask backend with AWS Bedrock, deployed on EC2 with Terrafor",
-    "id": "chrisjedwards/HangMan",
-    "language": "Python",
-    "name": "chrisjedwards/HangMan",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:06:32Z",
-    "url": "https://github.com/chrisjedwards/HangMan"
-  },
-  {
-    "description": "Build GEO monitoring prompts from client briefs with a topic-first system for discovery, comparison, and brand defense",
-    "id": "rheumatologyquadrivium246/geo-prompt-architecture",
-    "language": "\u2014",
-    "name": "rheumatologyquadrivium246/geo-prompt-architecture",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:06:26Z",
-    "url": "https://github.com/rheumatologyquadrivium246/geo-prompt-architecture"
   }
 ]
