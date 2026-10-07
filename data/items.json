@@ -1,12 +1,66 @@
 [
   {
-    "description": "\u5728 DeepSeek Harness \u63d0\u793a\u8bcd\u8f93\u5165\u6846\u53f3\u4e0b\u89d2\u52a0\u4e00\u4e2a\u6da6\u8272\u6309\u94ae\uff1a\u4e00\u952e\u8ba9\u6a21\u578b\u6539\u5199\u8349\u7a3f\uff0c\u6da6\u8272\u7528\u7684\u63d0\u793a\u8bcd\u53ef\u968f\u65f6\u4fee\u6539",
-    "id": "imlida/dsh-plugin-prompt-polish",
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3727,
+    "updated_at": "2026-10-07T09:00:00Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
+    "id": "vlastimilbures/promptmend",
+    "language": "Python",
+    "name": "vlastimilbures/promptmend",
+    "stars": 2,
+    "updated_at": "2026-10-07T08:59:58Z",
+    "url": "https://github.com/vlastimilbures/promptmend"
+  },
+  {
+    "description": "Make your AI agent paranoid about the right things \u2014 money in integer minor-units, idempotent mutations, timeouts + back",
+    "id": "ManojLingala/greybeard",
+    "language": "C#",
+    "name": "ManojLingala/greybeard",
+    "stars": 3,
+    "updated_at": "2026-10-07T08:59:21Z",
+    "url": "https://github.com/ManojLingala/greybeard"
+  },
+  {
+    "description": "Local-first continuity checks and locked prompts for multi-shot AI video scenes",
+    "id": "maomao-1937/framekeeper-ai-continuity",
     "language": "JavaScript",
-    "name": "imlida/dsh-plugin-prompt-polish",
+    "name": "maomao-1937/framekeeper-ai-continuity",
     "stars": 0,
-    "updated_at": "2026-10-07T08:54:50Z",
-    "url": "https://github.com/imlida/dsh-plugin-prompt-polish"
+    "updated_at": "2026-10-07T08:59:20Z",
+    "url": "https://github.com/maomao-1937/framekeeper-ai-continuity"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-07T08:58:58Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:58:53Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\u26a1 ChronoFact: 4-Pillar Epistemic AI Backbone. Real-time temporal cutoff calibration, active NLI claim verifier, zero-pol",
+    "id": "ModernOps888/chronofact",
+    "language": "Rust",
+    "name": "ModernOps888/chronofact",
+    "stars": 2,
+    "updated_at": "2026-10-07T08:58:42Z",
+    "url": "https://github.com/ModernOps888/chronofact"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,8 +68,44 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35464,
-    "updated_at": "2026-10-07T08:54:36Z",
+    "updated_at": "2026-10-07T08:59:08Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source visual style library for AI-generated UI \u2014 148 curated styles with design tokens, prompts and MCP. | \u9762\u5411 AI \u751f",
+    "id": "AnxForever/stylekit",
+    "language": "TypeScript",
+    "name": "AnxForever/stylekit",
+    "stars": 578,
+    "updated_at": "2026-10-07T08:58:16Z",
+    "url": "https://github.com/AnxForever/stylekit"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:58:04Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-07T08:55:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u5728 DeepSeek Harness \u63d0\u793a\u8bcd\u8f93\u5165\u6846\u53f3\u4e0b\u89d2\u52a0\u4e00\u4e2a\u6da6\u8272\u6309\u94ae\uff1a\u4e00\u952e\u8ba9\u6a21\u578b\u6539\u5199\u8349\u7a3f\uff0c\u6da6\u8272\u7528\u7684\u63d0\u793a\u8bcd\u53ef\u968f\u65f6\u4fee\u6539",
+    "id": "imlida/dsh-plugin-prompt-polish",
+    "language": "JavaScript",
+    "name": "imlida/dsh-plugin-prompt-polish",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:54:50Z",
+    "url": "https://github.com/imlida/dsh-plugin-prompt-polish"
   },
   {
     "description": "\u9762\u5411\u975e\u6280\u672f\u8bfb\u8005\u7684 AI \u534f\u4f5c\u77e5\u8bc6\u5e93\uff1a\u4ece Prompt\u3001Context \u5230 Agent \u4e0e Harness",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T08:54:08Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Make your AI agent paranoid about the right things \u2014 money in integer minor-units, idempotent mutations, timeouts + back",
-    "id": "ManojLingala/greybeard",
-    "language": "C#",
-    "name": "ManojLingala/greybeard",
-    "stars": 3,
-    "updated_at": "2026-10-07T08:53:39Z",
-    "url": "https://github.com/ManojLingala/greybeard"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22417,
-    "updated_at": "2026-10-07T08:54:40Z",
+    "updated_at": "2026-10-07T08:59:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3727,
-    "updated_at": "2026-10-07T08:47:23Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -153,15 +225,6 @@
     "url": "https://github.com/endorphin-ai/hasbrains-agent-kit"
   },
   {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:53:22Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "AGENTS.md that shortens LLM responses ",
     "id": "ShahzaibAhmad05/agent-instructions",
     "language": "\u2014",
@@ -178,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T08:45:42Z",
     "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-07T08:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28295,
-    "updated_at": "2026-10-07T08:33:22Z",
+    "updated_at": "2026-10-07T08:57:18Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 125,
     "updated_at": "2026-10-07T08:23:26Z",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:23:05Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
-    "id": "rikilamadrid/pathfinder",
-    "language": "JavaScript",
-    "name": "rikilamadrid/pathfinder",
-    "stars": 1,
-    "updated_at": "2026-10-07T08:26:19Z",
-    "url": "https://github.com/rikilamadrid/pathfinder"
-  },
-  {
-    "description": "Est\u00e1ndar de calidad para Claude Code, en espa\u00f1ol y medido: n\u00facleo de reglas + 9 skills + est\u00e1ndar de estructura de proye",
-    "id": "chemaw8/claude-kit-chema",
-    "language": "Shell",
-    "name": "chemaw8/claude-kit-chema",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:53:30Z",
-    "url": "https://github.com/chemaw8/claude-kit-chema"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4894,
-    "updated_at": "2026-10-07T08:22:04Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-07T08:22:00Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:21:48Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   }
 ]
