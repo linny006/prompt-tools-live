@@ -1,5 +1,176 @@
 [
   {
+    "description": "Fully offline coding and inventory assistant: local LLM (Ollama) + RAG over a project's own files. Terminal, web UI, and",
+    "id": "project5662/local-agent",
+    "language": "Python",
+    "name": "project5662/local-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:29:13Z",
+    "url": "https://github.com/project5662/local-agent"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-10-08T12:28:26Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22449,
+    "updated_at": "2026-10-08T12:28:42Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The Universal Open-Source Warehouse for AI Agents, Skills, MCP Servers & Plugins",
+    "id": "sagaargroups/OpenWarehouse",
+    "language": "Python",
+    "name": "sagaargroups/OpenWarehouse",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:27:06Z",
+    "url": "https://github.com/sagaargroups/OpenWarehouse"
+  },
+  {
+    "description": "Hermes Desktop plugin for draft enhancement, prompt libraries, undo/redo, and owner-bound live voice.",
+    "id": "noxius-studium/enchanted-composer",
+    "language": "Python",
+    "name": "noxius-studium/enchanted-composer",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:24:02Z",
+    "url": "https://github.com/noxius-studium/enchanted-composer"
+  },
+  {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "Mueller-Systems-Lab/promptvault-lite",
+    "language": "TypeScript",
+    "name": "Mueller-Systems-Lab/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:22:53Z",
+    "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-08T12:22:45Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
+    "id": "datasound-projects/Promptboard",
+    "language": "JavaScript",
+    "name": "datasound-projects/Promptboard",
+    "stars": 5,
+    "updated_at": "2026-10-08T12:21:41Z",
+    "url": "https://github.com/datasound-projects/Promptboard"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2625,
+    "updated_at": "2026-10-08T12:21:40Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "A multi-agent decision-analysis protocol for preventing premature convergence through isolated causal search, blind redu",
+    "id": "lavalava45/convergence-guard",
+    "language": "Python",
+    "name": "lavalava45/convergence-guard",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:20:36Z",
+    "url": "https://github.com/lavalava45/convergence-guard"
+  },
+  {
+    "description": "Photo-shoot studio for ComfyUI: a visual prompt builder (lighting clock, camera rig, palettes, randomizable categories) ",
+    "id": "perfectmodelslab/ComfyUI-PerfectLab",
+    "language": "JavaScript",
+    "name": "perfectmodelslab/ComfyUI-PerfectLab",
+    "stars": 1,
+    "updated_at": "2026-10-08T12:20:21Z",
+    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "ComfyUI nodes that turn filmmaker-style fields and images into MiniMax H3 T2VA/I2VA prompts via local Ollama or the xAI ",
+    "id": "flamin-galah/ComfyUI-Flamin-Galah",
+    "language": "Python",
+    "name": "flamin-galah/ComfyUI-Flamin-Galah",
+    "stars": 1,
+    "updated_at": "2026-10-08T12:20:19Z",
+    "url": "https://github.com/flamin-galah/ComfyUI-Flamin-Galah"
+  },
+  {
+    "description": "git diff for prompt engineers - catch behavioural prompt regressions before they ship.",
+    "id": "RudraDudhat2509/diffprompt",
+    "language": "Python",
+    "name": "RudraDudhat2509/diffprompt",
+    "stars": 3,
+    "updated_at": "2026-10-08T12:19:21Z",
+    "url": "https://github.com/RudraDudhat2509/diffprompt"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 943,
+    "updated_at": "2026-10-08T12:17:48Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-08T12:17:36Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "\u26a1 Deterministic token usage measurement & context diff CLI/SDK for LLMs & AI agents. Zero-WASM, 100% offline, agent-read",
+    "id": "Khoa180806/token-diff",
+    "language": "TypeScript",
+    "name": "Khoa180806/token-diff",
+    "stars": 0,
+    "updated_at": "2026-10-08T12:16:29Z",
+    "url": "https://github.com/Khoa180806/token-diff"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-10-08T12:16:26Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11751,
+    "updated_at": "2026-10-08T12:15:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-08T12:15:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
     "id": "Adilaw12/freebird-vscode",
     "language": "TypeScript",
@@ -7,6 +178,15 @@
     "stars": 3,
     "updated_at": "2026-10-08T12:15:15Z",
     "url": "https://github.com/Adilaw12/freebird-vscode"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35518,
+    "updated_at": "2026-10-08T12:28:48Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open engine behind Aedelgard: a persistent, self-hosted AI agent with a verbatim memory palace and a model-agnostic ",
@@ -54,15 +234,6 @@
     "url": "https://github.com/sutro-sh/sutro"
   },
   {
-    "description": "Hermes Desktop plugin for draft enhancement, prompt libraries, undo/redo, and owner-bound live voice.",
-    "id": "noxius-studium/enchanted-composer",
-    "language": "Python",
-    "name": "noxius-studium/enchanted-composer",
-    "stars": 0,
-    "updated_at": "2026-10-08T12:12:06Z",
-    "url": "https://github.com/noxius-studium/enchanted-composer"
-  },
-  {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
     "id": "fysoul17/devlyn-cli",
     "language": "Python",
@@ -95,7 +266,7 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-08T12:08:09Z",
+    "updated_at": "2026-10-08T12:29:22Z",
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
@@ -124,24 +295,6 @@
     "stars": 207,
     "updated_at": "2026-10-08T12:07:13Z",
     "url": "https://github.com/Azure/intelligent-app-workshop"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22449,
-    "updated_at": "2026-10-08T12:09:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35517,
-    "updated_at": "2026-10-08T12:15:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Opinionated guide to AI coding agents, workflows, MCP, verification, and safe execution.",
@@ -216,15 +369,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Photo-shoot studio for ComfyUI: a visual prompt builder (lighting clock, camera rig, palettes, randomizable categories) ",
-    "id": "perfectmodelslab/ComfyUI-PerfectLab",
-    "language": "JavaScript",
-    "name": "perfectmodelslab/ComfyUI-PerfectLab",
-    "stars": 1,
-    "updated_at": "2026-10-08T12:03:02Z",
-    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
-  },
-  {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
     "id": "skillberry-ai/cap-evolve",
     "language": "Python",
@@ -243,15 +387,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-08T12:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -265,7 +400,7 @@
     "id": "3641397194-wq/gpt6-Astra",
     "language": "JavaScript",
     "name": "3641397194-wq/gpt6-Astra",
-    "stars": 849,
+    "stars": 850,
     "updated_at": "2026-10-08T11:58:32Z",
     "url": "https://github.com/3641397194-wq/gpt6-Astra"
   },
@@ -277,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T11:57:25Z",
     "url": "https://github.com/api-evangelist/context-engineering"
-  },
-  {
-    "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
-    "id": "datasound-projects/Promptboard",
-    "language": "JavaScript",
-    "name": "datasound-projects/Promptboard",
-    "stars": 5,
-    "updated_at": "2026-10-08T11:57:11Z",
-    "url": "https://github.com/datasound-projects/Promptboard"
   },
   {
     "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
@@ -302,7 +428,7 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 32,
-    "updated_at": "2026-10-08T12:08:36Z",
+    "updated_at": "2026-10-08T12:28:38Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-08T11:56:29Z",
     "url": "https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-08T11:55:26Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "48 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
-    "id": "int2t05/engineering-skills",
-    "language": "Python",
-    "name": "int2t05/engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-10-08T11:54:53Z",
-    "url": "https://github.com/int2t05/engineering-skills"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-08T11:54:43Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
-    "id": "api-evangelist/compresr",
-    "language": "\u2014",
-    "name": "api-evangelist/compresr",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:54:12Z",
-    "url": "https://github.com/api-evangelist/compresr"
-  },
-  {
-    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
-    "id": "Global-AI-Group-Inc/content-generation-skills",
-    "language": "JavaScript",
-    "name": "Global-AI-Group-Inc/content-generation-skills",
-    "stars": 6,
-    "updated_at": "2026-10-08T11:53:45Z",
-    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "Stories, archetypes, and pressure tests for agents that need more than instructions.",
-    "id": "lachyy262/mythopraxis",
-    "language": "Python",
-    "name": "lachyy262/mythopraxis",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:53:37Z",
-    "url": "https://github.com/lachyy262/mythopraxis"
-  },
-  {
-    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
-    "id": "giladbarnea/soft-skills",
-    "language": "\u2014",
-    "name": "giladbarnea/soft-skills",
-    "stars": 5,
-    "updated_at": "2026-10-08T11:52:46Z",
-    "url": "https://github.com/giladbarnea/soft-skills"
-  },
-  {
-    "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
-    "id": "aabrur/hypertaks-agent",
-    "language": "JavaScript",
-    "name": "aabrur/hypertaks-agent",
-    "stars": 19,
-    "updated_at": "2026-10-08T11:52:15Z",
-    "url": "https://github.com/aabrur/hypertaks-agent"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-08T11:51:37Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
-    "id": "Khyodaattu/awesome-skillkit",
-    "language": "\u2014",
-    "name": "Khyodaattu/awesome-skillkit",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:51:31Z",
-    "url": "https://github.com/Khyodaattu/awesome-skillkit"
-  },
-  {
-    "description": "Model-neutral task decomposition, capability routing, KPI verification, and cost-aware AI orchestration.",
-    "id": "charleydou-collab/adaptive-agent-orchestrator",
-    "language": "Python",
-    "name": "charleydou-collab/adaptive-agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:51:27Z",
-    "url": "https://github.com/charleydou-collab/adaptive-agent-orchestrator"
-  },
-  {
-    "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
-    "id": "randolfglorious1317/skillpack",
-    "language": "TypeScript",
-    "name": "randolfglorious1317/skillpack",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:50:48Z",
-    "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
-    "id": "unmanageable-mauiisland8443/PromptLedger",
-    "language": "\u2014",
-    "name": "unmanageable-mauiisland8443/PromptLedger",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:50:40Z",
-    "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "\ud83e\uddf0 \u7cbe\u9009 AI Agent \u751f\u4ea7\u529b\u5b9e\u6218\u6280\u80fd\u5305\u4e0e\u5de5\u5177\u96c6 \u00b7 \u6db5\u76d6\u591a\u5a92\u4f53\u63d0\u53d6\u3001\u4e07\u884c\u5927\u8868\u683c\u5206\u6790\u3001\u53bbAI\u5473\u5199\u4f5c\u3001\u6742\u5fd7\u7ea7\u62a5\u544a\u751f\u6210\u3001\u5168\u5e73\u53f0\u5206\u53d1\u4e0e Telegram \u5bcc\u6587\u672c\u8868\u683c\u5bf9\u9f50 | Production-ready skills & tools fo",
-    "id": "shali10/awesome-agent-skills",
-    "language": "Python",
-    "name": "shali10/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T11:50:25Z",
-    "url": "https://github.com/shali10/awesome-agent-skills"
   }
 ]
