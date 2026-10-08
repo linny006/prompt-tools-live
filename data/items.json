@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u4e00\u4e2a\u53ef\u590d\u523b\u4efb\u4f55\u91cd\u8981\u4ed6\u4eba\u7684 AI \u966a\u4f34\u804a\u5929\u6846\u67b6\uff1a\u517c\u987e\u7231\u60c5\u3001\u4eb2\u60c5\u3001\u53cb\u60c5\u7684\u5728\u7ebf\u4eba\u683c\u966a\u4f34 demo\uff08Flask \u804a\u5929\u670d\u52a1 + \u901a\u7528\u4eba\u683c\u84b8\u998f\u4e0e\u56de\u590d\u751f\u6210 prompt\uff09",
+    "id": "ypx-xyz/keep-near-ai",
+    "language": "Python",
+    "name": "ypx-xyz/keep-near-ai",
+    "stars": 1,
+    "updated_at": "2026-10-08T08:00:16Z",
+    "url": "https://github.com/ypx-xyz/keep-near-ai"
+  },
+  {
+    "description": "Compare TypeSafe Jev and LLMs on 60 synthetic candidate-experience reviews: four classification tasks, prompt variants, ",
+    "id": "adambkovacs/candidate-experience-benchmark",
+    "language": "HTML",
+    "name": "adambkovacs/candidate-experience-benchmark",
+    "stars": 4,
+    "updated_at": "2026-10-08T07:59:50Z",
+    "url": "https://github.com/adambkovacs/candidate-experience-benchmark"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T07:58:24Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "The \"laziest senior dev\" decision ladder as a Swift gate, with a protected floor for validation, security and accessibil",
+    "id": "rajatslakhina/deletion-ladder-article-demo",
+    "language": "Swift",
+    "name": "rajatslakhina/deletion-ladder-article-demo",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:55:26Z",
+    "url": "https://github.com/rajatslakhina/deletion-ladder-article-demo"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-08T07:54:16Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:54:10Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25805,
+    "updated_at": "2026-10-08T07:53:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Hermes Desktop plugin for draft enhancement, prompt libraries, undo/redo, and owner-bound live voice.",
+    "id": "noxius-studium/enchanted-composer",
+    "language": "Python",
+    "name": "noxius-studium/enchanted-composer",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:48:46Z",
+    "url": "https://github.com/noxius-studium/enchanted-composer"
+  },
+  {
+    "description": "Unofficial best-practices skill for executing complex tasks effectively across the OpenAI GPT-6 family in agentic enviro",
+    "id": "osmankaancesur/gpt6-agent-execution",
+    "language": "\u2014",
+    "name": "osmankaancesur/gpt6-agent-execution",
+    "stars": 1,
+    "updated_at": "2026-10-08T07:48:01Z",
+    "url": "https://github.com/osmankaancesur/gpt6-agent-execution"
+  },
+  {
+    "description": "A collection of focused, reusable GPT/Codex skills for research, learning, instruction auditing, and natural writing.",
+    "id": "osmankaancesur/gpt-skills",
+    "language": "\u2014",
+    "name": "osmankaancesur/gpt-skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T07:47:37Z",
+    "url": "https://github.com/osmankaancesur/gpt-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-08T07:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Hermes Agent skill that rewrites a request into an 8-layer prompt. Blind pilot: amplified prompts lost (19.6% preferred)",
     "id": "neurabytelabs/rune-skill",
     "language": "Shell",
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35513,
-    "updated_at": "2026-10-08T07:44:03Z",
+    "updated_at": "2026-10-08T07:55:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -31,7 +130,7 @@
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
     "name": "LearnPrompt/awesome-seedance",
-    "stars": 1809,
+    "stars": 1812,
     "updated_at": "2026-10-08T07:43:14Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
@@ -40,7 +139,7 @@
     "id": "LouisShark/chatgpt_system_prompt",
     "language": "HTML",
     "name": "LouisShark/chatgpt_system_prompt",
-    "stars": 10799,
+    "stars": 10800,
     "updated_at": "2026-10-08T07:42:36Z",
     "url": "https://github.com/LouisShark/chatgpt_system_prompt"
   },
@@ -131,17 +230,8 @@
     "language": "TypeScript",
     "name": "DollhouseMCP/mcp-server",
     "stars": 44,
-    "updated_at": "2026-10-08T07:37:12Z",
+    "updated_at": "2026-10-08T07:48:15Z",
     "url": "https://github.com/DollhouseMCP/mcp-server"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T07:35:22Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Awesome GPT Image Prompts by MuseSignal. Complete prompts, preview images and full JSON; versions share one collection. ",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T07:34:16Z",
     "url": "https://github.com/wyjing333-dev/promptblocks"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25805,
-    "updated_at": "2026-10-08T07:34:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u674e\u767d \u00b7 \u5510\u671d\u601d\u7ef4 skill\uff08AI agent \u89d2\u8272\u6280\u80fd\u5305 / \u4eba\u7269\u601d\u7ef4\u84b8\u998f / prompt persona\uff09\uff1a\u628a\u76db\u5510\u8bd7\u4eba\u674e\u767d\u7684\u8bd7\u5b66\u89c2\u3001\u521b\u4f5c\u516d\u6b65\u6cd5\u300c\u6c14\u2192\u8c61\u2192\u4f53\u2192\u5938\u2192\u65ad\u2192\u5c3d\u300d\u30018 \u4e2a\u5fc3\u667a\u6a21\u578b\u300116 \u4e2a\u610f\u8c61\u6bcd\u9898\u30017 \u6bb5\u5f0f\u89d2\u8272\u89c4\u5219\u4e0e\u53e3\u543b\uff0c\u84b8\u998f",
@@ -234,15 +315,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-08T07:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Shared operating instructions for coding agents: intent, outcomes, boundaries, and evidence.",
     "id": "cskwork/THE-SYSTEM-PROMPT",
     "language": "HTML",
@@ -265,7 +337,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74662,
+    "stars": 74664,
     "updated_at": "2026-10-08T07:27:51Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -310,7 +382,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 110463,
+    "stars": 110465,
     "updated_at": "2026-10-08T07:24:31Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -324,21 +396,12 @@
     "url": "https://github.com/savadks95/LLM_Tails"
   },
   {
-    "description": "Hermes Desktop plugin for draft enhancement, prompt libraries, undo/redo, and owner-bound live voice.",
-    "id": "noxius-studium/enchanted-composer",
-    "language": "Python",
-    "name": "noxius-studium/enchanted-composer",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:22:31Z",
-    "url": "https://github.com/noxius-studium/enchanted-composer"
-  },
-  {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 0,
-    "updated_at": "2026-10-08T07:22:22Z",
+    "updated_at": "2026-10-08T08:00:06Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22448,
-    "updated_at": "2026-10-08T07:38:19Z",
+    "updated_at": "2026-10-08T07:47:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 716,
     "updated_at": "2026-10-08T07:32:32Z",
     "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
-    "description": "DeepSeek Harness \u539f\u751f\u63d2\u4ef6\uff1aWB \u63d0\u793a\u8bcd\u589e\u5f3a\u79fb\u690d\uff08\u539f\u751f\u8f93\u5165\u680f\u3001\u8ddf\u968f\u6a21\u578b\u3001HTTP/HTTPS \u4e0e\u81ea\u5b9a\u4e49 Chat/Responses API\uff09",
-    "id": "Juna9969/dsh-wb-enhance-prompt",
-    "language": "JavaScript",
-    "name": "Juna9969/dsh-wb-enhance-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:16:04Z",
-    "url": "https://github.com/Juna9969/dsh-wb-enhance-prompt"
-  },
-  {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 2,
-    "updated_at": "2026-10-08T07:15:28Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-08T07:13:04Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:12:57Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:23:04Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-10-08T07:12:10Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 21,
-    "updated_at": "2026-10-08T07:09:46Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   }
 ]
