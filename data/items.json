@@ -1,5 +1,77 @@
 [
   {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:57:25Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "AI \u6307\u4ee4\u6392\u6bd2\u8207\u898f\u5247\u6cbb\u7406\uff1a\u628a\u8150\u721b\u7684 AI \u8a2d\u5b9a\u6e05\u4e7e\u6de8\uff0c\u800c\u4e0d\u662f\u522a\u5149\u3002\u9069\u7528 Claude Code / Codex / Cursor \u7b49\u4ee3\u7406\u3002",
+    "id": "mars-tw/ai-instruction-detox",
+    "language": "Python",
+    "name": "mars-tw/ai-instruction-detox",
+    "stars": 10,
+    "updated_at": "2026-10-08T03:55:39Z",
+    "url": "https://github.com/mars-tw/ai-instruction-detox"
+  },
+  {
+    "description": "\u674e\u767d \u00b7 \u6587\u5b66\u5bb6\u601d\u7ef4 skill\uff08AI agent \u89d2\u8272\u6280\u80fd\u5305 / \u4eba\u7269\u601d\u7ef4\u84b8\u998f / prompt persona\uff09\uff1a\u628a\u76db\u5510\u8bd7\u4eba\u674e\u767d\u7684\u8bd7\u5b66\u89c2\u3001\u521b\u4f5c\u516d\u6b65\u6cd5\u300c\u6c14\u2192\u8c61\u2192\u4f53\u2192\u5938\u2192\u65ad\u2192\u5c3d\u300d\u30018 \u4e2a\u5fc3\u667a\u6a21\u578b\u300116 \u4e2a\u610f\u8c61\u6bcd\u9898\u30017 \u6bb5\u5f0f\u89d2\u8272\u89c4\u5219\u4e0e\u53e3\u543b\uff0c\u84b8",
+    "id": "jangviktor-web/libai-skill",
+    "language": "Python",
+    "name": "jangviktor-web/libai-skill",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:54:55Z",
+    "url": "https://github.com/jangviktor-web/libai-skill"
+  },
+  {
+    "description": "Free AI code review prompt and pull request checklist for evidence-first PR review.",
+    "id": "gustavojstrevisani/fair-pr-review-checklist",
+    "language": "\u2014",
+    "name": "gustavojstrevisani/fair-pr-review-checklist",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:52:25Z",
+    "url": "https://github.com/gustavojstrevisani/fair-pr-review-checklist"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:58:25Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 157722,
+    "updated_at": "2026-10-08T03:51:37Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 121141,
+    "updated_at": "2026-10-08T03:45:38Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-08T03:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
     "id": "T-Stephen/ai-mql-engine",
     "language": "JavaScript",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-08T03:39:48Z",
+    "updated_at": "2026-10-08T03:56:05Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-08T03:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": " A local-first layered multi-model workbench for AI council deliberation, human orchestration, and   executor-side imple",
     "id": "desxyx/helm-ai-orchestration-workbench",
     "language": "JavaScript",
@@ -203,8 +266,17 @@
     "language": "JavaScript",
     "name": "eric-sabe/engsys",
     "stars": 3,
-    "updated_at": "2026-10-08T03:25:59Z",
+    "updated_at": "2026-10-08T03:54:24Z",
     "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74604,
+    "updated_at": "2026-10-08T03:25:48Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "FastAPI backend for versioning and executing LLM prompts \u2014 tracks tokens, cost, latency, retries and failures per call. ",
@@ -241,15 +313,6 @@
     "stars": 688,
     "updated_at": "2026-10-08T03:22:22Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:44:57Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -385,68 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-08T03:09:47Z",
     "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 1,
-    "updated_at": "2026-10-08T03:09:43Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "awesome-seedance-2-prompt",
-    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "stars": 11,
-    "updated_at": "2026-10-08T03:09:38Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 55,
-    "updated_at": "2026-10-08T03:09:25Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "AI instructions for evaluating tools through decision quality, conservative economics, and governance. \u5de5\u5177\u8a55\u4f30\u5361",
-    "id": "culturelight/tool-evaluator-agent",
-    "language": "\u2014",
-    "name": "culturelight/tool-evaluator-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:08:37Z",
-    "url": "https://github.com/culturelight/tool-evaluator-agent"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:01:20Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
-    "id": "delphisecurity/xaidr",
-    "language": "Python",
-    "name": "delphisecurity/xaidr",
-    "stars": 29,
-    "updated_at": "2026-10-08T03:29:20Z",
-    "url": "https://github.com/delphisecurity/xaidr"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-08T03:01:29Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   }
 ]
