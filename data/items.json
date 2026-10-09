@@ -1,5 +1,104 @@
 [
   {
+    "description": "Keeps project direction recoverable without turning planning into the project.",
+    "id": "benjaminstelzer/scoville-plan",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-plan",
+    "stars": 3,
+    "updated_at": "2026-10-09T22:25:29Z",
+    "url": "https://github.com/benjaminstelzer/scoville-plan"
+  },
+  {
+    "description": "Transfers the work state, not the whole conversation.",
+    "id": "benjaminstelzer/scoville-handoff",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-handoff",
+    "stars": 2,
+    "updated_at": "2026-10-09T22:25:19Z",
+    "url": "https://github.com/benjaminstelzer/scoville-handoff"
+  },
+  {
+    "description": "Two master prompts: a Google Maps link becomes an award-level landing page, then that landing page becomes a production ",
+    "id": "Meykiio/maps-to-landing",
+    "language": "JavaScript",
+    "name": "Meykiio/maps-to-landing",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:25:14Z",
+    "url": "https://github.com/Meykiio/maps-to-landing"
+  },
+  {
+    "description": "Keeps the engineering result visible through the process around it.",
+    "id": "benjaminstelzer/scoville-code",
+    "language": "Python",
+    "name": "benjaminstelzer/scoville-code",
+    "stars": 8,
+    "updated_at": "2026-10-09T22:25:09Z",
+    "url": "https://github.com/benjaminstelzer/scoville-code"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 21,
+    "updated_at": "2026-10-09T22:25:33Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 16,
+    "updated_at": "2026-10-09T22:24:40Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
+    "description": "A native macOS companion for Draw Things: always-visible image and Moodboard inputs, a canvas you can draw on from an iP",
+    "id": "EXistenz-78/dt-hub",
+    "language": "Swift",
+    "name": "EXistenz-78/dt-hub",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:22:51Z",
+    "url": "https://github.com/EXistenz-78/dt-hub"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:21:54Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:20:11Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11766,
+    "updated_at": "2026-10-09T22:18:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T22:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8ba9\u89c4\u5219\u771f\u6b63\u88ab\u6267\u884c\u3001\u8ba9\u7ed3\u8bba\u771f\u6b63\u53ef\u590d\u7b97\u7684\u5de5\u7a0b\u6cbb\u7406\u5143 Skill\uff1a\u4e09\u7ea7\u8dd1\u9053\uff0fL3 \u5c01\u95ed\u6e05\u5355+\u6e05\u5355\u5916\u9ad8\u5371\u57df\u6267\u884c\u5c42\u679a\u4e3e\uff0f\u5fc5\u95ee\u534f\u8bae\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e+\u9a8c\u8bc1\u5c42\u7ea7 ev=\uff08\u5e76\u5217\u5185\u8054\u952e\uff09\uff0f\u5224\u636e\u7248\u672c\u5316 j2.5+\u91d1\u6837\u672c\u56de\u5f52 23/23\uff0f406 \u6761",
     "id": "zxc663/shisan-xinuo-workflow",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Shell",
     "name": "juandelossantos/another-agent-skills",
     "stars": 1,
-    "updated_at": "2026-10-09T22:14:53Z",
+    "updated_at": "2026-10-09T22:29:56Z",
     "url": "https://github.com/juandelossantos/another-agent-skills"
   },
   {
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 74839,
-    "updated_at": "2026-10-09T22:06:36Z",
+    "updated_at": "2026-10-09T22:25:38Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -106,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-10-09T22:05:59Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:04:35Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
   },
   {
     "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
@@ -144,15 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T22:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
     "id": "deadly-centropomus6106/image-gen-open-source",
     "language": "JavaScript",
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:59:54Z",
     "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11766,
-    "updated_at": "2026-10-09T22:14:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "Mueller-Systems-Lab/promptvault-lite",
     "stars": 0,
-    "updated_at": "2026-10-09T21:54:16Z",
+    "updated_at": "2026-10-09T22:28:05Z",
     "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
   },
   {
@@ -313,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T21:54:15Z",
     "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 21,
-    "updated_at": "2026-10-09T22:09:25Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
@@ -374,7 +437,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 944,
-    "updated_at": "2026-10-09T21:51:55Z",
+    "updated_at": "2026-10-09T22:28:36Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T21:51:00Z",
     "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-10-09T21:50:46Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-10-09T21:50:23Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-10-09T21:50:22Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:49:30Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T21:49:21Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:49:19Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-10-09T21:49:02Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
