@@ -1,12 +1,102 @@
 [
   {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:44:56Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11443,
+    "updated_at": "2026-10-09T02:43:58Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T02:43:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25823,
+    "updated_at": "2026-10-09T02:43:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A Claude Code plugin that measures what your LLM chat or agent app gets wrong, and which prompt to fix.",
+    "id": "its-magdy/evalup",
+    "language": "Python",
+    "name": "its-magdy/evalup",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:40:42Z",
+    "url": "https://github.com/its-magdy/evalup"
+  },
+  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
     "name": "doodersrage/castcut",
     "stars": 4,
-    "updated_at": "2026-10-09T02:30:02Z",
+    "updated_at": "2026-10-09T02:38:26Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u8ba9 AI \u751f\u6210\u5ba1\u7f8e\u5728\u7ebf\u3001\u7ed3\u6784\u4fdd\u771f\u3001\u6709\u521b\u65b0\u70b9\u7684\u5de5\u4e1a\u8bbe\u8ba1\u6982\u5ff5\u56fe / Fix ugly AI product renders: a SKILL.md workflow with six-layer prompts, a review rubric",
+    "id": "Allen-Chen-coder/id-concept-render",
+    "language": "PowerShell",
+    "name": "Allen-Chen-coder/id-concept-render",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:38:01Z",
+    "url": "https://github.com/Allen-Chen-coder/id-concept-render"
+  },
+  {
+    "description": "\u7e41\u9ad4\u4e2d\u6587\uff08\u53f0\u7063\uff09\u53bb AI \u5473 skill\uff1a60 \u7a2e AI \u5beb\u4f5c\u7279\u5fb5\u3001157 \u7d44\u5169\u5cb8\u7528\u8a9e\u5728\u5730\u5316\u3001\u4e8b\u5be6\u4fdd\u7559\u6aa2\u67e5\uff08--source\uff09\u300130 \u6848\u4f8b eval \u5c0d\u7167\u5be6\u6e2c\u3002Traditional Chinese (Taiwan) humanizer f",
+    "id": "acchuang/zh-tw-humanizer",
+    "language": "Python",
+    "name": "acchuang/zh-tw-humanizer",
+    "stars": 4,
+    "updated_at": "2026-10-09T02:37:07Z",
+    "url": "https://github.com/acchuang/zh-tw-humanizer"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:32:45Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "\u6559 AI \u5199 NovelAI Diffusion V5 \u63d0\u793a\u8bcd\u7684\u65b9\u6cd5 skill\uff1a\u6784\u601d\uff0b\u5199\u6cd5\u4e24\u4ef6\u5957\uff0c\u57fa\u4e8e 2226 \u5f20\u5b9e\u6d4b\u56fe\u5e93 / 962 \u6761\u771f\u5b9e\u63d0\u793a\u8bcd\u3002Agent Skills \u6807\u51c6\u5c01\u88c5\u3002",
+    "id": "Miint-Sunny/nai5-prompting",
+    "language": "\u2014",
+    "name": "Miint-Sunny/nai5-prompting",
+    "stars": 98,
+    "updated_at": "2026-10-09T02:32:32Z",
+    "url": "https://github.com/Miint-Sunny/nai5-prompting"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T02:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI systems portfolio documenting local generative AI infrastructure, diffusion workflows, prompt orchestration systems, ",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "62656456/ai-film-skills",
     "stars": 63,
-    "updated_at": "2026-10-09T02:26:21Z",
+    "updated_at": "2026-10-09T02:30:42Z",
     "url": "https://github.com/62656456/ai-film-skills"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T02:26:40Z",
     "url": "https://github.com/caongocquy/showdar-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25822,
-    "updated_at": "2026-10-09T02:29:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u7535\u5546 AI \u51fa\u56fe\u5de5\u4f5c\u6d41:\u767d\u5e95\u56fe/\u4fc3\u9500\u4e3b\u56fe/\u573a\u666f\u878d\u5408/\u7cfb\u5217\u4e00\u81f4\u6027/\u8be6\u60c5\u9875\u5168\u6d41\u7a0b + \u4e2d\u82f1\u63d0\u793a\u8bcd\u5e93 + OpenAPI \u53ef\u8fd0\u884c\u793a\u4f8b\u3002E-commerce AI image workflows, bilingual prompts and run",
@@ -122,7 +203,7 @@
     "language": "Shell",
     "name": "iaminpwd/dotfiles",
     "stars": 0,
-    "updated_at": "2026-10-09T02:19:18Z",
+    "updated_at": "2026-10-09T02:43:32Z",
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-10-09T02:17:10Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "\u8ba9 AI \u751f\u6210\u5ba1\u7f8e\u5728\u7ebf\u3001\u7ed3\u6784\u4fdd\u771f\u3001\u6709\u521b\u65b0\u70b9\u7684\u5de5\u4e1a\u8bbe\u8ba1\u6982\u5ff5\u56fe / Fix ugly AI product renders: a SKILL.md workflow with six-layer prompts, a review rubric",
-    "id": "Allen-Chen-coder/id-concept-render",
-    "language": "PowerShell",
-    "name": "Allen-Chen-coder/id-concept-render",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:17:08Z",
-    "url": "https://github.com/Allen-Chen-coder/id-concept-render"
   },
   {
     "description": "54 free MIT-licensed AI image prompts for building a vision board, incl. a 2027 year-ahead set: career, money, health, l",
@@ -178,15 +250,6 @@
     "stars": 57,
     "updated_at": "2026-10-09T02:16:08Z",
     "url": "https://github.com/Junhan2/oh-my-fable"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T02:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T02:02:54Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:02:43Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-10-09T02:02:11Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:01:44Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "A persistent, observable, and collaborative memory infrastructure",
-    "id": "lilhammerfun/clumsies",
-    "language": "Rust",
-    "name": "lilhammerfun/clumsies",
-    "stars": 19,
-    "updated_at": "2026-10-09T02:22:36Z",
-    "url": "https://github.com/lilhammerfun/clumsies"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:01:19Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-09T02:01:47Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:00:49Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
