@@ -1,5 +1,113 @@
 [
   {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-09T11:29:52Z",
+    "url": "https://github.com/1arry1iu/archetype"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 2,
+    "updated_at": "2026-10-09T11:28:29Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:28:01Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 86,
+    "updated_at": "2026-10-09T11:24:26Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-09T11:24:19Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4592,
+    "updated_at": "2026-10-09T11:29:07Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25838,
+    "updated_at": "2026-10-09T11:25:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:18:46Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-09T11:27:48Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "UI design system knowledge base: design tokens (W3C DTCG), art direction, motion design (anime.js, GSAP, Lenis, CSS scro",
+    "id": "alisattorov06/UI-Design",
+    "language": "JavaScript",
+    "name": "alisattorov06/UI-Design",
+    "stars": 2,
+    "updated_at": "2026-10-09T11:17:02Z",
+    "url": "https://github.com/alisattorov06/UI-Design"
+  },
+  {
+    "description": "Claude Code plugin: sharpens every prompt you send and shows you what it changed",
+    "id": "tomikng/prompt-forge",
+    "language": "Python",
+    "name": "tomikng/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:15:39Z",
+    "url": "https://github.com/tomikng/prompt-forge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T11:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Sixty commands for AI coding assistants \u2014 /office-hours to shape an idea, /review before you merge, /ship to open the PR",
     "id": "timurgaleev/vibestack",
     "language": "TypeScript",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-10-09T11:14:45Z",
+    "updated_at": "2026-10-09T11:18:13Z",
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 28,
     "updated_at": "2026-10-09T11:14:13Z",
     "url": "https://github.com/FeatherHunter/dsh-prompt"
-  },
-  {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:13:13Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
@@ -68,7 +167,7 @@
     "language": "OCaml",
     "name": "dakotamurphyucf/ochat",
     "stars": 30,
-    "updated_at": "2026-10-09T11:11:25Z",
+    "updated_at": "2026-10-09T11:21:07Z",
     "url": "https://github.com/dakotamurphyucf/ochat"
   },
   {
@@ -77,17 +176,8 @@
     "language": "JavaScript",
     "name": "Igor-lx/claudeHarness",
     "stars": 1,
-    "updated_at": "2026-10-09T11:11:16Z",
+    "updated_at": "2026-10-09T11:29:22Z",
     "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "Claude Code plugin: sharpens every prompt you send and shows you what it changed",
-    "id": "tomikng/prompt-forge",
-    "language": "Python",
-    "name": "tomikng/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:10:21Z",
-    "url": "https://github.com/tomikng/prompt-forge"
   },
   {
     "description": "Keeps project direction recoverable without turning planning into the project.",
@@ -131,7 +221,7 @@
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 8,
-    "updated_at": "2026-10-09T11:05:36Z",
+    "updated_at": "2026-10-09T11:18:05Z",
     "url": "https://github.com/derob98/ailmanac"
   },
   {
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "Gustaafvito/gprompt-studio",
     "stars": 3,
-    "updated_at": "2026-10-09T11:03:30Z",
+    "updated_at": "2026-10-09T11:19:29Z",
     "url": "https://github.com/Gustaafvito/gprompt-studio"
   },
   {
@@ -180,15 +270,6 @@
     "url": "https://github.com/Irene-Busah/llm-engineering-course"
   },
   {
-    "description": "UI design system knowledge base: design tokens (W3C DTCG), art direction, motion design (anime.js, GSAP, Lenis, CSS scro",
-    "id": "alisattorov06/UI-Design",
-    "language": "\u2014",
-    "name": "alisattorov06/UI-Design",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:02:53Z",
-    "url": "https://github.com/alisattorov06/UI-Design"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -198,21 +279,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T11:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22472,
-    "updated_at": "2026-10-09T11:09:18Z",
+    "updated_at": "2026-10-09T11:28:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -265,7 +337,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74801,
+    "stars": 74800,
     "updated_at": "2026-10-09T10:55:51Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -286,24 +358,6 @@
     "stars": 7,
     "updated_at": "2026-10-09T10:53:22Z",
     "url": "https://github.com/Promplify/promplify-web"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25838,
-    "updated_at": "2026-10-09T11:05:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 86,
-    "updated_at": "2026-10-09T10:50:21Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -387,15 +441,6 @@
     "url": "https://github.com/FanBroWell/simple-learning-prompts"
   },
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:02:24Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "Swear at Claude Code all you like. It reads the clean version: typos, translit, wrong keyboard layout, swearing and caps",
     "id": "timoncool/angry-switcher",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T10:37:34Z",
     "url": "https://github.com/timoncool/angry-switcher"
-  },
-  {
-    "description": "A home for small, quiet tools. Eleven so far \u2014 all run in your browser and keep nothing.",
-    "id": "unfoldingdimensions/Capytools",
-    "language": "TypeScript",
-    "name": "unfoldingdimensions/Capytools",
-    "stars": 1,
-    "updated_at": "2026-10-09T10:37:11Z",
-    "url": "https://github.com/unfoldingdimensions/Capytools"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28321,
-    "updated_at": "2026-10-09T10:36:32Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Plain-English, evidence-grounded guides for using AI well at work. No technical background required.",
-    "id": "shaunmarsden/practical-ai-adoption",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-adoption",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:36:21Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-adoption"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-09T10:36:38Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 4,
-    "updated_at": "2026-10-09T10:36:15Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
   }
 ]
