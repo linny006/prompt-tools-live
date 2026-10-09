@@ -1,12 +1,39 @@
 [
   {
+    "description": "marola's ML side: the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
+    "id": "marola-dev/marola-ml",
+    "language": "Python",
+    "name": "marola-dev/marola-ml",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:53:36Z",
+    "url": "https://github.com/marola-dev/marola-ml"
+  },
+  {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "Mueller-Systems-Lab/promptvault-lite",
+    "language": "TypeScript",
+    "name": "Mueller-Systems-Lab/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:51:50Z",
+    "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
+  },
+  {
     "description": "PerfectLab Studio for ComfyUI - one node, 480 photo preview tiles, sessions with per-shot crops and walks, {a|b|c} choic",
     "id": "perfectmodelslab/ComfyUI-PerfectLab",
     "language": "JavaScript",
     "name": "perfectmodelslab/ComfyUI-PerfectLab",
     "stars": 1,
-    "updated_at": "2026-10-09T22:41:35Z",
+    "updated_at": "2026-10-09T22:50:14Z",
     "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T22:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -23,7 +50,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-10-09T22:36:26Z",
+    "updated_at": "2026-10-09T22:46:20Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "simota/agent-skills",
     "stars": 91,
-    "updated_at": "2026-10-09T22:45:13Z",
+    "updated_at": "2026-10-09T22:49:51Z",
     "url": "https://github.com/simota/agent-skills"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25847,
-    "updated_at": "2026-10-09T22:36:32Z",
+    "updated_at": "2026-10-09T22:58:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T22:32:27Z",
     "url": "https://github.com/juandelossantos/another-agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T22:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
@@ -247,7 +265,7 @@
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
     "name": "LearnPrompt/awesome-seedance",
-    "stars": 1905,
+    "stars": 1906,
     "updated_at": "2026-10-09T22:06:15Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
@@ -320,7 +338,7 @@
     "language": "JavaScript",
     "name": "novanoticia/auditor-filosofico",
     "stars": 0,
-    "updated_at": "2026-10-09T21:59:20Z",
+    "updated_at": "2026-10-09T22:47:32Z",
     "url": "https://github.com/novanoticia/auditor-filosofico"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
-    "id": "Mueller-Systems-Lab/promptvault-lite",
-    "language": "TypeScript",
-    "name": "Mueller-Systems-Lab/promptvault-lite",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:28:05Z",
-    "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
-  },
-  {
     "description": "Portable AI governance kit \u2014 handover, roadmap, freeze review. Inject into any repo with ok init",
     "id": "aaronrene/overseer-kit",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T21:54:15Z",
     "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-10-09T21:54:03Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
   }
 ]
