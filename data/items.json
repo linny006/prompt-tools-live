@@ -1,5 +1,50 @@
 [
   {
+    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
+    "id": "iwerry/Daniskills",
+    "language": "TypeScript",
+    "name": "iwerry/Daniskills",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:59:26Z",
+    "url": "https://github.com/iwerry/Daniskills"
+  },
+  {
+    "description": "Invisible prompt layer for Claude Code \u2014 rewrites every prompt with Haiku 5.5: fixes typos, translit, wrong layout, swea",
+    "id": "timoncool/prompt-layer",
+    "language": "TypeScript",
+    "name": "timoncool/prompt-layer",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:58:55Z",
+    "url": "https://github.com/timoncool/prompt-layer"
+  },
+  {
+    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
+    "id": "dakotamurphyucf/ochat",
+    "language": "OCaml",
+    "name": "dakotamurphyucf/ochat",
+    "stars": 30,
+    "updated_at": "2026-10-08T23:58:36Z",
+    "url": "https://github.com/dakotamurphyucf/ochat"
+  },
+  {
+    "description": "A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}. Native deskto",
+    "id": "hazeliscoding/prompuff",
+    "language": "C#",
+    "name": "hazeliscoding/prompuff",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:58:30Z",
+    "url": "https://github.com/hazeliscoding/prompuff"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-08T23:56:06Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
     "id": "skillberry-ai/cap-evolve",
     "language": "Python",
@@ -52,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T23:49:09Z",
     "url": "https://github.com/brmel/farkad-ai"
-  },
-  {
-    "description": "Invisible prompt layer for Claude Code \u2014 rewrites every prompt with Haiku 5.5: fixes typos, translit, wrong layout, swea",
-    "id": "timoncool/prompt-layer",
-    "language": "TypeScript",
-    "name": "timoncool/prompt-layer",
-    "stars": 0,
-    "updated_at": "2026-10-08T23:47:26Z",
-    "url": "https://github.com/timoncool/prompt-layer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-08T23:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}. Native deskto",
-    "id": "hazeliscoding/prompuff",
-    "language": "C#",
-    "name": "hazeliscoding/prompuff",
-    "stars": 0,
-    "updated_at": "2026-10-08T23:45:26Z",
-    "url": "https://github.com/hazeliscoding/prompuff"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25820,
-    "updated_at": "2026-10-08T23:54:16Z",
+    "updated_at": "2026-10-08T23:57:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:56:20Z",
     "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:56:16Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
-    "id": "evaldiff/evaldiff",
-    "language": "Python",
-    "name": "evaldiff/evaldiff",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:55:51Z",
-    "url": "https://github.com/evaldiff/evaldiff"
   }
 ]
