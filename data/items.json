@@ -1,5 +1,176 @@
 [
   {
+    "description": "Agent skills for filing, writing, reviewing, and handing off the work around code. Install one or take them all.",
+    "id": "kendrick/skills",
+    "language": "Shell",
+    "name": "kendrick/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:12:50Z",
+    "url": "https://github.com/kendrick/skills"
+  },
+  {
+    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
+    "id": "heronbo111/HeronBo-AIGC-Prompt",
+    "language": "Tcl",
+    "name": "heronbo111/HeronBo-AIGC-Prompt",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:14:59Z",
+    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
+  },
+  {
+    "description": "Swear at Claude Code all you like. It reads the clean version: typos, translit, wrong keyboard layout, swearing and caps",
+    "id": "timoncool/angry-switcher",
+    "language": "TypeScript",
+    "name": "timoncool/angry-switcher",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:12:15Z",
+    "url": "https://github.com/timoncool/angry-switcher"
+  },
+  {
+    "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
+    "id": "ford442/weeks_on_fire",
+    "language": "TypeScript",
+    "name": "ford442/weeks_on_fire",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:10:59Z",
+    "url": "https://github.com/ford442/weeks_on_fire"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:09:12Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83c\udfc6 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi",
+    "id": "ThanhNguyxnOrg/SkillGauge",
+    "language": "TypeScript",
+    "name": "ThanhNguyxnOrg/SkillGauge",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:08:57Z",
+    "url": "https://github.com/ThanhNguyxnOrg/SkillGauge"
+  },
+  {
+    "description": "Dynamically select the most relevant few-shot examples to solve the rigid prompt problem. \u52a8\u6001\u9009\u62e9\u6700\u76f8\u5173\u7684 few-shot \u793a\u4f8b\uff0c\u89e3\u51b3 Prompt",
+    "id": "PerryLink/Few-Shot-Selector",
+    "language": "Python",
+    "name": "PerryLink/Few-Shot-Selector",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:08:54Z",
+    "url": "https://github.com/PerryLink/Few-Shot-Selector"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 8,
+    "updated_at": "2026-10-09T03:08:53Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25825,
+    "updated_at": "2026-10-09T03:07:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Auditor and educational tool that analyzes AI's tone patterns and demonstrates methods for customizing behavior.",
+    "id": "NobleStripes/AI-Tone-Auditor",
+    "language": "TypeScript",
+    "name": "NobleStripes/AI-Tone-Auditor",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:07:21Z",
+    "url": "https://github.com/NobleStripes/AI-Tone-Auditor"
+  },
+  {
+    "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
+    "id": "c80361619/zcode-toolkit",
+    "language": "Python",
+    "name": "c80361619/zcode-toolkit",
+    "stars": 5,
+    "updated_at": "2026-10-09T03:07:05Z",
+    "url": "https://github.com/c80361619/zcode-toolkit"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:05:42Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "HTML",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 4,
+    "updated_at": "2026-10-09T03:05:32Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "Sixty commands for AI coding assistants \u2014 /office-hours to shape an idea, /review before you merge, /ship to open the PR",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 7,
+    "updated_at": "2026-10-09T03:05:30Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
+    "id": "KM-it-ops/Proofhouse",
+    "language": "Python",
+    "name": "KM-it-ops/Proofhouse",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:04:46Z",
+    "url": "https://github.com/KM-it-ops/Proofhouse"
+  },
+  {
+    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Python",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 17281,
+    "updated_at": "2026-10-09T03:03:39Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:02:55Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-09T03:01:29Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T03:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8ba9 DSH agent \u7684\u8f93\u51fa\u81ea\u5e26\u60c5\u7eea\uff1a\u4f1a\u8bdd\u6295\u5f71\u60c5\u7eea\u72b6\u6001\u673a + \u4e24\u6bb5\u63d0\u793a\u8bcd\u6ce8\u5165 + \u4f1a\u8bdd\u5934\u90e8\u60c5\u7eea\u6761\uff0c\u9644\u6587\u672c\u84b8\u998f\u6d41\u6c34\u7ebf\uff08\u4e24\u8f68\u84b8\u998f / \u4fdd\u771f\u95e8 / \u8f93\u51fa\u62a4\u680f\uff09\u3002\u975e\u5b98\u65b9\u63d2\u4ef6\u3002",
     "id": "Fyue7/dsh-emotion",
     "language": "JavaScript",
@@ -9,15 +180,6 @@
     "url": "https://github.com/Fyue7/dsh-emotion"
   },
   {
-    "description": "Swear at Claude Code all you like. It reads the clean version: typos, translit, wrong keyboard layout, swearing and caps",
-    "id": "timoncool/angry-switcher",
-    "language": "TypeScript",
-    "name": "timoncool/angry-switcher",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:59:33Z",
-    "url": "https://github.com/timoncool/angry-switcher"
-  },
-  {
     "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
     "id": "nuttaruj/rolepod",
     "language": "Shell",
@@ -25,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T02:59:16Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Auditor and educational tool that analyzes AI's tone patterns and demonstrates methods for customizing behavior.",
-    "id": "NobleStripes/AI-Tone-Auditor",
-    "language": "TypeScript",
-    "name": "NobleStripes/AI-Tone-Auditor",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:59:12Z",
-    "url": "https://github.com/NobleStripes/AI-Tone-Auditor"
   },
   {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
@@ -108,6 +261,15 @@
     "url": "https://github.com/MindGoblinStudios/grim-tome"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35542,
+    "updated_at": "2026-10-09T02:52:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "TypeScript",
@@ -115,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T02:52:33Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25824,
-    "updated_at": "2026-10-09T02:52:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "HTML",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 4,
-    "updated_at": "2026-10-09T02:48:55Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
   },
   {
     "description": "Token-efficient context engine for AI coding agents. v2.23.0: token-killer pack \u00e2\u20ac\u201d deep-forget (unlearning propagation)",
@@ -153,15 +297,6 @@
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
-    "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
-    "id": "c80361619/zcode-toolkit",
-    "language": "Python",
-    "name": "c80361619/zcode-toolkit",
-    "stars": 5,
-    "updated_at": "2026-10-09T02:47:47Z",
-    "url": "https://github.com/c80361619/zcode-toolkit"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -169,15 +304,6 @@
     "stars": 123,
     "updated_at": "2026-10-09T02:45:29Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T02:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -322,131 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-09T02:23:02Z",
     "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
-  },
-  {
-    "description": "\u957f\u671f\u7ef4\u62a4\u7684\u5fc3\u5b9d\u2764ComfyUI \u5b9e\u7528\u8282\u70b9\u7ec4\uff1a\u56fe\u7247\u6807\u51c6\u5316\u4e0e\u4ea4\u4e92\u5f0f\u6784\u56fe",
-    "id": "lishuihan123/ComfyUI-Xinbao-Node-Group",
-    "language": "JavaScript",
-    "name": "lishuihan123/ComfyUI-Xinbao-Node-Group",
-    "stars": 4,
-    "updated_at": "2026-10-09T02:22:30Z",
-    "url": "https://github.com/lishuihan123/ComfyUI-Xinbao-Node-Group"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:22:03Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:21:15Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Writing skill for Codex and Claude Code. Keep rejected ideas out of final drafts. \u9762\u5411\u8bba\u6587\u4e0e\u6280\u672f\u6587\u6863\u7684\u591a\u8f6e AI \u5199\u4f5c\u5b9a\u7a3f\u4e0e\u5ba1\u8ba1\uff0c\u9632\u6b62\u5e9f\u6848\u56de\u6d41\uff1b\u9644\u72ec\u7acb\u63d0\u793a\u8bcd\u3002",
-    "id": "KnifeTian/cleanroom-writing",
-    "language": "Python",
-    "name": "KnifeTian/cleanroom-writing",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:25:15Z",
-    "url": "https://github.com/KnifeTian/cleanroom-writing"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:18:18Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-10-09T02:17:10Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "54 free MIT-licensed AI image prompts for building a vision board, incl. a 2027 year-ahead set: career, money, health, l",
-    "id": "pittner/vision-board-prompts",
-    "language": "HTML",
-    "name": "pittner/vision-board-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:16:30Z",
-    "url": "https://github.com/pittner/vision-board-prompts"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:16:21Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
-    "id": "Junhan2/oh-my-fable",
-    "language": "TypeScript",
-    "name": "Junhan2/oh-my-fable",
-    "stars": 57,
-    "updated_at": "2026-10-09T02:16:08Z",
-    "url": "https://github.com/Junhan2/oh-my-fable"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-10-09T02:14:45Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
-    "id": "Khyodaattu/awesome-skillkit",
-    "language": "\u2014",
-    "name": "Khyodaattu/awesome-skillkit",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:13:19Z",
-    "url": "https://github.com/Khyodaattu/awesome-skillkit"
-  },
-  {
-    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
-    "id": "tradecatlabs/vibe-coding-cn",
-    "language": "Python",
-    "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17280,
-    "updated_at": "2026-10-09T02:54:21Z",
-    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "Curate, measure, and recommend meta-skill frameworks for AI coding agents via one CLI.",
-    "id": "randolfglorious1317/skillpack",
-    "language": "TypeScript",
-    "name": "randolfglorious1317/skillpack",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:12:39Z",
-    "url": "https://github.com/randolfglorious1317/skillpack"
-  },
-  {
-    "description": "Version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experimen",
-    "id": "unmanageable-mauiisland8443/PromptLedger",
-    "language": "\u2014",
-    "name": "unmanageable-mauiisland8443/PromptLedger",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:12:21Z",
-    "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
   }
 ]
