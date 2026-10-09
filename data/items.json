@@ -1,5 +1,140 @@
 [
   {
+    "description": "AI workflow builder creating open-source Agent Skills, MCP tools, creator systems and automation.",
+    "id": "alptugharun/alptugharun",
+    "language": "\u2014",
+    "name": "alptugharun/alptugharun",
+    "stars": 1,
+    "updated_at": "2026-10-09T16:45:26Z",
+    "url": "https://github.com/alptugharun/alptugharun"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-09T16:45:17Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "\u57fa\u4e8e Dify \u7684\u5496\u5561\u7528\u6237\u8fd0\u8425\u667a\u80fd\u4f53\u539f\u578b\uff1a\u610f\u56fe\u8bc6\u522b\u3001\u751f\u547d\u5468\u671f\u7b56\u7565\u3001\u6587\u6848\u751f\u6210\u4e0e\u7f6e\u4fe1\u5ea6\u5206\u6d41\uff0c\u5305\u542b DSL\u3001\u77e5\u8bc6\u5e93\u548c\u8bc4\u6d4b\u8d44\u6599\u3002",
+    "id": "cangyuyi/lucky-growth-agent",
+    "language": "\u2014",
+    "name": "cangyuyi/lucky-growth-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:44:29Z",
+    "url": "https://github.com/cangyuyi/lucky-growth-agent"
+  },
+  {
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "id": "Junhan2/oh-my-fable",
+    "language": "TypeScript",
+    "name": "Junhan2/oh-my-fable",
+    "stars": 57,
+    "updated_at": "2026-10-09T16:43:39Z",
+    "url": "https://github.com/Junhan2/oh-my-fable"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-10-09T16:42:18Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Free interactive course: AI Fundamentals for Knowledge Workers (AFK-001). Built with Courseware Studio AI. Free SCORM & ",
+    "id": "neiltucker/ai-fundamentals",
+    "language": "HTML",
+    "name": "neiltucker/ai-fundamentals",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:38:45Z",
+    "url": "https://github.com/neiltucker/ai-fundamentals"
+  },
+  {
+    "description": "\u667a\u80fd\u7535\u89c6\u9009\u8d2d Copilot\uff1aPython \u591a\u667a\u80fd\u4f53\u5bfc\u8d2d\u539f\u578b\uff0c\u5305\u542b MCP \u63a5\u53e3\u3001\u77e5\u8bc6\u5e93\u3001\u8bc4\u6d4b\u8d44\u6599\u548c\u6f14\u793a\u9875\u9762\u3002",
+    "id": "cangyuyi/tv-buying-copilot",
+    "language": "Python",
+    "name": "cangyuyi/tv-buying-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:37:19Z",
+    "url": "https://github.com/cangyuyi/tv-buying-copilot"
+  },
+  {
+    "description": "PerfectLab for ComfyUI - two all-in-one photoshoot prompt nodes (Studio & Flow): orthogonal persona/look/scene/style/cam",
+    "id": "perfectmodelslab/ComfyUI-PerfectLab",
+    "language": "JavaScript",
+    "name": "perfectmodelslab/ComfyUI-PerfectLab",
+    "stars": 1,
+    "updated_at": "2026-10-09T16:37:48Z",
+    "url": "https://github.com/perfectmodelslab/ComfyUI-PerfectLab"
+  },
+  {
+    "description": "An AI governance protocol that keeps human judgment in the deciding seat \u2014 it separates surfacing (information) from sta",
+    "id": "natecooper/surfacing-and-staking",
+    "language": "\u2014",
+    "name": "natecooper/surfacing-and-staking",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:36:01Z",
+    "url": "https://github.com/natecooper/surfacing-and-staking"
+  },
+  {
+    "description": "Autonomous Prompt Engineering, Jailbreak Defense, LLM Cost Optimizer & Eval Benchmark MCP for Cursor, Claude & Windsurf",
+    "id": "AmyGraphics/promptforge-mcp",
+    "language": "\u2014",
+    "name": "AmyGraphics/promptforge-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:35:23Z",
+    "url": "https://github.com/AmyGraphics/promptforge-mcp"
+  },
+  {
+    "description": "Universal 15-in-1 AI Agent Super Gateway & Meta Router MCP for Cursor, Claude Code, and Windsurf",
+    "id": "AmyGraphics/agentsuite-mcp",
+    "language": "\u2014",
+    "name": "AmyGraphics/agentsuite-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:34:37Z",
+    "url": "https://github.com/AmyGraphics/agentsuite-mcp"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 50,
+    "updated_at": "2026-10-09T16:36:16Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "Python",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 69248,
+    "updated_at": "2026-10-09T16:34:23Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25844,
+    "updated_at": "2026-10-09T16:41:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-09T16:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
@@ -9,15 +144,6 @@
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
-    "description": "An AI governance protocol that keeps human judgment in the deciding seat \u2014 it separates surfacing (information) from sta",
-    "id": "natecooper/surfacing-and-staking",
-    "language": "\u2014",
-    "name": "natecooper/surfacing-and-staking",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:30:07Z",
-    "url": "https://github.com/natecooper/surfacing-and-staking"
-  },
-  {
     "description": "\u041d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u043c\u043e\u0441\u0442\u044c LLM-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Langfuse: \u0442\u0440\u0430\u0441\u0441\u0438\u0440\u043e\u0432\u043a\u0430, \u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u043c\u043f\u0442\u043e\u0432, A/B-\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 (Giga",
     "id": "EkaterinaGrisha/llm-observability-langfuse",
     "language": "Jupyter Notebook",
@@ -25,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T16:29:40Z",
     "url": "https://github.com/EkaterinaGrisha/llm-observability-langfuse"
-  },
-  {
-    "description": "Free interactive course: AI Fundamentals for Knowledge Workers (AFK-001). Built with Courseware Studio AI. Free SCORM & ",
-    "id": "neiltucker/ai-fundamentals",
-    "language": "HTML",
-    "name": "neiltucker/ai-fundamentals",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:29:27Z",
-    "url": "https://github.com/neiltucker/ai-fundamentals"
   },
   {
     "description": "An agent skill for email: find what matters, write short natural replies, and send with the right attachments. Works wit",
@@ -52,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T16:28:41Z",
     "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:29:11Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25844,
-    "updated_at": "2026-10-09T16:29:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
@@ -167,17 +266,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22475,
-    "updated_at": "2026-10-09T16:28:58Z",
+    "updated_at": "2026-10-09T16:39:51Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-09T16:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
@@ -266,7 +356,7 @@
     "language": "Python",
     "name": "alptugharun/ai-social-media-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-09T16:07:41Z",
+    "updated_at": "2026-10-09T16:44:32Z",
     "url": "https://github.com/alptugharun/ai-social-media-toolkit"
   },
   {
@@ -283,7 +373,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74816,
+    "stars": 74819,
     "updated_at": "2026-10-09T16:02:08Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -293,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35578,
-    "updated_at": "2026-10-09T16:17:53Z",
+    "updated_at": "2026-10-09T16:32:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 68,
     "updated_at": "2026-10-09T15:58:19Z",
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:57:02Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "\u4ece 700+ \u7bc7\u6587\u7ae0\u300180 \u573a\u76f4\u64ad\u4e2d\u63d0\u70bc\u51fa\u7684 A \u80a1\u5224\u65ad\u89c4\u5219\u4f53\u7cfb\uff0848 \u7ae0\uff0c\u542b\u6570\u5b57\u9608\u503c\u4e0e\u884c\u60c5\u56de\u6d4b\uff09",
-    "id": "201901060324/gator-method",
-    "language": "HTML",
-    "name": "201901060324/gator-method",
-    "stars": 4,
-    "updated_at": "2026-10-09T15:55:41Z",
-    "url": "https://github.com/201901060324/gator-method"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:53:59Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-09T15:53:04Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28330,
-    "updated_at": "2026-10-09T15:51:43Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-09T16:06:45Z",
-    "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11769,
-    "updated_at": "2026-10-09T16:25:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-09T15:44:28Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:43:41Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Multilingual AI chatbot with memory (English, Hindi, Marathi) using Gemini API and Streamlit",
-    "id": "PreetiMis/multilingual-chatbot--pm",
-    "language": "Python",
-    "name": "PreetiMis/multilingual-chatbot--pm",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:43:40Z",
-    "url": "https://github.com/PreetiMis/multilingual-chatbot--pm"
   }
 ]
