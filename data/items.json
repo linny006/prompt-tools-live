@@ -1,19 +1,127 @@
 [
   {
+    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
+    "id": "iwerry/Daniskills",
+    "language": "TypeScript",
+    "name": "iwerry/Daniskills",
+    "stars": 1,
+    "updated_at": "2026-10-10T17:12:34Z",
+    "url": "https://github.com/iwerry/Daniskills"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "JavaScript",
+    "name": "ericrisco/rsc-harness",
+    "stars": 183,
+    "updated_at": "2026-10-10T17:14:29Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "Python",
+    "name": "coco-research/coco",
+    "stars": 522,
+    "updated_at": "2026-10-10T17:11:00Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2262,
+    "updated_at": "2026-10-10T17:10:46Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
+    "id": "evaldiff/evaldiff",
+    "language": "Python",
+    "name": "evaldiff/evaldiff",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:08:37Z",
+    "url": "https://github.com/evaldiff/evaldiff"
+  },
+  {
+    "description": "\u4e2d\u6587 AI/LLM Agent \u7cfb\u7edf\u5b66\u4e60\u77e5\u8bc6\u5e93:15 \u7ae0\u4ece\u4ea4\u4e92\u5165\u53e3\u3001MCP \u534f\u8bae\u3001Agent \u4e3b\u4f53\u5230\u6784\u5efa\u81ea\u5df1\u7684 Agent \u5168\u6d41\u7a0b,\u9644\u771f\u5b9e\u53ef\u8fd0\u884c\u7684 LangGraph \u5b9e\u6218\u9879\u76ee\u3002\u4e2a\u4eba\u5b66\u4e60\u603b\u7ed3,\u6b22\u8fce\u65a7\u6b63\u3002",
+    "id": "123caiji/AI-LLM-Agent-Learning",
+    "language": "Python",
+    "name": "123caiji/AI-LLM-Agent-Learning",
+    "stars": 7,
+    "updated_at": "2026-10-10T17:07:49Z",
+    "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74895,
+    "updated_at": "2026-10-10T17:07:38Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "dsh\u63d2\u4ef6\uff0c\u6a21\u4eff\u9152\u9986\u4e16\u754c\u4e66\u8bbe\u8ba1\u7684\u5206\u5c42\u63d0\u793a\u8bcd\u6ce8\u5165\u3002DSH \u7684\u58f0\u660e\u5f0f\u63d0\u793a\u8bcd\u6ce8\u5165\u5c42\uff1a\u5206\u5c42\u951a\u70b9\u3001\u84dd\u7eff\u706f\u3001\u53ef\u590d\u73b0\u6982\u7387\u3001\u4e09\u9762\u6b63\u5219\u66ff\u6362\u3002\u7c7b\u9152\u9986\u4e16\u754c\u4e66\uff0c\u4f46\u4e0d\u662f\u89d2\u8272\u626e\u6f14\u524d\u7aef\uff0c\u800c\u662f\u63d0\u793a\u8bcd\u5de5\u7a0b\u5de5\u5177\u3002",
+    "id": "erlingmijiang/dsh-lorebooklike-prompt-tool",
+    "language": "JavaScript",
+    "name": "erlingmijiang/dsh-lorebooklike-prompt-tool",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:04:38Z",
+    "url": "https://github.com/erlingmijiang/dsh-lorebooklike-prompt-tool"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35606,
+    "updated_at": "2026-10-10T17:01:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose through OpenRouter. Electron, Type",
     "id": "michael-kitchin/agent-wars",
     "language": "TypeScript",
     "name": "michael-kitchin/agent-wars",
     "stars": 0,
-    "updated_at": "2026-10-10T16:59:33Z",
+    "updated_at": "2026-10-10T17:00:52Z",
     "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-10T17:01:27Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25870,
+    "updated_at": "2026-10-10T17:00:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-10T17:00:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
-    "stars": 22,
+    "stars": 23,
     "updated_at": "2026-10-10T16:58:24Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
@@ -63,15 +171,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74894,
-    "updated_at": "2026-10-10T16:58:03Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Portable Claude Code setup template: 66 skills with provenance, cost-aware model routing, git safety hooks. Adapt, don't",
     "id": "Bank848/Claude-Abo",
     "language": "Python",
@@ -97,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T16:50:32Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "dsh\u63d2\u4ef6\uff0c\u6a21\u4eff\u9152\u9986\u4e16\u754c\u4e66\u8bbe\u8ba1\u7684\u5206\u5c42\u63d0\u793a\u8bcd\u6ce8\u5165\u3002DSH \u7684\u58f0\u660e\u5f0f\u63d0\u793a\u8bcd\u6ce8\u5165\u5c42\uff1a\u5206\u5c42\u951a\u70b9\u3001\u84dd\u7eff\u706f\u3001\u53ef\u590d\u73b0\u6982\u7387\u3001\u4e09\u9762\u6b63\u5219\u66ff\u6362\u3002\u7c7b\u9152\u9986\u4e16\u754c\u4e66\uff0c\u4f46\u4e0d\u662f\u89d2\u8272\u626e\u6f14\u524d\u7aef\uff0c\u800c\u662f\u63d0\u793a\u8bcd\u5de5\u7a0b\u5de5\u5177\u3002",
-    "id": "erlingmijiang/dsh-lorebooklike-prompt-tool",
-    "language": "JavaScript",
-    "name": "erlingmijiang/dsh-lorebooklike-prompt-tool",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:49:01Z",
-    "url": "https://github.com/erlingmijiang/dsh-lorebooklike-prompt-tool"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-10T16:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u4e2d\u6587\u5f00\u6e90\u63d0\u793a\u8bcd\u7f51\u7ad9\uff5c80 \u6761 AI \u63d0\u793a\u8bcd\u6a21\u677f\uff1a\u56fe\u751f\u56fe\u98ce\u683c\u8f6c\u6362\u3001\u5199\u4f5c\u3001\u7f16\u7a0b\u3001\u5206\u6790\u4e0e\u529e\u516c\u3002\u514d\u767b\u5f55\uff0c\u652f\u6301\u9700\u6c42\u586b\u5199\u3001\u641c\u7d22\u3001\u6536\u85cf\u3001\u590d\u5236\u4e0e\u5bfc\u51fa\u3002Open-source AI prompt website with Chinese-first navi",
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T16:32:21Z",
     "url": "https://github.com/neiltucker/ai-fundamentals"
-  },
-  {
-    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
-    "id": "iwerry/Daniskills",
-    "language": "TypeScript",
-    "name": "iwerry/Daniskills",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:31:59Z",
-    "url": "https://github.com/iwerry/Daniskills"
   },
   {
     "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T16:10:18Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:10:01Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:11:56Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "1,120+ ready-to-use short AI prompts in Persian (Farsi) & English for ChatGPT, Claude, Gemini, Midjourney, Veo, Sora. 14",
-    "id": "diba7star/awesome-persian-prompts",
-    "language": "Python",
-    "name": "diba7star/awesome-persian-prompts",
-    "stars": 2,
-    "updated_at": "2026-10-10T16:08:54Z",
-    "url": "https://github.com/diba7star/awesome-persian-prompts"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:08:39Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Deterministic token-budgeted context packaging & task-aware window slicing CLI/SDK for autonomous AI coding agents.",
-    "id": "Khoa180806/context-pack",
-    "language": "HTML",
-    "name": "Khoa180806/context-pack",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:07:45Z",
-    "url": "https://github.com/Khoa180806/context-pack"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:06:50Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:06:24Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Distributable application security review & threat modeling skills for Claude Code \u2014 point them at a local project or a ",
-    "id": "natolitech/security-skill",
-    "language": "Shell",
-    "name": "natolitech/security-skill",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:06:07Z",
-    "url": "https://github.com/natolitech/security-skill"
   }
 ]
