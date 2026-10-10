@@ -1,12 +1,57 @@
 [
   {
-    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
-    "id": "iwerry/Daniskills",
+    "description": "Naren's Claude toolkit: skills, mods and MCP servers for Claude Code. One-command install via plugin marketplace.",
+    "id": "NarenDawar/narens-claude-toolkit",
+    "language": "Python",
+    "name": "NarenDawar/narens-claude-toolkit",
+    "stars": 3,
+    "updated_at": "2026-10-10T23:44:30Z",
+    "url": "https://github.com/NarenDawar/narens-claude-toolkit"
+  },
+  {
+    "description": "Open-source prompt management for creating, versioning, sharing, and integrating reusable AI workflows.",
+    "id": "Promplify/promplify-web",
     "language": "TypeScript",
-    "name": "iwerry/Daniskills",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:28:14Z",
-    "url": "https://github.com/iwerry/Daniskills"
+    "name": "Promplify/promplify-web",
+    "stars": 7,
+    "updated_at": "2026-10-10T23:42:43Z",
+    "url": "https://github.com/Promplify/promplify-web"
+  },
+  {
+    "description": "Dual-Persona Cognitive Learning Framework featuring empathetic coaching and critical inquiry",
+    "id": "lemos999/ailey-bailey-canvas",
+    "language": "\u2014",
+    "name": "lemos999/ailey-bailey-canvas",
+    "stars": 20,
+    "updated_at": "2026-10-10T23:41:53Z",
+    "url": "https://github.com/lemos999/ailey-bailey-canvas"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74928,
+    "updated_at": "2026-10-10T23:41:42Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:39:54Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-10-10T23:39:40Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
     "description": "A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}, then reach th",
@@ -14,8 +59,89 @@
     "language": "C#",
     "name": "hazeliscoding/prompuff",
     "stars": 0,
-    "updated_at": "2026-10-10T23:22:20Z",
+    "updated_at": "2026-10-10T23:40:15Z",
     "url": "https://github.com/hazeliscoding/prompuff"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2108,
+    "updated_at": "2026-10-10T23:36:20Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Prompt intelligence engine \u2014 deterministic 4-axis scoring (Specificity, Doctrine, Context, Actionability). Score, enhanc",
+    "id": "mrodgersjs-web/rig-ai-engineering",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-ai-engineering",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:35:28Z",
+    "url": "https://github.com/mrodgersjs-web/rig-ai-engineering"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-10T23:35:23Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Skills, rules and tools for AI coding agents (Claude Code, Codex, OpenClaw, Muse, jcode) that survive long autonomous ru",
+    "id": "zorahrel/agent-harness",
+    "language": "JavaScript",
+    "name": "zorahrel/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:34:50Z",
+    "url": "https://github.com/zorahrel/agent-harness"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:32:44Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
+    "id": "iwerry/Daniskills",
+    "language": "TypeScript",
+    "name": "iwerry/Daniskills",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:31:30Z",
+    "url": "https://github.com/iwerry/Daniskills"
+  },
+  {
+    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 16,
+    "updated_at": "2026-10-10T23:31:27Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:31:01Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-10T23:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -43,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T23:17:58Z",
     "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-10T23:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
-    "id": "Thanatos9404/llmslim",
-    "language": "Python",
-    "name": "Thanatos9404/llmslim",
-    "stars": 16,
-    "updated_at": "2026-10-10T23:25:28Z",
-    "url": "https://github.com/Thanatos9404/llmslim"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -122,7 +230,7 @@
     "language": "Python",
     "name": "promptise-com/Foundry",
     "stars": 873,
-    "updated_at": "2026-10-10T23:06:11Z",
+    "updated_at": "2026-10-10T23:38:55Z",
     "url": "https://github.com/promptise-com/Foundry"
   },
   {
@@ -270,15 +378,6 @@
     "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-10T22:44:01Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
     "id": "datasound-projects/Promptboard",
     "language": "JavaScript",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T22:37:24Z",
     "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
-    "id": "is-leeroy-jenkins/buddy",
-    "language": "HTML",
-    "name": "is-leeroy-jenkins/buddy",
-    "stars": 6,
-    "updated_at": "2026-10-10T22:35:17Z",
-    "url": "https://github.com/is-leeroy-jenkins/buddy"
-  },
-  {
-    "description": "The Ultimate Claude Code Toolkit: 180 skills, 10 agents, 29 commands, 7 hooks, and 81 marketplace repos (11,000+ communi",
-    "id": "travisjneuman/.claude",
-    "language": "TypeScript",
-    "name": "travisjneuman/.claude",
-    "stars": 100,
-    "updated_at": "2026-10-10T22:35:06Z",
-    "url": "https://github.com/travisjneuman/.claude"
-  },
-  {
-    "description": "Portable guide for splitting work into numbered task files and dispatching them across many parallel VS Code Copilot age",
-    "id": "nirholas/task-queue-system",
-    "language": "\u2014",
-    "name": "nirholas/task-queue-system",
-    "stars": 15,
-    "updated_at": "2026-10-10T22:33:20Z",
-    "url": "https://github.com/nirholas/task-queue-system"
-  },
-  {
-    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
-    "id": "Quazmoz/agentdefaults",
-    "language": "Python",
-    "name": "Quazmoz/agentdefaults",
-    "stars": 3,
-    "updated_at": "2026-10-10T22:29:44Z",
-    "url": "https://github.com/Quazmoz/agentdefaults"
-  },
-  {
-    "description": "Local-first prompt coach: analyses your prompt history from Claude Code, Codex, Copilot and more, and coaches you on it.",
-    "id": "aawobdev/prompt-coach",
-    "language": "Python",
-    "name": "aawobdev/prompt-coach",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:28:13Z",
-    "url": "https://github.com/aawobdev/prompt-coach"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:27:44Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
-    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
-    "id": "tinyhumansai/tinyjuice",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyjuice",
-    "stars": 21,
-    "updated_at": "2026-10-10T22:53:44Z",
-    "url": "https://github.com/tinyhumansai/tinyjuice"
-  },
-  {
-    "description": "AI \u4eba\u7269\u8bbe\u8ba1 skill\uff08Claude Code / Codex / claude.ai\uff09\uff1a\u5e2e\u4f60\u628a\u300c\u8f7b\u4f7b\u7684\u7537\u6027\u300d\u300c\u6e29\u67d4\u7684\u5927\u5757\u5934\u300d\u8fd9\u79cd\u6a21\u7cca\u611f\u89c9 articulate \u6210\u751f\u56fe / \u751f\u89c6\u9891\u6a21\u578b\u80fd\u76f4\u63a5\u6267\u884c\u7684\u9501\u5b9a\u6bb5\u3002\u4e5d\u4e2a\u7ef4\u5ea6\u3001\u521a\u67d4\u5149\u8c31\u3001\u4e0d\u5938\u5f20\u7684\u8868\u60c5",
-    "id": "MatsuriMW/ai-character-design-skill",
-    "language": "Python",
-    "name": "MatsuriMW/ai-character-design-skill",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:27:29Z",
-    "url": "https://github.com/MatsuriMW/ai-character-design-skill"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:23:47Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "A toolkit for engineering, versioning, and evaluating prompts with Claude.",
-    "id": "hstefanov1/prompt-smith",
-    "language": "JavaScript",
-    "name": "hstefanov1/prompt-smith",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:23:43Z",
-    "url": "https://github.com/hstefanov1/prompt-smith"
-  },
-  {
-    "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
-    "id": "Allan-Nava/qrspi",
-    "language": "JavaScript",
-    "name": "Allan-Nava/qrspi",
-    "stars": 1,
-    "updated_at": "2026-10-10T22:22:20Z",
-    "url": "https://github.com/Allan-Nava/qrspi"
   }
 ]
