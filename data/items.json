@@ -1,5 +1,77 @@
 [
   {
+    "description": "Arbiter by Solenix: one AGENTS.md for arbitrary success, in any AI, any harness, any goal.",
+    "id": "SolenixAI/arbiter",
+    "language": "JavaScript",
+    "name": "SolenixAI/arbiter",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:59:06Z",
+    "url": "https://github.com/SolenixAI/arbiter"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "C++",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-10T01:57:49Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25850,
+    "updated_at": "2026-10-10T01:55:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:52:21Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
+    "description": "Codex Skill: \u628a\u7ecf\u5178\u5f62\u8c61\u53d8\u6210\u65f6\u5c1a\u5927\u7247\u4e3b\u89d2\uff0c\u652f\u6301\u7b56\u5212/\u6444\u5f71/\u4fee\u6539\u4e09\u6a21\u5f0f",
+    "id": "denggui-ai/fashion-remix",
+    "language": "Python",
+    "name": "denggui-ai/fashion-remix",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:50:02Z",
+    "url": "https://github.com/denggui-ai/fashion-remix"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:48:54Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A living knowledge distillation system that self-evolves by reading technical content. Self-improving skill/knowledge pi",
+    "id": "TrueFurina/AGI-Distiller",
+    "language": "Python",
+    "name": "TrueFurina/AGI-Distiller",
+    "stars": 7,
+    "updated_at": "2026-10-10T01:46:05Z",
+    "url": "https://github.com/TrueFurina/AGI-Distiller"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-10T01:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A tiny YAML-driven eval harness for LLM prompts and agents",
     "id": "GuillermoBarreto/evalkit",
     "language": "Python",
@@ -18,21 +90,12 @@
     "url": "https://github.com/lzyyzznl/dsh-prompt-tuner"
   },
   {
-    "description": "Arbiter by Solenix: one AGENTS.md for arbitrary success, in any AI, any harness, any goal.",
-    "id": "SolenixAI/arbiter",
-    "language": "JavaScript",
-    "name": "SolenixAI/arbiter",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:43:42Z",
-    "url": "https://github.com/SolenixAI/arbiter"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 74846,
-    "updated_at": "2026-10-10T01:45:04Z",
+    "updated_at": "2026-10-10T01:57:53Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 41,
     "updated_at": "2026-10-10T01:40:16Z",
     "url": "https://github.com/cristianodabc/aludel"
-  },
-  {
-    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
-    "id": "jason3e7/ai-101",
-    "language": "C++",
-    "name": "jason3e7/ai-101",
-    "stars": 1,
-    "updated_at": "2026-10-10T01:39:48Z",
-    "url": "https://github.com/jason3e7/ai-101"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -99,15 +153,6 @@
     "url": "https://github.com/joeblackwaslike/lessons-learned"
   },
   {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:35:07Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
     "description": "DeepSeek Harness\u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6",
     "id": "sunzhentao/dsh--prompt--enhance",
     "language": "JavaScript",
@@ -115,24 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T01:32:20Z",
     "url": "https://github.com/sunzhentao/dsh--prompt--enhance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25850,
-    "updated_at": "2026-10-10T01:43:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-10T01:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T01:05:28Z",
     "url": "https://github.com/MohammedMoataz/ai-coach"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-10-10T01:05:14Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:05:09Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-10-10T01:04:56Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
   }
 ]
