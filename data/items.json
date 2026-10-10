@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-10-10T23:00:17Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:57:48Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 19,
+    "updated_at": "2026-10-10T22:56:41Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "Turn any GitHub repository into an interactive engineering workspace with system maps, architecture diagrams, software h",
+    "id": "ProAmineOfficial/GitArchitectureDiagram",
+    "language": "JavaScript",
+    "name": "ProAmineOfficial/GitArchitectureDiagram",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:55:06Z",
+    "url": "https://github.com/ProAmineOfficial/GitArchitectureDiagram"
+  },
+  {
+    "description": "Extract validated JSON from messy EN/DE job postings with LLM structured outputs, Pydantic and retries; field-level accu",
+    "id": "abhisheklakhani-it/llm-structured-extractor",
+    "language": "Python",
+    "name": "abhisheklakhani-it/llm-structured-extractor",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:54:32Z",
+    "url": "https://github.com/abhisheklakhani-it/llm-structured-extractor"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 49,
+    "updated_at": "2026-10-10T22:52:13Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}, then reach th",
+    "id": "hazeliscoding/prompuff",
+    "language": "C#",
+    "name": "hazeliscoding/prompuff",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:56:27Z",
+    "url": "https://github.com/hazeliscoding/prompuff"
+  },
+  {
+    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
+    "id": "neomjs/neo-agent-skills",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-10-10T22:50:12Z",
+    "url": "https://github.com/neomjs/neo-agent-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:46:15Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "AI \u5716\u7247\u63d0\u793a\u8a5e\u793a\u4f8b\u5eab\uff08\u542b\u6548\u679c\u5716\u3001\u5b8c\u6574\u63d0\u793a\u8a5e\u3001\u9069\u7528\u6a21\u578b\u8207\u4fee\u6539\u8aaa\u660e\uff09| AI image prompt examples with result images, full prompts, recommended models and ada",
+    "id": "aioaeus/image-prompt-examples",
+    "language": "\u2014",
+    "name": "aioaeus/image-prompt-examples",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:45:30Z",
+    "url": "https://github.com/aioaeus/image-prompt-examples"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-10T22:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Version, test, score and A/B prompts like code \u2014 six local scorers, a leaderboard, fully offline",
     "id": "otawfik/promptforge",
     "language": "Python",
@@ -81,15 +180,6 @@
     "url": "https://github.com/ryanduguid/llm-tax-guardrails"
   },
   {
-    "description": "Extract validated JSON from messy EN/DE job postings with LLM structured outputs, Pydantic and retries; field-level accu",
-    "id": "abhisheklakhani-it/llm-structured-extractor",
-    "language": "Python",
-    "name": "abhisheklakhani-it/llm-structured-extractor",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:38:01Z",
-    "url": "https://github.com/abhisheklakhani-it/llm-structured-extractor"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -144,15 +234,6 @@
     "url": "https://github.com/nirholas/task-queue-system"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-10T22:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
     "id": "Quazmoz/agentdefaults",
     "language": "Python",
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyjuice",
     "stars": 21,
-    "updated_at": "2026-10-10T22:27:27Z",
+    "updated_at": "2026-10-10T22:53:44Z",
     "url": "https://github.com/tinyhumansai/tinyjuice"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T22:08:59Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Personal AI tooling library \u2014 reusable prompts, agent definitions, and system instructions",
-    "id": "brignano/ai-tools",
-    "language": "PowerShell",
-    "name": "brignano/ai-tools",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:07:25Z",
-    "url": "https://github.com/brignano/ai-tools"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-10T22:07:10Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with",
-    "id": "LearnPrompt/awesome-seedance",
-    "language": "JavaScript",
-    "name": "LearnPrompt/awesome-seedance",
-    "stars": 1932,
-    "updated_at": "2026-10-10T22:06:09Z",
-    "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills",
-    "id": "DollhouseMCP/mcp-server",
-    "language": "TypeScript",
-    "name": "DollhouseMCP/mcp-server",
-    "stars": 45,
-    "updated_at": "2026-10-10T22:13:54Z",
-    "url": "https://github.com/DollhouseMCP/mcp-server"
-  },
-  {
-    "description": "Universal startup and context discovery skill for AI coding agents (Claude Code, Antigravity, Cursor, Codex, Copilot)",
-    "id": "tmolavi/agent-project-discovery-skill",
-    "language": "\u2014",
-    "name": "tmolavi/agent-project-discovery-skill",
-    "stars": 1,
-    "updated_at": "2026-10-10T22:03:57Z",
-    "url": "https://github.com/tmolavi/agent-project-discovery-skill"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 142,
-    "updated_at": "2026-10-10T22:03:23Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Arbiter by Solenix: one file that helps any AI do the job right the first time. Any AI, any goal, any user.",
-    "id": "SolenixAI/arbiter",
-    "language": "JavaScript",
-    "name": "SolenixAI/arbiter",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:03:15Z",
-    "url": "https://github.com/SolenixAI/arbiter"
-  },
-  {
-    "description": "WebUI-native Agent Skills for ChatGPT: intent, planning, specification, development, video analysis, SEO, and shared pre",
-    "id": "AVANT-ICONIC/gpt-webui-skills",
-    "language": "Python",
-    "name": "AVANT-ICONIC/gpt-webui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:03:12Z",
-    "url": "https://github.com/AVANT-ICONIC/gpt-webui-skills"
-  },
-  {
-    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
-    "id": "roufmlp/agent-skills",
-    "language": "Python",
-    "name": "roufmlp/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:03:02Z",
-    "url": "https://github.com/roufmlp/agent-skills"
   }
 ]
