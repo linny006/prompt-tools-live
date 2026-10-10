@@ -1,5 +1,158 @@
 [
   {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "Mueller-Systems-Lab/promptvault-lite",
+    "language": "TypeScript",
+    "name": "Mueller-Systems-Lab/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:59:23Z",
+    "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
+  },
+  {
+    "description": "Local-first golden-file snapshot testing for prompts, skills, and agent instruction packs.",
+    "id": "rogerchappel/promptsnap",
+    "language": "TypeScript",
+    "name": "rogerchappel/promptsnap",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:58:15Z",
+    "url": "https://github.com/rogerchappel/promptsnap"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-10-10T13:57:59Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:57:37Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-10T13:56:37Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 110873,
+    "updated_at": "2026-10-10T13:54:31Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Faltas, insultos y halagos contra una frase tranquila: 290 respuestas de Claude con jueces ciegos sobre qu\u00e9 hace creativ",
+    "id": "elisaul77/avoid-the-predictable",
+    "language": "HTML",
+    "name": "elisaul77/avoid-the-predictable",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:54:04Z",
+    "url": "https://github.com/elisaul77/avoid-the-predictable"
+  },
+  {
+    "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 19,
+    "updated_at": "2026-10-10T13:53:36Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-10T13:53:16Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "LinkedIn \u5185\u5bb9\u8fd0\u8425\u6280\u80fd\u5305\uff1a12 \u4e2a\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u6280\u80fd\uff0c\u8986\u76d6\u5199\u5e16\u3001\u8bc4\u8bba\u3001\u56de\u590d\u3001\u53bb AI \u5473\u3001\u7206\u6b3e\u94a9\u5b50\u62c6\u89e3\u30017 \u5929\u5185\u5bb9\u8ba1\u5212\u3001\u4e3b\u9875\u4f18\u5316\u3001\u56e2\u961f\u5021\u5bfc\u4e0e\u8de8\u5e73\u53f0\u6539\u7a3f\u3002\u57fa\u4e8e 2026 \u7b97\u6cd5\u4e0e\u5185\u5bb9\u7814\u7a76\uff0c\u5185\u5bb9\u7531\u4f60\u7c98\u8d34\u6216\u622a\u56fe\u63d0\u4f9b\uff0c\u53d1\u5e03\u7531\u4f60\u624b\u52a8\u5b8c\u6210\uff0c\u5168\u7a0b\u65e0\u6293",
+    "id": "sylvan-io/linkedin-skills",
+    "language": "\u2014",
+    "name": "sylvan-io/linkedin-skills",
+    "stars": 1,
+    "updated_at": "2026-10-10T13:52:01Z",
+    "url": "https://github.com/sylvan-io/linkedin-skills"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:50:20Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:49:56Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-10T13:49:39Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-10T13:48:08Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Open-source AI image prompt gallery and creative workspace for prompt engineering, text-to-image generation, image editi",
+    "id": "df799627-spec/lovioa",
+    "language": "JavaScript",
+    "name": "df799627-spec/lovioa",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:47:44Z",
+    "url": "https://github.com/df799627-spec/lovioa"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-10T13:45:45Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-10T13:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The foundation layer for agentic intelligence.",
     "id": "promptise-com/Foundry",
     "language": "Python",
@@ -36,15 +189,6 @@
     "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
   },
   {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:43:07Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
     "description": "A deterministic context-driven agentic SDLC framework for Cursor and Claude. 41 codified laws and 22 specialist roles to",
     "id": "alex-zaporozhan/leo",
     "language": "\u2014",
@@ -72,24 +216,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-10-10T13:40:05Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Typos, insults and flattery vs. one calm sentence: 290 blind-judged Claude answers on what actually makes an LLM creativ",
-    "id": "elisaul77/avoid-the-predictable",
-    "language": "HTML",
-    "name": "elisaul77/avoid-the-predictable",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:39:32Z",
-    "url": "https://github.com/elisaul77/avoid-the-predictable"
-  },
-  {
     "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
     "id": "tobiast5801/mdp-preflight",
     "language": "\u2014",
@@ -106,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T13:35:44Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-10T13:35:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
@@ -239,7 +356,7 @@
     "language": "\u2014",
     "name": "codegiveness/kernel-prompt",
     "stars": 0,
-    "updated_at": "2026-10-10T13:29:21Z",
+    "updated_at": "2026-10-10T13:55:24Z",
     "url": "https://github.com/codegiveness/kernel-prompt"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:24:50Z",
     "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "The most expensive bug in AI-assisted building is shipping the wrong thing, well. A drop-in CLAUDE.md / AGENTS.md for PM",
-    "id": "sohaibt/product-mode",
-    "language": "TypeScript",
-    "name": "sohaibt/product-mode",
-    "stars": 210,
-    "updated_at": "2026-10-10T13:24:04Z",
-    "url": "https://github.com/sohaibt/product-mode"
-  },
-  {
-    "description": "\u8001\u5ba1\u8ba1\u00b7\u62e6\u622a\u5047\u7eff\uff1aAI \u8bf4\u300c\u6d4b\u8bd5\u5168\u8fc7\u4e86\u300d\u65f6\uff0c\u7528\u4e09\u95ee\uff08\u7ea2\u8fc7\u5417 / \u9519\u7684\u6293\u5f97\u4f4f\u5417 / \u6302\u7684\u90a3\u4e9b\u5462\uff09+ \u786e\u5b9a\u6027\u5de5\u5177\u94fe\u9a8c\u8bc1\u8fd9\u4e2a\u300c\u901a\u8fc7\u300d\u7b97\u4e0d\u7b97\u6570\u3002\u6ca1\u7ea2\u8fc7\u7684\u7eff\uff0c\u90fd\u662f\u5047\u7eff\u3002",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:23:23Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:23:15Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:23:06Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
-    "id": "konradre/video-production-skills",
-    "language": "Python",
-    "name": "konradre/video-production-skills",
-    "stars": 7,
-    "updated_at": "2026-10-10T13:23:01Z",
-    "url": "https://github.com/konradre/video-production-skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:22:53Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:21:42Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:21:16Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-10T13:20:50Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:20:00Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:19:55Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:19:45Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:19:12Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
   }
 ]
