@@ -1,12 +1,102 @@
 [
   {
+    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
+    "id": "IUCDM/Native-AI-Development-Library",
+    "language": "HTML",
+    "name": "IUCDM/Native-AI-Development-Library",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:38:12Z",
+    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-11T20:37:08Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:36:46Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-11T20:36:38Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:36:07Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A comprehensive interactive reference for Large Language Model (LLM) Engineering. 103 concepts, 10 categories, zero depe",
+    "id": "aymanelmasryael/ael-llm-engineering-reference-2026",
+    "language": "HTML",
+    "name": "aymanelmasryael/ael-llm-engineering-reference-2026",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:36:02Z",
+    "url": "https://github.com/aymanelmasryael/ael-llm-engineering-reference-2026"
+  },
+  {
     "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
     "id": "mohitagw15856/pm-claude-skills",
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1437,
-    "updated_at": "2026-10-11T20:29:52Z",
+    "updated_at": "2026-10-11T20:37:05Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 58,
+    "updated_at": "2026-10-11T20:34:02Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Visionary Architect \u00b7 AI Orchestrator \u00b7 Brand Designer. Founder @ AEL Digital Studio. Building the future of AI-assisted",
+    "id": "aymanelmasryael/aymanelmasryael",
+    "language": "HTML",
+    "name": "aymanelmasryael/aymanelmasryael",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:33:41Z",
+    "url": "https://github.com/aymanelmasryael/aymanelmasryael"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25899,
+    "updated_at": "2026-10-11T20:33:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T20:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Type-safe prompt templates for TypeScript: placeholder typos become tsc errors before they reach the model. About 1.4KB ",
@@ -23,17 +113,8 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-11T20:29:03Z",
+    "updated_at": "2026-10-11T20:30:28Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25899,
-    "updated_at": "2026-10-11T20:27:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T20:22:43Z",
     "url": "https://github.com/michael-kitchin/agent-wars"
-  },
-  {
-    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
-    "id": "IUCDM/Native-AI-Development-Library",
-    "language": "HTML",
-    "name": "IUCDM/Native-AI-Development-Library",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:22:40Z",
-    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -122,7 +194,7 @@
     "language": "JavaScript",
     "name": "SolenixAI/arbiter",
     "stars": 0,
-    "updated_at": "2026-10-11T20:28:18Z",
+    "updated_at": "2026-10-11T20:37:14Z",
     "url": "https://github.com/SolenixAI/arbiter"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/chrisjedwards/HangMan"
   },
   {
-    "description": "Visionary Architect \u00b7 AI Orchestrator \u00b7 Brand Designer. Founder @ AEL Digital Studio. Building the future of AI-assisted",
-    "id": "aymanelmasryael/aymanelmasryael",
-    "language": "HTML",
-    "name": "aymanelmasryael/aymanelmasryael",
-    "stars": 1,
-    "updated_at": "2026-10-11T20:18:43Z",
-    "url": "https://github.com/aymanelmasryael/aymanelmasryael"
-  },
-  {
     "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
     "id": "kish21/product-playbook",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-10-11T20:17:04Z",
     "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T20:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T20:03:13Z",
     "url": "https://github.com/kazoya/rctc-skill"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-11T20:00:51Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-11T19:50:47Z",
     "url": "https://github.com/fdidonato/moralstack"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:50:41Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Built a secure multi-modal retrieval system for document ingestion using Neo4j vector database and LangChain orchestrati",
-    "id": "Shreyas2409/book-rag",
-    "language": "Python",
-    "name": "Shreyas2409/book-rag",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:50:13Z",
-    "url": "https://github.com/Shreyas2409/book-rag"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-11T19:49:28Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
-    "id": "gotonote/awesome-agent-boom",
-    "language": "Python",
-    "name": "gotonote/awesome-agent-boom",
-    "stars": 13,
-    "updated_at": "2026-10-11T19:49:05Z",
-    "url": "https://github.com/gotonote/awesome-agent-boom"
-  },
-  {
-    "description": "Turn a static prompt manifest into typed, greppable named imports with lockfile-gated integrity",
-    "id": "nkwib/promptregistry",
-    "language": "TypeScript",
-    "name": "nkwib/promptregistry",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:51:03Z",
-    "url": "https://github.com/nkwib/promptregistry"
   }
 ]
