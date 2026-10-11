@@ -1,5 +1,113 @@
 [
   {
+    "description": "A prompt-engineering setup that makes any AI coding tool plan first, build in order, and hold an elite bar. Skills pack ",
+    "id": "BlurryVisions/offthemode",
+    "language": "HTML",
+    "name": "BlurryVisions/offthemode",
+    "stars": 0,
+    "updated_at": "2026-10-11T12:59:01Z",
+    "url": "https://github.com/BlurryVisions/offthemode"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-11T12:57:54Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-10-11T12:56:04Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Local-first desktop studio for ComfyUI, built for AI short-drama production - zero-dependency 10MB exe: creation, galler",
+    "id": "IvenKooLab/comfy-agent",
+    "language": "Python",
+    "name": "IvenKooLab/comfy-agent",
+    "stars": 28,
+    "updated_at": "2026-10-11T12:55:12Z",
+    "url": "https://github.com/IvenKooLab/comfy-agent"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-11T12:54:26Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 154,
+    "updated_at": "2026-10-11T12:52:11Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-11T12:51:49Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "\u865a\u5b9e\u62fc\u8d34\u8857\u666f\u827a\u672f Skill \u2014 \u628a\u771f\u5b9e\u7167\u7247\u53d8\u6210\u5de8\u578b\u6241\u5e73\u6d82\u9e26\u89d2\u8272\u95ef\u5165\u73b0\u5b9e\u7684\u8d85\u73b0\u5b9e\u62fc\u8d34\u753b",
+    "id": "haomiaomou-cmd/giant-doodle-street-collage",
+    "language": "\u2014",
+    "name": "haomiaomou-cmd/giant-doodle-street-collage",
+    "stars": 1,
+    "updated_at": "2026-10-11T12:50:52Z",
+    "url": "https://github.com/haomiaomou-cmd/giant-doodle-street-collage"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-11T12:49:53Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Turn vague product or feature ideas into clear, checkable requirements before planning or coding\u2014mapping rough descripti",
+    "id": "bydtesla1609/intent-debugger",
+    "language": "Python",
+    "name": "bydtesla1609/intent-debugger",
+    "stars": 122,
+    "updated_at": "2026-10-11T12:48:38Z",
+    "url": "https://github.com/bydtesla1609/intent-debugger"
+  },
+  {
+    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1437,
+    "updated_at": "2026-10-11T12:46:38Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T12:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The foundation layer for agentic intelligence.",
     "id": "promptise-com/Foundry",
     "language": "Python",
@@ -34,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T12:42:26Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1437,
-    "updated_at": "2026-10-11T12:43:27Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "Claude Code skills from real marketing-operations work: a monthly report pipeline whose numbers hold up against the clie",
@@ -104,7 +203,7 @@
     "language": "JavaScript",
     "name": "muzimu217/ui-design-agent-kit",
     "stars": 22,
-    "updated_at": "2026-10-11T12:35:25Z",
+    "updated_at": "2026-10-11T12:49:55Z",
     "url": "https://github.com/muzimu217/ui-design-agent-kit"
   },
   {
@@ -149,7 +248,7 @@
     "language": "TypeScript",
     "name": "ModelBound/modelbound-mcp-server",
     "stars": 1,
-    "updated_at": "2026-10-11T12:32:47Z",
+    "updated_at": "2026-10-11T12:59:32Z",
     "url": "https://github.com/ModelBound/modelbound-mcp-server"
   },
   {
@@ -189,15 +288,6 @@
     "url": "https://github.com/ModelBound/modelbound-cli"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-11T12:33:09Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "Official ModelBound plugin for Claude Code \u2014 sync skills and rules, run the Skill Development Pipeline, optimize tokens,",
     "id": "ModelBound/modelbound-claude-code-plugin",
     "language": "TypeScript",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T12:32:26Z",
     "url": "https://github.com/ModelBound/modelbound-claude-code-plugin"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T12:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-written articles on software engineering and life in the AI age, covering coding agents, software architecture, backe",
@@ -365,88 +446,7 @@
     "language": "TypeScript",
     "name": "hermes-hq/hodios",
     "stars": 0,
-    "updated_at": "2026-10-11T12:24:05Z",
+    "updated_at": "2026-10-11T12:57:01Z",
     "url": "https://github.com/hermes-hq/hodios"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-11T12:38:35Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-11T12:10:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "ThinCoder101 \u516c\u5f00\u8bfe\u914d\u5957 \u00b7 ThinCoder \u4e13\u680f\u5b9e\u6218\u7bc7\u6280\u80fd\u5305\uff1agrill-me \u9700\u6c42\u62f7\u95ee + grilling \u8bbf\u8c08\u5f15\u64ce\uff08\u6253\u5305\u81ea mattpocock/skills, MIT\uff09",
-    "id": "cnzhihao/ThinCoder101-harness",
-    "language": "Python",
-    "name": "cnzhihao/ThinCoder101-harness",
-    "stars": 0,
-    "updated_at": "2026-10-11T12:10:00Z",
-    "url": "https://github.com/cnzhihao/ThinCoder101-harness"
-  },
-  {
-    "description": "CLI tool for evaluating and comparing LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic models, s",
-    "id": "RitikPatill/llm-prompt-eval-bench",
-    "language": "Python",
-    "name": "RitikPatill/llm-prompt-eval-bench",
-    "stars": 0,
-    "updated_at": "2026-10-11T12:09:54Z",
-    "url": "https://github.com/RitikPatill/llm-prompt-eval-bench"
-  },
-  {
-    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 26,
-    "updated_at": "2026-10-11T12:09:52Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-11T12:08:57Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 16,
-    "updated_at": "2026-10-11T12:07:35Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 22,
-    "updated_at": "2026-10-11T12:06:35Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13560,
-    "updated_at": "2026-10-11T12:05:46Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
