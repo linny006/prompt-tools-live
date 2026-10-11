@@ -1,12 +1,21 @@
 [
   {
-    "description": "Original image-to-image prompt recipes and editing review checklists, maintained by the operator of imagetoimage.dev",
-    "id": "liubrain39/image-to-image-prompt-guide",
-    "language": "\u2014",
-    "name": "liubrain39/image-to-image-prompt-guide",
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
     "stars": 0,
-    "updated_at": "2026-10-11T18:29:43Z",
-    "url": "https://github.com/liubrain39/image-to-image-prompt-guide"
+    "updated_at": "2026-10-11T18:44:53Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-11T18:44:33Z",
+    "url": "https://github.com/1arry1iu/archetype"
   },
   {
     "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
@@ -14,8 +23,17 @@
     "language": "HTML",
     "name": "IUCDM/Native-AI-Development-Library",
     "stars": 0,
-    "updated_at": "2026-10-11T18:29:41Z",
+    "updated_at": "2026-10-11T18:43:55Z",
     "url": "https://github.com/IUCDM/Native-AI-Development-Library"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-11T18:43:17Z",
+    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "\u751f\u6210\u5f0f\u5a92\u4f53\uff1a\u56fe\u7247\u751f\u6210\uff08ComfyUI Z-Image-Turbo / \u65b9\u821f Seedream\uff09+ \u89c6\u9891\u751f\u6210\uff08Seedance / local fastvideo3\uff09\u77e5\u8bc6\u5e93\u4e0e\u4f5c\u54c1\u96c6",
@@ -23,8 +41,98 @@
     "language": "Python",
     "name": "THZSummer/gen-media",
     "stars": 0,
-    "updated_at": "2026-10-11T18:29:35Z",
+    "updated_at": "2026-10-11T18:42:59Z",
     "url": "https://github.com/THZSummer/gen-media"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-11T18:43:03Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:42:07Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "\ud83e\udde0 Unified skill repository for AI coding agents. SKILL.md v2 format with structured frontmatter, workflows, and auto-gen",
+    "id": "iberi22/skills",
+    "language": "Python",
+    "name": "iberi22/skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:40:34Z",
+    "url": "https://github.com/iberi22/skills"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 2,
+    "updated_at": "2026-10-11T18:39:21Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:38:22Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:38:19Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-10-11T18:38:19Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:38:12Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "\u5341\u4e09\u5e0c\u8bfa Agent \u5de5\u4f5c\u6d41 \u00b7 \u4e2d\u6587\u6e90\u5e93\uff1a\u628a\u5de5\u7a0b\u7eaa\u5f8b\u505a\u6210\u53ef\u673a\u68c0\u95e8\u7981\u7684\u5143\u5de5\u4f5c\u6d41 Skill \u5bb6\u65cf\u2014\u2014\u4e09\u7ea7\u8dd1\u9053\uff0f\u5224\u7ea7\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e\uff0f405 \u6761\u7ec6\u5219\u5e93\uff0f\u89d2\u8272\u00b7\u6d41\u7a0b\u00b7\u4ea7\u54c1\u5de5\u7a0b\u56db\u5305\uff0c\u4e94\u5e73\u53f0\u6ce8\u5165\u9002\u914d\u3002docs/ \u4e3a\u5f00\u53d1\u5de5\u4f5c\u533a\uff0c\u5b9e\u9a8c\u6570",
+    "id": "zxc663/shisan-xinuo-workflow",
+    "language": "Python",
+    "name": "zxc663/shisan-xinuo-workflow",
+    "stars": 34,
+    "updated_at": "2026-10-11T18:42:35Z",
+    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
+  },
+  {
+    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
+    "id": "evaldiff/evaldiff",
+    "language": "Python",
+    "name": "evaldiff/evaldiff",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:37:20Z",
+    "url": "https://github.com/evaldiff/evaldiff"
   },
   {
     "description": "Oneirloom / \u7ec7\u68a6\u5e08: 22 free visual creation Agent Skills. Explore ideas, analyze references, write image prompts, and refin",
@@ -32,8 +140,98 @@
     "language": "Python",
     "name": "PigeonAI-Yang/oneirloom",
     "stars": 4,
-    "updated_at": "2026-10-11T18:29:08Z",
+    "updated_at": "2026-10-11T18:36:31Z",
     "url": "https://github.com/PigeonAI-Yang/oneirloom"
+  },
+  {
+    "description": "Searchable tag library, saved prompts, history and local AI (TIPO, Qwen-VL, WD14) for Stable Diffusion WebUI Forge.",
+    "id": "sca-285/sd-webui-prompt-vault",
+    "language": "Python",
+    "name": "sca-285/sd-webui-prompt-vault",
+    "stars": 1,
+    "updated_at": "2026-10-11T18:36:20Z",
+    "url": "https://github.com/sca-285/sd-webui-prompt-vault"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:33:11Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-10-11T18:33:07Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:32:40Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:32:27Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "Hodios \u2014 prompts by Hermes IDE: install tree for skills, plugins and marketplaces. Bot-built, do not PR here. Source: he",
+    "id": "hermes-hq/hodios-dist",
+    "language": "\u2014",
+    "name": "hermes-hq/hodios-dist",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:32:05Z",
+    "url": "https://github.com/hermes-hq/hodios-dist"
+  },
+  {
+    "description": "Visionary Architect \u00b7 AI Orchestrator \u00b7 Brand Designer. Founder @ AEL Digital Studio. Building the future of AI-assisted",
+    "id": "aymanelmasryael/aymanelmasryael",
+    "language": "HTML",
+    "name": "aymanelmasryael/aymanelmasryael",
+    "stars": 1,
+    "updated_at": "2026-10-11T18:31:39Z",
+    "url": "https://github.com/aymanelmasryael/aymanelmasryael"
+  },
+  {
+    "description": "Open library of 10000+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
+    "id": "hermes-hq/hodios",
+    "language": "TypeScript",
+    "name": "hermes-hq/hodios",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:31:22Z",
+    "url": "https://github.com/hermes-hq/hodios"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T18:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Original image-to-image prompt recipes and editing review checklists, maintained by the operator of imagetoimage.dev",
+    "id": "liubrain39/image-to-image-prompt-guide",
+    "language": "\u2014",
+    "name": "liubrain39/image-to-image-prompt-guide",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:29:43Z",
+    "url": "https://github.com/liubrain39/image-to-image-prompt-guide"
   },
   {
     "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
@@ -45,30 +243,12 @@
     "url": "https://github.com/Allan-Nava/qrspi"
   },
   {
-    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
-    "id": "1arry1iu/archetype",
-    "language": "Python",
-    "name": "1arry1iu/archetype",
-    "stars": 57,
-    "updated_at": "2026-10-11T18:27:39Z",
-    "url": "https://github.com/1arry1iu/archetype"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-11T18:27:23Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Getting started with prompting and engineering with LLMs",
     "id": "equinor/llm-engineering-101",
     "language": "Jupyter Notebook",
     "name": "equinor/llm-engineering-101",
     "stars": 5,
-    "updated_at": "2026-10-11T18:26:58Z",
+    "updated_at": "2026-10-11T18:36:38Z",
     "url": "https://github.com/equinor/llm-engineering-101"
   },
   {
@@ -88,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T18:26:23Z",
     "url": "https://github.com/AnnusShahzad/Accura"
-  },
-  {
-    "description": "Open library of 10000+ expert prompts, personas and workflows for every AI tool: Claude Code, Codex, Cursor, Copilot, Ge",
-    "id": "hermes-hq/hodios",
-    "language": "TypeScript",
-    "name": "hermes-hq/hodios",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:27:45Z",
-    "url": "https://github.com/hermes-hq/hodios"
   },
   {
     "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
@@ -126,24 +297,6 @@
     "url": "https://github.com/adrianizmi/PromptBench-Tests"
   },
   {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:21:38Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
-    "id": "evaldiff/evaldiff",
-    "language": "Python",
-    "name": "evaldiff/evaldiff",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:20:31Z",
-    "url": "https://github.com/evaldiff/evaldiff"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -151,15 +304,6 @@
     "stars": 22,
     "updated_at": "2026-10-11T18:19:40Z",
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Visionary Architect \u00b7 AI Orchestrator \u00b7 Brand Designer. Founder @ AEL Digital Studio. Building the future of AI-assisted",
-    "id": "aymanelmasryael/aymanelmasryael",
-    "language": "HTML",
-    "name": "aymanelmasryael/aymanelmasryael",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:19:22Z",
-    "url": "https://github.com/aymanelmasryael/aymanelmasryael"
   },
   {
     "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose through OpenRouter. Electron, Type",
@@ -187,15 +331,6 @@
     "stars": 15,
     "updated_at": "2026-10-11T18:17:34Z",
     "url": "https://github.com/ritenv/tokensift"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T18:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T18:11:36Z",
     "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:10:29Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:09:49Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:09:40Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:09:30Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "Python",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 69402,
-    "updated_at": "2026-10-11T18:09:21Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:09:18Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "A native macOS companion for Draw Things: always-visible image and Moodboard inputs, a canvas you can draw on from an iP",
-    "id": "EXistenz-78/dt-hub",
-    "language": "Swift",
-    "name": "EXistenz-78/dt-hub",
-    "stars": 2,
-    "updated_at": "2026-10-11T18:08:43Z",
-    "url": "https://github.com/EXistenz-78/dt-hub"
-  },
-  {
-    "description": "Arbiter by Solenix: one file that helps any AI do the job right the first time. Any AI, any goal, any user.",
-    "id": "SolenixAI/arbiter",
-    "language": "JavaScript",
-    "name": "SolenixAI/arbiter",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:17:56Z",
-    "url": "https://github.com/SolenixAI/arbiter"
-  },
-  {
-    "description": "Evidence-based, behaviour-first personas as versioned Markdown with JTBD, lint and prompt export",
-    "id": "malkreide/personakit",
-    "language": "Python",
-    "name": "malkreide/personakit",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:18:52Z",
-    "url": "https://github.com/malkreide/personakit"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-11T18:04:26Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:04:11Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:03:59Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:03:30Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-10-11T18:03:23Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:02:49Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
