@@ -1,5 +1,68 @@
 [
   {
+    "description": "Free, open-source, token-efficient local alternative to Firecrawl with native MCP Server for LLMs (>73% token reduction)",
+    "id": "lucasmartins-ai/lookacrawler",
+    "language": "TypeScript",
+    "name": "lucasmartins-ai/lookacrawler",
+    "stars": 3,
+    "updated_at": "2026-10-11T00:15:16Z",
+    "url": "https://github.com/lucasmartins-ai/lookacrawler"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:15:09Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 2,
+    "updated_at": "2026-10-11T00:14:33Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-10-11T00:14:25Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:13:58Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 4,
+    "updated_at": "2026-10-11T00:13:57Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T00:12:45Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\ude80 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin",
     "id": "Monsterw31/prom-playground",
     "language": "Python",
@@ -171,15 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T00:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
@@ -342,15 +396,6 @@
     "url": "https://github.com/mrodgersjs-web/rig-ai-engineering"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 4,
-    "updated_at": "2026-10-10T23:35:23Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Skills, rules and tools for AI coding agents (Claude Code, Codex, OpenClaw, Muse, jcode) that survive long autonomous ru",
     "id": "zorahrel/agent-harness",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-10T23:18:39Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:18:20Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Portable AI governance kit \u2014 handover, roadmap, freeze review. Inject into any repo with ok init",
-    "id": "aaronrene/overseer-kit",
-    "language": "Python",
-    "name": "aaronrene/overseer-kit",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:17:58Z",
-    "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-10-10T23:12:27Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:11:43Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:10:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
