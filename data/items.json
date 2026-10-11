@@ -1,5 +1,95 @@
 [
   {
+    "description": "Most AI repos add tools. This one adds proof: Agent Skills, read-only MCP, creator tools & automation for ChatGPT, Claud",
+    "id": "alptugharun/ai-social-media-toolkit",
+    "language": "Python",
+    "name": "alptugharun/ai-social-media-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-11T21:30:13Z",
+    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
+  },
+  {
+    "description": "AI workflow builder creating open-source Agent Skills, MCP tools, creator systems and automation.",
+    "id": "alptugharun/alptugharun",
+    "language": "\u2014",
+    "name": "alptugharun/alptugharun",
+    "stars": 1,
+    "updated_at": "2026-10-11T21:28:12Z",
+    "url": "https://github.com/alptugharun/alptugharun"
+  },
+  {
+    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
+    "id": "IUCDM/Native-AI-Development-Library",
+    "language": "HTML",
+    "name": "IUCDM/Native-AI-Development-Library",
+    "stars": 0,
+    "updated_at": "2026-10-11T21:26:34Z",
+    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T21:25:23Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Claude Code mod that rewrites rough prompts into clear ones before you send them. Reads your prompt and the conversation",
+    "id": "ondrhn/sharpprompt",
+    "language": "TypeScript",
+    "name": "ondrhn/sharpprompt",
+    "stars": 1,
+    "updated_at": "2026-10-11T21:23:09Z",
+    "url": "https://github.com/ondrhn/sharpprompt"
+  },
+  {
+    "description": "Intent Compiler\uff08\u9700\u6c42\u7f16\u8bd1\u5668\uff09\u2014 Agent Skill for Codex and Claude Code that turns natural-language ideas into domain-aware briefs",
+    "id": "dawwnforu/intent-compiler-skill",
+    "language": "Python",
+    "name": "dawwnforu/intent-compiler-skill",
+    "stars": 1,
+    "updated_at": "2026-10-11T21:17:37Z",
+    "url": "https://github.com/dawwnforu/intent-compiler-skill"
+  },
+  {
+    "description": "Reproducible benchmark of 8 demonstration-selection methods for in-context learning across 3 tasks and 3 open LLMs.",
+    "id": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "language": "Jupyter Notebook",
+    "name": "SatvikPraveen/Optimal-Demo-Selection-ICL",
+    "stars": 4,
+    "updated_at": "2026-10-11T21:27:52Z",
+    "url": "https://github.com/SatvikPraveen/Optimal-Demo-Selection-ICL"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "JavaScript",
+    "name": "ericrisco/rsc-harness",
+    "stars": 190,
+    "updated_at": "2026-10-11T21:16:14Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "PromptDrifter \u2013 one\u2011command CI guardrail that catches prompt drift and fails the build when your LLM answers change.",
+    "id": "Code-and-Sorts/PromptDrifter",
+    "language": "Python",
+    "name": "Code-and-Sorts/PromptDrifter",
+    "stars": 9,
+    "updated_at": "2026-10-11T21:16:31Z",
+    "url": "https://github.com/Code-and-Sorts/PromptDrifter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T21:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T21:14:38Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "JavaScript",
-    "name": "ericrisco/rsc-harness",
-    "stars": 190,
-    "updated_at": "2026-10-11T21:14:20Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -117,15 +198,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Most AI repos add tools. This one adds proof: Agent Skills, read-only MCP, creator tools & automation for ChatGPT, Claud",
-    "id": "alptugharun/ai-social-media-toolkit",
-    "language": "Python",
-    "name": "alptugharun/ai-social-media-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-11T21:06:25Z",
-    "url": "https://github.com/alptugharun/ai-social-media-toolkit"
-  },
-  {
     "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
     "id": "ryanportfolio/savetokens",
     "language": "JavaScript",
@@ -162,15 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T21:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A French-first, privacy-conscious AI toolkit for career growth, job applications, and interview preparation. It coaches ",
     "id": "JeromeJ77/career-ai-toolkit",
     "language": "Markdown",
@@ -178,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T21:00:17Z",
     "url": "https://github.com/JeromeJ77/career-ai-toolkit"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-11T21:13:47Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "House Rules \u2014 answer 10 questions, get safety rules to paste into your AI agent. Free, on-device, no sign-up.",
@@ -288,15 +342,6 @@
     "url": "https://github.com/zhentao-xu/pid-gated-agent-learning"
   },
   {
-    "description": "AI workflow builder creating open-source Agent Skills, MCP tools, creator systems and automation.",
-    "id": "alptugharun/alptugharun",
-    "language": "\u2014",
-    "name": "alptugharun/alptugharun",
-    "stars": 1,
-    "updated_at": "2026-10-11T20:49:11Z",
-    "url": "https://github.com/alptugharun/alptugharun"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -373,7 +418,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 111042,
+    "stars": 111043,
     "updated_at": "2026-10-11T20:41:27Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/timharris707/skills"
   },
   {
-    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
-    "id": "IUCDM/Native-AI-Development-Library",
-    "language": "HTML",
-    "name": "IUCDM/Native-AI-Development-Library",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:38:12Z",
-    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T20:36:46Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-11T20:36:38Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:36:07Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "A comprehensive interactive reference for Large Language Model (LLM) Engineering. 103 concepts, 10 categories, zero depe",
-    "id": "aymanelmasryael/ael-llm-engineering-reference-2026",
-    "language": "HTML",
-    "name": "aymanelmasryael/ael-llm-engineering-reference-2026",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:36:02Z",
-    "url": "https://github.com/aymanelmasryael/ael-llm-engineering-reference-2026"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 58,
-    "updated_at": "2026-10-11T20:34:02Z",
-    "url": "https://github.com/modelstudioai/skills"
   }
 ]
