@@ -1,12 +1,75 @@
 [
   {
-    "description": "AI \u65b0\u95fb\u667a\u80fd\u4f53\uff1a\u6bcf\u5929\u7528\u4e2d/\u82f1/\u4fc4\u4e09\u79cd\u8bed\u8a00\u53d1\u5e03 7 \u6761\u7ecf\u8fc7\u4e8b\u5b9e\u6838\u67e5\u7684\u91d1\u878d\u79d1\u6280\u8981\u95fb \u00b7 Multi-agent LLM pipeline with guardrails & human-in-the-loop",
-    "id": "aliyabb/fintech-daily-ai-agent",
+    "description": "FinScope\uff1a\u7528\u6237\u753b\u50cf\u9a71\u52a8\u7684\u91d1\u878d\u9700\u6c42\u5206\u6790 Agent \u2014\u2014 \u786e\u8ba4\u5f0f\u8de8\u4f1a\u8bdd Memory + MCP \u5de5\u5177\u94fe + Decimal \u786e\u5b9a\u6027\u6536\u652f\u8ba1\u7b97 + \u786c\u7ea6\u675f\u8fc7\u6ee4\u4e0e\u89c4\u5219\u6392\u5e8f + \u5e26\u6765\u6e90\u7684\u6761\u6b3e\u95ee\u7b54\uff0c\u542b 100 \u9879\u6d4b\u8bd5\u4e0e 20 \u7ec4\u6a21\u62df\u8de8\u4f1a\u8bdd\u5e8f\u5217",
+    "id": "fangyunok/finscope-agent",
     "language": "Python",
-    "name": "aliyabb/fintech-daily-ai-agent",
+    "name": "fangyunok/finscope-agent",
     "stars": 0,
-    "updated_at": "2026-10-11T09:27:51Z",
-    "url": "https://github.com/aliyabb/fintech-daily-ai-agent"
+    "updated_at": "2026-10-11T09:43:29Z",
+    "url": "https://github.com/fangyunok/finscope-agent"
+  },
+  {
+    "description": "Opinionated guide to AI coding agents, workflows, MCP, verification, and safe execution.",
+    "id": "incline-ltd/awesome-agentic-engineering",
+    "language": "\u2014",
+    "name": "incline-ltd/awesome-agentic-engineering",
+    "stars": 4,
+    "updated_at": "2026-10-11T09:43:19Z",
+    "url": "https://github.com/incline-ltd/awesome-agentic-engineering"
+  },
+  {
+    "description": "Slash-command image prompt skill: 380+ commands for Claude, ChatGPT, Gemini, Flow, Kling, Midjourney",
+    "id": "geevarghesekthomas84-sys/image-style-skill",
+    "language": "Python",
+    "name": "geevarghesekthomas84-sys/image-style-skill",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:42:50Z",
+    "url": "https://github.com/geevarghesekthomas84-sys/image-style-skill"
+  },
+  {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:42:15Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:42:12Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "Coding-agent skill for the smallest trustworthy change: less implementation, less narration, proof proportional to risk.",
+    "id": "wilfgrainger/cave-pony",
+    "language": "Python",
+    "name": "wilfgrainger/cave-pony",
+    "stars": 2,
+    "updated_at": "2026-10-11T09:41:11Z",
+    "url": "https://github.com/wilfgrainger/cave-pony"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-11T09:39:49Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "",
+    "id": "DeltaDonorSnap/Gamma-App-Deck-Flow",
+    "language": "\u2014",
+    "name": "DeltaDonorSnap/Gamma-App-Deck-Flow",
+    "stars": 1,
+    "updated_at": "2026-10-11T09:38:40Z",
+    "url": "https://github.com/DeltaDonorSnap/Gamma-App-Deck-Flow"
   },
   {
     "description": "\u63d0\u51fa\u597d\u95ee\u9898\uff0c\u5f97\u5230\u597d\u7b54\u6848\u3002 \u8ba9 AI \u8bf4\u51fa\u300c\u8bf4\u4e0d\u6e05\u4f46\u5c31\u662f\u77e5\u9053\u300d\u7684\u90a3\u90e8\u5206 \u2014\u2014 \u57fa\u4e8e\u6ce2\u5170\u5c3c\u9ed8\u4f1a\u77e5\u8bc6\u7406\u8bba\u7684\u4e24\u5c42\u63d0\u793a\u8bcd",
@@ -14,8 +77,62 @@
     "language": "\u2014",
     "name": "Ailsaahaha/tacit-knowledge-prompting",
     "stars": 0,
-    "updated_at": "2026-10-11T09:27:11Z",
+    "updated_at": "2026-10-11T09:38:28Z",
     "url": "https://github.com/Ailsaahaha/tacit-knowledge-prompting"
+  },
+  {
+    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:36:00Z",
+    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
+  },
+  {
+    "description": "Review markdown files with inline comments and generate AI prompts. Static SPA \u2014 no backend, no accounts.",
+    "id": "kartikeyam1/md-review",
+    "language": "JavaScript",
+    "name": "kartikeyam1/md-review",
+    "stars": 2,
+    "updated_at": "2026-10-11T09:35:13Z",
+    "url": "https://github.com/kartikeyam1/md-review"
+  },
+  {
+    "description": "AI \u65b0\u95fb\u667a\u80fd\u4f53\uff1a\u6bcf\u5929\u7528\u4e2d/\u82f1/\u4fc4\u4e09\u79cd\u8bed\u8a00\u53d1\u5e03 7 \u6761\u7ecf\u8fc7\u4e8b\u5b9e\u6838\u67e5\u7684\u91d1\u878d\u79d1\u6280\u8981\u95fb \u00b7 Multi-agent LLM pipeline with guardrails & human-in-the-loop",
+    "id": "aliyabb/fintech-daily-ai-agent",
+    "language": "Python",
+    "name": "aliyabb/fintech-daily-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:35:11Z",
+    "url": "https://github.com/aliyabb/fintech-daily-ai-agent"
+  },
+  {
+    "description": "A minimalist yet powerful prompt engine crafted for seamless AI execution. Engineered to bridge the gap between simple i",
+    "id": "drferdi/Myprompt",
+    "language": "TypeScript",
+    "name": "drferdi/Myprompt",
+    "stars": 9,
+    "updated_at": "2026-10-11T09:37:39Z",
+    "url": "https://github.com/drferdi/Myprompt"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25888,
+    "updated_at": "2026-10-11T09:31:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T09:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
@@ -76,7 +193,7 @@
     "id": "yckonnnnn/zack-design-skills",
     "language": "Python",
     "name": "yckonnnnn/zack-design-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-11T09:20:32Z",
     "url": "https://github.com/yckonnnnn/zack-design-skills"
   },
@@ -99,15 +216,6 @@
     "url": "https://github.com/zhengjielin2018-web/GenAIPromptCopilot"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T09:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Git-native behavioral diff for AI applications.",
     "id": "thenavya/PromptGhost",
     "language": "Python",
@@ -122,7 +230,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-11T09:13:14Z",
+    "updated_at": "2026-10-11T09:32:53Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T09:07:42Z",
     "url": "https://github.com/Evgenii-Zinner/jules-roles"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25886,
-    "updated_at": "2026-10-11T09:07:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-KSK Qwen Image 2.1 Creator Skill v3.0.0 - a reusable Codex skill for Qwen Image 2.1 creation, editing, ControlNet Uni",
@@ -230,7 +329,7 @@
     "language": "Python",
     "name": "promptise-com/Foundry",
     "stars": 873,
-    "updated_at": "2026-10-11T09:03:48Z",
+    "updated_at": "2026-10-11T09:33:03Z",
     "url": "https://github.com/promptise-com/Foundry"
   },
   {
@@ -329,7 +428,7 @@
     "language": "Python",
     "name": "Eltarras/thunc",
     "stars": 2,
-    "updated_at": "2026-10-11T09:20:02Z",
+    "updated_at": "2026-10-11T09:32:55Z",
     "url": "https://github.com/Eltarras/thunc"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T08:44:35Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo",
-    "id": "pedromvgomes/agentic-toolkit",
-    "language": "Go",
-    "name": "pedromvgomes/agentic-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:49:36Z",
-    "url": "https://github.com/pedromvgomes/agentic-toolkit"
-  },
-  {
-    "description": "v0.1 prototype: one workflow for Jev question design \u2014 find \u2192 fit \u2192 draft \u2192 lint \u2192 spread \u2192 threshold \u2192 cascade. Orchest",
-    "id": "vicfei/jev-pipeline-skill",
-    "language": "Python",
-    "name": "vicfei/jev-pipeline-skill",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:44:27Z",
-    "url": "https://github.com/vicfei/jev-pipeline-skill"
-  },
-  {
-    "description": "Question patterns, anti-patterns & calibration notes for Jev (TypeSafe AI) \u2014 the prompt engineering of typed decisions. ",
-    "id": "vicfei/awesome-jev-prompts",
-    "language": "Python",
-    "name": "vicfei/awesome-jev-prompts",
-    "stars": 4,
-    "updated_at": "2026-10-11T08:43:23Z",
-    "url": "https://github.com/vicfei/awesome-jev-prompts"
-  },
-  {
-    "description": "Universal startup and context discovery skill for AI coding agents (Claude Code, Antigravity, Cursor, Codex, Copilot)",
-    "id": "tmolavi/agent-project-discovery-skill",
-    "language": "\u2014",
-    "name": "tmolavi/agent-project-discovery-skill",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:42:16Z",
-    "url": "https://github.com/tmolavi/agent-project-discovery-skill"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:41:40Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:43:56Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "\u591a\u6a21\u6001\u5185\u5bb9\u7406\u89e3\u4e0e\u5de5\u5177\u7f16\u6392 Agent\uff1aChinese-CLIP \u56fe\u6587\u5171\u4eab\u5411\u91cf\u7a7a\u95f4 + BM25/RRF \u6df7\u5408\u68c0\u7d22 + cross-encoder \u91cd\u6392\uff08\u771f\u5b9e\u6587\u672c\u67e5\u8be2 hit@10 0.668\u21920.918\uff09+ Schema \u7ea6\u675f\u5de5\u5177\u8c03\u7528 + ",
-    "id": "fangyunok/multimodal-shopping-agent",
-    "language": "Python",
-    "name": "fangyunok/multimodal-shopping-agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:37:10Z",
-    "url": "https://github.com/fangyunok/multimodal-shopping-agent"
-  },
-  {
-    "description": "The most complete AI toolkit for product managers \u2014 prompt templates, agentic workflows, MCP configs, and Claude Code co",
-    "id": "sayanpersonal123/ai-pm-toolkit",
-    "language": "\u2014",
-    "name": "sayanpersonal123/ai-pm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:34:37Z",
-    "url": "https://github.com/sayanpersonal123/ai-pm-toolkit"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 65,
-    "updated_at": "2026-10-11T09:24:42Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:33:45Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-10-11T08:33:28Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   }
 ]
