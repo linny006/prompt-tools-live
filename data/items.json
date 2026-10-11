@@ -1,12 +1,12 @@
 [
   {
-    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
-    "id": "iwerry/Daniskills",
-    "language": "TypeScript",
-    "name": "iwerry/Daniskills",
-    "stars": 1,
-    "updated_at": "2026-10-11T04:44:33Z",
-    "url": "https://github.com/iwerry/Daniskills"
+    "description": "Compile 3D scene blocks (camera, blocking, DoF) into image-generation control prompts - SceneBlock v0.1 format",
+    "id": "chenhz01/scene-block-to-prompt",
+    "language": "Python",
+    "name": "chenhz01/scene-block-to-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:58:36Z",
+    "url": "https://github.com/chenhz01/scene-block-to-prompt"
   },
   {
     "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
@@ -14,8 +14,98 @@
     "language": "JavaScript",
     "name": "belajarcarabelajar/vivera",
     "stars": 0,
-    "updated_at": "2026-10-11T04:37:40Z",
+    "updated_at": "2026-10-11T04:56:26Z",
     "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
+    "id": "anyuer678/chatez",
+    "language": "TypeScript",
+    "name": "anyuer678/chatez",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:56:16Z",
+    "url": "https://github.com/anyuer678/chatez"
+  },
+  {
+    "description": "A minimalist yet powerful prompt engine crafted for seamless AI execution. Engineered to bridge the gap between simple i",
+    "id": "drferdi/Myprompt",
+    "language": "TypeScript",
+    "name": "drferdi/Myprompt",
+    "stars": 9,
+    "updated_at": "2026-10-11T04:59:45Z",
+    "url": "https://github.com/drferdi/Myprompt"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f A structured 6-week daily study plan for Anthropic's Claude Certified Architect \u2013 Professional exam \u2014 domain guides, ",
+    "id": "gsaini/claude-certified-architect-prep",
+    "language": "\u2014",
+    "name": "gsaini/claude-certified-architect-prep",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:51:13Z",
+    "url": "https://github.com/gsaini/claude-certified-architect-prep"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2108,
+    "updated_at": "2026-10-11T04:49:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-11T05:00:03Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Claude-Skill, der vor der Arbeit die wenigen fehlenden Fragen stellt und daraus einen Arbeitsauftrag zum Best\u00e4tigen baut",
+    "id": "jsommershoff-a11y/aufgabe-praezisieren",
+    "language": "\u2014",
+    "name": "jsommershoff-a11y/aufgabe-praezisieren",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:47:07Z",
+    "url": "https://github.com/jsommershoff-a11y/aufgabe-praezisieren"
+  },
+  {
+    "description": "A Codex skill for previewing agent loops and writing drift-resistant Goal instructions.",
+    "id": "wu736139669/goal-instruction-writer",
+    "language": "\u2014",
+    "name": "wu736139669/goal-instruction-writer",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:46:28Z",
+    "url": "https://github.com/wu736139669/goal-instruction-writer"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:46:17Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T04:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Daniskills \u2014 Cinematic Intelligence Architecture. Engine-agnostic AI film production system: 62 skills, 69 Visual DNA st",
+    "id": "iwerry/Daniskills",
+    "language": "TypeScript",
+    "name": "iwerry/Daniskills",
+    "stars": 1,
+    "updated_at": "2026-10-11T04:44:33Z",
+    "url": "https://github.com/iwerry/Daniskills"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T04:30:49Z",
     "url": "https://github.com/yangyangnovelist-hub/prompt-cosplay"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T04:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "fysoul17/devlyn-cli",
     "stars": 1,
-    "updated_at": "2026-10-11T04:36:42Z",
+    "updated_at": "2026-10-11T04:45:43Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
@@ -189,15 +270,6 @@
     "url": "https://github.com/lzyyzznl/dsh-prompt-tuner"
   },
   {
-    "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
-    "id": "anyuer678/chatez",
-    "language": "TypeScript",
-    "name": "anyuer678/chatez",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:04:20Z",
-    "url": "https://github.com/anyuer678/chatez"
-  },
-  {
     "description": "An open source prompting coach for Claude Code and Codex, built around your own work.",
     "id": "Entuvo/prompting-wizard",
     "language": "Python",
@@ -259,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T03:56:32Z",
     "url": "https://github.com/m4bwav/cinewright"
-  },
-  {
-    "description": "A Codex skill for previewing agent loops and writing drift-resistant Goal instructions.",
-    "id": "wu736139669/goal-instruction-writer",
-    "language": "\u2014",
-    "name": "wu736139669/goal-instruction-writer",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:56:28Z",
-    "url": "https://github.com/wu736139669/goal-instruction-writer"
   },
   {
     "description": "30 free build prompts for cinematic, animated websites. Paste into Claude Code, Cursor or Codex. By vividsites.app",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T03:44:05Z",
     "url": "https://github.com/satyam-thakur/ReVEX"
-  },
-  {
-    "description": "Landing site for the Prompt Provenance spec. Live at prompts.kineticgain.com.",
-    "id": "mizcausevic-dev/prompt-provenance-landing",
-    "language": "CSS",
-    "name": "mizcausevic-dev/prompt-provenance-landing",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:43:37Z",
-    "url": "https://github.com/mizcausevic-dev/prompt-provenance-landing"
-  },
-  {
-    "description": "Faltas, insultos y halagos contra una frase tranquila: 290 respuestas de Claude con jueces ciegos sobre qu\u00e9 hace creativ",
-    "id": "elisaul77/avoid-the-predictable",
-    "language": "HTML",
-    "name": "elisaul77/avoid-the-predictable",
-    "stars": 1,
-    "updated_at": "2026-10-11T03:42:33Z",
-    "url": "https://github.com/elisaul77/avoid-the-predictable"
-  },
-  {
-    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
-    "id": "tinyhumansai/tinyjuice",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyjuice",
-    "stars": 21,
-    "updated_at": "2026-10-11T03:38:41Z",
-    "url": "https://github.com/tinyhumansai/tinyjuice"
-  },
-  {
-    "description": "The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain M",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 600,
-    "updated_at": "2026-10-11T03:36:16Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 2,
-    "updated_at": "2026-10-11T03:34:58Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Slash commands, mental frameworks, and prompt engineering resources for Claude Code \u2014 grounded in LLM research",
-    "id": "rolandtolnay/llm-toolkit",
-    "language": "Python",
-    "name": "rolandtolnay/llm-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-11T03:33:52Z",
-    "url": "https://github.com/rolandtolnay/llm-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
-    "id": "ZeroLu/awesome-seedance-2.5",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance-2.5",
-    "stars": 135,
-    "updated_at": "2026-10-11T03:29:15Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
   }
 ]
