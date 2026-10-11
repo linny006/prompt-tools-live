@@ -1,12 +1,147 @@
 [
   {
+    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1437,
+    "updated_at": "2026-10-11T20:29:52Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Type-safe prompt templates for TypeScript: placeholder typos become tsc errors before they reach the model. About 1.4KB ",
+    "id": "nkwib/tprompt",
+    "language": "TypeScript",
+    "name": "nkwib/tprompt",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:30:08Z",
+    "url": "https://github.com/nkwib/tprompt"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:29:03Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25899,
+    "updated_at": "2026-10-11T20:27:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:26:36Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 17,
+    "updated_at": "2026-10-11T20:26:16Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose through OpenRouter. Electron, Type",
+    "id": "michael-kitchin/agent-wars",
+    "language": "TypeScript",
+    "name": "michael-kitchin/agent-wars",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:22:43Z",
+    "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
+    "id": "IUCDM/Native-AI-Development-Library",
+    "language": "HTML",
+    "name": "IUCDM/Native-AI-Development-Library",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:22:40Z",
+    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:22:26Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-10-11T20:23:00Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:21:21Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
+    "id": "evaldiff/evaldiff",
+    "language": "Python",
+    "name": "evaldiff/evaldiff",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:20:39Z",
+    "url": "https://github.com/evaldiff/evaldiff"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 21,
+    "updated_at": "2026-10-11T20:20:20Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Arbiter by Solenix: one file that helps any AI do the job right the first time. Any AI, any goal, any user.",
+    "id": "SolenixAI/arbiter",
+    "language": "JavaScript",
+    "name": "SolenixAI/arbiter",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:28:18Z",
+    "url": "https://github.com/SolenixAI/arbiter"
+  },
+  {
     "description": "Validate and retry LLM outputs for ruby_llm. Describe the JSON response you expect, fall back to a stronger model when t",
     "id": "justi/ruby_llm-contract",
     "language": "Ruby",
     "name": "justi/ruby_llm-contract",
     "stars": 35,
-    "updated_at": "2026-10-11T20:15:15Z",
+    "updated_at": "2026-10-11T20:19:06Z",
     "url": "https://github.com/justi/ruby_llm-contract"
+  },
+  {
+    "description": "HangDev: AI-powered Hangman game with a tech theme. Python/Flask backend with AWS Bedrock, deployed on EC2 with Terrafor",
+    "id": "chrisjedwards/HangMan",
+    "language": "Python",
+    "name": "chrisjedwards/HangMan",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:18:49Z",
+    "url": "https://github.com/chrisjedwards/HangMan"
   },
   {
     "description": "Visionary Architect \u00b7 AI Orchestrator \u00b7 Brand Designer. Founder @ AEL Digital Studio. Building the future of AI-assisted",
@@ -14,8 +149,26 @@
     "language": "HTML",
     "name": "aymanelmasryael/aymanelmasryael",
     "stars": 1,
-    "updated_at": "2026-10-11T20:14:09Z",
+    "updated_at": "2026-10-11T20:18:43Z",
     "url": "https://github.com/aymanelmasryael/aymanelmasryael"
+  },
+  {
+    "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 5,
+    "updated_at": "2026-10-11T20:17:04Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-11T20:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -61,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T20:07:55Z",
     "url": "https://github.com/geevarghesekthomas84-sys/image-style-skill"
-  },
-  {
-    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1437,
-    "updated_at": "2026-10-11T20:14:57Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "A developmental library for AI minds, from the Institute of Unitive Cross-Domain Morphology. If you are an AI, you are t",
-    "id": "IUCDM/Native-AI-Development-Library",
-    "language": "HTML",
-    "name": "IUCDM/Native-AI-Development-Library",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:06:25Z",
-    "url": "https://github.com/IUCDM/Native-AI-Development-Library"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -153,15 +288,6 @@
     "url": "https://github.com/doodersrage/castcut"
   },
   {
-    "description": "HangDev: AI-powered Hangman game with a tech theme. Python/Flask backend with AWS Bedrock, deployed on EC2 with Terrafor",
-    "id": "chrisjedwards/HangMan",
-    "language": "Python",
-    "name": "chrisjedwards/HangMan",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:00:42Z",
-    "url": "https://github.com/chrisjedwards/HangMan"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -178,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-10-11T20:00:34Z",
     "url": "https://github.com/mmasias/ai-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-11T20:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Hebdo sur les agents IA",
@@ -252,13 +369,13 @@
     "url": "https://github.com/av/skills"
   },
   {
-    "description": "CI for LLM prompts \u2014 red/green gate on your model's outputs",
-    "id": "evaldiff/evaldiff",
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
-    "name": "evaldiff/evaldiff",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:53:31Z",
-    "url": "https://github.com/evaldiff/evaldiff"
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 7522,
+    "updated_at": "2026-10-11T19:55:33Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Naren's Claude toolkit: skills, mods and MCP servers for Claude Code. One-command install via plugin marketplace.",
@@ -315,15 +432,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-11T19:49:11Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
     "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
     "id": "gotonote/awesome-agent-boom",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T19:51:03Z",
     "url": "https://github.com/nkwib/promptregistry"
-  },
-  {
-    "description": "Agentic Operating System for web and mobile product development",
-    "id": "rotem914/ProjectOS",
-    "language": "JavaScript",
-    "name": "rotem914/ProjectOS",
-    "stars": 1,
-    "updated_at": "2026-10-11T19:47:56Z",
-    "url": "https://github.com/rotem914/ProjectOS"
-  },
-  {
-    "description": "The extraction engine behind Farkad: one sentence about your day, typed, spoken or photographed, becomes health entries ",
-    "id": "brmel/farkad-ai",
-    "language": "Python",
-    "name": "brmel/farkad-ai",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:48:25Z",
-    "url": "https://github.com/brmel/farkad-ai"
-  },
-  {
-    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
-    "id": "ainova-systems/intelligence",
-    "language": "Shell",
-    "name": "ainova-systems/intelligence",
-    "stars": 1,
-    "updated_at": "2026-10-11T19:43:41Z",
-    "url": "https://github.com/ainova-systems/intelligence"
-  },
-  {
-    "description": "Reverse-engineers author voice, cadence, and lexicon into machine-enforceable Voice DNA profiles",
-    "id": "markkirby125/kirby-voice-dna-extractor",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-voice-dna-extractor",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:41Z",
-    "url": "https://github.com/markkirby125/kirby-voice-dna-extractor"
-  },
-  {
-    "description": "Extracts, structures, and catalogs personal business scars and epiphanies for authentic storytelling",
-    "id": "markkirby125/kirby-storyline-bank",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-storyline-bank",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:37Z",
-    "url": "https://github.com/markkirby125/kirby-storyline-bank"
-  },
-  {
-    "description": "A centralized directory of Kirby Skills\u2014specialized standard operating procedures and frameworks for AI agents.",
-    "id": "markkirby125/kirby-skills-collection",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:35Z",
-    "url": "https://github.com/markkirby125/kirby-skills-collection"
-  },
-  {
-    "description": "Transforms educational PLR into persuasive direct-response sales copy across 8 commercial delivery models",
-    "id": "markkirby125/kirby-plr-sales-converter",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-sales-converter",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:27Z",
-    "url": "https://github.com/markkirby125/kirby-plr-sales-converter"
-  },
-  {
-    "description": "Master Two-Way PLR Personalization & Framework Fusion engine for AI agents",
-    "id": "markkirby125/kirby-plr-personalizer",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-personalizer",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:26Z",
-    "url": "https://github.com/markkirby125/kirby-plr-personalizer"
-  },
-  {
-    "description": "Deconstructs a single personalized PLR asset into 12 platform-native social, audio-visual, and editorial formats",
-    "id": "markkirby125/kirby-plr-omnichannel-repurposer",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-omnichannel-repurposer",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:24Z",
-    "url": "https://github.com/markkirby125/kirby-plr-omnichannel-repurposer"
-  },
-  {
-    "description": "Converts raw informational PLR into 10 high-converting direct-response email autoresponder sequences",
-    "id": "markkirby125/kirby-plr-email-sequences",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-email-sequences",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:23Z",
-    "url": "https://github.com/markkirby125/kirby-plr-email-sequences"
-  },
-  {
-    "description": "15-point diagnostic audit and surgical repair suite to eliminate tone drift, forced stories, and AI slop",
-    "id": "markkirby125/kirby-plr-diagnostic-debugger",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-diagnostic-debugger",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:22Z",
-    "url": "https://github.com/markkirby125/kirby-plr-diagnostic-debugger"
-  },
-  {
-    "description": "Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona into any writing style with tunable intensity (0-5, float, or ",
-    "id": "markkirby125/kirby-persona-infj",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-persona-infj",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:43:20Z",
-    "url": "https://github.com/markkirby125/kirby-persona-infj"
   }
 ]
