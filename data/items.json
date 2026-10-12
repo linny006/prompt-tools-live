@@ -1,12 +1,75 @@
 [
   {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 161854,
-    "updated_at": "2026-10-12T23:14:32Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
+    "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
+    "id": "VSSK007/ZodicogAI",
+    "language": "TypeScript",
+    "name": "VSSK007/ZodicogAI",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:30:14Z",
+    "url": "https://github.com/VSSK007/ZodicogAI"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 123,
+    "updated_at": "2026-10-12T23:28:48Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:27:58Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-12T23:26:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:28:10Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Sistema multiagente (OpenCode V2) que convierte productos crudos en publicaciones listas para Revolico y Facebook: 7 age",
+    "id": "DanysDev/agencia-ventas-virtual",
+    "language": "TypeScript",
+    "name": "DanysDev/agencia-ventas-virtual",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:22:34Z",
+    "url": "https://github.com/DanysDev/agencia-ventas-virtual"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:22:28Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-10-12T23:22:10Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,8 +77,35 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35713,
-    "updated_at": "2026-10-12T23:13:55Z",
+    "updated_at": "2026-10-12T23:19:38Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:16:34Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T23:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 161860,
+    "updated_at": "2026-10-12T23:14:32Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-12T23:11:37Z",
+    "updated_at": "2026-10-12T23:29:06Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
-    "id": "VSSK007/ZodicogAI",
-    "language": "TypeScript",
-    "name": "VSSK007/ZodicogAI",
-    "stars": 0,
-    "updated_at": "2026-10-12T23:11:25Z",
-    "url": "https://github.com/VSSK007/ZodicogAI"
   },
   {
     "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
@@ -104,7 +185,7 @@
     "language": "JavaScript",
     "name": "kochetkov-ma/claude-brewcode",
     "stars": 32,
-    "updated_at": "2026-10-12T23:03:33Z",
+    "updated_at": "2026-10-12T23:22:58Z",
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T23:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
     "id": "m4bwav/cinewright",
     "language": "Python",
@@ -157,7 +229,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 111239,
+    "stars": 111241,
     "updated_at": "2026-10-12T23:00:18Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "rubicon/ai-skills",
     "stars": 1,
-    "updated_at": "2026-10-12T22:56:27Z",
+    "updated_at": "2026-10-12T23:29:44Z",
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-12T22:13:04Z",
     "url": "https://github.com/rianprei/claude-prompt-techniques"
-  },
-  {
-    "description": "Practical workflows, prompt patterns, repository guidance and case studies for AI-assisted software engineering with Cod",
-    "id": "HouusamGE19/AI-Engineering-Playbook",
-    "language": "\u2014",
-    "name": "HouusamGE19/AI-Engineering-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:07:18Z",
-    "url": "https://github.com/HouusamGE19/AI-Engineering-Playbook"
-  },
-  {
-    "description": "Agent Skill gi\u00fap AI vi\u1ebft v\u00e0 s\u1eeda v\u0103n ti\u1ebfng Vi\u1ec7t cho thu\u1eadn m\u1ed3m, d\u1ec5 hi\u1ec3u, kh\u00f4ng m\u00f9i v\u0103n m\u00e1y. Vietnamese writing skill for A",
-    "id": "AnhTuan2111/vina-me",
-    "language": "JavaScript",
-    "name": "AnhTuan2111/vina-me",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:05:17Z",
-    "url": "https://github.com/AnhTuan2111/vina-me"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 21,
-    "updated_at": "2026-10-12T22:01:41Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
-    "id": "3641397194-wq/gpt6-Astra",
-    "language": "JavaScript",
-    "name": "3641397194-wq/gpt6-Astra",
-    "stars": 939,
-    "updated_at": "2026-10-12T22:05:59Z",
-    "url": "https://github.com/3641397194-wq/gpt6-Astra"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25944,
-    "updated_at": "2026-10-12T22:27:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11810,
-    "updated_at": "2026-10-12T21:55:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-12T21:54:07Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-12T21:47:22Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   }
 ]
