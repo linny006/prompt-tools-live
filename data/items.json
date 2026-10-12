@@ -1,5 +1,41 @@
 [
   {
+    "description": "Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery).",
+    "id": "miguelcotrinaia/gcp-ai-agent-starter-kit",
+    "language": "Jupyter Notebook",
+    "name": "miguelcotrinaia/gcp-ai-agent-starter-kit",
+    "stars": 21,
+    "updated_at": "2026-10-12T03:45:02Z",
+    "url": "https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "Go",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-10-12T03:44:53Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Free animated course on agentic engineering: building real software with AI coding agents (Claude Code, Codex, Cursor). ",
+    "id": "Haple/agentic-engineering",
+    "language": "JavaScript",
+    "name": "Haple/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:44:07Z",
+    "url": "https://github.com/Haple/agentic-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T03:43:43Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
     "id": "jason3e7/ai-101",
     "language": "C++",
@@ -88,15 +124,6 @@
     "stars": 33,
     "updated_at": "2026-10-12T03:32:34Z",
     "url": "https://github.com/dlazy-ai/ecommerce-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T03:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
@@ -421,32 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-12T03:06:43Z",
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
-  },
-  {
-    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
-    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "stars": 6,
-    "updated_at": "2026-10-12T03:06:34Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 234,
-    "updated_at": "2026-10-12T03:06:18Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
-    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "language": "JavaScript",
-    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "stars": 20,
-    "updated_at": "2026-10-12T03:06:09Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
   }
 ]
