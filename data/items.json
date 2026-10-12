@@ -1,5 +1,212 @@
 [
   {
+    "description": "An instruction library for agentic workflows",
+    "id": "is-leeroy-jenkins/guro",
+    "language": "Python",
+    "name": "is-leeroy-jenkins/guro",
+    "stars": 10,
+    "updated_at": "2026-10-12T14:45:16Z",
+    "url": "https://github.com/is-leeroy-jenkins/guro"
+  },
+  {
+    "description": "\ud83e\udd16 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application developm",
+    "id": "Tberke0/go-llm",
+    "language": "Go",
+    "name": "Tberke0/go-llm",
+    "stars": 1,
+    "updated_at": "2026-10-12T14:44:35Z",
+    "url": "https://github.com/Tberke0/go-llm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35694,
+    "updated_at": "2026-10-12T14:45:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udcbc Manage your investments with AsesorAIrrechisimo, an AI-driven portfolio manager featuring a witty Venezuelan financial",
+    "id": "ZaykorDev/AsesorAIrrechisimo",
+    "language": "Lua",
+    "name": "ZaykorDev/AsesorAIrrechisimo",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:42:56Z",
+    "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:42:45Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 21,
+    "updated_at": "2026-10-12T14:41:10Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Prompts, skills y demos en espa\u00f1ol de IA aplicada al desarrollo de software. Recursos del canal IA en Producci\u00f3n de Gilb",
+    "id": "gilbertsahumada/youtube-tutorials",
+    "language": "JavaScript",
+    "name": "gilbertsahumada/youtube-tutorials",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:40:41Z",
+    "url": "https://github.com/gilbertsahumada/youtube-tutorials"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 5,
+    "updated_at": "2026-10-12T14:40:41Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
+    "id": "KM-it-ops/Proofhouse",
+    "language": "Python",
+    "name": "KM-it-ops/Proofhouse",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:40:11Z",
+    "url": "https://github.com/KM-it-ops/Proofhouse"
+  },
+  {
+    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 8,
+    "updated_at": "2026-10-12T14:40:17Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:39:39Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "AI-image-prompt-TAG-skill",
+    "id": "1756141021/tag-skill",
+    "language": "\u2014",
+    "name": "1756141021/tag-skill",
+    "stars": 15,
+    "updated_at": "2026-10-12T14:38:17Z",
+    "url": "https://github.com/1756141021/tag-skill"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 90,
+    "updated_at": "2026-10-12T14:37:49Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
+    "id": "dylanma8232-art/daming-skillgain",
+    "language": "Python",
+    "name": "dylanma8232-art/daming-skillgain",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:37:48Z",
+    "url": "https://github.com/dylanma8232-art/daming-skillgain"
+  },
+  {
+    "description": "Ada \u2014 the AI algorithm engineer of the agent team: reasoning engine design, chain-of-thought architectures, evaluation s",
+    "id": "xhqing/NeuralCoreAgent",
+    "language": "\u2014",
+    "name": "xhqing/NeuralCoreAgent",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:37:40Z",
+    "url": "https://github.com/xhqing/NeuralCoreAgent"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:36:17Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "Adaptive AI learning coach skill for Claude. Picks the right teaching role for you automatically. Based on Nick Saraev\u2019s",
+    "id": "nathtjan/learning-coach-skill",
+    "language": "\u2014",
+    "name": "nathtjan/learning-coach-skill",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:35:23Z",
+    "url": "https://github.com/nathtjan/learning-coach-skill"
+  },
+  {
+    "description": "\u26a1 ChronoFact: 4-Pillar Epistemic AI Backbone. Real-time temporal cutoff calibration, active NLI claim verifier, zero-pol",
+    "id": "ModernOps888/chronofact",
+    "language": "Rust",
+    "name": "ModernOps888/chronofact",
+    "stars": 2,
+    "updated_at": "2026-10-12T14:35:06Z",
+    "url": "https://github.com/ModernOps888/chronofact"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22527,
+    "updated_at": "2026-10-12T14:33:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Evidence gates between the phases of building a product with AI: 22 skills that take an idea to shipped, for Claude Code",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 5,
+    "updated_at": "2026-10-12T14:33:58Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
+    "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "language": "\u2014",
+    "name": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "stars": 4,
+    "updated_at": "2026-10-12T14:31:40Z",
+    "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
+  },
+  {
+    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
+    "id": "xhqing/AgentCortex",
+    "language": "\u2014",
+    "name": "xhqing/AgentCortex",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:34:43Z",
+    "url": "https://github.com/xhqing/AgentCortex"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T14:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A production-grade, hands-on repository designed to master generative AI engineering, from foundation models to producti",
     "id": "bundlab/generative-ai-engineering",
     "language": "Python",
@@ -27,15 +234,6 @@
     "url": "https://github.com/AFRATUL1/AI-dropin-spec"
   },
   {
-    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
-    "id": "xhqing/AgentCortex",
-    "language": "\u2014",
-    "name": "xhqing/AgentCortex",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:27:58Z",
-    "url": "https://github.com/xhqing/AgentCortex"
-  },
-  {
     "description": "Open-source Chrome extension for drafting GPT Image 2 prompts for image2.to.",
     "id": "VulcanEon/image2.to-extension",
     "language": "JavaScript",
@@ -52,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T14:27:36Z",
     "url": "https://github.com/Retro099/jp-meeting-to-crm-fields"
-  },
-  {
-    "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
-    "id": "KM-it-ops/Proofhouse",
-    "language": "Python",
-    "name": "KM-it-ops/Proofhouse",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:26:51Z",
-    "url": "https://github.com/KM-it-ops/Proofhouse"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 5,
-    "updated_at": "2026-10-12T14:26:19Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
@@ -99,24 +279,6 @@
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22526,
-    "updated_at": "2026-10-12T14:26:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35693,
-    "updated_at": "2026-10-12T14:28:18Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Question patterns, anti-patterns & calibration notes for Jev (TypeSafe AI) \u2014 the prompt engineering of typed decisions. ",
     "id": "vicfei/awesome-jev-prompts",
     "language": "Python",
@@ -131,7 +293,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4603,
-    "updated_at": "2026-10-12T14:28:07Z",
+    "updated_at": "2026-10-12T14:32:57Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -142,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T14:22:40Z",
     "url": "https://github.com/DMonkey0908/ui-design-ecosystem"
-  },
-  {
-    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
-    "id": "ryanduguid/llm-tax-guardrails",
-    "language": "Python",
-    "name": "ryanduguid/llm-tax-guardrails",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:26:56Z",
-    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
   },
   {
     "description": "AI \u65b0\u95fb\u667a\u80fd\u4f53\uff1a\u6bcf\u5929\u7528\u4e2d/\u82f1/\u4fc4\u4e09\u79cd\u8bed\u8a00\u53d1\u5e03 7 \u6761\u7ecf\u8fc7\u4e8b\u5b9e\u6838\u67e5\u7684\u91d1\u878d\u79d1\u6280\u8981\u95fb \u00b7 Multi-agent LLM pipeline with guardrails & human-in-the-loop",
@@ -243,24 +396,6 @@
     "url": "https://github.com/Vieeeeeee/wibi-style"
   },
   {
-    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-12T14:16:35Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T14:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Evidence-based, behaviour-first personas as versioned Markdown with JTBD, lint and prompt export",
     "id": "malkreide/personakit",
     "language": "Python",
@@ -313,140 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-12T14:10:19Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "\u26a1 ChronoFact: 4-Pillar Epistemic AI Backbone. Real-time temporal cutoff calibration, active NLI claim verifier, zero-pol",
-    "id": "ModernOps888/chronofact",
-    "language": "Rust",
-    "name": "ModernOps888/chronofact",
-    "stars": 2,
-    "updated_at": "2026-10-12T14:08:23Z",
-    "url": "https://github.com/ModernOps888/chronofact"
-  },
-  {
-    "description": "A standardized multi-agent harness for Opencode and Claude Code. Installs into any project with a single command.",
-    "id": "jordimarsal/harness-standard",
-    "language": "Shell",
-    "name": "jordimarsal/harness-standard",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:07:51Z",
-    "url": "https://github.com/jordimarsal/harness-standard"
-  },
-  {
-    "description": "Syx is an experimental local AI memory system for long-running projects and coding agents. It explores active context, d",
-    "id": "cjsthecoder/project_syx",
-    "language": "Python",
-    "name": "cjsthecoder/project_syx",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:08:20Z",
-    "url": "https://github.com/cjsthecoder/project_syx"
-  },
-  {
-    "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
-    "id": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "language": "Python",
-    "name": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:04:19Z",
-    "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
-  },
-  {
-    "description": "75-prompt canonical corpus \u2014 15 tiers. Open tier (KEY-001..020) AGPL-3.0 full text; commercial tier abstracts + SHA-256 ",
-    "id": "SAVANT-FRAMEWORK/savant-prompts",
-    "language": "\u2014",
-    "name": "SAVANT-FRAMEWORK/savant-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:03:43Z",
-    "url": "https://github.com/SAVANT-FRAMEWORK/savant-prompts"
-  },
-  {
-    "description": "Production LLM & RAG evaluation library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric scorers, boo",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:02:31Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "A lean harness template for AI coding agents: 6 skills, 1 sensor, 1 agent. Works with Claude Code and GitHub Copilot.",
-    "id": "robmab/one-agent-harness",
-    "language": "Python",
-    "name": "robmab/one-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:02:34Z",
-    "url": "https://github.com/robmab/one-agent-harness"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-12T14:01:30Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-12T14:03:26Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Turn a vague product idea into a structured PRD in 4 approval steps: problem, scope and non-goals, user stories with acc",
-    "id": "laymom/ai-prd-generator",
-    "language": "\u2014",
-    "name": "laymom/ai-prd-generator",
-    "stars": 1,
-    "updated_at": "2026-10-12T13:58:41Z",
-    "url": "https://github.com/laymom/ai-prd-generator"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-10-12T14:22:52Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
-    "id": "jbogocz/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "jbogocz/awesome-automated-ai",
-    "stars": 5,
-    "updated_at": "2026-10-12T13:56:28Z",
-    "url": "https://github.com/jbogocz/awesome-automated-ai"
-  },
-  {
-    "description": "Regression alarms for prompts and skills: fixed cases, deterministic scorers, and an alarm when a change scores worse th",
-    "id": "eliferres/eval-alarm",
-    "language": "Python",
-    "name": "eliferres/eval-alarm",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:55:41Z",
-    "url": "https://github.com/eliferres/eval-alarm"
-  },
-  {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 2,
-    "updated_at": "2026-10-12T13:51:44Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
-    "description": "Code and results for \u201cPrompt Engineering for Small Language Models: Evaluating ICL for Portuguese Sentiment Analysis\u201d (S",
-    "id": "AndreSchuck/slm_prompt_analysis",
-    "language": "Jupyter Notebook",
-    "name": "AndreSchuck/slm_prompt_analysis",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:47:59Z",
-    "url": "https://github.com/AndreSchuck/slm_prompt_analysis"
   }
 ]
