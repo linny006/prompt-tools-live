@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 5,
+    "updated_at": "2026-10-12T23:44:48Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:43:42Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 161863,
+    "updated_at": "2026-10-12T23:42:20Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:41:27Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 111244,
+    "updated_at": "2026-10-12T23:41:19Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "75-prompt canonical corpus \u2014 15 tiers. Open tier (KEY-001..020) AGPL-3.0 full text; commercial tier abstracts + SHA-256 ",
+    "id": "SAVANT-FRAMEWORK/savant-prompts",
+    "language": "\u2014",
+    "name": "SAVANT-FRAMEWORK/savant-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:38:27Z",
+    "url": "https://github.com/SAVANT-FRAMEWORK/savant-prompts"
+  },
+  {
+    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:38:34Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 953,
+    "updated_at": "2026-10-12T23:38:09Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 32,
+    "updated_at": "2026-10-12T23:36:03Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "How I build real software with AI agents: case studies, honest post-mortems, and reusable protocols, prompts and Claude ",
+    "id": "seanfrazer7/ai-playbooks",
+    "language": "Python",
+    "name": "seanfrazer7/ai-playbooks",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:31:42Z",
+    "url": "https://github.com/seanfrazer7/ai-playbooks"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T23:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
     "id": "VSSK007/ZodicogAI",
     "language": "TypeScript",
@@ -36,13 +135,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
-    "id": "chrysogonus/prompt-maker-studio",
+    "description": "Illustrated SOUL.md personalities for Meta Muse. Make your AI assistant a little weirder, warmer, and more you. Free and",
+    "id": "bkawa-io/muse-souls",
     "language": "Python",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-12T23:28:10Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+    "name": "bkawa-io/muse-souls",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:22:54Z",
+    "url": "https://github.com/bkawa-io/muse-souls"
   },
   {
     "description": "Sistema multiagente (OpenCode V2) que convierte productos crudos en publicaciones listas para Revolico y Facebook: 7 age",
@@ -76,7 +175,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35713,
+    "stars": 35715,
     "updated_at": "2026-10-12T23:19:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -90,30 +189,12 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T23:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 161860,
-    "updated_at": "2026-10-12T23:14:32Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-12T23:13:04Z",
+    "updated_at": "2026-10-12T23:38:02Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -180,15 +261,6 @@
     "url": "https://github.com/kimsanguine/AI_Human"
   },
   {
-    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
-    "id": "kochetkov-ma/claude-brewcode",
-    "language": "JavaScript",
-    "name": "kochetkov-ma/claude-brewcode",
-    "stars": 32,
-    "updated_at": "2026-10-12T23:22:58Z",
-    "url": "https://github.com/kochetkov-ma/claude-brewcode"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T23:00:27Z",
     "url": "https://github.com/m4bwav/cinewright"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 111241,
-    "updated_at": "2026-10-12T23:00:18Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -284,7 +347,7 @@
     "language": "JavaScript",
     "name": "gilbertsahumada/youtube-tutorials",
     "stars": 0,
-    "updated_at": "2026-10-12T23:12:10Z",
+    "updated_at": "2026-10-12T23:33:19Z",
     "url": "https://github.com/gilbertsahumada/youtube-tutorials"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "rubicon/ai-skills",
     "stars": 1,
-    "updated_at": "2026-10-12T23:29:44Z",
+    "updated_at": "2026-10-12T23:39:28Z",
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "fysoul17/devlyn-cli",
     "stars": 1,
-    "updated_at": "2026-10-12T22:41:27Z",
+    "updated_at": "2026-10-12T23:43:31Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-12T22:33:48Z",
     "url": "https://github.com/dakotamurphyucf/ochat"
-  },
-  {
-    "description": "Claude Code plugin marketplace: spec-driven skills, gated task queue, and a skill authoring rubric from research.",
-    "id": "nuncaeslupus/claude-arsenal",
-    "language": "Python",
-    "name": "nuncaeslupus/claude-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:36:43Z",
-    "url": "https://github.com/nuncaeslupus/claude-arsenal"
-  },
-  {
-    "description": "LLM extraction of 5 CRM fields from Japanese meeting notes (Qwen 2.5 72B) with exact-match eval and prompt-injection def",
-    "id": "Retro099/jp-meeting-to-crm-fields",
-    "language": "Python",
-    "name": "Retro099/jp-meeting-to-crm-fields",
-    "stars": 1,
-    "updated_at": "2026-10-12T22:33:26Z",
-    "url": "https://github.com/Retro099/jp-meeting-to-crm-fields"
-  },
-  {
-    "description": "The AI engine behind Farkad, built in the open to learn applied AI: say what you ate and did, in any language, and it be",
-    "id": "brmel/farkad-ai",
-    "language": "Python",
-    "name": "brmel/farkad-ai",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:33:02Z",
-    "url": "https://github.com/brmel/farkad-ai"
-  },
-  {
-    "description": "Cross-tool agent skills for Claude Code, GitHub Copilot and Codex \u2014 a low-token SDLC pipeline, brainstorming and repo-on",
-    "id": "exerias21/brainstorm-toolkit",
-    "language": "Python",
-    "name": "exerias21/brainstorm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:31:30Z",
-    "url": "https://github.com/exerias21/brainstorm-toolkit"
-  },
-  {
-    "description": "Toolbox of 55 purpose-built AI-engineering tools across neglected niches \u2014 score-first designed, stdlib-only, self-teste",
-    "id": "chenhz01/zhengming-toolbox",
-    "language": "\u2014",
-    "name": "chenhz01/zhengming-toolbox",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:29:08Z",
-    "url": "https://github.com/chenhz01/zhengming-toolbox"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 3,
-    "updated_at": "2026-10-12T22:14:28Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
-  },
-  {
-    "description": "Skill de Claude Code: refer\u00eancia de prompt engineering + gerador de prompts otimizados por ferramenta-alvo.",
-    "id": "rianprei/claude-prompt-techniques",
-    "language": "Python",
-    "name": "rianprei/claude-prompt-techniques",
-    "stars": 3,
-    "updated_at": "2026-10-12T22:13:04Z",
-    "url": "https://github.com/rianprei/claude-prompt-techniques"
   }
 ]
