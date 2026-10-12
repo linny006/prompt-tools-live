@@ -1,5 +1,131 @@
 [
   {
+    "description": "Claude Code skill. A vague prompt gets one question. Then it waits.",
+    "id": "David-Florian2013/prompt-clarifier",
+    "language": "Shell",
+    "name": "David-Florian2013/prompt-clarifier",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:28:22Z",
+    "url": "https://github.com/David-Florian2013/prompt-clarifier"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 147,
+    "updated_at": "2026-10-12T19:27:59Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 21,
+    "updated_at": "2026-10-12T19:27:14Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-12T19:25:23Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 142,
+    "updated_at": "2026-10-12T19:25:15Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:24:42Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
+    "description": "Arbiter by Solenix: one file that helps any AI do the job right the first time. Any AI, any goal, any user.",
+    "id": "SolenixAI/arbiter",
+    "language": "JavaScript",
+    "name": "SolenixAI/arbiter",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:24:26Z",
+    "url": "https://github.com/SolenixAI/arbiter"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:23:23Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 16,
+    "updated_at": "2026-10-12T19:22:56Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-12T19:22:45Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Skill de Claude Code: refer\u00eancia de prompt engineering + gerador de prompts otimizados por ferramenta-alvo.",
+    "id": "rianprei/claude-prompt-techniques",
+    "language": "Python",
+    "name": "rianprei/claude-prompt-techniques",
+    "stars": 3,
+    "updated_at": "2026-10-12T19:21:24Z",
+    "url": "https://github.com/rianprei/claude-prompt-techniques"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:19:35Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T19:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Keystone \u2014 intent-first workflow for Claude Code. Process sized to the change: intent \u2192 plan \u2192 independent check \u2192 imple",
+    "id": "sattva2020/keystone",
+    "language": "JavaScript",
+    "name": "sattva2020/keystone",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:15:45Z",
+    "url": "https://github.com/sattva2020/keystone"
+  },
+  {
     "description": "Five Claude Code skills that make agents prove claims locally with Python 3: perf-verifier, code-verifier, context-saver",
     "id": "David-Florian2013/Stop-trusting-made-it-faster-here-is-5-best-skills-for-Claude-",
     "language": "Python",
@@ -7,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T19:14:06Z",
     "url": "https://github.com/David-Florian2013/Stop-trusting-made-it-faster-here-is-5-best-skills-for-Claude-"
-  },
-  {
-    "description": "Vague prompt in, wrong code out. One Claude skill that asks the single missing piece \u2014 the file, the change, or what don",
-    "id": "David-Florian2013/prompt-clarifier",
-    "language": "Shell",
-    "name": "David-Florian2013/prompt-clarifier",
-    "stars": 0,
-    "updated_at": "2026-10-12T19:14:05Z",
-    "url": "https://github.com/David-Florian2013/prompt-clarifier"
   },
   {
     "description": "Hands-on course for building autonomous AI agents in Go: LLM fundamentals, tool/function calling, RAG, evals, multi-agen",
@@ -72,15 +189,6 @@
     "url": "https://github.com/pooriaarab/agents"
   },
   {
-    "description": "Arbiter by Solenix: one file that helps any AI do the job right the first time. Any AI, any goal, any user.",
-    "id": "SolenixAI/arbiter",
-    "language": "JavaScript",
-    "name": "SolenixAI/arbiter",
-    "stars": 0,
-    "updated_at": "2026-10-12T19:12:50Z",
-    "url": "https://github.com/SolenixAI/arbiter"
-  },
-  {
     "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
     "id": "triton2030/agentic-research",
     "language": "Python",
@@ -95,7 +203,7 @@
     "language": "TypeScript",
     "name": "lucasmartins-ai/lookacrawler",
     "stars": 3,
-    "updated_at": "2026-10-12T19:10:59Z",
+    "updated_at": "2026-10-12T19:20:59Z",
     "url": "https://github.com/lucasmartins-ai/lookacrawler"
   },
   {
@@ -135,24 +243,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
-    "id": "Thanatos9404/llmslim",
-    "language": "Python",
-    "name": "Thanatos9404/llmslim",
-    "stars": 16,
-    "updated_at": "2026-10-12T19:10:39Z",
-    "url": "https://github.com/Thanatos9404/llmslim"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-12T19:10:25Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
@@ -178,15 +268,6 @@
     "stars": 8,
     "updated_at": "2026-10-12T19:01:40Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T19:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T18:53:50Z",
     "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-10-12T18:53:46Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-12T18:53:45Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Discover, preview, and download free fonts for any project with DafontStyle.io's streamlined typography library.",
-    "id": "jasmininvasive588/dafontstyle",
-    "language": "\u2014",
-    "name": "jasmininvasive588/dafontstyle",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:53:33Z",
-    "url": "https://github.com/jasmininvasive588/dafontstyle"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 1,
-    "updated_at": "2026-10-12T18:53:15Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75134,
-    "updated_at": "2026-10-12T18:52:18Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\u5341\u4e09\u5e0c\u8bfa Agent \u5de5\u4f5c\u6d41 \u00b7 \u4e2d\u6587\u6e90\u5e93\uff1a\u628a\u5de5\u7a0b\u7eaa\u5f8b\u505a\u6210\u53ef\u673a\u68c0\u95e8\u7981\u7684\u5143\u5de5\u4f5c\u6d41 Skill \u5bb6\u65cf\u2014\u2014\u4e09\u7ea7\u8dd1\u9053\uff0f\u5224\u7ea7\uff0fGATE 12 \u5b57\u6bb5\u53ef\u590d\u8dd1\u8bc1\u636e\uff0f405 \u6761\u7ec6\u5219\u5e93\uff0f\u4e94\u5305\u4ea4\u4ed8\uff08\u6838\u5fc3+\u6d41\u7a0b+\u89d2\u8272+\u4ea7\u54c1\u5de5\u7a0b+\u5355\u6587\u4ef6\u84b8\u998f\uff09\uff0c\u4e94\u5e73\u53f0\u6ce8\u5165\u9002\u914d\u3002doc",
-    "id": "zxc663/shisan-xinuo-workflow",
-    "language": "Python",
-    "name": "zxc663/shisan-xinuo-workflow",
-    "stars": 34,
-    "updated_at": "2026-10-12T18:52:16Z",
-    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4941,
-    "updated_at": "2026-10-12T19:14:35Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "macOS menu bar app: write in Spanish, send natural English. Translates your draft in place with one shortcut (Discord or",
-    "id": "albegosu/vibe-translator",
-    "language": "Swift",
-    "name": "albegosu/vibe-translator",
-    "stars": 1,
-    "updated_at": "2026-10-12T18:53:46Z",
-    "url": "https://github.com/albegosu/vibe-translator"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-10-12T18:50:40Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
   }
 ]
