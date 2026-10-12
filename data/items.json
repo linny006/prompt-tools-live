@@ -1,5 +1,77 @@
 [
   {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 161836,
+    "updated_at": "2026-10-12T22:29:13Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Toolbox of 55 purpose-built AI-engineering tools across neglected niches \u2014 score-first designed, stdlib-only, self-teste",
+    "id": "chenhz01/zhengming-toolbox",
+    "language": "\u2014",
+    "name": "chenhz01/zhengming-toolbox",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:29:08Z",
+    "url": "https://github.com/chenhz01/zhengming-toolbox"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-12T22:30:10Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:28:02Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "LLM extraction of 5 CRM fields from Japanese meeting notes (Qwen 2.5 72B) with exact-match eval and prompt-injection def",
+    "id": "Retro099/jp-meeting-to-crm-fields",
+    "language": "Python",
+    "name": "Retro099/jp-meeting-to-crm-fields",
+    "stars": 1,
+    "updated_at": "2026-10-12T22:27:57Z",
+    "url": "https://github.com/Retro099/jp-meeting-to-crm-fields"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:25:54Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-12T22:19:40Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T22:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
     "id": "gufranco/claude-engineering-rules",
     "language": "Python",
@@ -25,24 +97,6 @@
     "stars": 30,
     "updated_at": "2026-10-12T22:12:58Z",
     "url": "https://github.com/dakotamurphyucf/ochat"
-  },
-  {
-    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
-    "id": "ryanduguid/llm-tax-guardrails",
-    "language": "Python",
-    "name": "ryanduguid/llm-tax-guardrails",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:13:46Z",
-    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
-  },
-  {
-    "description": "Toolbox of 55 purpose-built AI-engineering tools across neglected niches \u2014 score-first designed, stdlib-only, self-teste",
-    "id": "chenhz01/zhengming-toolbox",
-    "language": "\u2014",
-    "name": "chenhz01/zhengming-toolbox",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:09:47Z",
-    "url": "https://github.com/chenhz01/zhengming-toolbox"
   },
   {
     "description": "Prompts, skills y demos en espa\u00f1ol de IA aplicada al desarrollo de software. Recursos del canal IA en Producci\u00f3n de Gilb",
@@ -108,31 +162,22 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T22:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25944,
-    "updated_at": "2026-10-12T22:10:31Z",
+    "updated_at": "2026-10-12T22:27:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-12T21:58:21Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11810,
+    "updated_at": "2026-10-12T21:55:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "nuncaeslupus/claude-arsenal",
     "stars": 0,
-    "updated_at": "2026-10-12T21:56:55Z",
+    "updated_at": "2026-10-12T22:29:41Z",
     "url": "https://github.com/nuncaeslupus/claude-arsenal"
   },
   {
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35713,
-    "updated_at": "2026-10-12T22:14:44Z",
+    "updated_at": "2026-10-12T22:18:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/TitusKirch/skills"
   },
   {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 161833,
-    "updated_at": "2026-10-12T21:44:07Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
     "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
     "id": "Fishsb/dsh-prompt-enhancer",
     "language": "JavaScript",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "fysoul17/devlyn-cli",
     "stars": 1,
-    "updated_at": "2026-10-12T22:11:27Z",
+    "updated_at": "2026-10-12T22:29:51Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-12T22:10:22Z",
+    "updated_at": "2026-10-12T22:24:42Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 117,
     "updated_at": "2026-10-12T21:36:47Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11809,
-    "updated_at": "2026-10-12T21:55:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 65,
-    "updated_at": "2026-10-12T22:13:10Z",
+    "updated_at": "2026-10-12T22:25:12Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T21:09:22Z",
     "url": "https://github.com/goldenrockadvancements/ai-builder-os-lite"
-  },
-  {
-    "description": "Free AI/ML course with 950+ Jupyter notebooks \u2014 Python, deep learning, LLMs, RAG, agents, prompt engineering, fine-tunin",
-    "id": "PavanMudigonda/zero-to-ai",
-    "language": "Jupyter Notebook",
-    "name": "PavanMudigonda/zero-to-ai",
-    "stars": 135,
-    "updated_at": "2026-10-12T21:08:05Z",
-    "url": "https://github.com/PavanMudigonda/zero-to-ai"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-12T21:07:22Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "JavaScript",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-10-12T21:07:13Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
   }
 ]
