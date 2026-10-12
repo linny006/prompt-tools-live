@@ -1,12 +1,120 @@
 [
   {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "C++",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:42:21Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-12T03:41:14Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25908,
+    "updated_at": "2026-10-12T03:43:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:39:25Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
     "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose through OpenRouter. Electron, Type",
     "id": "michael-kitchin/agent-wars",
     "language": "TypeScript",
     "name": "michael-kitchin/agent-wars",
     "stars": 0,
-    "updated_at": "2026-10-12T03:30:22Z",
+    "updated_at": "2026-10-12T03:38:32Z",
     "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "Free 3D prompts for Claude, GPT and Kimi \u2014 games, scenes, assets and animation, each with its result. Curated by Wandy3D",
+    "id": "wornoxgames/awesome-3d-prompts",
+    "language": "\u2014",
+    "name": "wornoxgames/awesome-3d-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:38:07Z",
+    "url": "https://github.com/wornoxgames/awesome-3d-prompts"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.23.0: token-killer pack \u00e2\u20ac\u201d deep-forget (unlearning propagation)",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:36:22Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "Claude Code plugin: a Senior Software Engineer & IT Architect agent with deterministic safety hooks \u2014 asks before destru",
+    "id": "JhonnyAdriZambrano/senior-engineering-agent",
+    "language": "Python",
+    "name": "JhonnyAdriZambrano/senior-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:35:03Z",
+    "url": "https://github.com/JhonnyAdriZambrano/senior-engineering-agent"
+  },
+  {
+    "description": "CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo",
+    "id": "pedromvgomes/agentic-toolkit",
+    "language": "Go",
+    "name": "pedromvgomes/agentic-toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:42:53Z",
+    "url": "https://github.com/pedromvgomes/agentic-toolkit"
+  },
+  {
+    "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a26 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u4e3b\u56fe\u89c6\u9891 \u2192 \u6295\u524d\u8d28\u68c0 \u2192 \u5e73\u53f0\u5408\u89c4\u6821\u9a8c\u3002\u4e0d\u9501\u540e\u7aef\uff0cdLazy / OpenAI / Gemini / fa",
+    "id": "dlazy-ai/ecommerce-skills",
+    "language": "JavaScript",
+    "name": "dlazy-ai/ecommerce-skills",
+    "stars": 33,
+    "updated_at": "2026-10-12T03:32:34Z",
+    "url": "https://github.com/dlazy-ai/ecommerce-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-12T03:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 172649,
+    "updated_at": "2026-10-12T03:30:25Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "A Next.js portal that embeds two Power BI education dashboards alongside a Microsoft Foundry AI agent grounded in Micros",
+    "id": "Muhammad-Idzhans/fabric-insights-agentic-portal",
+    "language": "TypeScript",
+    "name": "Muhammad-Idzhans/fabric-insights-agentic-portal",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:30:21Z",
+    "url": "https://github.com/Muhammad-Idzhans/fabric-insights-agentic-portal"
   },
   {
     "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
@@ -45,6 +153,15 @@
     "url": "https://github.com/oraguinal9/by-simple-to-deep"
   },
   {
+    "description": "Evaluate Qwen2.5 GGUF models on Indonesian tasks with reproducible benchmarks, measuring accuracy, latency, and throughp",
+    "id": "Godlinessgenusbrassavola663/local-llm-eval",
+    "language": "Jupyter Notebook",
+    "name": "Godlinessgenusbrassavola663/local-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:26:15Z",
+    "url": "https://github.com/Godlinessgenusbrassavola663/local-llm-eval"
+  },
+  {
     "description": "FavsHub \u2014\u2014 \u7f51\u5740\u5bfc\u822a\u4e0e\u667a\u80fd\u4e66\u7b7e\u7ba1\u7406\u5de5\u4f5c\u53f0\uff08Nuxt 3 SSR + SQLite\uff09\u3002\u5361\u7247\u5f0f\u4e66\u7b7e\u4e3b\u9875\u3001\u7ea6 29 \u6b3e\u641c\u7d22\u5f15\u64ce\u805a\u5408\u3001\u7cbe\u9009\u96c6\u5e02\u573a\u3001PromptPro AI \u63d0\u793a\u8bcd\u7ba1\u7406\u3001\u514d\u8d39\u989d\u5ea6\u901a\u544a\u4e0e\u5206\u4eab\u5361\u7247\uff1b\u914d\u6d4f\u89c8\u5668\u6269\u5c55\u591a\u7aef\u540c\u6b65\uff0c\u5e76\u63d0\u4f9b ",
     "id": "huanyu-a/FavsHub_web",
     "language": "TypeScript",
@@ -52,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T03:25:36Z",
     "url": "https://github.com/huanyu-a/FavsHub_web"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-12T03:25:29Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "Compare prompt variants against test cases with checks and an LLM judge, and catch regressions between runs.",
@@ -133,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:17:24Z",
     "url": "https://github.com/PabloIan92/poe-specialist-agents-suite"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-12T03:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unzip and drop in 154 AI skills across 36 real-world packs to make your AI tool instantly job-ready.",
@@ -349,104 +448,5 @@
     "stars": 20,
     "updated_at": "2026-10-12T03:06:09Z",
     "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-12T03:06:06Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 7,
-    "updated_at": "2026-10-12T03:06:00Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:05:57Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "awesome-seedance-2-prompt",
-    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "stars": 11,
-    "updated_at": "2026-10-12T03:05:50Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:05:44Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 57,
-    "updated_at": "2026-10-12T03:05:38Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-10-12T03:05:25Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
-    "id": "DSeaStar/awesome-kling",
-    "language": "Python",
-    "name": "DSeaStar/awesome-kling",
-    "stars": 3,
-    "updated_at": "2026-10-12T03:05:23Z",
-    "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Auditor and educational tool that analyzes AI's tone patterns and demonstrates methods for customizing behavior.",
-    "id": "NobleStripes/AI-Tone-Auditor",
-    "language": "TypeScript",
-    "name": "NobleStripes/AI-Tone-Auditor",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:05:27Z",
-    "url": "https://github.com/NobleStripes/AI-Tone-Auditor"
-  },
-  {
-    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
-    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "language": "Python",
-    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "stars": 2,
-    "updated_at": "2026-10-12T03:09:04Z",
-    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:04:52Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
