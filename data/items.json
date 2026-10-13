@@ -1,5 +1,59 @@
 [
   {
+    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
+    "id": "mytech-today-now/prompt-refined",
+    "language": "HTML",
+    "name": "mytech-today-now/prompt-refined",
+    "stars": 5,
+    "updated_at": "2026-10-13T21:47:35Z",
+    "url": "https://github.com/mytech-today-now/prompt-refined"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:46:52Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs, ve",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:46:32Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-13T21:46:33Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35779,
+    "updated_at": "2026-10-13T21:47:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-13T21:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22577,
-    "updated_at": "2026-10-13T21:34:46Z",
+    "updated_at": "2026-10-13T21:48:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 217,
     "updated_at": "2026-10-13T21:31:56Z",
     "url": "https://github.com/LerianStudio/ring"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-13T21:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T21:29:09Z",
     "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
-    "id": "mytech-today-now/prompt-refined",
-    "language": "HTML",
-    "name": "mytech-today-now/prompt-refined",
-    "stars": 5,
-    "updated_at": "2026-10-13T21:28:15Z",
-    "url": "https://github.com/mytech-today-now/prompt-refined"
   },
   {
     "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T21:17:08Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:17:02Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-10-13T21:16:58Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:16:10Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 54,
-    "updated_at": "2026-10-13T21:15:51Z",
-    "url": "https://github.com/costiash/claude-code-docs"
   }
 ]
