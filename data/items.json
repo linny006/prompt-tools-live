@@ -1,5 +1,104 @@
 [
   {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 3,
+    "updated_at": "2026-10-13T22:59:56Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-13T22:56:11Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-13T22:55:53Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 22,
+    "updated_at": "2026-10-13T22:55:10Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 39983,
+    "updated_at": "2026-10-13T22:54:40Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "\ud83e\udda5 An AI-native, structural CSS framework built for backend developers. Stop writing CSS: download the dynamic markdown s",
+    "id": "asideia/lazy-css",
+    "language": "CSS",
+    "name": "asideia/lazy-css",
+    "stars": 1,
+    "updated_at": "2026-10-13T22:53:50Z",
+    "url": "https://github.com/asideia/lazy-css"
+  },
+  {
+    "description": "Production-tested daily-driven Claude Code skills \u2014 model routing, security hardening, code quality, tax advisory, cost ",
+    "id": "scoobydont-666/shared-claude-skills",
+    "language": "Python",
+    "name": "scoobydont-666/shared-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-13T22:53:48Z",
+    "url": "https://github.com/scoobydont-666/shared-claude-skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 75246,
+    "updated_at": "2026-10-13T22:50:03Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Open-source AI skills that help anyone turn an idea into a game on Ryft: idea interviews, prompt and upload builders, ar",
+    "id": "jronnomo/ryft-skills",
+    "language": "JavaScript",
+    "name": "jronnomo/ryft-skills",
+    "stars": 0,
+    "updated_at": "2026-10-13T22:45:51Z",
+    "url": "https://github.com/jronnomo/ryft-skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-13T22:46:41Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-13T22:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
     "id": "mylesagnew/promptgenie",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-13T22:40:31Z",
     "url": "https://github.com/PigeonAI-Yang/oneirloom"
-  },
-  {
-    "description": "\ud83e\udda5 An AI-native, structural CSS framework built for backend developers. Stop writing CSS: download the dynamic markdown s",
-    "id": "asideia/lazy-css",
-    "language": "CSS",
-    "name": "asideia/lazy-css",
-    "stars": 1,
-    "updated_at": "2026-10-13T22:39:47Z",
-    "url": "https://github.com/asideia/lazy-css"
   },
   {
     "description": "The Bible of AI \u2014 iLang Prompt Spec through the lens of Scripture. GENE is the Ten Commandments. SOUL is the soul. Daily",
@@ -162,21 +252,12 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-13T22:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7283,
-    "updated_at": "2026-10-13T22:29:08Z",
+    "updated_at": "2026-10-13T22:53:08Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -194,17 +275,8 @@
     "language": "JavaScript",
     "name": "datasound-projects/Promptboard",
     "stars": 5,
-    "updated_at": "2026-10-13T22:27:37Z",
+    "updated_at": "2026-10-13T22:49:47Z",
     "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 3,
-    "updated_at": "2026-10-13T22:26:25Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
   },
   {
     "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
@@ -221,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25978,
-    "updated_at": "2026-10-13T22:29:41Z",
+    "updated_at": "2026-10-13T22:49:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75245,
-    "updated_at": "2026-10-13T22:39:44Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Reverse-engineering Claude Code v2.1.287: how its system prompt is assembled, how subagents are orchestrated, and what t",
     "id": "louisyeaaah/claude-code-re",
     "language": "Python",
@@ -268,15 +331,6 @@
     "stars": 6,
     "updated_at": "2026-10-13T22:22:11Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Production-tested daily-driven Claude Code skills \u2014 model routing, security hardening, code quality, tax advisory, cost ",
-    "id": "scoobydont-666/shared-claude-skills",
-    "language": "Python",
-    "name": "scoobydont-666/shared-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-13T22:19:27Z",
-    "url": "https://github.com/scoobydont-666/shared-claude-skills"
   },
   {
     "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
@@ -355,8 +409,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22579,
-    "updated_at": "2026-10-13T22:11:53Z",
+    "stars": 22580,
+    "updated_at": "2026-10-13T22:58:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Makefile",
     "name": "tradecatlabs/vibe-coding-cn",
     "stars": 17531,
-    "updated_at": "2026-10-13T22:35:46Z",
+    "updated_at": "2026-10-13T22:53:30Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with",
-    "id": "LearnPrompt/awesome-seedance",
-    "language": "JavaScript",
-    "name": "LearnPrompt/awesome-seedance",
-    "stars": 2022,
-    "updated_at": "2026-10-13T22:09:54Z",
-    "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "\u26a1 ChronoFact: 4-Pillar Epistemic AI Backbone. Real-time temporal cutoff calibration, active NLI claim verifier, zero-pol",
-    "id": "ModernOps888/chronofact",
-    "language": "Rust",
-    "name": "ModernOps888/chronofact",
-    "stars": 2,
-    "updated_at": "2026-10-13T22:09:48Z",
-    "url": "https://github.com/ModernOps888/chronofact"
-  },
-  {
-    "description": "Figma-to-MCP prompt management for Hermes workflows.",
-    "id": "jozrftamson/hermes-figma-prompt-hub",
-    "language": "Python",
-    "name": "jozrftamson/hermes-figma-prompt-hub",
-    "stars": 2,
-    "updated_at": "2026-10-13T22:09:28Z",
-    "url": "https://github.com/jozrftamson/hermes-figma-prompt-hub"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-13T22:08:24Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-13T22:07:56Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
-    "id": "Evan-Daruwalla/claude-skill-suite",
-    "language": "JavaScript",
-    "name": "Evan-Daruwalla/claude-skill-suite",
-    "stars": 0,
-    "updated_at": "2026-10-13T22:07:53Z",
-    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
   }
 ]
