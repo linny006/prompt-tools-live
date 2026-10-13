@@ -1,5 +1,158 @@
 [
   {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 188,
+    "updated_at": "2026-10-13T05:45:19Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2364,
+    "updated_at": "2026-10-13T05:44:41Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Free AI-powered learning resources, Masterclass Prompt Kits & practical training materials by MissAlpha\u2122 AI Labs \u2014 cover",
+    "id": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
+    "language": "\u2014",
+    "name": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
+    "stars": 14,
+    "updated_at": "2026-10-13T05:44:01Z",
+    "url": "https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026"
+  },
+  {
+    "description": "Sistema multiagente (OpenCode V2) que convierte productos crudos en publicaciones listas para Revolico y Facebook: 7 age",
+    "id": "DanysDev/agencia-ventas-virtual",
+    "language": "TypeScript",
+    "name": "DanysDev/agencia-ventas-virtual",
+    "stars": 0,
+    "updated_at": "2026-10-13T05:43:04Z",
+    "url": "https://github.com/DanysDev/agencia-ventas-virtual"
+  },
+  {
+    "description": "SKILL.md compatibility and execution written in rust",
+    "id": "tinyhumansai/tinyskills",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyskills",
+    "stars": 1,
+    "updated_at": "2026-10-13T05:42:43Z",
+    "url": "https://github.com/tinyhumansai/tinyskills"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 51630,
+    "updated_at": "2026-10-13T05:40:49Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Hermes \u684c\u9762\u7aef\u8f93\u5165\u6846\u589e\u5f3a\u6309\u94ae\uff1a\u4e00\u952e\u628a\u7c97\u7cd9\u8349\u7a3f\u6539\u5199\u6210\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\uff0c\u518d\u70b9\u6062\u590d\u539f\u6587\u3002\u65e0\u72b6\u6001\u7f51\u5173\u8c03\u7528\uff0c@file / /\u547d\u4ee4 \u5f15\u7528\u6807\u7b7e\u4fdd\u771f\uff0c\u6309\u4f1a\u8bdd\u9694\u79bb\u3002v1.6.0 \u8d77\u7eaf SDK \u5316\uff08\u8bfb\u5199\u5168\u8d70\u5b98\u65b9 host.composer\uff09\uff0c\u5220\u6389\u624b\u5199 DO",
+    "id": "Heybinshao/prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Heybinshao/prompt-enhancer",
+    "stars": 4,
+    "updated_at": "2026-10-13T05:37:46Z",
+    "url": "https://github.com/Heybinshao/prompt-enhancer"
+  },
+  {
+    "description": "WorkBuddy's \u589e\u5f3a\u63d0\u793a\u8bcd (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with ",
+    "id": "2861292267/dsh-prompt-forge",
+    "language": "JavaScript",
+    "name": "2861292267/dsh-prompt-forge",
+    "stars": 3,
+    "updated_at": "2026-10-13T05:34:22Z",
+    "url": "https://github.com/2861292267/dsh-prompt-forge"
+  },
+  {
+    "description": "Tremendous Trump-style output style for Claude Code & AI agents. Only the voice changes \u2014 code, commits, and facts stay ",
+    "id": "DongHyunTedKim/trump-style",
+    "language": "Shell",
+    "name": "DongHyunTedKim/trump-style",
+    "stars": 0,
+    "updated_at": "2026-10-13T05:34:00Z",
+    "url": "https://github.com/DongHyunTedKim/trump-style"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "Go",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-10-13T05:32:54Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28357,
+    "updated_at": "2026-10-13T05:32:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-13T05:32:23Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "Hebdo sur les agents IA",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 1,
+    "updated_at": "2026-10-13T05:45:23Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6 \u00b7 \u53d1\u9001\u680f\u4e00\u952e\u300c\u4f18\u5316\u300d\u63d0\u793a\u8bcd\u8349\u7a3f\uff1a\u4e94\u7ef4\u8bca\u65ad + \u6539\u5199\u7a3f SSE \u6d41\u5f0f\u4e0a\u5c4f\uff0c\u53ef\u66ff\u6362 / \u590d\u5236 / \u64a4\u56de\uff0c\u6a21\u578b\u8def\u7531\u9ed8\u8ba4\u8ddf\u968f\u5f53\u524d\u4f1a\u8bdd\u3002",
+    "id": "Y1X1n/dsh-prompt-optimizer",
+    "language": "TypeScript",
+    "name": "Y1X1n/dsh-prompt-optimizer",
+    "stars": 22,
+    "updated_at": "2026-10-13T05:31:56Z",
+    "url": "https://github.com/Y1X1n/dsh-prompt-optimizer"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 32,
+    "updated_at": "2026-10-13T05:30:59Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "A.I. Sorcery",
+    "id": "4ndr0666/gpt",
+    "language": "Python",
+    "name": "4ndr0666/gpt",
+    "stars": 25,
+    "updated_at": "2026-10-13T05:30:36Z",
+    "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-13T05:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
     "id": "heronbo111/HeronBo-AIGC-Prompt",
     "language": "Tcl",
@@ -18,49 +171,13 @@
     "url": "https://github.com/zk980818/sandwich-dev"
   },
   {
-    "description": "Free AI-powered learning resources, Masterclass Prompt Kits & practical training materials by MissAlpha\u2122 AI Labs \u2014 cover",
-    "id": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
-    "language": "\u2014",
-    "name": "MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026",
-    "stars": 14,
-    "updated_at": "2026-10-13T05:28:08Z",
-    "url": "https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6 \u00b7 \u53d1\u9001\u680f\u4e00\u952e\u300c\u4f18\u5316\u300d\u63d0\u793a\u8bcd\u8349\u7a3f\uff1a\u4e94\u7ef4\u8bca\u65ad + \u6539\u5199\u7a3f SSE \u6d41\u5f0f\u4e0a\u5c4f\uff0c\u53ef\u66ff\u6362 / \u590d\u5236 / \u64a4\u56de\uff0c\u6a21\u578b\u8def\u7531\u9ed8\u8ba4\u8ddf\u968f\u5f53\u524d\u4f1a\u8bdd\u3002",
-    "id": "Y1X1n/dsh-prompt-optimizer",
-    "language": "TypeScript",
-    "name": "Y1X1n/dsh-prompt-optimizer",
-    "stars": 22,
-    "updated_at": "2026-10-13T05:28:55Z",
-    "url": "https://github.com/Y1X1n/dsh-prompt-optimizer"
-  },
-  {
-    "description": "WorkBuddy's \u589e\u5f3a\u63d0\u793a\u8bcd (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with ",
-    "id": "2861292267/dsh-prompt-forge",
-    "language": "JavaScript",
-    "name": "2861292267/dsh-prompt-forge",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:27:57Z",
-    "url": "https://github.com/2861292267/dsh-prompt-forge"
-  },
-  {
     "description": "Claude Code plugin: a Senior Software Engineer & IT Architect agent with deterministic safety hooks \u2014 asks before destru",
     "id": "JhonnyAdriZambrano/senior-engineering-agent",
     "language": "Python",
     "name": "JhonnyAdriZambrano/senior-engineering-agent",
     "stars": 0,
-    "updated_at": "2026-10-13T05:27:19Z",
+    "updated_at": "2026-10-13T05:40:32Z",
     "url": "https://github.com/JhonnyAdriZambrano/senior-engineering-agent"
-  },
-  {
-    "description": "SKILL.md compatibility and execution written in rust",
-    "id": "tinyhumansai/tinyskills",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyskills",
-    "stars": 1,
-    "updated_at": "2026-10-13T05:27:43Z",
-    "url": "https://github.com/tinyhumansai/tinyskills"
   },
   {
     "description": "End-to-end slice of an AI lead re-engagement pipeline for WhatsApp property leads \u2014 cite-or-null extraction guardrails, ",
@@ -81,6 +198,15 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 39969,
+    "updated_at": "2026-10-13T05:24:58Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
     "description": "Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace.",
     "id": "deadly-centropomus6106/image-gen-open-source",
     "language": "JavaScript",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T05:24:57Z",
     "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39968,
-    "updated_at": "2026-10-13T05:24:58Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
@@ -189,15 +306,6 @@
     "url": "https://github.com/Antarsoft/morphness"
   },
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 188,
-    "updated_at": "2026-10-13T05:29:16Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
     "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
     "id": "partible-dicer700/SoDam-Persona-Codex",
     "language": "JavaScript",
@@ -221,7 +329,7 @@
     "language": "TypeScript",
     "name": "boloagegit/TurnStage",
     "stars": 0,
-    "updated_at": "2026-10-13T05:21:17Z",
+    "updated_at": "2026-10-13T05:38:01Z",
     "url": "https://github.com/boloagegit/TurnStage"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-13T05:15:57Z",
     "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-10-13T05:15:37Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:15:34Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-13T05:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Structured summaries of the askFinz guides and fair comparisons with other AI tools, each linking to the full article on",
-    "id": "askFinz/askfinz-guides",
-    "language": "\u2014",
-    "name": "askFinz/askfinz-guides",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:15:29Z",
-    "url": "https://github.com/askFinz/askfinz-guides"
-  },
-  {
-    "description": "Hermes \u684c\u9762\u7aef\u8f93\u5165\u6846\u589e\u5f3a\u6309\u94ae\uff1a\u4e00\u952e\u628a\u7c97\u7cd9\u8349\u7a3f\u6539\u5199\u6210\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\uff0c\u518d\u70b9\u6062\u590d\u539f\u6587\u3002\u65e0\u72b6\u6001\u7f51\u5173\u8c03\u7528\uff0c@file / /\u547d\u4ee4 \u5f15\u7528\u6807\u7b7e\u4fdd\u771f\uff0c\u6309\u4f1a\u8bdd\u9694\u79bb\u3002v1.6.0 \u8d77\u7eaf SDK \u5316\uff08\u8bfb\u5199\u5168\u8d70\u5b98\u65b9 host.composer\uff09\uff0c\u5220\u6389\u624b\u5199 DO",
-    "id": "Heybinshao/prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Heybinshao/prompt-enhancer",
-    "stars": 4,
-    "updated_at": "2026-10-13T05:15:01Z",
-    "url": "https://github.com/Heybinshao/prompt-enhancer"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:14:38Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "\u4e2d\u6587\u5f00\u6e90\u63d0\u793a\u8bcd\u7f51\u7ad9\uff5c80 \u6761 AI \u63d0\u793a\u8bcd\u6a21\u677f\uff1a\u56fe\u751f\u56fe\u98ce\u683c\u8f6c\u6362\u3001\u5199\u4f5c\u3001\u7f16\u7a0b\u3001\u5206\u6790\u4e0e\u529e\u516c\u3002\u514d\u767b\u5f55\uff0c\u652f\u6301\u9700\u6c42\u586b\u5199\u3001\u641c\u7d22\u3001\u6536\u85cf\u3001\u590d\u5236\u4e0e\u5bfc\u51fa\u3002Open-source AI prompt website with Chinese-first navi",
-    "id": "BryceYuuu/ai-prompt-website",
-    "language": "JavaScript",
-    "name": "BryceYuuu/ai-prompt-website",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:14:36Z",
-    "url": "https://github.com/BryceYuuu/ai-prompt-website"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:14:33Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-10-13T05:14:28Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:14:14Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-10-13T05:14:10Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:14:07Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
   }
 ]
