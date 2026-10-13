@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-13 06:00 UTC
+> ⏰ Last updated: 2026-10-13 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) | 22 | TypeScript | 2026-10-13 | DeepSeek Harness 插件 · 发送栏一键「优化」提示词草稿：五维诊断 + 改写稿 SSE 流式上屏，可替换 / 复制 / 撤回，模型路由默认跟随当前会话。 |
-| 2 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | 50 | TypeScript | 2026-10-13 | VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle |
-| 3 | [flexigpt/flexigpt-app](https://github.com/flexigpt/flexigpt-app) | 4 | Go | 2026-10-13 | Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history  |
-| 4 | [DongHyunTedKim/trump-style](https://github.com/DongHyunTedKim/trump-style) | 0 | Shell | 2026-10-13 | Tremendous Trump-style output style for Claude Code & AI agents, with a Korean edition (trump-ko). Only the voice change |
-| 5 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-13 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
-| 6 | [BryceYuuu/ai-prompt-website](https://github.com/BryceYuuu/ai-prompt-website) | 0 | JavaScript | 2026-10-13 | 中文开源提示词网站｜80 条 AI 提示词模板：图生图风格转换、写作、编程、分析与办公。免登录，支持需求填写、搜索、收藏、复制与导出。Open-source AI prompt website with Chinese-first navi |
-| 7 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 15 | TypeScript | 2026-10-13 | An opinionated agentic development layer for OpenCode — spec-first when it matters, review-driven execution, portable mo |
-| 8 | [V-Songbird/flint](https://github.com/V-Songbird/flint) | 7 | — | 2026-10-13 | 🔥 Two drop-in text files that make Claude Code write less and talk less — a CLAUDE.md fragment and a prompt that tunes t |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35730 | TypeScript | 2026-10-13 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 10 | [dean815/promptgremlin](https://github.com/dean815/promptgremlin) | 0 | Python | 2026-10-13 | Turn braindumps into paste-ready prompts for any AI model or tool, using each vendor's current official guidance — with  |
-| 11 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | JavaScript | 2026-10-13 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 12 | [MichaelRDionne/prompt-eval-harness](https://github.com/MichaelRDionne/prompt-eval-harness) | 0 | Python | 2026-10-13 | Evaluation-first prompt development: weighted deterministic rubrics that regression-test prompt edits like code edits. T |
-| 13 | [Heybinshao/prompt-enhancer](https://github.com/Heybinshao/prompt-enhancer) | 4 | JavaScript | 2026-10-13 | Hermes 桌面端输入框增强按钮：一键把粗糙草稿改写成结构化提示词，再点恢复原文。无状态网关调用，@file / /命令 引用标签保真，按会话隔离。纯 SDK 实现（v1.6.0 起读写全走官方 host.composer）；v1.6.1 |
-| 14 | [john20xdoe/unix-primitives](https://github.com/john20xdoe/unix-primitives) | 0 | Python | 2026-10-13 | Turn fragile AI coding prompts into robust workflows using battle-tested Unix primitives. |
-| 15 | [heronbo111/HeronBo-AIGC-Prompt](https://github.com/heronbo111/HeronBo-AIGC-Prompt) | 1 | Tcl | 2026-10-13 | AI 视频提示词生成 + 成片六维评价 skill（图生视频/文生视频/参考视频生视频/参考视频替换生视频）；本地工作台 + 多 agent 协作 |
-| 16 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28357 | Python | 2026-10-13 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 17 | [ArnavModi-MSIT/Multi-LLM-Promp-Injector](https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector) | 0 | JavaScript | 2026-10-13 | Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright. |
-| 18 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2364 | JavaScript | 2026-10-13 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 19 | [VulcanEon/image2.to-extension](https://github.com/VulcanEon/image2.to-extension) | 0 | JavaScript | 2026-10-13 | Open-source Chrome extension for drafting GPT Image 2 prompts for image2.to. |
-| 20 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-10-13 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
-| 21 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 8 | JavaScript | 2026-10-13 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 22 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-13 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 23 | [jeb-maker/lagent-quotidien](https://github.com/jeb-maker/lagent-quotidien) | 1 | HTML | 2026-10-13 | Hebdo sur les agents IA |
-| 24 | [minipuft/claude-prompts-mcp](https://github.com/minipuft/claude-prompts-mcp) | 188 | TypeScript | 2026-10-13 | MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with  |
-| 25 | [MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026](https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026) | 14 | — | 2026-10-13 | Free AI-powered learning resources, Masterclass Prompt Kits & practical training materials by MissAlpha™ AI Labs — cover |
-| 26 | [DanysDev/agencia-ventas-virtual](https://github.com/DanysDev/agencia-ventas-virtual) | 0 | TypeScript | 2026-10-13 | Sistema multiagente (OpenCode V2) que convierte productos crudos en publicaciones listas para Revolico y Facebook: 7 age |
-| 27 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25952 | TypeScript | 2026-10-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 28 | [tinyhumansai/tinyskills](https://github.com/tinyhumansai/tinyskills) | 1 | Rust | 2026-10-13 | SKILL.md compatibility and execution written in rust |
-| 29 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 51632 | Python | 2026-10-13 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 30 | [2861292267/dsh-prompt-forge](https://github.com/2861292267/dsh-prompt-forge) | 3 | JavaScript | 2026-10-13 | WorkBuddy's 增强提示词 (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with  |
-| 31 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 32 | JavaScript | 2026-10-13 | Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom |
-| 32 | [4ndr0666/gpt](https://github.com/4ndr0666/gpt) | 25 | Python | 2026-10-13 | A.I. Sorcery |
-| 33 | [zk980818/sandwich-dev](https://github.com/zk980818/sandwich-dev) | 0 | JavaScript | 2026-10-13 | 三明治开发法 Sandwich Dev — 你只做定稿人，Agent 承包其余一切，git 留下每一步证据。人读层/Agent读层双读者模型的 AI 产品研发工作流。 |
-| 34 | [JhonnyAdriZambrano/senior-engineering-agent](https://github.com/JhonnyAdriZambrano/senior-engineering-agent) | 0 | Python | 2026-10-13 | Claude Code plugin: a Senior Software Engineer & IT Architect agent with deterministic safety hooks — asks before destru |
-| 35 | [FikriAlfaraby/wa-lead-extractor](https://github.com/FikriAlfaraby/wa-lead-extractor) | 0 | TypeScript | 2026-10-13 | End-to-end slice of an AI lead re-engagement pipeline for WhatsApp property leads — cite-or-null extraction guardrails,  |
-| 36 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | 123 | HTML | 2026-10-13 | Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control |
-| 37 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39969 | JavaScript | 2026-10-13 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 38 | [deadly-centropomus6106/image-gen-open-source](https://github.com/deadly-centropomus6106/image-gen-open-source) | 0 | JavaScript | 2026-10-13 | Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace. |
-| 39 | [hhakahhhaj-blip/WhisperDeck](https://github.com/hhakahhhaj-blip/WhisperDeck) | 0 | Python | 2026-10-13 | Transcribe voice memos locally with trim, tag, and export tools—no cloud uploads, ever. |
-| 40 | [2148-wq/DLSS5-for-Nuke](https://github.com/2148-wq/DLSS5-for-Nuke) | 1 | C++ | 2026-10-13 | Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs. |
-| 41 | [Michel-IT/Kotodama](https://github.com/Michel-IT/Kotodama) | 5 | Rust | 2026-10-13 | One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B |
-| 42 | [sarthaksinha2600/LLM-Contract](https://github.com/sarthaksinha2600/LLM-Contract) | 0 | — | 2026-10-13 | Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence. |
-| 43 | [tinyhumansai/tinyjuice](https://github.com/tinyhumansai/tinyjuice) | 22 | Rust | 2026-10-13 | A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource |
-| 44 | [Yazanw6234/presentation-delivery-skills](https://github.com/Yazanw6234/presentation-delivery-skills) | 0 | — | 2026-10-13 | Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome  |
-| 45 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-10-13 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
-| 46 | [Ak863153/ChatGPT-Persona-Voice](https://github.com/Ak863153/ChatGPT-Persona-Voice) | 0 | — | 2026-10-13 | Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference. |
-| 47 | [Antarsoft/morphness](https://github.com/Antarsoft/morphness) | 2 | Shell | 2026-10-13 | Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t |
-| 48 | [partible-dicer700/SoDam-Persona-Codex](https://github.com/partible-dicer700/SoDam-Persona-Codex) | 0 | JavaScript | 2026-10-13 | Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co |
-| 49 | [nonliteral-fullhouse266/time-travel-sqlite-debugger](https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger) | 0 | HTML | 2026-10-13 | Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe |
-| 50 | [boloagegit/TurnStage](https://github.com/boloagegit/TurnStage) | 0 | TypeScript | 2026-10-13 | A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences. |
+| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4942 | TypeScript | 2026-10-13 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 2 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-13 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35731 | TypeScript | 2026-10-13 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 4 | [hmmhmmhm/align.md](https://github.com/hmmhmmhm/align.md) | 1 | — | 2026-10-13 | A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th |
+| 5 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 19 | Rust | 2026-10-13 | A persistent, observable, and collaborative memory infrastructure |
+| 6 | [gordongeraghty/XRON](https://github.com/gordongeraghty/XRON) | 1 | TypeScript | 2026-10-13 | XRON: A lossless data serialization format that reduces JSON LLM token consumption by up to 80%. Optimize context window |
+| 7 | [minipuft/claude-prompts-mcp](https://github.com/minipuft/claude-prompts-mcp) | 188 | TypeScript | 2026-10-13 | MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with  |
+| 8 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 1 | HTML | 2026-10-13 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25952 | TypeScript | 2026-10-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [andrii-su/datoon](https://github.com/andrii-su/datoon) | 2 | Python | 2026-10-13 | Smart JSON-to-TOON conversion with pragmatic auto-gating for LLM prompts |
+| 11 | [MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026](https://github.com/MissAlpha-AI-Labs532/MissAlpha-AI-Labs-Free-MasterClasses-PromptBooks-28th-June-2026) | 14 | — | 2026-10-13 | Free AI-powered learning resources, Masterclass Prompt Kits & practical training materials by MissAlpha™ AI Labs — cover |
+| 12 | [ftvision/agent-prompt-observatory](https://github.com/ftvision/agent-prompt-observatory) | 2 | Python | 2026-10-13 | Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff |
+| 13 | [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) | 772 | HTML | 2026-10-13 | 150+ plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent |
+| 14 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 8 | JavaScript | 2026-10-13 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 15 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-13 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 16 | [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) | 22 | TypeScript | 2026-10-13 | DeepSeek Harness 插件 · 发送栏一键「优化」提示词草稿：五维诊断 + 改写稿 SSE 流式上屏，可替换 / 复制 / 撤回，模型路由默认跟随当前会话。 |
+| 17 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | 50 | TypeScript | 2026-10-13 | VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle |
+| 18 | [flexigpt/flexigpt-app](https://github.com/flexigpt/flexigpt-app) | 4 | Go | 2026-10-13 | Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history  |
+| 19 | [DongHyunTedKim/trump-style](https://github.com/DongHyunTedKim/trump-style) | 0 | Shell | 2026-10-13 | Tremendous Trump-style output style for Claude Code & AI agents, with a Korean edition (trump-ko). Only the voice change |
+| 20 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-13 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
+| 21 | [BryceYuuu/ai-prompt-website](https://github.com/BryceYuuu/ai-prompt-website) | 0 | JavaScript | 2026-10-13 | 中文开源提示词网站｜80 条 AI 提示词模板：图生图风格转换、写作、编程、分析与办公。免登录，支持需求填写、搜索、收藏、复制与导出。Open-source AI prompt website with Chinese-first navi |
+| 22 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 15 | TypeScript | 2026-10-13 | An opinionated agentic development layer for OpenCode — spec-first when it matters, review-driven execution, portable mo |
+| 23 | [V-Songbird/flint](https://github.com/V-Songbird/flint) | 7 | — | 2026-10-13 | 🔥 Two drop-in text files that make Claude Code write less and talk less — a CLAUDE.md fragment and a prompt that tunes t |
+| 24 | [dean815/promptgremlin](https://github.com/dean815/promptgremlin) | 0 | Python | 2026-10-13 | Turn braindumps into paste-ready prompts for any AI model or tool, using each vendor's current official guidance — with  |
+| 25 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | JavaScript | 2026-10-13 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 26 | [MichaelRDionne/prompt-eval-harness](https://github.com/MichaelRDionne/prompt-eval-harness) | 0 | Python | 2026-10-13 | Evaluation-first prompt development: weighted deterministic rubrics that regression-test prompt edits like code edits. T |
+| 27 | [Heybinshao/prompt-enhancer](https://github.com/Heybinshao/prompt-enhancer) | 4 | JavaScript | 2026-10-13 | Hermes 桌面端输入框增强按钮：一键把粗糙草稿改写成结构化提示词，再点恢复原文。无状态网关调用，@file / /命令 引用标签保真，按会话隔离。纯 SDK 实现（v1.6.0 起读写全走官方 host.composer）；v1.6.1 |
+| 28 | [john20xdoe/unix-primitives](https://github.com/john20xdoe/unix-primitives) | 0 | Python | 2026-10-13 | Turn fragile AI coding prompts into robust workflows using battle-tested Unix primitives. |
+| 29 | [heronbo111/HeronBo-AIGC-Prompt](https://github.com/heronbo111/HeronBo-AIGC-Prompt) | 1 | Tcl | 2026-10-13 | AI 视频提示词生成 + 成片六维评价 skill（图生视频/文生视频/参考视频生视频/参考视频替换生视频）；本地工作台 + 多 agent 协作 |
+| 30 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28357 | Python | 2026-10-13 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 31 | [ArnavModi-MSIT/Multi-LLM-Promp-Injector](https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector) | 0 | JavaScript | 2026-10-13 | Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright. |
+| 32 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2364 | JavaScript | 2026-10-13 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 33 | [VulcanEon/image2.to-extension](https://github.com/VulcanEon/image2.to-extension) | 0 | JavaScript | 2026-10-13 | Open-source Chrome extension for drafting GPT Image 2 prompts for image2.to. |
+| 34 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-10-13 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
+| 35 | [jeb-maker/lagent-quotidien](https://github.com/jeb-maker/lagent-quotidien) | 1 | HTML | 2026-10-13 | Hebdo sur les agents IA |
+| 36 | [DanysDev/agencia-ventas-virtual](https://github.com/DanysDev/agencia-ventas-virtual) | 0 | TypeScript | 2026-10-13 | Sistema multiagente (OpenCode V2) que convierte productos crudos en publicaciones listas para Revolico y Facebook: 7 age |
+| 37 | [tinyhumansai/tinyskills](https://github.com/tinyhumansai/tinyskills) | 1 | Rust | 2026-10-13 | SKILL.md compatibility and execution written in rust |
+| 38 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 51637 | Python | 2026-10-13 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 39 | [2861292267/dsh-prompt-forge](https://github.com/2861292267/dsh-prompt-forge) | 3 | JavaScript | 2026-10-13 | WorkBuddy's 增强提示词 (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with  |
+| 40 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 32 | JavaScript | 2026-10-13 | Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom |
+| 41 | [4ndr0666/gpt](https://github.com/4ndr0666/gpt) | 25 | Python | 2026-10-13 | A.I. Sorcery |
+| 42 | [zk980818/sandwich-dev](https://github.com/zk980818/sandwich-dev) | 0 | JavaScript | 2026-10-13 | 三明治开发法 Sandwich Dev — 你只做定稿人，Agent 承包其余一切，git 留下每一步证据。人读层/Agent读层双读者模型的 AI 产品研发工作流。 |
+| 43 | [JhonnyAdriZambrano/senior-engineering-agent](https://github.com/JhonnyAdriZambrano/senior-engineering-agent) | 0 | Python | 2026-10-13 | Claude Code plugin: a Senior Software Engineer & IT Architect agent with deterministic safety hooks — asks before destru |
+| 44 | [FikriAlfaraby/wa-lead-extractor](https://github.com/FikriAlfaraby/wa-lead-extractor) | 0 | TypeScript | 2026-10-13 | End-to-end slice of an AI lead re-engagement pipeline for WhatsApp property leads — cite-or-null extraction guardrails,  |
+| 45 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | 123 | HTML | 2026-10-13 | Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control |
+| 46 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39969 | JavaScript | 2026-10-13 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 47 | [deadly-centropomus6106/image-gen-open-source](https://github.com/deadly-centropomus6106/image-gen-open-source) | 0 | JavaScript | 2026-10-13 | Generate, edit, and compare AI images using multiple models with your own API keys in one private workspace. |
+| 48 | [hhakahhhaj-blip/WhisperDeck](https://github.com/hhakahhhaj-blip/WhisperDeck) | 0 | Python | 2026-10-13 | Transcribe voice memos locally with trim, tag, and export tools—no cloud uploads, ever. |
+| 49 | [2148-wq/DLSS5-for-Nuke](https://github.com/2148-wq/DLSS5-for-Nuke) | 1 | C++ | 2026-10-13 | Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs. |
+| 50 | [Michel-IT/Kotodama](https://github.com/Michel-IT/Kotodama) | 5 | Rust | 2026-10-13 | One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B |
 <!-- TRACKER_TABLE_END -->
 
 ---
