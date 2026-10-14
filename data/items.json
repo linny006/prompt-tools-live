@@ -1,5 +1,167 @@
 [
   {
+    "description": "\u53f0\u5f0f\u82f1\u6587\u6293\u87f2\u5668\uff1a\u8b93AI\u50cf\u82f1\u6587\u8001\u5e2b\u4e00\u6a23\uff0c\u6293\u51fa\u4f60\u4ee5\u70ba\u662f\u5c0d\u7684\u53f0\u5f0f\u82f1\u6587\uff0830\u689d\u901a\u7528\u898f\u5247\uff0b7\u500b\u60c5\u5883\u5305\uff09\u3002An AI skill that catches Taiwanese/Chinglish patterns in business English",
+    "id": "WilsonAImaster/taiwanese-english-checker",
+    "language": "HTML",
+    "name": "WilsonAImaster/taiwanese-english-checker",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:14:41Z",
+    "url": "https://github.com/WilsonAImaster/taiwanese-english-checker"
+  },
+  {
+    "description": "\u041a\u043b\u0438\u0435\u043d\u0442-\u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0435 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438 \u0438 \u043e\u0431\u0449\u0438\u0439 \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 AGENTS.md \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432, \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0445 \u0441 \u043a\u043e\u0434\u043e\u043c",
+    "id": "snaplyze/agent-playbook",
+    "language": "JavaScript",
+    "name": "snaplyze/agent-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:13:49Z",
+    "url": "https://github.com/snaplyze/agent-playbook"
+  },
+  {
+    "description": "Agent Skills for Claude Code and skills-aware runtimes: MCP, design, code review, workflows, Next.js, and creative produ",
+    "id": "frankxai/claude-skills-library",
+    "language": "Python",
+    "name": "frankxai/claude-skills-library",
+    "stars": 47,
+    "updated_at": "2026-10-14T04:12:53Z",
+    "url": "https://github.com/frankxai/claude-skills-library"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28374,
+    "updated_at": "2026-10-14T04:12:52Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
+    "id": "Antarsoft/morphness",
+    "language": "Shell",
+    "name": "Antarsoft/morphness",
+    "stars": 2,
+    "updated_at": "2026-10-14T04:12:31Z",
+    "url": "https://github.com/Antarsoft/morphness"
+  },
+  {
+    "description": "\u62c9\u59c6&\u857e\u59c6\u53cc\u5b50\u72b6\u6001\u673a + LLM \u7075\u9b42\u8868\u8fbe\u7cfb\u7edf\uff5c\u786c\u7ea6\u675f\u00d7\u8f6f\u8868\u8fbe\u7684 Character AI \u5b9e\u8df5\uff08\u72b6\u6001\u673a/\u5fe0\u8bda\u9501\u5b9a/\u4e8b\u4ef6\u8bb0\u5fc6/\u53ef\u8bc4\u4f30\uff09",
+    "id": "kangxiaodong58-create/rezero_twin",
+    "language": "Python",
+    "name": "kangxiaodong58-create/rezero_twin",
+    "stars": 1,
+    "updated_at": "2026-10-14T04:11:38Z",
+    "url": "https://github.com/kangxiaodong58-create/rezero_twin"
+  },
+  {
+    "description": "Turn any image into one of 37 curated art styles. Ships a production-tested prompt library, per-style strength recommend",
+    "id": "jyi06/image-style-transfer",
+    "language": "Python",
+    "name": "jyi06/image-style-transfer",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:11:18Z",
+    "url": "https://github.com/jyi06/image-style-transfer"
+  },
+  {
+    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
+    "id": "chjm-ai/vococo",
+    "language": "Python",
+    "name": "chjm-ai/vococo",
+    "stars": 41,
+    "updated_at": "2026-10-14T04:10:00Z",
+    "url": "https://github.com/chjm-ai/vococo"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 65,
+    "updated_at": "2026-10-14T04:09:55Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-14T04:07:56Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
+    "id": "devcxl/opencode-cabbage",
+    "language": "TypeScript",
+    "name": "devcxl/opencode-cabbage",
+    "stars": 3,
+    "updated_at": "2026-10-14T04:07:38Z",
+    "url": "https://github.com/devcxl/opencode-cabbage"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13578,
+    "updated_at": "2026-10-14T04:05:04Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-14T04:03:07Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
+    "id": "vlastimilbures/promptmend",
+    "language": "Python",
+    "name": "vlastimilbures/promptmend",
+    "stars": 3,
+    "updated_at": "2026-10-14T04:02:43Z",
+    "url": "https://github.com/vlastimilbures/promptmend"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:01:04Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-14T04:01:42Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
+    "id": "hmmhmmhm/align.md",
+    "language": "Python",
+    "name": "hmmhmmhm/align.md",
+    "stars": 1,
+    "updated_at": "2026-10-14T04:01:38Z",
+    "url": "https://github.com/hmmhmmhm/align.md"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T04:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -16,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T03:59:31Z",
     "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
-    "id": "hmmhmmhm/align.md",
-    "language": "Python",
-    "name": "hmmhmmhm/align.md",
-    "stars": 1,
-    "updated_at": "2026-10-14T03:58:53Z",
-    "url": "https://github.com/hmmhmmhm/align.md"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -90,51 +243,6 @@
     "url": "https://github.com/ilang-ai/autocode"
   },
   {
-    "description": "\u041a\u043b\u0438\u0435\u043d\u0442-\u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0435 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438 \u0438 \u043e\u0431\u0449\u0438\u0439 \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 AGENTS.md \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432, \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0445 \u0441 \u043a\u043e\u0434\u043e\u043c",
-    "id": "snaplyze/agent-playbook",
-    "language": "JavaScript",
-    "name": "snaplyze/agent-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:50:21Z",
-    "url": "https://github.com/snaplyze/agent-playbook"
-  },
-  {
-    "description": "Agent Skills for Claude Code and skills-aware runtimes: MCP, design, code review, workflows, Next.js, and creative produ",
-    "id": "frankxai/claude-skills-library",
-    "language": "Python",
-    "name": "frankxai/claude-skills-library",
-    "stars": 47,
-    "updated_at": "2026-10-14T03:48:21Z",
-    "url": "https://github.com/frankxai/claude-skills-library"
-  },
-  {
-    "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
-    "id": "Antarsoft/morphness",
-    "language": "Shell",
-    "name": "Antarsoft/morphness",
-    "stars": 2,
-    "updated_at": "2026-10-14T03:45:41Z",
-    "url": "https://github.com/Antarsoft/morphness"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-14T03:46:37Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T03:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -194,7 +302,7 @@
     "language": "Shell",
     "name": "franciszver/ways-of-working",
     "stars": 0,
-    "updated_at": "2026-10-14T03:37:30Z",
+    "updated_at": "2026-10-14T04:07:48Z",
     "url": "https://github.com/franciszver/ways-of-working"
   },
   {
@@ -266,7 +374,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-14T03:40:30Z",
+    "updated_at": "2026-10-14T04:10:09Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -277,15 +385,6 @@
     "stars": 172883,
     "updated_at": "2026-10-14T03:18:09Z",
     "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28374,
-    "updated_at": "2026-10-14T03:44:47Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Curated GPT-Image-2 prompt library with preview images, 1-click copy, and direct generate links. Supports multi-language",
@@ -349,104 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-14T03:08:43Z",
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
-  },
-  {
-    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
-    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "stars": 6,
-    "updated_at": "2026-10-14T03:08:35Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-14T03:44:54Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 234,
-    "updated_at": "2026-10-14T03:08:20Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
-    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "language": "JavaScript",
-    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "stars": 20,
-    "updated_at": "2026-10-14T03:08:11Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 7,
-    "updated_at": "2026-10-14T03:08:01Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "awesome-seedance-2-prompt",
-    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "stars": 11,
-    "updated_at": "2026-10-14T03:07:52Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 57,
-    "updated_at": "2026-10-14T03:07:40Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
-    "id": "chjm-ai/vococo",
-    "language": "Python",
-    "name": "chjm-ai/vococo",
-    "stars": 41,
-    "updated_at": "2026-10-14T03:05:01Z",
-    "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
-    "description": "A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills",
-    "id": "DollhouseMCP/mcp-server",
-    "language": "TypeScript",
-    "name": "DollhouseMCP/mcp-server",
-    "stars": 46,
-    "updated_at": "2026-10-14T03:01:29Z",
-    "url": "https://github.com/DollhouseMCP/mcp-server"
-  },
-  {
-    "description": "Everything You(r Ai agent) need to build a amazing, well-structured GitHub project",
-    "id": "opngo/Github-Repo-Essentials",
-    "language": "\u2014",
-    "name": "opngo/Github-Repo-Essentials",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:01:03Z",
-    "url": "https://github.com/opngo/Github-Repo-Essentials"
-  },
-  {
-    "description": "Turn any image into one of 37 curated art styles. Ships a production-tested prompt library, per-style strength recommend",
-    "id": "jyi06/image-style-transfer",
-    "language": "Python",
-    "name": "jyi06/image-style-transfer",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:58:06Z",
-    "url": "https://github.com/jyi06/image-style-transfer"
   }
 ]
