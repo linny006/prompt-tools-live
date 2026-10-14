@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-14T22:23:56Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:23:42Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:23:35Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
+    "id": "simota/agent-skills",
+    "language": "Python",
+    "name": "simota/agent-skills",
+    "stars": 93,
+    "updated_at": "2026-10-14T22:22:24Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-14T22:21:50Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4949,
+    "updated_at": "2026-10-14T22:23:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
     "id": "kapitan00000978-sketch/artisan",
     "language": "Python",
     "name": "kapitan00000978-sketch/artisan",
     "stars": 1,
-    "updated_at": "2026-10-14T22:15:18Z",
+    "updated_at": "2026-10-14T22:20:51Z",
     "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "ASL",
+    "name": "GenSEAM/asl",
+    "stars": 3,
+    "updated_at": "2026-10-14T22:20:34Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "Applying AI to QA work, step by step: LLM basics, prompt engineering, RAG, MCP, Langflow, n8n, LangSmith and DeepEval",
+    "id": "jayamvishnudeep/AiTester",
+    "language": "Python",
+    "name": "jayamvishnudeep/AiTester",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:20:11Z",
+    "url": "https://github.com/jayamvishnudeep/AiTester"
+  },
+  {
+    "description": "Portfolio de Xavier Bou, consultant IA \u2014 et journal d'audit public de sa construction par agent de code (specs, journal,",
+    "id": "xab-dev/portfolio-v2",
+    "language": "HTML",
+    "name": "xab-dev/portfolio-v2",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:19:38Z",
+    "url": "https://github.com/xab-dev/portfolio-v2"
+  },
+  {
+    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
+    "id": "alyrraza/docdesk-healthcare-rag-evals",
+    "language": "Python",
+    "name": "alyrraza/docdesk-healthcare-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:16:07Z",
+    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
@@ -14,8 +104,17 @@
     "language": "C#",
     "name": "ntatschner/loadout-cli",
     "stars": 3,
-    "updated_at": "2026-10-14T22:15:04Z",
+    "updated_at": "2026-10-14T22:16:04Z",
     "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T22:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -77,17 +176,8 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 65,
-    "updated_at": "2026-10-14T22:13:20Z",
+    "updated_at": "2026-10-14T22:22:29Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4950,
-    "updated_at": "2026-10-14T22:14:43Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Agent-agnostic AI pair-programming workflow. Installs once, works with Claude Code, Copilot CLI, Gemini CLI, Codex CLI, ",
@@ -225,33 +315,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T22:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 3,
-    "updated_at": "2026-10-14T22:00:16Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
-    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
-    "id": "alyrraza/docdesk-healthcare-rag-evals",
-    "language": "Python",
-    "name": "alyrraza/docdesk-healthcare-rag-evals",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:59:26Z",
-    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
-  },
-  {
     "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
     "id": "Aqualung61/MissioneOdessa",
     "language": "TypeScript",
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T21:58:52Z",
     "url": "https://github.com/Aqualung61/MissioneOdessa"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:53:25Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-14T22:06:17Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-python"
-  },
-  {
-    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
-    "id": "eric-sabe/engsys",
-    "language": "JavaScript",
-    "name": "eric-sabe/engsys",
-    "stars": 3,
-    "updated_at": "2026-10-14T22:07:40Z",
-    "url": "https://github.com/eric-sabe/engsys"
-  },
-  {
-    "description": "A native macOS companion for Draw Things: always-visible image and Moodboard inputs, a canvas you can draw on from an iP",
-    "id": "EXistenz-78/dt-hub",
-    "language": "Swift",
-    "name": "EXistenz-78/dt-hub",
-    "stars": 15,
-    "updated_at": "2026-10-14T21:22:57Z",
-    "url": "https://github.com/EXistenz-78/dt-hub"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-14T21:19:14Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Your AI coding agent follows these files blindly, before it reads a line of your code.",
-    "id": "Aaditya1273/Agent.md",
-    "language": "\u2014",
-    "name": "Aaditya1273/Agent.md",
-    "stars": 9,
-    "updated_at": "2026-10-14T21:18:10Z",
-    "url": "https://github.com/Aaditya1273/Agent.md"
-  },
-  {
-    "description": "Free prompt kit that turns a research question into an evidence-based Deep Research workflow. \u8abf\u3079\u305f\u3044\u3053\u3068\u3092\u66f8\u304f\u3060\u3051\u3002Deep Research\u3092",
-    "id": "KS278810/research-robo",
-    "language": "HTML",
-    "name": "KS278810/research-robo",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:16:52Z",
-    "url": "https://github.com/KS278810/research-robo"
-  },
-  {
-    "description": "Claude Code, tamed: terse answers, small diffs, verified work, guarded git.",
-    "id": "HT0710/claudzilla",
-    "language": "TypeScript",
-    "name": "HT0710/claudzilla",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:16:38Z",
-    "url": "https://github.com/HT0710/claudzilla"
   }
 ]
