@@ -1,5 +1,167 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4947,
+    "updated_at": "2026-10-14T19:22:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:20:11Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "\u8dd1\u4e86 20+ \u6279\u5b9e\u9a8c\uff1a\u8fd9\u4e2a DSH \u6a21\u5f0f\u4e0d\u4f1a\u8ba9\u6a21\u578b\u66f4\u806a\u660e\uff0c\u4f46\u66f4\u5feb\u66f4\u7701\u3002\u9644\u5e26\u53d1\u73b0\uff1a\u5b83\u8ba9\u6a21\u578b\u5c11\u67e5\u8d44\u6599\u3001\u591a\u9760\u731c\u3002",
+    "id": "walksls/not-smarter-just-faster",
+    "language": "JavaScript",
+    "name": "walksls/not-smarter-just-faster",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:19:50Z",
+    "url": "https://github.com/walksls/not-smarter-just-faster"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:19:16Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
+    "id": "kapitan00000978-sketch/artisan",
+    "language": "Python",
+    "name": "kapitan00000978-sketch/artisan",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:19:14Z",
+    "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:19:09Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:18:13Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:22:33Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 11,
+    "updated_at": "2026-10-14T19:16:51Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 6,
+    "updated_at": "2026-10-14T19:16:50Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:16:46Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:16:42Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
+    "id": "Shreyash3007/aegis",
+    "language": "TypeScript",
+    "name": "Shreyash3007/aegis",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:16:42Z",
+    "url": "https://github.com/Shreyash3007/aegis"
+  },
+  {
+    "description": "A lean harness template for AI coding agents: 6 skills, 1 sensor, 1 agent. Works with Claude Code and GitHub Copilot.",
+    "id": "robmab/one-agent-harness",
+    "language": "Python",
+    "name": "robmab/one-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:16:33Z",
+    "url": "https://github.com/robmab/one-agent-harness"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11836,
+    "updated_at": "2026-10-14T19:17:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T19:15:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:20:51Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:15:35Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
     "description": "Claude Jailbreak Prompt enables AI-driven prompt engineering solutions without any association to Apple products.",
     "id": "voidsunspeak/czgycaem",
     "language": "\u2014",
@@ -14,7 +176,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-10-14T19:15:33Z",
+    "updated_at": "2026-10-14T19:16:20Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -50,17 +212,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22601,
-    "updated_at": "2026-10-14T19:11:48Z",
+    "updated_at": "2026-10-14T19:21:42Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:15:34Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
   },
   {
     "description": "A collection of skills I made for AI agents and models to speed up my workflow as well as yours",
@@ -81,13 +234,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
-    "id": "kapitan00000978-sketch/artisan",
-    "language": "Python",
-    "name": "kapitan00000978-sketch/artisan",
-    "stars": 1,
-    "updated_at": "2026-10-14T19:08:47Z",
-    "url": "https://github.com/kapitan00000978-sketch/artisan"
+    "description": "Your coding agent asks 'is this it?' before it builds the wrong thing. Claude Code + Codex prompt hook, learns your word",
+    "id": "jtlgrowth/wdym",
+    "language": "JavaScript",
+    "name": "jtlgrowth/wdym",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:08:27Z",
+    "url": "https://github.com/jtlgrowth/wdym"
   },
   {
     "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
@@ -103,7 +256,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 111841,
+    "stars": 111844,
     "updated_at": "2026-10-14T19:07:19Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -115,15 +268,6 @@
     "stars": 26000,
     "updated_at": "2026-10-14T19:09:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-14T19:15:29Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -158,26 +302,8 @@
     "language": "Python",
     "name": "ariffazil/arifOS",
     "stars": 53,
-    "updated_at": "2026-10-14T19:03:37Z",
+    "updated_at": "2026-10-14T19:20:33Z",
     "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "A lean harness template for AI coding agents: 6 skills, 1 sensor, 1 agent. Works with Claude Code and GitHub Copilot.",
-    "id": "robmab/one-agent-harness",
-    "language": "Python",
-    "name": "robmab/one-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:00:56Z",
-    "url": "https://github.com/robmab/one-agent-harness"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:00:50Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -187,24 +313,6 @@
     "stars": 8,
     "updated_at": "2026-10-14T19:01:37Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T19:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11836,
-    "updated_at": "2026-10-14T19:01:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A collection of reusable AI Agent Skills for development, DevOps, and content automation.",
@@ -241,15 +349,6 @@
     "stars": 11,
     "updated_at": "2026-10-14T18:57:10Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
-    "id": "Shreyash3007/aegis",
-    "language": "TypeScript",
-    "name": "Shreyash3007/aegis",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:13:08Z",
-    "url": "https://github.com/Shreyash3007/aegis"
   },
   {
     "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
@@ -297,15 +396,6 @@
     "url": "https://github.com/CECILIALOVE0616/dsh-prompt-studio"
   },
   {
-    "description": "\u8dd1\u4e86 20+ \u6279\u5b9e\u9a8c\uff1a\u8fd9\u4e2a DSH \u6a21\u5f0f\u4e0d\u4f1a\u8ba9\u6a21\u578b\u66f4\u806a\u660e\uff0c\u4f46\u66f4\u5feb\u66f4\u7701\u3002\u9644\u5e26\u53d1\u73b0\uff1a\u5b83\u8ba9\u6a21\u578b\u5c11\u67e5\u8d44\u6599\u3001\u591a\u9760\u731c\u3002",
-    "id": "walksls/not-smarter-just-faster",
-    "language": "JavaScript",
-    "name": "walksls/not-smarter-just-faster",
-    "stars": 2,
-    "updated_at": "2026-10-14T18:52:21Z",
-    "url": "https://github.com/walksls/not-smarter-just-faster"
-  },
-  {
     "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
     "id": "Michel-IT/Kotodama",
     "language": "Rust",
@@ -313,15 +403,6 @@
     "stars": 5,
     "updated_at": "2026-10-14T18:51:20Z",
     "url": "https://github.com/Michel-IT/Kotodama"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4947,
-    "updated_at": "2026-10-14T19:14:36Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
@@ -340,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:57:49Z",
     "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 6,
-    "updated_at": "2026-10-14T18:48:40Z",
-    "url": "https://github.com/nikolay-e/diffctx"
   },
   {
     "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-14T18:45:03Z",
     "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:44:26Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:43:40Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:42:36Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Cole\u00e7\u00e3o pessoal de skills, runbooks e diretrizes para o Google Antigravity IDE e agentes de IA, focadas em boas pr\u00e1ticas",
-    "id": "lucasgabriel0802/my-agent-skills",
-    "language": "\u2014",
-    "name": "lucasgabriel0802/my-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:41:34Z",
-    "url": "https://github.com/lucasgabriel0802/my-agent-skills"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 21,
-    "updated_at": "2026-10-14T18:41:12Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-10-14T18:38:51Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "18 small AI/ML demo apps in Python (Streamlit): neural nets, RL, evolution, tiny GPT, RAG, Grad-CAM, prompt games. Sourc",
-    "id": "lakshmansha/rnd-projects-aiml",
-    "language": "Python",
-    "name": "lakshmansha/rnd-projects-aiml",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:35:26Z",
-    "url": "https://github.com/lakshmansha/rnd-projects-aiml"
-  },
-  {
-    "description": "MiniMax H3 \u5168\u57df\u63d0\u793a\u8bcd\u5de5\u7a0b Skill v1.8.1\uff5cAIMixer Director \u5bfc\u6f14\u53f0\u751f\u4ea7\u89c4\u5219 + \u6b66\u6253/\u5175\u5668/\u67aa\u6597\u7f16\u6392\uff5cT2VA / I2VA / FL2VA / L2VA / Ref2VA\uff5cSubject \u4e0e Pict",
-    "id": "AI-KSK/aiksk-minimax-h3-local-prompt",
-    "language": "Python",
-    "name": "AI-KSK/aiksk-minimax-h3-local-prompt",
-    "stars": 29,
-    "updated_at": "2026-10-14T18:33:20Z",
-    "url": "https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt"
   }
 ]
