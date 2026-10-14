@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-14T18:45:03Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:44:26Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:43:40Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\u628a\u5343\u95ee/Claude/GPT/Kimi\u7b49AI\u53d8\u6210\u6587\u5b57\u6e38\u620f\u5f15\u64ce\u3002\u590d\u5236\u4ed3\u5e93\u94fe\u63a5\u7ed9AI\uff0c\u5c31\u80fd\u73a9\u751f\u5b58RPG\u3001\u63a8\u7406\u3001\u5192\u9669\u7b49\u4e92\u52a8\u6e38\u620f\u3002\u7eafMarkdown\uff0c\u65e0\u9700\u5b89\u88c5\uff0c\u624b\u673a\u76f4\u63a5\u73a9\u3002",
+    "id": "badhope/melee",
+    "language": "TypeScript",
+    "name": "badhope/melee",
+    "stars": 3,
+    "updated_at": "2026-10-14T18:43:29Z",
+    "url": "https://github.com/badhope/melee"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:42:36Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "\u8dd1\u4e86 20+ \u6279\u5b9e\u9a8c\uff1a\u8fd9\u4e2a DSH \u6a21\u5f0f\u4e0d\u4f1a\u8ba9\u6a21\u578b\u66f4\u806a\u660e\uff0c\u4f46\u66f4\u5feb\u66f4\u7701\u3002\u9644\u5e26\u53d1\u73b0\uff1a\u5b83\u8ba9\u6a21\u578b\u5c11\u67e5\u8d44\u6599\u3001\u591a\u9760\u731c\u3002",
     "id": "walksls/not-smarter-just-faster",
     "language": "JavaScript",
     "name": "walksls/not-smarter-just-faster",
     "stars": 2,
-    "updated_at": "2026-10-14T18:29:41Z",
+    "updated_at": "2026-10-14T18:42:35Z",
     "url": "https://github.com/walksls/not-smarter-just-faster"
+  },
+  {
+    "description": "DSH \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0\uff1a\u4f18\u5316\u4e0e\u591a\u8f6e\u8fed\u4ee3 | Prompt Studio plugin for DeepSeek Harness",
+    "id": "CECILIALOVE0616/dsh-prompt-studio",
+    "language": "JavaScript",
+    "name": "CECILIALOVE0616/dsh-prompt-studio",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:41:44Z",
+    "url": "https://github.com/CECILIALOVE0616/dsh-prompt-studio"
+  },
+  {
+    "description": "Cole\u00e7\u00e3o pessoal de skills, runbooks e diretrizes para o Google Antigravity IDE e agentes de IA, focadas em boas pr\u00e1ticas",
+    "id": "lucasgabriel0802/my-agent-skills",
+    "language": "\u2014",
+    "name": "lucasgabriel0802/my-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:41:34Z",
+    "url": "https://github.com/lucasgabriel0802/my-agent-skills"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 11,
+    "updated_at": "2026-10-14T18:41:16Z",
+    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -14,8 +86,116 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 21,
-    "updated_at": "2026-10-14T18:30:17Z",
+    "updated_at": "2026-10-14T18:41:12Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-10-14T18:38:51Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-14T18:39:09Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4947,
+    "updated_at": "2026-10-14T18:45:00Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
+    "id": "kapitan00000978-sketch/artisan",
+    "language": "Python",
+    "name": "kapitan00000978-sketch/artisan",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:36:57Z",
+    "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "18 small AI/ML demo apps in Python (Streamlit): neural nets, RL, evolution, tiny GPT, RAG, Grad-CAM, prompt games. Sourc",
+    "id": "lakshmansha/rnd-projects-aiml",
+    "language": "Python",
+    "name": "lakshmansha/rnd-projects-aiml",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:35:26Z",
+    "url": "https://github.com/lakshmansha/rnd-projects-aiml"
+  },
+  {
+    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
+    "id": "Shreyash3007/aegis",
+    "language": "TypeScript",
+    "name": "Shreyash3007/aegis",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:34:33Z",
+    "url": "https://github.com/Shreyash3007/aegis"
+  },
+  {
+    "description": "Claude Jailbreak Prompt enables AI-driven prompt engineering solutions without any association to Apple products.",
+    "id": "voidsunspeak/czgycaem",
+    "language": "\u2014",
+    "name": "voidsunspeak/czgycaem",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:34:13Z",
+    "url": "https://github.com/voidsunspeak/czgycaem"
+  },
+  {
+    "description": "MiniMax H3 \u5168\u57df\u63d0\u793a\u8bcd\u5de5\u7a0b Skill v1.8.1\uff5cAIMixer Director \u5bfc\u6f14\u53f0\u751f\u4ea7\u89c4\u5219 + \u6b66\u6253/\u5175\u5668/\u67aa\u6597\u7f16\u6392\uff5cT2VA / I2VA / FL2VA / L2VA / Ref2VA\uff5cSubject \u4e0e Pict",
+    "id": "AI-KSK/aiksk-minimax-h3-local-prompt",
+    "language": "Python",
+    "name": "AI-KSK/aiksk-minimax-h3-local-prompt",
+    "stars": 29,
+    "updated_at": "2026-10-14T18:33:20Z",
+    "url": "https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt"
+  },
+  {
+    "description": "The layer between your idea and your build.",
+    "id": "AtharvaK-XD/Bedrock",
+    "language": "TypeScript",
+    "name": "AtharvaK-XD/Bedrock",
+    "stars": 2,
+    "updated_at": "2026-10-14T18:33:14Z",
+    "url": "https://github.com/AtharvaK-XD/Bedrock"
+  },
+  {
+    "description": "Sanitized architecture pattern (index, feedback rules, hooks, skills, scoped custom agents) extracted from a real produc",
+    "id": "terezakohutova/claude-code-architecture-showcase",
+    "language": "JavaScript",
+    "name": "terezakohutova/claude-code-architecture-showcase",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:32:36Z",
+    "url": "https://github.com/terezakohutova/claude-code-architecture-showcase"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T18:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 111833,
+    "updated_at": "2026-10-14T18:29:32Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -25,24 +205,6 @@
     "stars": 4,
     "updated_at": "2026-10-14T18:28:50Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
-    "id": "Shreyash3007/aegis",
-    "language": "TypeScript",
-    "name": "Shreyash3007/aegis",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:28:41Z",
-    "url": "https://github.com/Shreyash3007/aegis"
-  },
-  {
-    "description": "Cole\u00e7\u00e3o pessoal de skills, runbooks e diretrizes para o Google Antigravity IDE e agentes de IA, focadas em boas pr\u00e1ticas",
-    "id": "lucasgabriel0802/my-agent-skills",
-    "language": "\u2014",
-    "name": "lucasgabriel0802/my-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:27:55Z",
-    "url": "https://github.com/lucasgabriel0802/my-agent-skills"
   },
   {
     "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
@@ -81,15 +243,6 @@
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
-    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
-    "id": "kapitan00000978-sketch/artisan",
-    "language": "Python",
-    "name": "kapitan00000978-sketch/artisan",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:24:05Z",
-    "url": "https://github.com/kapitan00000978-sketch/artisan"
-  },
-  {
     "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
     "id": "Fishsb/dsh-prompt-enhancer",
     "language": "JavaScript",
@@ -97,33 +250,6 @@
     "stars": 93,
     "updated_at": "2026-10-14T18:22:57Z",
     "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "The layer between your idea and your build.",
-    "id": "AtharvaK-XD/Bedrock",
-    "language": "TypeScript",
-    "name": "AtharvaK-XD/Bedrock",
-    "stars": 2,
-    "updated_at": "2026-10-14T18:22:36Z",
-    "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4947,
-    "updated_at": "2026-10-14T18:26:46Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "DSH \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0\uff1a\u4f18\u5316\u3001\u591a\u8f6e\u8fed\u4ee3\u3001\u591a\u6a21\u578b\u5bf9\u6bd4\u6d4b\u8bd5 | Prompt Studio plugin for DeepSeek Harness \u2014 optimize, iterate, compare prompts",
-    "id": "CECILIALOVE0616/dsh-prompt-studio",
-    "language": "JavaScript",
-    "name": "CECILIALOVE0616/dsh-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:21:09Z",
-    "url": "https://github.com/CECILIALOVE0616/dsh-prompt-studio"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -216,15 +342,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T18:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "LLM memory management system \u2014 structured log, archive, compression, and search tools for autonomous AI agents.",
     "id": "cosmok82/Strict_LLM_Memory_System",
     "language": "Python",
@@ -232,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:14:33Z",
     "url": "https://github.com/cosmok82/Strict_LLM_Memory_System"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-10-14T18:14:08Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -279,15 +387,6 @@
     "url": "https://github.com/Jak29/semantext-app"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-14T18:23:21Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -324,15 +423,6 @@
     "url": "https://github.com/opsjohnbrownxmnn/iLang-Gospel"
   },
   {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:01:07Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -346,7 +436,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35828,
+    "stars": 35829,
     "updated_at": "2026-10-14T17:59:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:59:03Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 65,
-    "updated_at": "2026-10-14T18:28:45Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f RICK \u2014 Productor Creativo & Estudio de Marca Personal. Storytelling, quiebres cognitivos y guiones sin teleprompter (",
-    "id": "Mgomezpo/rick-marca-personal",
-    "language": "Python",
-    "name": "Mgomezpo/rick-marca-personal",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:57:50Z",
-    "url": "https://github.com/Mgomezpo/rick-marca-personal"
-  },
-  {
-    "description": "Agent skills for spec-driven development. An automated agentic delivery loop coordinates planning, implementation, and c",
-    "id": "valzav/valcraft",
-    "language": "Python",
-    "name": "valzav/valcraft",
-    "stars": 22,
-    "updated_at": "2026-10-14T17:57:17Z",
-    "url": "https://github.com/valzav/valcraft"
-  },
-  {
-    "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
-    "id": "Aqualung61/MissioneOdessa",
-    "language": "TypeScript",
-    "name": "Aqualung61/MissioneOdessa",
-    "stars": 1,
-    "updated_at": "2026-10-14T17:55:05Z",
-    "url": "https://github.com/Aqualung61/MissioneOdessa"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 11,
-    "updated_at": "2026-10-14T17:53:43Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Claude Jailbreak Prompt enables AI-driven prompt engineering solutions without any association to Apple products.",
-    "id": "voidsunspeak/czgycaem",
-    "language": "\u2014",
-    "name": "voidsunspeak/czgycaem",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:53:37Z",
-    "url": "https://github.com/voidsunspeak/czgycaem"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 68,
-    "updated_at": "2026-10-14T17:52:41Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-14T17:52:32Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Cognitive architecture for AI agents. 19+ skills that force language models past surface-level reasoning into genuine de",
-    "id": "Kshitijpalsinghtomar/depth-skills",
-    "language": "Python",
-    "name": "Kshitijpalsinghtomar/depth-skills",
-    "stars": 5,
-    "updated_at": "2026-10-14T17:48:56Z",
-    "url": "https://github.com/Kshitijpalsinghtomar/depth-skills"
-  },
-  {
-    "description": "LaclauGPT scripts for multimodal analysis of EP2024 social media videos. Meant to be run as batch jobs on CSC Roihu supe",
-    "id": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "language": "Python",
-    "name": "TomiToivio/LaclauGPT-Multimodal-Analysis",
-    "stars": 3,
-    "updated_at": "2026-10-14T17:45:43Z",
-    "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   }
 ]
