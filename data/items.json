@@ -1,5 +1,122 @@
 [
   {
+    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
+    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "language": "HTML",
+    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:45:05Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
+  },
+  {
+    "description": "Skills do meu agente pessoal (leao/GLM): metodologias empacotadas de fluxos executados \u2014 DevOps/Cloud, Kubernetes, espec",
+    "id": "juarezbamberg-source/skills",
+    "language": "Python",
+    "name": "juarezbamberg-source/skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:44:51Z",
+    "url": "https://github.com/juarezbamberg-source/skills"
+  },
+  {
+    "description": "Practical, director-led multi-agent AI coding workflows (Claude Code + Codex): consensus, collaboration, shared memory a",
+    "id": "TheGameWiz/Measure-Twice-Cut-Once",
+    "language": "\u2014",
+    "name": "TheGameWiz/Measure-Twice-Cut-Once",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:44:02Z",
+    "url": "https://github.com/TheGameWiz/Measure-Twice-Cut-Once"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:43:18Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
+    "id": "kapitan00000978-sketch/artisan",
+    "language": "Python",
+    "name": "kapitan00000978-sketch/artisan",
+    "stars": 1,
+    "updated_at": "2026-10-14T21:42:17Z",
+    "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T21:41:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 65,
+    "updated_at": "2026-10-14T21:39:27Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
+    "id": "Aqualung61/MissioneOdessa",
+    "language": "TypeScript",
+    "name": "Aqualung61/MissioneOdessa",
+    "stars": 1,
+    "updated_at": "2026-10-14T21:34:53Z",
+    "url": "https://github.com/Aqualung61/MissioneOdessa"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:34:02Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "ASL",
+    "name": "GenSEAM/asl",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:41:41Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "Your coding agent asks 'is this it?' before it builds the wrong thing. Claude Code + Codex prompt hook, learns your word",
+    "id": "jtlgrowth/wdym",
+    "language": "JavaScript",
+    "name": "jtlgrowth/wdym",
+    "stars": 1,
+    "updated_at": "2026-10-14T21:32:38Z",
+    "url": "https://github.com/jtlgrowth/wdym"
+  },
+  {
+    "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
+    "id": "theultimate-dev/skills",
+    "language": "Python",
+    "name": "theultimate-dev/skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:33:12Z",
+    "url": "https://github.com/theultimate-dev/skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T21:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The layer between your idea and your build.",
     "id": "AtharvaK-XD/Bedrock",
     "language": "TypeScript",
@@ -9,40 +126,13 @@
     "url": "https://github.com/AtharvaK-XD/Bedrock"
   },
   {
-    "description": "Agent skills in the open Agent Skills format, grouped into plugins: foundations, product design, product engineering, pr",
-    "id": "theultimate-dev/skills",
-    "language": "Python",
-    "name": "theultimate-dev/skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:30:07Z",
-    "url": "https://github.com/theultimate-dev/skills"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 4010,
-    "updated_at": "2026-10-14T21:29:44Z",
+    "updated_at": "2026-10-14T21:33:35Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
-    "id": "kapitan00000978-sketch/artisan",
-    "language": "Python",
-    "name": "kapitan00000978-sketch/artisan",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:28:42Z",
-    "url": "https://github.com/kapitan00000978-sketch/artisan"
-  },
-  {
-    "description": "Your coding agent asks 'is this it?' before it builds the wrong thing. Claude Code + Codex prompt hook, learns your word",
-    "id": "jtlgrowth/wdym",
-    "language": "JavaScript",
-    "name": "jtlgrowth/wdym",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:28:26Z",
-    "url": "https://github.com/jtlgrowth/wdym"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4950,
-    "updated_at": "2026-10-14T21:28:22Z",
+    "updated_at": "2026-10-14T21:42:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T21:26:28Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
     "id": "zahiruddin586-cpu/ai-web-forge",
     "language": "HTML",
@@ -108,30 +189,12 @@
     "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
   },
   {
-    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
-    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "language": "HTML",
-    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:25:56Z",
-    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 3,
-    "updated_at": "2026-10-14T21:29:05Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
     "description": "Zero-config LLM cost & quality monitoring for Python apps - automatically log AI API calls and collect user feedback for",
     "id": "Coolhand-Labs/coolhand-python",
     "language": "Python",
     "name": "Coolhand-Labs/coolhand-python",
     "stars": 2,
-    "updated_at": "2026-10-14T21:25:56Z",
+    "updated_at": "2026-10-14T21:45:07Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-python"
   },
   {
@@ -157,7 +220,7 @@
     "id": "EXistenz-78/dt-hub",
     "language": "Swift",
     "name": "EXistenz-78/dt-hub",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-10-14T21:22:57Z",
     "url": "https://github.com/EXistenz-78/dt-hub"
   },
@@ -225,30 +288,12 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T21:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
-    "id": "Aqualung61/MissioneOdessa",
-    "language": "TypeScript",
-    "name": "Aqualung61/MissioneOdessa",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:27:10Z",
-    "url": "https://github.com/Aqualung61/MissioneOdessa"
-  },
-  {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-14T21:30:00Z",
+    "updated_at": "2026-10-14T21:38:34Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:13:32Z",
     "url": "https://github.com/efsxanth/data-analytics-pipeline"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:12:31Z",
-    "url": "https://github.com/Hefrock/agent-skills"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T21:06:04Z",
     "url": "https://github.com/oleg494/coding-kit"
-  },
-  {
-    "description": "AI travel itinerary planner built with FastAPI and Google Gemini API that compares Zero-Shot, Few-Shot, and Structured R",
-    "id": "sumairanooruddin786-droid/AI-Travel-Planner-Using-Gemini-Prompting",
-    "language": "Python",
-    "name": "sumairanooruddin786-droid/AI-Travel-Planner-Using-Gemini-Prompting",
-    "stars": 1,
-    "updated_at": "2026-10-14T20:57:39Z",
-    "url": "https://github.com/sumairanooruddin786-droid/AI-Travel-Planner-Using-Gemini-Prompting"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26000,
-    "updated_at": "2026-10-14T20:57:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Coding Higher Mind \u2014 PG (PROMPT-GUARD): quality gates, reviewer agents, routines and an anti-hallucination protocol for ",
-    "id": "kamiljan11/coding-higher-mind",
-    "language": "JavaScript",
-    "name": "kamiljan11/coding-higher-mind",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:56:48Z",
-    "url": "https://github.com/kamiljan11/coding-higher-mind"
-  },
-  {
-    "description": "A portable, runtime-neutral protocol for turning intentions into decision-ready scope.",
-    "id": "partikularwaters/adaptive-scope-mapping-protocol",
-    "language": "Shell",
-    "name": "partikularwaters/adaptive-scope-mapping-protocol",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:53:42Z",
-    "url": "https://github.com/partikularwaters/adaptive-scope-mapping-protocol"
   }
 ]
