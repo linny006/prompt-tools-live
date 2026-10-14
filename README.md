@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 09:45 UTC
+> ⏰ Last updated: 2026-10-14 10:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 4626 | Python | 2026-10-14 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi |
-| 2 | [yzsp-studio/product-manager](https://github.com/yzsp-studio/product-manager) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35807 | TypeScript | 2026-10-14 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 4 | [mlgxiii/ai-chief-of-staff](https://github.com/mlgxiii/ai-chief-of-staff) | 0 | — | 2026-10-14 | A model-agnostic framework, prompt and templates for building your own AI Chief of Staff |
-| 5 | [yzsp-studio/product-content](https://github.com/yzsp-studio/product-content) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 6 | [vince-gonzalez/coldhat](https://github.com/vince-gonzalez/coldhat) | 0 | — | 2026-10-14 | Your AI rules on any chat, in one line: type open sesame and an address into Claude, ChatGPT or Grok. |
-| 7 | [yzsp-studio/product-analysis](https://github.com/yzsp-studio/product-analysis) | 0 | HTML | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 8 | [yzsp-studio/private-company](https://github.com/yzsp-studio/private-company) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 9 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-10-14 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 10 | [yzsp-studio/pov-short-film-generator](https://github.com/yzsp-studio/pov-short-film-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 11 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28376 | Python | 2026-10-14 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 12 | [yzsp-studio/poster-motion-generator](https://github.com/yzsp-studio/poster-motion-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 13 | [HaiLanDuJun/PromptMag](https://github.com/HaiLanDuJun/PromptMag) | 0 | JavaScript | 2026-10-14 | 🎯 CLI 提示词弹夹 · The tactical prompt magazine for CLI coding agents — inline image pinning, zero-ambiguity compilation, aut |
-| 14 | [malkreide/journeykit](https://github.com/malkreide/journeykit) | 0 | Python | 2026-10-14 | Evidence-based User Journeys for public administration — schema, lints, renderer, Claude skill |
-| 15 | [yzsp-studio/podcast-to-content-suite](https://github.com/yzsp-studio/podcast-to-content-suite) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 16 | [yzsp-studio/podcast-studio](https://github.com/yzsp-studio/podcast-studio) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 17 | [yzsp-studio/podcast-marketing](https://github.com/yzsp-studio/podcast-marketing) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 18 | [yzsp-studio/plot-twist-ad-generator](https://github.com/yzsp-studio/plot-twist-ad-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 19 | [yzsp-studio/pet-keynote-video](https://github.com/yzsp-studio/pet-keynote-video) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 20 | [yzsp-studio/personal-info-audit](https://github.com/yzsp-studio/personal-info-audit) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 21 | [yzsp-studio/pc-optimizer](https://github.com/yzsp-studio/pc-optimizer) | 0 | PowerShell | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 22 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22591 | Python | 2026-10-14 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 23 | [yzsp-studio/patent-drafting](https://github.com/yzsp-studio/patent-drafting) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 24 | [manusco/resonance](https://github.com/manusco/resonance) | 38 | Python | 2026-10-14 | Operator-grade AI agent skills for Claude Code, Cursor, Codex, and opencode. |
-| 25 | [yzsp-studio/papercraft-stop-motion-explainer](https://github.com/yzsp-studio/papercraft-stop-motion-explainer) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 26 | [yzsp-studio/paper-collage-explainer-generator](https://github.com/yzsp-studio/paper-collage-explainer-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 27 | [yzsp-studio/paper-close-reading](https://github.com/yzsp-studio/paper-close-reading) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 28 | [yzsp-studio/panoramic-character-breakdown](https://github.com/yzsp-studio/panoramic-character-breakdown) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 29 | [yzsp-studio/oceanengine-adops-agent](https://github.com/yzsp-studio/oceanengine-adops-agent) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 30 | [yzsp-studio/novel-writing](https://github.com/yzsp-studio/novel-writing) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 31 | [yzsp-studio/novel-storyboard](https://github.com/yzsp-studio/novel-storyboard) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 32 | [Jav1es/dsh-prompt-compiler](https://github.com/Jav1es/dsh-prompt-compiler) | 0 | JavaScript | 2026-10-14 | Prompt Compiler DSH plugin: compile rough drafts into structured prompts |
-| 33 | [LiorHaim/skills](https://github.com/LiorHaim/skills) | 0 | — | 2026-10-14 | AI agent skills for platform engineering. Teaches Claude Code and Cursor to build Red Hat Developer Hub / Backstage plug |
-| 34 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 2127 | TypeScript | 2026-10-14 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
-| 35 | [yzsp-studio/newmedia-writing](https://github.com/yzsp-studio/newmedia-writing) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 36 | [yzsp-studio/native-ad-mockup](https://github.com/yzsp-studio/native-ad-mockup) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 37 | [yzsp-studio/music3-song-craft](https://github.com/yzsp-studio/music3-song-craft) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 38 | [yzsp-studio/music-video-subtitle-generator](https://github.com/yzsp-studio/music-video-subtitle-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 39 | [FikriAlfaraby/wa-lead-extractor](https://github.com/FikriAlfaraby/wa-lead-extractor) | 0 | TypeScript | 2026-10-14 | End-to-end slice of an AI lead re-engagement pipeline for WhatsApp property leads — cite-or-null extraction guardrails,  |
-| 40 | [yzsp-studio/multiplatform-rewrite](https://github.com/yzsp-studio/multiplatform-rewrite) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 41 | [yzsp-studio/multilingual-hand-drawn-story-video](https://github.com/yzsp-studio/multilingual-hand-drawn-story-video) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 42 | [lucasmartins-ai/lookaberry](https://github.com/lucasmartins-ai/lookaberry) | 1 | TypeScript | 2026-10-14 | Autonomous, headless AI Go-to-Market (GTM) outbound engine & MCP Server powered by PostgreSQL 16 + pgvector. |
-| 43 | [yzsp-studio/multi-stock-comparison](https://github.com/yzsp-studio/multi-stock-comparison) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 44 | [alyrraza/docdesk-healthcare-rag-evals](https://github.com/alyrraza/docdesk-healthcare-rag-evals) | 0 | Python | 2026-10-14 | Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker |
-| 45 | [yzsp-studio/miyazaki-inspired-animation](https://github.com/yzsp-studio/miyazaki-inspired-animation) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 46 | [yzsp-studio/minimalist-product-ad-generator](https://github.com/yzsp-studio/minimalist-product-ad-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 47 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-14 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 48 | [yzsp-studio/micro-expression-video-generator](https://github.com/yzsp-studio/micro-expression-video-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 49 | [yzsp-studio/mg-voiceover-animation-generator](https://github.com/yzsp-studio/mg-voiceover-animation-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 50 | [yzsp-studio/medical-report](https://github.com/yzsp-studio/medical-report) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 1 | [yzsp-studio/ui-motion](https://github.com/yzsp-studio/ui-motion) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 2 | [zorcec/vibeflow](https://github.com/zorcec/vibeflow) | 2 | TypeScript | 2026-10-14 | AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for |
+| 3 | [kapitan00000978-sketch/artisan](https://github.com/kapitan00000978-sketch/artisan) | 1 | Python | 2026-10-14 | Open-source quality protocol for AI coding agents: role-based expert personas, a pre-commit and CI quality gate, an MCP  |
+| 4 | [yzsp-studio/typography-product-tvc](https://github.com/yzsp-studio/typography-product-tvc) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 5 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4946 | TypeScript | 2026-10-14 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 6 | [yzsp-studio/transcript-broll-planner](https://github.com/yzsp-studio/transcript-broll-planner) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 7 | [yzsp-studio/touchdesigner-workflow](https://github.com/yzsp-studio/touchdesigner-workflow) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 8 | [yzsp-studio/todoist-tasks](https://github.com/yzsp-studio/todoist-tasks) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 9 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 9060 | — | 2026-10-14 | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr |
+| 10 | [yzsp-studio/talking-head-to-animation](https://github.com/yzsp-studio/talking-head-to-animation) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 11 | [triton2030/agentic-research](https://github.com/triton2030/agentic-research) | 0 | Python | 2026-10-14 | Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude. |
+| 12 | [yzsp-studio/suspense-title-sequence-generator](https://github.com/yzsp-studio/suspense-title-sequence-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 13 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 0 | HTML | 2026-10-14 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 14 | [yzsp-studio/subtitle-correction](https://github.com/yzsp-studio/subtitle-correction) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 15 | [skillberry-ai/cap-evolve](https://github.com/skillberry-ai/cap-evolve) | 65 | Python | 2026-10-14 | Optimize any AI agent’s skills, tools/MCP, and prompts against your own evals. |
+| 16 | [yzsp-studio/student-discount-application](https://github.com/yzsp-studio/student-discount-application) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 17 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-10-14 | Claude Code plugin with four stages and hooks that refuse risky commands. |
+| 18 | [yzsp-studio/storyboard-9-grid](https://github.com/yzsp-studio/storyboard-9-grid) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 19 | [yzsp-studio/stock-screening](https://github.com/yzsp-studio/stock-screening) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 20 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 1 | TypeScript | 2026-10-14 | AI assistant setup, plus an optional GitHub workflow. |
+| 21 | [yzsp-studio/ssc](https://github.com/yzsp-studio/ssc) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 22 | [yzsp-studio/sports-podcast-outline](https://github.com/yzsp-studio/sports-podcast-outline) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 23 | [yzsp-studio/social-caption](https://github.com/yzsp-studio/social-caption) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 24 | [yzsp-studio/skill-reviewer](https://github.com/yzsp-studio/skill-reviewer) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 25 | [yzsp-studio/skill-creator-for-work](https://github.com/yzsp-studio/skill-creator-for-work) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 26 | [yzsp-studio/skill-creator](https://github.com/yzsp-studio/skill-creator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 27 | [yzsp-studio/sitcom-story-video](https://github.com/yzsp-studio/sitcom-story-video) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 28 | [yzsp-studio/silkscreen-decorative-illustration-short](https://github.com/yzsp-studio/silkscreen-decorative-illustration-short) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 29 | [yzsp-studio/shot-by-shot-study](https://github.com/yzsp-studio/shot-by-shot-study) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 30 | [mlgxiii/ai-chief-of-staff](https://github.com/mlgxiii/ai-chief-of-staff) | 0 | TypeScript | 2026-10-14 | A model-agnostic framework, prompt and templates for building your own AI Chief of Staff |
+| 31 | [gyr0byte/Generative-AI](https://github.com/gyr0byte/Generative-AI) | 0 | Python | 2026-10-14 | Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine |
+| 32 | [Open-Less/openless](https://github.com/Open-Less/openless) | 3822 | Rust | 2026-10-14 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
+| 33 | [StephenQiu30/glowloom-server](https://github.com/StephenQiu30/glowloom-server) | 1 | Go | 2026-10-14 | 织光 Glowloom 的服务仓库：AI 画布、生成、主体与素材管理，包含 Go 后端和 Next.js 前端。 |
+| 34 | [yzsp-studio/short-drama-series-writer](https://github.com/yzsp-studio/short-drama-series-writer) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 35 | [douwenxian0-lang/render-prompt-expert](https://github.com/douwenxian0-lang/render-prompt-expert) | 0 | — | 2026-10-14 | Parametric prompt expert for tile & interior rendering — 5 tile PBR parameter sets, 6 space lighting presets, anti-artif |
+| 36 | [heronbo111/HeronBo-AIGC-Prompt](https://github.com/heronbo111/HeronBo-AIGC-Prompt) | 1 | Tcl | 2026-10-14 | AI 视频提示词生成 + 成片六维评价 skill（图生视频/文生视频/参考视频生视频/参考视频替换生视频）；本地工作台 + 多 agent 协作 |
+| 37 | [yzsp-studio/short-drama-screenwriter](https://github.com/yzsp-studio/short-drama-screenwriter) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 38 | [douwenxian0-lang/master-style-render](https://github.com/douwenxian0-lang/master-style-render) | 0 | Python | 2026-10-14 | Turn a master designer's design language into parametric AI render prompts — 18 masters' style DNA + tile fidelity & gro |
+| 39 | [yzsp-studio/short-drama-production](https://github.com/yzsp-studio/short-drama-production) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 40 | [aiKunalBisht/Transcript-ai](https://github.com/aiKunalBisht/Transcript-ai) | 3 | Python | 2026-10-14 | In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi |
+| 41 | [ByronFinn/PromptOpt](https://github.com/ByronFinn/PromptOpt) | 1 | Go | 2026-10-14 | Eval-driven prompt search & regression-testing framework — reproducible, comparable, revertible prompt tuning. 评估驱动的 Pro |
+| 42 | [yzsp-studio/short-drama-multilingual-dubbing](https://github.com/yzsp-studio/short-drama-multilingual-dubbing) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 43 | [HaiLanDuJun/PromptMag](https://github.com/HaiLanDuJun/PromptMag) | 0 | JavaScript | 2026-10-14 | 🎯 CLI 提示词弹夹 · The tactical prompt magazine for CLI coding agents — inline image pinning, zero-ambiguity compilation, aut |
+| 44 | [xsefirosus/sefi-agents](https://github.com/xsefirosus/sefi-agents) | 1 | Shell | 2026-10-14 | A 17-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route |
+| 45 | [yzsp-studio/short-drama-full-pipeline](https://github.com/yzsp-studio/short-drama-full-pipeline) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 46 | [Sungmin-Cho/deep-suite](https://github.com/Sungmin-Cho/deep-suite) | 9 | JavaScript | 2026-10-14 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
+| 47 | [yzsp-studio/sentiment-tracker](https://github.com/yzsp-studio/sentiment-tracker) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 48 | [yzsp-studio/seed-audio](https://github.com/yzsp-studio/seed-audio) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 49 | [gascoigne-ai/gascoigne-cli](https://github.com/gascoigne-ai/gascoigne-cli) | 1 | Go | 2026-10-14 | A token optimizer for coding agents. It shrinks command output, tool results and web pages before they reach the model,  |
+| 50 | [yzsp-studio/reference-video-recreation-workflow](https://github.com/yzsp-studio/reference-video-recreation-workflow) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
 <!-- TRACKER_TABLE_END -->
 
 ---
