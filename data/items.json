@@ -1,12 +1,102 @@
 [
   {
-    "description": "\u522b\u7b49\u5c3d\u8c03\u624d\u53d1\u73b0\u70c2\u8d26\uff1a5 \u884c\u6458\u8981\u5148\u4eae\u7ea2\u65d7 | Five-line screening report: spot red flags before due diligence \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https:",
-    "id": "yzsp-studio/private-company",
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "TypeScript",
+    "name": "bladeacer/lccst",
+    "stars": 5,
+    "updated_at": "2026-10-14T11:43:56Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35810,
+    "updated_at": "2026-10-14T11:43:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-14T11:42:20Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "Question patterns, anti-patterns & calibration notes for Jev (TypeSafe AI) \u2014 the prompt engineering of typed decisions. ",
+    "id": "vicfei/awesome-jev-prompts",
     "language": "Python",
-    "name": "yzsp-studio/private-company",
+    "name": "vicfei/awesome-jev-prompts",
+    "stars": 4,
+    "updated_at": "2026-10-14T11:39:47Z",
+    "url": "https://github.com/vicfei/awesome-jev-prompts"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 23,
+    "updated_at": "2026-10-14T11:39:19Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 11,
+    "updated_at": "2026-10-14T11:37:27Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u8bdd\u8bf4\u5f97\u5bf9\u4e0d\u5bf9\u53ea\u5360 7%\uff0cAI \u914d\u97f3\u5374\u628a\u5269\u4e0b 93% \u5168\u4e22\u4e86 | Words are 7% of meaning. Most AI voices drop the other 93%. \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac ",
+    "id": "yzsp-studio/voice-performance-layer",
+    "language": "\u2014",
+    "name": "yzsp-studio/voice-performance-layer",
     "stars": 0,
-    "updated_at": "2026-10-14T11:30:28Z",
-    "url": "https://github.com/yzsp-studio/private-company"
+    "updated_at": "2026-10-14T11:36:37Z",
+    "url": "https://github.com/yzsp-studio/voice-performance-layer"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6371,
+    "updated_at": "2026-10-14T11:36:28Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "\u26a1 ChronoFact: 4-Pillar Epistemic AI Backbone. Real-time temporal cutoff calibration, active NLI claim verifier, zero-pol",
+    "id": "ModernOps888/chronofact",
+    "language": "Rust",
+    "name": "ModernOps888/chronofact",
+    "stars": 2,
+    "updated_at": "2026-10-14T11:35:39Z",
+    "url": "https://github.com/ModernOps888/chronofact"
+  },
+  {
+    "description": "\u62c6\u4e00\u6761 AI \u89c6\u9891\uff1a30 \u5b57\u5b9a\u6027 + 8 \u7ef4\u5206\u6790 + \u6700\u5c11\u6bb5\u6570\u63d0\u793a\u8bcd | One AI video in: 8-dimension teardown plus the fewest prompts that cover it \u00b7 \ud83d\udcee wow",
+    "id": "yzsp-studio/video-deconstruct-analyzer",
+    "language": "\u2014",
+    "name": "yzsp-studio/video-deconstruct-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:35:29Z",
+    "url": "https://github.com/yzsp-studio/video-deconstruct-analyzer"
+  },
+  {
+    "description": "15 \u79d2\u81f3\u5c11\u62bd 10\u201312 \u5e27\uff0c\u628a\u89c6\u9891\u62c6\u6210\u53ef\u590d\u523b\u7684\u9010\u955c\u5408\u540c | 10-12 keyframes per 15s: turn any video into a shot-by-shot reproduction contract \u00b7 \ud83d\udcee wo",
+    "id": "yzsp-studio/video-deconstruct",
+    "language": "\u2014",
+    "name": "yzsp-studio/video-deconstruct",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:35:22Z",
+    "url": "https://github.com/yzsp-studio/video-deconstruct"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -14,8 +104,125 @@
     "language": "Python",
     "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-14T11:28:49Z",
+    "updated_at": "2026-10-14T11:34:51Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 957,
+    "updated_at": "2026-10-14T11:34:48Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:34:32Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "HTML",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 2,
+    "updated_at": "2026-10-14T11:34:28Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "9 \u4e2a\u955c\u5934\uff0c\u4e00\u5f20\u56fe\u770b\u5b8c\u4e00\u6574\u6bb5\u5206\u955c | Nine shots, one grid image \u2014 the whole sequence at a glance \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.dou",
+    "id": "yzsp-studio/storyboard-9-grid",
+    "language": "\u2014",
+    "name": "yzsp-studio/storyboard-9-grid",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:54Z",
+    "url": "https://github.com/yzsp-studio/storyboard-9-grid"
+  },
+  {
+    "description": "How AI products work under the hood: hybrid rules + LLM design, structured outputs, local inference, human-in-the-loop. ",
+    "id": "filbezerianos/portfolio-deep-dives",
+    "language": "\u2014",
+    "name": "filbezerianos/portfolio-deep-dives",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:36Z",
+    "url": "https://github.com/filbezerianos/portfolio-deep-dives"
+  },
+  {
+    "description": "Bilingual (Arabic/English) prompt builder for desktop, web and Android \u2014 30 presets, 21 tones, one-click task & role tem",
+    "id": "MooPuu/prompt-engineer",
+    "language": "HTML",
+    "name": "MooPuu/prompt-engineer",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:13Z",
+    "url": "https://github.com/MooPuu/prompt-engineer"
+  },
+  {
+    "description": "\u5199 Skill \u7b2c\u4e00\u539f\u5219\uff1a\u4e0a\u4e0b\u6587\u662f\u516c\u5171\u8d44\u6e90\uff0c\u80fd\u5220\u5c31\u5220 | Lean Skill writing: context is a public good, delete every token \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 ",
+    "id": "yzsp-studio/skill-creator-for-work",
+    "language": "Python",
+    "name": "yzsp-studio/skill-creator-for-work",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:12Z",
+    "url": "https://github.com/yzsp-studio/skill-creator-for-work"
+  },
+  {
+    "description": "\u628a\u4e00\u6b21\u6210\u529f\u7684\u6d41\u7a0b\uff0c\u56fa\u5316\u6210\u4e00\u88c5\u5c31\u7528\u7684 Skill | Turn one good run into an installable, reusable Skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.do",
+    "id": "yzsp-studio/skill-creator",
+    "language": "\u2014",
+    "name": "yzsp-studio/skill-creator",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:05Z",
+    "url": "https://github.com/yzsp-studio/skill-creator"
+  },
+  {
+    "description": "Prompt Compiler DSH plugin: compile rough drafts into structured prompts",
+    "id": "Jav1es/dsh-prompt-compiler",
+    "language": "JavaScript",
+    "name": "Jav1es/dsh-prompt-compiler",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:04Z",
+    "url": "https://github.com/Jav1es/dsh-prompt-compiler"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 7,
+    "updated_at": "2026-10-14T11:32:11Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 22,
+    "updated_at": "2026-10-14T11:33:11Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T11:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u4ece\u96f6\u624b\u5199\u7684 AI Agent \u7cfb\u7edf\uff08Python / asyncio / Pydantic\uff09\uff0c\u4e0d\u4f9d\u8d56 LangChain\u3002\u542b Function Calling \u4e0e ReAct \u4e24\u6761\u5b9e\u73b0\u8def\u7ebf\u3001\u5de5\u5177\u6ce8\u518c\u8868\u3001SSE \u6d41\u5f0f\u89e3\u6790\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5e76\u53d1\u6267\u884c",
+    "id": "Icelemon77/agent-playground",
+    "language": "Python",
+    "name": "Icelemon77/agent-playground",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:28:12Z",
+    "url": "https://github.com/Icelemon77/agent-playground"
   },
   {
     "description": "\u955c\u5934\u8ba4\u9886\u5267\u672c\u8282\u62cd\uff0c18 \u9053\u8d28\u91cf\u95e8\u5f53\u573a\u5bf9\u8d26 | Shots claim story beats, and 18 quality gates audit every cut \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https:/",
@@ -41,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22592,
-    "updated_at": "2026-10-14T11:27:41Z",
+    "updated_at": "2026-10-14T11:43:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -81,22 +288,13 @@
     "url": "https://github.com/yzsp-studio/mediakit-shared-suite"
   },
   {
-    "description": "Prompt Compiler DSH plugin: compile rough drafts into structured prompts",
-    "id": "Jav1es/dsh-prompt-compiler",
-    "language": "JavaScript",
-    "name": "Jav1es/dsh-prompt-compiler",
+    "description": "Measure your Claude Code skills and rules, and keep only the ones that help. The tool, its evaluation lab and data for t",
+    "id": "samugit83/cortex",
+    "language": "Python",
+    "name": "samugit83/cortex",
     "stars": 0,
-    "updated_at": "2026-10-14T11:25:45Z",
-    "url": "https://github.com/Jav1es/dsh-prompt-compiler"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35810,
-    "updated_at": "2026-10-14T11:30:01Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "updated_at": "2026-10-14T11:23:27Z",
+    "url": "https://github.com/samugit83/cortex"
   },
   {
     "description": "0\u20133 \u79d2\u6293\u4f4f\u771f\u4eba\u7684\u624b\uff0c15 \u79d2\u4e00\u8def\u53d8\u5f62\u9003\u5230\u5899\u4e0a | Grabs a real hand in the first 3s, then morphs up the wall by 15 \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac ",
@@ -207,6 +405,15 @@
     "url": "https://github.com/yzsp-studio/colossal-aesthetic"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11833,
+    "updated_at": "2026-10-14T11:16:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u6697\u5bab\u660e\u5883\uff1a\u4ed9\u5bab\u5f71\u89c6\u7247\u4e0e\u6e38\u620f PV\uff0c\u4ece\u4e16\u754c\u89c2\u9501\u5230\u9010\u955c\u5408\u540c | Dark palace, bright realm: celestial-palace films and game PVs, world to shot \u00b7 \ud83d\udcee wow.vip@",
     "id": "yzsp-studio/chinese-celestial-palace-video",
     "language": "\u2014",
@@ -230,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T11:30:16Z",
+    "updated_at": "2026-10-14T11:44:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,212 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:16:12Z",
     "url": "https://github.com/yzsp-studio/character-body-language"
-  },
-  {
-    "description": "\u52a8\u4f5c\u5b9a\u683c\u3001\u955c\u5934\u7ed5\u4f53\u4e00\u5708\uff1a\u5b50\u5f39\u65f6\u95f4\u77ed\u7247\u6210\u5957\u51fa\u7089 | Action freezes, camera orbits: a complete bullet-time short \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https:/",
-    "id": "yzsp-studio/bullet-time-slow-motion-video",
-    "language": "\u2014",
-    "name": "yzsp-studio/bullet-time-slow-motion-video",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:16:05Z",
-    "url": "https://github.com/yzsp-studio/bullet-time-slow-motion-video"
-  },
-  {
-    "description": "\u4e00\u5f20 Logo \u52a0\u4e00\u4e2a\u54c1\u724c\u540d\uff0c15 \u79d2 MG \u52a8\u6548\u81ea\u5df1\u6d41\u51fa\u6765 | One logo plus one brand name: a 15-second motion-graphics film \u00b7 \ud83d\udcee wow.vip@foxmail.com ",
-    "id": "yzsp-studio/brand-stream-mg",
-    "language": "\u2014",
-    "name": "yzsp-studio/brand-stream-mg",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:15:42Z",
-    "url": "https://github.com/yzsp-studio/brand-stream-mg"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T11:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-14T11:15:19Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "4 \u4e2a\u6280\u80fd\u914d\u9f50\u77ed\u5267\u5168\u5bb6\u6876\uff1a3 \u7248\u5168\u6d41\u7a0b + \u83b7\u5956\u7ea7\u63d0\u793a\u8bcd | 4 skills: three short-drama pipelines plus award-grade prompt formulas \u00b7 \ud83d\udcee wow.vip@foxmai",
-    "id": "yzsp-studio/award-winning-performance-prompt-v1-1-suite",
-    "language": "Python",
-    "name": "yzsp-studio/award-winning-performance-prompt-v1-1-suite",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:14:53Z",
-    "url": "https://github.com/yzsp-studio/award-winning-performance-prompt-v1-1-suite"
-  },
-  {
-    "description": "2 \u4e2a\u6280\u80fd\u5199\u597d\u89c6\u9891\u63d0\u793a\u8bcd\uff1a\u5148\u5224\u573a\u666f\uff0c\u518d\u8eb2\u5f00\u7ffb\u8f66\u70b9 | Two skills for video prompts: analyze the scene, then dodge the failures \u00b7 \ud83d\udcee wow.vip@foxmail.",
-    "id": "yzsp-studio/award-winning-performance-prompt-suite",
-    "language": "\u2014",
-    "name": "yzsp-studio/award-winning-performance-prompt-suite",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:14:47Z",
-    "url": "https://github.com/yzsp-studio/award-winning-performance-prompt-suite"
-  },
-  {
-    "description": "\u63d0\u793a\u8bcd\u6551\u4e0d\u4e86\u8fd0\u884c\u914d\u7f6e\u9519\uff0c\u5148\u5206\u6e05\u518d\u6539 | Prompt rewrites can't fix a wrong run config \u2014 split them first \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://",
-    "id": "yzsp-studio/astra-prompt-optimizer",
-    "language": "\u2014",
-    "name": "yzsp-studio/astra-prompt-optimizer",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:14:33Z",
-    "url": "https://github.com/yzsp-studio/astra-prompt-optimizer"
-  },
-  {
-    "description": "45 tested photo-editing prompts for Nano Banana 2.1, each with a real before-and-after. Copy and paste, or open them in ",
-    "id": "lygerone/awesome-nano-banana-prompts",
-    "language": "\u2014",
-    "name": "lygerone/awesome-nano-banana-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:14:31Z",
-    "url": "https://github.com/lygerone/awesome-nano-banana-prompts"
-  },
-  {
-    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
-    "id": "kapitan00000978-sketch/artisan",
-    "language": "Python",
-    "name": "kapitan00000978-sketch/artisan",
-    "stars": 1,
-    "updated_at": "2026-10-14T11:15:32Z",
-    "url": "https://github.com/kapitan00000978-sketch/artisan"
-  },
-  {
-    "description": "Portable engineering workflows for AI coding agents \u2014 35 playbooks for bug fixing, feature development, code review, tes",
-    "id": "chiragmangaldev3112/agent-playbooks",
-    "language": "Shell",
-    "name": "chiragmangaldev3112/agent-playbooks",
-    "stars": 7,
-    "updated_at": "2026-10-14T11:13:02Z",
-    "url": "https://github.com/chiragmangaldev3112/agent-playbooks"
-  },
-  {
-    "description": "A development workflow skill for Claude Code: plan before implementing, cite file:line for every claim, delegate routine",
-    "id": "xXUltraGoldXx/coding-workflow",
-    "language": "Mermaid",
-    "name": "xXUltraGoldXx/coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:12:48Z",
-    "url": "https://github.com/xXUltraGoldXx/coding-workflow"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-14T11:12:21Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "SIWFA \u5de5\u4f5c\u533a\u6846\u67b6\u89c4\u8303\u516d\u4efd\u6838\u5fc3\u6587\u6863 + \u9879\u76ee\u6d41\u7a0b SOP\uff0c\u628a\u4efb\u4f55 SI \u52a9\u624b\u53d8\u6210\u300c\u6709\u89c4\u77e9\u300d\u7684\u5de5\u4f5c\u642d\u6863",
-    "id": "johnson-41/SIWFA",
-    "language": "HTML",
-    "name": "johnson-41/SIWFA",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:11:54Z",
-    "url": "https://github.com/johnson-41/SIWFA"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 22,
-    "updated_at": "2026-10-14T11:11:12Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Keeps project direction recoverable without turning planning into the project.",
-    "id": "benjaminstelzer/scoville-plan",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-plan",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:10:30Z",
-    "url": "https://github.com/benjaminstelzer/scoville-plan"
-  },
-  {
-    "description": "Transfers the work state, not the whole conversation.",
-    "id": "benjaminstelzer/scoville-handoff",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-handoff",
-    "stars": 2,
-    "updated_at": "2026-10-14T11:10:25Z",
-    "url": "https://github.com/benjaminstelzer/scoville-handoff"
-  },
-  {
-    "description": "Keeps the engineering result visible through the process around it.",
-    "id": "benjaminstelzer/scoville-code",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-code",
-    "stars": 8,
-    "updated_at": "2026-10-14T11:10:20Z",
-    "url": "https://github.com/benjaminstelzer/scoville-code"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 19,
-    "updated_at": "2026-10-14T11:10:39Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-10-14T11:09:21Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:08:13Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Never letting your agent assooom",
-    "id": "b1tsoup/assoomer",
-    "language": "\u2014",
-    "name": "b1tsoup/assoomer",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:07:50Z",
-    "url": "https://github.com/b1tsoup/assoomer"
-  },
-  {
-    "description": "Tidy dictation for AI: a Claude Code mod that cleans up voice dictation before you send it.",
-    "id": "fbwndrud/tidia",
-    "language": "TypeScript",
-    "name": "fbwndrud/tidia",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:07:02Z",
-    "url": "https://github.com/fbwndrud/tidia"
-  },
-  {
-    "description": "AI-powered YouTube script generator using Groq's LLaMA API",
-    "id": "AbhilekhSingh-CS/scriptai",
-    "language": "JavaScript",
-    "name": "AbhilekhSingh-CS/scriptai",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:06:09Z",
-    "url": "https://github.com/AbhilekhSingh-CS/scriptai"
   }
 ]
