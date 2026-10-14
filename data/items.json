@@ -1,5 +1,185 @@
 [
   {
+    "description": "\u738b\u4e8c\u8bb2Agent\uff1aAI Agent \u9762\u8bd5\u9898 / Agent\u516b\u80a1\uff0c\u9010\u9898\u56fe\u6587\u8be6\u89e3+\u89c6\u9891\u8bb2\u89e3\uff0c\u9644 Remotion \u89c6\u9891\u5de5\u7a0b",
+    "id": "itwanger/ai-better",
+    "language": "TypeScript",
+    "name": "itwanger/ai-better",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:30:11Z",
+    "url": "https://github.com/itwanger/ai-better"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-14T10:29:40Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:29:35Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:29:07Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Agent Skills for Claude Code and skills-aware runtimes: MCP, design, code review, workflows, Next.js, and creative produ",
+    "id": "frankxai/claude-skills-library",
+    "language": "Python",
+    "name": "frankxai/claude-skills-library",
+    "stars": 47,
+    "updated_at": "2026-10-14T10:29:04Z",
+    "url": "https://github.com/frankxai/claude-skills-library"
+  },
+  {
+    "description": "How an AI agent builds mowtwo.com end to end \u2014 workflow, MCP tooling, reusable skills and the full prompt set",
+    "id": "mowtwo/m2-site-playbook",
+    "language": "Python",
+    "name": "mowtwo/m2-site-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:28:39Z",
+    "url": "https://github.com/mowtwo/m2-site-playbook"
+  },
+  {
+    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
+    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "language": "Python",
+    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "stars": 2,
+    "updated_at": "2026-10-14T10:28:29Z",
+    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22592,
+    "updated_at": "2026-10-14T10:27:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35808,
+    "updated_at": "2026-10-14T10:29:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
+    "id": "chjm-ai/vococo",
+    "language": "Python",
+    "name": "chjm-ai/vococo",
+    "stars": 42,
+    "updated_at": "2026-10-14T10:25:46Z",
+    "url": "https://github.com/chjm-ai/vococo"
+  },
+  {
+    "description": "\u53f0\u5f0f\u82f1\u6587\u6293\u87f2\u5668\uff1a\u8b93AI\u50cf\u82f1\u6587\u8001\u5e2b\u4e00\u6a23\uff0c\u6293\u51fa\u4f60\u4ee5\u70ba\u662f\u5c0d\u7684\u53f0\u5f0f\u82f1\u6587\uff0830\u689d\u901a\u7528\u898f\u5247\uff0b7\u500b\u60c5\u5883\u5305\uff09\u3002An AI skill that catches Taiwanese/Chinglish patterns in business English",
+    "id": "WilsonAImaster/taiwanese-english-checker",
+    "language": "HTML",
+    "name": "WilsonAImaster/taiwanese-english-checker",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:25:19Z",
+    "url": "https://github.com/WilsonAImaster/taiwanese-english-checker"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-14T10:23:39Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Evaluating LLMs for tabular data imputation: performance, hallucination metrics (HIMDI, CHRMI), and control mechanisms.",
+    "id": "ArthurMangussi/LLMsImputation",
+    "language": "Python",
+    "name": "ArthurMangussi/LLMsImputation",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:23:31Z",
+    "url": "https://github.com/ArthurMangussi/LLMsImputation"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 93,
+    "updated_at": "2026-10-14T10:23:22Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "Hodios \u2014 prompts by Hermes IDE: install tree for skills, plugins and marketplaces. Bot-built, do not PR here. Source: he",
+    "id": "hermes-hq/hodios-dist",
+    "language": "\u2014",
+    "name": "hermes-hq/hodios-dist",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:23:03Z",
+    "url": "https://github.com/hermes-hq/hodios-dist"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:22:45Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "Prompt Compiler DSH plugin: compile rough drafts into structured prompts",
+    "id": "Jav1es/dsh-prompt-compiler",
+    "language": "JavaScript",
+    "name": "Jav1es/dsh-prompt-compiler",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:22:25Z",
+    "url": "https://github.com/Jav1es/dsh-prompt-compiler"
+  },
+  {
+    "description": "In Krea2 Harness, a short prompt, a moodboard style you like, and an aesthetic LoRA can spark unlimited creativity.",
+    "id": "ANe5s/ComfyUI-Krea2-Harness",
+    "language": "Python",
+    "name": "ANe5s/ComfyUI-Krea2-Harness",
+    "stars": 7,
+    "updated_at": "2026-10-14T10:22:20Z",
+    "url": "https://github.com/ANe5s/ComfyUI-Krea2-Harness"
+  },
+  {
+    "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
+    "id": "vlastimilbures/promptmend",
+    "language": "Python",
+    "name": "vlastimilbures/promptmend",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:21:11Z",
+    "url": "https://github.com/vlastimilbures/promptmend"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-14T10:21:10Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "1894 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a",
     "id": "kydlikebtc/awesome-grokbot",
     "language": "Python",
@@ -41,17 +221,8 @@
     "language": "TypeScript",
     "name": "hermes-hq/hodios",
     "stars": 1,
-    "updated_at": "2026-10-14T10:19:29Z",
+    "updated_at": "2026-10-14T10:22:30Z",
     "url": "https://github.com/hermes-hq/hodios"
-  },
-  {
-    "description": "\u53f0\u5f0f\u82f1\u6587\u6293\u87f2\u5668\uff1a\u8b93AI\u50cf\u82f1\u6587\u8001\u5e2b\u4e00\u6a23\uff0c\u6293\u51fa\u4f60\u4ee5\u70ba\u662f\u5c0d\u7684\u53f0\u5f0f\u82f1\u6587\uff0830\u689d\u901a\u7528\u898f\u5247\uff0b7\u500b\u60c5\u5883\u5305\uff09\u3002An AI skill that catches Taiwanese/Chinglish patterns in business English",
-    "id": "WilsonAImaster/taiwanese-english-checker",
-    "language": "HTML",
-    "name": "WilsonAImaster/taiwanese-english-checker",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:19:11Z",
-    "url": "https://github.com/WilsonAImaster/taiwanese-english-checker"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -63,21 +234,12 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:17:30Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T10:20:53Z",
+    "updated_at": "2026-10-14T10:28:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -90,15 +252,6 @@
     "url": "https://github.com/kapitan00000978-sketch/artisan"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-14T10:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Evidence-based User Journeys for public administration \u2014 schema, lints, renderer, Claude skill",
     "id": "malkreide/journeykit",
     "language": "Python",
@@ -106,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:15:28Z",
     "url": "https://github.com/malkreide/journeykit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35807,
-    "updated_at": "2026-10-14T10:19:05Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Parlare con l\u2019AI: corso interattivo e gratuito per usare bene gli assistenti AI (ChatGPT, Claude, Gemini e altri). In it",
@@ -180,6 +324,15 @@
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28377,
+    "updated_at": "2026-10-14T10:11:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
     "id": "triton2030/agentic-research",
     "language": "Python",
@@ -187,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:11:02Z",
     "url": "https://github.com/triton2030/agentic-research"
-  },
-  {
-    "description": "Hodios \u2014 prompts by Hermes IDE: install tree for skills, plugins and marketplaces. Bot-built, do not PR here. Source: he",
-    "id": "hermes-hq/hodios-dist",
-    "language": "\u2014",
-    "name": "hermes-hq/hodios-dist",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:10:39Z",
-    "url": "https://github.com/hermes-hq/hodios-dist"
   },
   {
     "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:06:55Z",
     "url": "https://github.com/yzsp-studio/voiceover-direction"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/voice-performance-layer",
-    "language": "\u2014",
-    "name": "yzsp-studio/voice-performance-layer",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:06:35Z",
-    "url": "https://github.com/yzsp-studio/voice-performance-layer"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 1,
-    "updated_at": "2026-10-14T10:06:34Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/voice-design",
-    "language": "\u2014",
-    "name": "yzsp-studio/voice-design",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:06:13Z",
-    "url": "https://github.com/yzsp-studio/voice-design"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/voice-clone",
-    "language": "\u2014",
-    "name": "yzsp-studio/voice-clone",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:05:55Z",
-    "url": "https://github.com/yzsp-studio/voice-clone"
-  },
-  {
-    "description": "Claude Code, tamed: terse answers, small diffs, verified work, guarded git.",
-    "id": "HT0710/claudzilla",
-    "language": "TypeScript",
-    "name": "HT0710/claudzilla",
-    "stars": 1,
-    "updated_at": "2026-10-14T10:05:36Z",
-    "url": "https://github.com/HT0710/claudzilla"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/visualization",
-    "language": "Python",
-    "name": "yzsp-studio/visualization",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:05:34Z",
-    "url": "https://github.com/yzsp-studio/visualization"
-  },
-  {
-    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
-    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "language": "Python",
-    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "stars": 2,
-    "updated_at": "2026-10-14T10:05:04Z",
-    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-transcript",
-    "language": "\u2014",
-    "name": "yzsp-studio/video-transcript",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:04:53Z",
-    "url": "https://github.com/yzsp-studio/video-transcript"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-multicam-reshoot",
-    "language": "\u2014",
-    "name": "yzsp-studio/video-multicam-reshoot",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:04:35Z",
-    "url": "https://github.com/yzsp-studio/video-multicam-reshoot"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-highlight-edit",
-    "language": "\u2014",
-    "name": "yzsp-studio/video-highlight-edit",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:04:17Z",
-    "url": "https://github.com/yzsp-studio/video-highlight-edit"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-extract",
-    "language": "Python",
-    "name": "yzsp-studio/video-extract",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:03:57Z",
-    "url": "https://github.com/yzsp-studio/video-extract"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22592,
-    "updated_at": "2026-10-14T10:19:58Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agent Skills for Claude Code and skills-aware runtimes: MCP, design, code review, workflows, Next.js, and creative produ",
-    "id": "frankxai/claude-skills-library",
-    "language": "Python",
-    "name": "frankxai/claude-skills-library",
-    "stars": 47,
-    "updated_at": "2026-10-14T10:03:26Z",
-    "url": "https://github.com/frankxai/claude-skills-library"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-element-replacement",
-    "language": "\u2014",
-    "name": "yzsp-studio/video-element-replacement",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:02:53Z",
-    "url": "https://github.com/yzsp-studio/video-element-replacement"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T10:02:41Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83c\udfac 1 \u4e2a AI \u6280\u80fd | 1 AI skill \u00b7 \ud83d\udcee wow.vip@foxmail.com \u00b7 \ud83c\udfac https://v.douyin.com/07EjIDGVErY/",
-    "id": "yzsp-studio/video-deconstruct-analyzer",
-    "language": "\u2014",
-    "name": "yzsp-studio/video-deconstruct-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:02:35Z",
-    "url": "https://github.com/yzsp-studio/video-deconstruct-analyzer"
   }
 ]
