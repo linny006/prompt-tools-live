@@ -1,5 +1,167 @@
 [
   {
+    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 53,
+    "updated_at": "2026-10-15T01:58:23Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Prompt Manager (claudesubagents) \u2014 \u539f\u751f macOS Swift \u63d0\u793a\u8bcd\u7ba1\u7406\u4e0e\u5206\u7c7b\u68c0\u7d22\u5de5\u5177\uff0c\u652f\u6301\u667a\u80fd\u7ec4\u5408\u8fc7\u6ee4\u4e0e\u4e00\u952e\u526a\u8d34\u677f\u590d\u5236",
+    "id": "bennix/claudesubagents",
+    "language": "Swift",
+    "name": "bennix/claudesubagents",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:57:12Z",
+    "url": "https://github.com/bennix/claudesubagents"
+  },
+  {
+    "description": "Diagnostic plugins for Claude Code and Codex: why a session went wrong, and whether a proposed change is too much or too",
+    "id": "shinpr/agent-clinic",
+    "language": "Python",
+    "name": "shinpr/agent-clinic",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:57:46Z",
+    "url": "https://github.com/shinpr/agent-clinic"
+  },
+  {
+    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
+    "id": "rynald0cst0ltziam/Warden-AI",
+    "language": "TypeScript",
+    "name": "rynald0cst0ltziam/Warden-AI",
+    "stars": 9,
+    "updated_at": "2026-10-15T01:56:20Z",
+    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
+  },
+  {
+    "description": "Claude Code, tamed: terse answers, small diffs, verified work, guarded git.",
+    "id": "HT0710/claudzilla",
+    "language": "TypeScript",
+    "name": "HT0710/claudzilla",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:56:14Z",
+    "url": "https://github.com/HT0710/claudzilla"
+  },
+  {
+    "description": "Evaluation suite for testing and benchmarking AI assistant responses with Promptfoo.",
+    "id": "stevenleon30/ai-assistant-eval",
+    "language": "JavaScript",
+    "name": "stevenleon30/ai-assistant-eval",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:54:56Z",
+    "url": "https://github.com/stevenleon30/ai-assistant-eval"
+  },
+  {
+    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
+    "id": "firaen22/claude-rulebook",
+    "language": "Shell",
+    "name": "firaen22/claude-rulebook",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:54:12Z",
+    "url": "https://github.com/firaen22/claude-rulebook"
+  },
+  {
+    "description": "Refine multilingual text into clearer English prompts. A macOS app with selection actions, plus a browser workspace and ",
+    "id": "JERMYSUEN/promptfinch",
+    "language": "Swift",
+    "name": "JERMYSUEN/promptfinch",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:53:26Z",
+    "url": "https://github.com/JERMYSUEN/promptfinch"
+  },
+  {
+    "description": "Score any prompt 0-100, learn what's weak, and get it rewritten \u2014 with an intent classifier built from scratch. Zero dep",
+    "id": "realhassanabbasi/promptsmith",
+    "language": "Python",
+    "name": "realhassanabbasi/promptsmith",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:52:46Z",
+    "url": "https://github.com/realhassanabbasi/promptsmith"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 11,
+    "updated_at": "2026-10-15T01:50:35Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
+    "id": "hmmhmmhm/align.md",
+    "language": "Python",
+    "name": "hmmhmmhm/align.md",
+    "stars": 2,
+    "updated_at": "2026-10-15T01:49:42Z",
+    "url": "https://github.com/hmmhmmhm/align.md"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 959,
+    "updated_at": "2026-10-15T01:48:06Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / Codex Agent Skill\uff09\uff1aSeedance/\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001FACS \u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u60c5\u7eea\u94a9\u5b50\u3001\u914d\u97f3\u3001\u8f6c\u573a\u4e0e\u6392\u969c\uff1b\u542b\u673a\u68c0/\u62fc\u56fe",
+    "id": "ADC1920/AI-short-play-video-creation",
+    "language": "Python",
+    "name": "ADC1920/AI-short-play-video-creation",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:48:04Z",
+    "url": "https://github.com/ADC1920/AI-short-play-video-creation"
+  },
+  {
+    "description": "Centralized AI agents ecosystem, workspace rules, engineering skills, and toolchain workflows for HELIX-Origin projects.",
+    "id": "HELIX-Origin/agents",
+    "language": "Shell",
+    "name": "HELIX-Origin/agents",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:46:31Z",
+    "url": "https://github.com/HELIX-Origin/agents"
+  },
+  {
+    "description": "AI \u52a8\u6f2b\u89c6\u9891\u521b\u4f5c\u5411\u5bfc\uff1a\u628a\u300c\u6211\u60f3\u505a\u4e2a\u52a8\u6f2b\u89c6\u9891\u300d\u53d8\u6210\u4e00\u4efd\u53ef\u76f4\u63a5\u5f00\u62cd\u7684\u65b9\u6848 \u2014\u2014 \u5206\u955c\u8868 / \u89d2\u8272\u4e0e\u573a\u666f\u8bbe\u5b9a\u5361 / \u591a\u5e73\u53f0\u63d0\u793a\u8bcd / \u7a7f\u5e2e\u68c0\u67e5\u3002\u514d\u6ce8\u518c\u3001\u96f6\u540e\u7aef\uff0c\u6570\u636e\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002",
+    "id": "exiell/ai-video",
+    "language": "TypeScript",
+    "name": "exiell/ai-video",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:46:07Z",
+    "url": "https://github.com/exiell/ai-video"
+  },
+  {
+    "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
+    "id": "breizhidentevil/chatgpt-prompt-repeater",
+    "language": "JavaScript",
+    "name": "breizhidentevil/chatgpt-prompt-repeater",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:46:27Z",
+    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-15T01:46:37Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T01:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -9,24 +171,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "AI \u52a8\u6f2b\u89c6\u9891\u521b\u4f5c\u5411\u5bfc\uff1a\u628a\u300c\u6211\u60f3\u505a\u4e2a\u52a8\u6f2b\u89c6\u9891\u300d\u53d8\u6210\u4e00\u4efd\u53ef\u76f4\u63a5\u5f00\u62cd\u7684\u65b9\u6848 \u2014\u2014 \u5206\u955c\u8868 / \u89d2\u8272\u4e0e\u573a\u666f\u8bbe\u5b9a\u5361 / \u591a\u5e73\u53f0\u63d0\u793a\u8bcd / \u7a7f\u5e2e\u68c0\u67e5\u3002\u514d\u6ce8\u518c\u3001\u96f6\u540e\u7aef\uff0c\u6570\u636e\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002",
-    "id": "exiell/ai-video",
-    "language": "TypeScript",
-    "name": "exiell/ai-video",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:42:22Z",
-    "url": "https://github.com/exiell/ai-video"
-  },
-  {
-    "description": "Centralized AI agents ecosystem, workspace rules, engineering skills, and toolchain workflows for HELIX-Origin projects.",
-    "id": "HELIX-Origin/agents",
-    "language": "Shell",
-    "name": "HELIX-Origin/agents",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:41:47Z",
-    "url": "https://github.com/HELIX-Origin/agents"
-  },
-  {
     "description": "An open source prompting coach for Claude Code, Codex, ChatGPT and Claude, built around your own work.",
     "id": "Entuvo/prompting-wizard",
     "language": "Python",
@@ -34,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T01:41:26Z",
     "url": "https://github.com/Entuvo/prompting-wizard"
-  },
-  {
-    "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
-    "id": "breizhidentevil/chatgpt-prompt-repeater",
-    "language": "JavaScript",
-    "name": "breizhidentevil/chatgpt-prompt-repeater",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:38:02Z",
-    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
-  },
-  {
-    "description": "Evaluation suite for testing and benchmarking AI assistant responses with Promptfoo.",
-    "id": "stevenleon30/ai-assistant-eval",
-    "language": "JavaScript",
-    "name": "stevenleon30/ai-assistant-eval",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:37:53Z",
-    "url": "https://github.com/stevenleon30/ai-assistant-eval"
   },
   {
     "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
@@ -135,15 +261,6 @@
     "url": "https://github.com/HaiLanDuJun/PromptMag"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 11,
-    "updated_at": "2026-10-15T01:31:35Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "\u7528\u6237\u534f\u4f5c\u5baa\u7ae0 v3.1 \u7684 Agent \u6267\u884c\u5185\u6838\uff1a\u4fe1\u606f\u6d41\u8def\u7531\u3001\u51b2\u7a81\u88c1\u51b3\u3001\u5b89\u5168\u95f8\u95e8\u3001\u8bb0\u5fc6\u56de\u6d41\uff0c\u9644\u7279\u5f81\u7c07\u63d0\u793a\u8bcd\u8bca\u65ad\u5668",
     "id": "LucasDevKid9/collab-charter",
     "language": "Python",
@@ -160,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T01:31:23Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T01:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
@@ -194,7 +302,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 65,
-    "updated_at": "2026-10-15T01:43:15Z",
+    "updated_at": "2026-10-15T01:59:51Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -205,15 +313,6 @@
     "stars": 22,
     "updated_at": "2026-10-15T01:21:43Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
-    "id": "hmmhmmhm/align.md",
-    "language": "Python",
-    "name": "hmmhmmhm/align.md",
-    "stars": 2,
-    "updated_at": "2026-10-15T01:19:59Z",
-    "url": "https://github.com/hmmhmmhm/align.md"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -239,17 +338,8 @@
     "language": "JavaScript",
     "name": "github/awesome-copilot",
     "stars": 40026,
-    "updated_at": "2026-10-15T01:18:25Z",
+    "updated_at": "2026-10-15T01:50:27Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
-    "id": "rynald0cst0ltziam/Warden-AI",
-    "language": "TypeScript",
-    "name": "rynald0cst0ltziam/Warden-AI",
-    "stars": 9,
-    "updated_at": "2026-10-15T01:44:25Z",
-    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
   },
   {
     "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T01:08:05Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:07:59Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:06:27Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:06:07Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Gu\u00eda te\u00f3rico-pr\u00e1ctica sobre Inteligencia Artificial Local, dise\u00f1o de asistentes con LLM e integraci\u00f3n con Ollama, Open W",
-    "id": "juliopez/ia-local-integracion",
-    "language": "Python",
-    "name": "juliopez/ia-local-integracion",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:05:47Z",
-    "url": "https://github.com/juliopez/ia-local-integracion"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22610,
-    "updated_at": "2026-10-15T01:04:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 163647,
-    "updated_at": "2026-10-15T01:02:15Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "description": "\u8def\u4e16\u535a codeX \u7248\u6280\u80fd\u5305\uff1a51 \u4e2a\u53ef\u52a0\u8f7d skill\uff0c\u8986\u76d6\u9006\u5411\u5de5\u7a0b\u3001\u6e17\u900f\u7ea2\u961f\u3001\u6f0f\u6d1e\u5229\u7528\u3001\u6076\u610f\u4ee3\u7801\u3001\u84dd\u961f\u9632\u5fa1\u3001\u6e38\u620f\u5b89\u5168\u3001\u5de5\u7a0b\u73af\u5883\u3001\u5546\u4e1a\u53d8\u73b0\u3001\u5185\u5bb9\u521b\u4f5c\u4e0e\u751f\u6d3b\u6210\u957f\u3002",
-    "id": "lushun2014/lushibo-skills",
-    "language": "Python",
-    "name": "lushun2014/lushibo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:02:07Z",
-    "url": "https://github.com/lushun2014/lushibo-skills"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-15T01:01:47Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-10-15T00:59:14Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
-    "id": "firaen22/claude-rulebook",
-    "language": "Shell",
-    "name": "firaen22/claude-rulebook",
-    "stars": 1,
-    "updated_at": "2026-10-15T00:56:53Z",
-    "url": "https://github.com/firaen22/claude-rulebook"
   }
 ]
