@@ -1,11 +1,137 @@
 [
   {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:59:25Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35855,
+    "updated_at": "2026-10-15T09:59:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Bilingual cross-platform AI Skills framework\uff5c\u53cc\u8bed\u8de8\u5e73\u53f0 AI Skills \u5de5\u7a0b\u6846\u67b6",
+    "id": "dss-time/repo-doctor-skills",
+    "language": "JavaScript",
+    "name": "dss-time/repo-doctor-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:58:33Z",
+    "url": "https://github.com/dss-time/repo-doctor-skills"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 171,
+    "updated_at": "2026-10-15T09:57:50Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-15T09:57:38Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Windows tray app that rewrites rough prompts into clear ones on a hotkey",
+    "id": "Maneet7805/PromptForge",
+    "language": "C#",
+    "name": "Maneet7805/PromptForge",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:55:47Z",
+    "url": "https://github.com/Maneet7805/PromptForge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22619,
+    "updated_at": "2026-10-15T09:55:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2904,
+    "updated_at": "2026-10-15T09:53:13Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "48 open reasoning methods for Claude, Codex and Antigravity. Check assumptions, compare options and revisit decisions. I",
+    "id": "ParkerHwang/OpenSocrates",
+    "language": "Python",
+    "name": "ParkerHwang/OpenSocrates",
+    "stars": 25,
+    "updated_at": "2026-10-15T09:52:57Z",
+    "url": "https://github.com/ParkerHwang/OpenSocrates"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:52:14Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:50:58Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
+    "id": "hmmhmmhm/align.md",
+    "language": "Python",
+    "name": "hmmhmmhm/align.md",
+    "stars": 2,
+    "updated_at": "2026-10-15T09:50:31Z",
+    "url": "https://github.com/hmmhmmhm/align.md"
+  },
+  {
+    "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
+    "id": "FeatherHunter/dsh-prompt",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-prompt",
+    "stars": 38,
+    "updated_at": "2026-10-15T09:51:55Z",
+    "url": "https://github.com/FeatherHunter/dsh-prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T09:49:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
     "id": "devcxl/opencode-cabbage",
     "language": "TypeScript",
     "name": "devcxl/opencode-cabbage",
     "stars": 3,
-    "updated_at": "2026-10-15T09:49:35Z",
+    "updated_at": "2026-10-15T09:55:43Z",
     "url": "https://github.com/devcxl/opencode-cabbage"
   },
   {
@@ -45,15 +171,6 @@
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35855,
-    "updated_at": "2026-10-15T09:46:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
     "id": "Igor-lx/claudeHarness",
     "language": "JavaScript",
@@ -81,15 +198,6 @@
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
-    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
-    "id": "hmmhmmhm/align.md",
-    "language": "Python",
-    "name": "hmmhmmhm/align.md",
-    "stars": 2,
-    "updated_at": "2026-10-15T09:45:41Z",
-    "url": "https://github.com/hmmhmmhm/align.md"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -97,15 +205,6 @@
     "stars": 8,
     "updated_at": "2026-10-15T09:46:38Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T09:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -124,6 +223,15 @@
     "stars": 2,
     "updated_at": "2026-10-15T09:43:35Z",
     "url": "https://github.com/kabudu/engineering-agent-skills"
+  },
+  {
+    "description": "Agentic AI workflow in Amazon Quick Suite: market intelligence on open-weight AI model adoption, with guardrail-tested a",
+    "id": "marianunez-data/market-intelligence-agent",
+    "language": "Python",
+    "name": "marianunez-data/market-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:43:09Z",
+    "url": "https://github.com/marianunez-data/market-intelligence-agent"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
@@ -189,15 +297,6 @@
     "url": "https://github.com/MooPuu/prompt-engineer"
   },
   {
-    "description": "Windows tray app that rewrites rough prompts into clear ones on a hotkey",
-    "id": "Maneet7805/PromptForge",
-    "language": "C#",
-    "name": "Maneet7805/PromptForge",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:43:32Z",
-    "url": "https://github.com/Maneet7805/PromptForge"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -232,15 +331,6 @@
     "stars": 6,
     "updated_at": "2026-10-15T09:31:30Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "48 open reasoning methods for Claude, Codex and Antigravity. Check assumptions, compare options and revisit decisions. I",
-    "id": "ParkerHwang/OpenSocrates",
-    "language": "Python",
-    "name": "ParkerHwang/OpenSocrates",
-    "stars": 25,
-    "updated_at": "2026-10-15T09:31:50Z",
-    "url": "https://github.com/ParkerHwang/OpenSocrates"
   },
   {
     "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
@@ -297,15 +387,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 171,
-    "updated_at": "2026-10-15T09:21:42Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -342,15 +423,6 @@
     "url": "https://github.com/ibazhyn/claude-hub"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22619,
-    "updated_at": "2026-10-15T09:19:47Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\u041a\u043b\u0438\u0435\u043d\u0442-\u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0435 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438 \u0438 \u043e\u0431\u0449\u0438\u0439 \u043a\u043e\u043d\u0442\u0440\u0430\u043a\u0442 AGENTS.md \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432, \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0445 \u0441 \u043a\u043e\u0434\u043e\u043c",
     "id": "snaplyze/agent-playbook",
     "language": "JavaScript",
@@ -369,15 +441,6 @@
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
   {
-    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
-    "id": "zenstory-ai/drama-skills",
-    "language": "Python",
-    "name": "zenstory-ai/drama-skills",
-    "stars": 2903,
-    "updated_at": "2026-10-15T09:48:58Z",
-    "url": "https://github.com/zenstory-ai/drama-skills"
-  },
-  {
     "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
     "id": "PromptPotter/prompt-potter-optimizer",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-15T09:18:42Z",
     "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
-  },
-  {
-    "description": "My contributions to the implementation of a text-based AI assistant for conversation mediation. The assistant was built ",
-    "id": "jsimell/AImediator",
-    "language": "JavaScript",
-    "name": "jsimell/AImediator",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:16:12Z",
-    "url": "https://github.com/jsimell/AImediator"
-  },
-  {
-    "description": "Claude Code plugin: Claude rates every request 1 to 10 and says whether it would do it if the product were its own.",
-    "id": "IlhamOrujov/rate-my-idea",
-    "language": "\u2014",
-    "name": "IlhamOrujov/rate-my-idea",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:15:17Z",
-    "url": "https://github.com/IlhamOrujov/rate-my-idea"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2136,
-    "updated_at": "2026-10-15T09:13:54Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
-    "id": "Aqualung61/MissioneOdessa",
-    "language": "TypeScript",
-    "name": "Aqualung61/MissioneOdessa",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:20:45Z",
-    "url": "https://github.com/Aqualung61/MissioneOdessa"
-  },
-  {
-    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
-    "id": "StephenQiu30/glowloom-server",
-    "language": "Go",
-    "name": "StephenQiu30/glowloom-server",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:10:08Z",
-    "url": "https://github.com/StephenQiu30/glowloom-server"
-  },
-  {
-    "description": "Turns messy prompts into clear ones: cuts filler, fixes sentences, asks instead of guessing. TR/EN, your own Gemini key,",
-    "id": "Cafu1107/promtsal",
-    "language": "JavaScript",
-    "name": "Cafu1107/promtsal",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:12:04Z",
-    "url": "https://github.com/Cafu1107/promtsal"
-  },
-  {
-    "description": "Composer prompt tuner for the DeepSeek Harness Web GUI: rewrites the input draft through a model you choose, with a revi",
-    "id": "lzyyzznl/dsh-prompt-tuner",
-    "language": "JavaScript",
-    "name": "lzyyzznl/dsh-prompt-tuner",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:09:41Z",
-    "url": "https://github.com/lzyyzznl/dsh-prompt-tuner"
   }
 ]
