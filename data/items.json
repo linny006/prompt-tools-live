@@ -1,12 +1,120 @@
 [
   {
+    "description": "JD \u7ffb\u8bd1\u5b98 \u2014 \u628a\u591a\u4e2a\u62db\u8058 JD \u805a\u7c7b\u4e3a\u53ef\u6267\u884c\u6c42\u804c\u65b9\u5411\u7684 Agent Skill\uff1a\u80fd\u529b\u805a\u7c7b\u3001\u7b80\u5386\u5206\u7248\u51b3\u7b56\u3001\u8bc1\u636e\u8bbf\u8c08\u3001\u5b9a\u5411 CV \u91cd\u5199\uff08\u9762\u5411\u4ea7\u54c1/UX \u8bbe\u8ba1\u5e08\uff09",
+    "id": "sxr-design/jd-translator",
+    "language": "\u2014",
+    "name": "sxr-design/jd-translator",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:59:13Z",
+    "url": "https://github.com/sxr-design/jd-translator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35838,
+    "updated_at": "2026-10-15T04:56:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 22,
+    "updated_at": "2026-10-15T04:55:42Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchest",
+    "id": "jau123/MeiGen-AI-Design-MCP",
+    "language": "TypeScript",
+    "name": "jau123/MeiGen-AI-Design-MCP",
+    "stars": 1783,
+    "updated_at": "2026-10-15T04:54:55Z",
+    "url": "https://github.com/jau123/MeiGen-AI-Design-MCP"
+  },
+  {
     "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
     "id": "breizhidentevil/chatgpt-prompt-repeater",
     "language": "TypeScript",
     "name": "breizhidentevil/chatgpt-prompt-repeater",
     "stars": 0,
-    "updated_at": "2026-10-15T04:44:46Z",
+    "updated_at": "2026-10-15T04:54:14Z",
     "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Wan3.0\uff08\u4e07\u76f8\uff09\u77ed\u5267 + \u7535\u5546\u63d0\u793a\u8bcd\u5de5\u7a0b\u6280\u80fd\u5305",
+    "id": "nian-pangolin/wan3-drama-skills",
+    "language": "\u2014",
+    "name": "nian-pangolin/wan3-drama-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:53:25Z",
+    "url": "https://github.com/nian-pangolin/wan3-drama-skills"
+  },
+  {
+    "description": "Fix grammar and sharpen AI prompts in any Mac app with one shortcut. Native macOS menu-bar app powered by Gemini Live: b",
+    "id": "ParthPragdar/polish",
+    "language": "Swift",
+    "name": "ParthPragdar/polish",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:53:17Z",
+    "url": "https://github.com/ParthPragdar/polish"
+  },
+  {
+    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 340,
+    "updated_at": "2026-10-15T04:52:43Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
+    "id": "Michel-IT/Kotodama",
+    "language": "Rust",
+    "name": "Michel-IT/Kotodama",
+    "stars": 5,
+    "updated_at": "2026-10-15T04:52:10Z",
+    "url": "https://github.com/Michel-IT/Kotodama"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:48:39Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:48:25Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-15T04:46:35Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T04:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
@@ -14,7 +122,7 @@
     "language": "JavaScript",
     "name": "DaveHomeAssist/prompt-lab",
     "stars": 3,
-    "updated_at": "2026-10-15T04:41:15Z",
+    "updated_at": "2026-10-15T04:58:40Z",
     "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
@@ -63,15 +171,6 @@
     "url": "https://github.com/haorantang97/LabKit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T04:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -99,21 +198,12 @@
     "url": "https://github.com/Sungmin-Cho/deep-suite"
   },
   {
-    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
-    "id": "Michel-IT/Kotodama",
-    "language": "Rust",
-    "name": "Michel-IT/Kotodama",
-    "stars": 5,
-    "updated_at": "2026-10-15T04:24:11Z",
-    "url": "https://github.com/Michel-IT/Kotodama"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 959,
-    "updated_at": "2026-10-15T04:21:51Z",
+    "updated_at": "2026-10-15T04:52:58Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -223,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-10-15T04:00:41Z",
     "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-15T04:01:37Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-15T03:43:23Z",
     "url": "https://github.com/int2t05/engineering-skills"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-15T03:42:33Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2135,
-    "updated_at": "2026-10-15T03:42:11Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "The right rail of Agentic Rails: Reusable skills, agent personas, rules, and workflows for agentic coding IDEs \u2014 the too",
-    "id": "JarrydAdaens/agentic_rails_tooling",
-    "language": "Python",
-    "name": "JarrydAdaens/agentic_rails_tooling",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:42:04Z",
-    "url": "https://github.com/JarrydAdaens/agentic_rails_tooling"
-  },
-  {
-    "description": "Free 3D prompts for Claude, GPT and Kimi \u2014 games, scenes, assets and animation, each with its result. Curated by Wandy3D",
-    "id": "wornoxgames/awesome-3d-prompts",
-    "language": "\u2014",
-    "name": "wornoxgames/awesome-3d-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:40:48Z",
-    "url": "https://github.com/wornoxgames/awesome-3d-prompts"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-15T03:40:39Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:32:46Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 6,
-    "updated_at": "2026-10-15T03:39:09Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
-  },
-  {
-    "description": "One command generates a complete technical interview prep system: deep-dive episodes, NotebookLM podcasts, and a Gemini ",
-    "id": "kphutt/interview-prep",
-    "language": "Python",
-    "name": "kphutt/interview-prep",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:40:05Z",
-    "url": "https://github.com/kphutt/interview-prep"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 8,
-    "updated_at": "2026-10-15T03:37:09Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
