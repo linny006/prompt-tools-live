@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:45:18Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
+    "id": "AhmedMerza/agent-skills",
+    "language": "Python",
+    "name": "AhmedMerza/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:44:28Z",
+    "url": "https://github.com/AhmedMerza/agent-skills"
+  },
+  {
+    "description": "Your AI rules on any chat, in one line: type open sesame and an address into Claude, ChatGPT or Grok.",
+    "id": "vince-gonzalez/coldhat",
+    "language": "\u2014",
+    "name": "vince-gonzalez/coldhat",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:44:13Z",
+    "url": "https://github.com/vince-gonzalez/coldhat"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:44:00Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:43:40Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con",
+    "id": "KodekaTeam/superior-skills",
+    "language": "PowerShell",
+    "name": "KodekaTeam/superior-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:43:21Z",
+    "url": "https://github.com/KodekaTeam/superior-skills"
+  },
+  {
+    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
+    "id": "rikilamadrid/pathfinder",
+    "language": "JavaScript",
+    "name": "rikilamadrid/pathfinder",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:43:00Z",
+    "url": "https://github.com/rikilamadrid/pathfinder"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:40:15Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "Evidence-based User Journeys for public administration \u2014 schema, lints, renderer, Claude skill",
+    "id": "malkreide/journeykit",
+    "language": "Python",
+    "name": "malkreide/journeykit",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:33:30Z",
+    "url": "https://github.com/malkreide/journeykit"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 6,
+    "updated_at": "2026-10-15T06:33:12Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "\u7ed9 WorkBuddy / CodeBuddy \u7684\u6a21\u578b\u63a8\u8350\u6280\u80fd\uff1a\u5f00\u5de5\u524d\u6309\u4efb\u52a1\u7c7b\u578b\u63a8\u8350\u5927\u6a21\u578b\u4e0e\u601d\u8003\u5f3a\u5ea6\uff0c\u81ea\u52a8\u8bfb\u53d6\u672c\u673a\u8d39\u7387\u4e0e\u6298\u6263\u3002\u53cc\u89d2\u5ea6\u63a8\u8350\u2014\u2014\u505a\u5230\u6700\u597d\uff08\u80fd\u529b\u4f18\u5148\uff0c\u4e0d\u8ba1\u6210\u672c\uff09\uff5c\u6027\u4ef7\u6bd4\u6700\u9ad8\uff08\u6309\u9519\u5cf0\u6298\u6263\u4ef7\u7b97\uff0c\u6700\u7701\u94b1\uff09",
+    "id": "SuZhan-Bubility/workbuddy-model-advisor",
+    "language": "Python",
+    "name": "SuZhan-Bubility/workbuddy-model-advisor",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:33:01Z",
+    "url": "https://github.com/SuZhan-Bubility/workbuddy-model-advisor"
+  },
+  {
+    "description": "",
+    "id": "umang4zq/Prompt-Lab",
+    "language": "TypeScript",
+    "name": "umang4zq/Prompt-Lab",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:32:16Z",
+    "url": "https://github.com/umang4zq/Prompt-Lab"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:31:54Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T06:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Model-agnostic prompt library for code and document review through cognitive lenses",
     "id": "kphutt/prompt-lenses",
     "language": "\u2014",
@@ -36,21 +162,12 @@
     "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
   },
   {
-    "description": "Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con",
-    "id": "KodekaTeam/superior-skills",
-    "language": "PowerShell",
-    "name": "KodekaTeam/superior-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:26:00Z",
-    "url": "https://github.com/KodekaTeam/superior-skills"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35843,
-    "updated_at": "2026-10-15T06:24:15Z",
+    "updated_at": "2026-10-15T06:42:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,15 +207,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:17:45Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
     "id": "novanoticia/bayesian-compose-plugin",
     "language": "\u2014",
@@ -133,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T06:15:45Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Skill editorial conversacional para las publicaciones de mindandhealth.org (Obsidian Publish). Acompa\u00f1a la conversaci\u00f3n,",
@@ -243,15 +342,6 @@
     "url": "https://github.com/Kul-Utkarsh/promptport"
   },
   {
-    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
-    "id": "AhmedMerza/agent-skills",
-    "language": "Python",
-    "name": "AhmedMerza/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:09:00Z",
-    "url": "https://github.com/AhmedMerza/agent-skills"
-  },
-  {
     "description": "\u70bc\u5b57\uff1a\u4e2d\u6587\u5199\u4f5c\u4f18\u5316\u6d41\u7a0b Agent Skill \u2014 \u9700\u6c42\u70bc\u6210\u7ed3\u6784\u5316\u63d0\u793a\u8bcd \u2192 \u6309\u63d0\u793a\u8bcd\u8d77\u8349 \u2192 \u811a\u672c\u9010\u53e5\u68c0\u67e5\u6539\u5199 \u2192 \u4ea4\u4ed8\u3002\u9002\u7528\u4e8e\u8bc4\u4f30\u62a5\u544a\u3001\u7814\u7a76\u8ba1\u5212\u4fee\u8ba2\u4e0e\u9ad8\u5c42\u6c47\u62a5 | Chinese writing workflow skill with ",
     "id": "Ficere/lian-zi",
     "language": "Python",
@@ -283,7 +373,7 @@
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
     "name": "LearnPrompt/awesome-seedance",
-    "stars": 2066,
+    "stars": 2067,
     "updated_at": "2026-10-15T06:07:04Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
@@ -295,6 +385,15 @@
     "stars": 2,
     "updated_at": "2026-10-15T06:05:01Z",
     "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship.",
+    "id": "minhtran3124/agent-harness",
+    "language": "Python",
+    "name": "minhtran3124/agent-harness",
+    "stars": 7,
+    "updated_at": "2026-10-15T06:05:01Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
   },
   {
     "description": "Awesome GPT Image Prompts by MuseSignal. Complete prompts, preview images and full JSON; versions share one collection. ",
@@ -324,15 +423,6 @@
     "url": "https://github.com/ariffazil/arifOS"
   },
   {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:01:40Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
     "description": "Optional Claude Code and Codex skills for instruction audits, development reviews, and research workflows.",
     "id": "HoonStyle/agent-policy-radar",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-15T06:01:22Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "LangGraph \u9a71\u52a8\u7684\u4ee3\u7801\u52a9\u624b Agent\uff1aReAct + Plan-and-Execute + Reflect \u6df7\u5408\u67b6\u6784\uff0c9 \u5de5\u5177 + SSE \u5b9e\u65f6\u53ef\u89c6\u5316 + 5 \u7ef4\u8bc4\u4f30\u4f53\u7cfb",
-    "id": "fenglistenvii-tech/code-assistant-agent",
-    "language": "Python",
-    "name": "fenglistenvii-tech/code-assistant-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:59:46Z",
-    "url": "https://github.com/fenglistenvii-tech/code-assistant-agent"
-  },
-  {
-    "description": "The shot-level prompt behind Burning Bridges AI - one photo in, a 20-second party-scene clip out. Published in full, MIT",
-    "id": "baichuang-lin/burning-bridges-prompt",
-    "language": "\u2014",
-    "name": "baichuang-lin/burning-bridges-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:58:16Z",
-    "url": "https://github.com/baichuang-lin/burning-bridges-prompt"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:56:50Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Distil how you make decisions from your Claude Code history into an always-loaded CLAUDE.md kernel. Local, verifiable, y",
-    "id": "Tespera/decision-kernel",
-    "language": "Python",
-    "name": "Tespera/decision-kernel",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:53:59Z",
-    "url": "https://github.com/Tespera/decision-kernel"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-15T05:52:29Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:00:05Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:49:43Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "AI-powered content generation workflow using n8n, Ollama, and Gemma 3 4B.",
-    "id": "nagina56/ai-content-generator",
-    "language": "\u2014",
-    "name": "nagina56/ai-content-generator",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:49:20Z",
-    "url": "https://github.com/nagina56/ai-content-generator"
-  },
-  {
-    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
-    "id": "ssdiwu/507-skills",
-    "language": "Python",
-    "name": "ssdiwu/507-skills",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:48:46Z",
-    "url": "https://github.com/ssdiwu/507-skills"
-  },
-  {
-    "description": "AI conversation skills for intent clarification, causal analysis, and clean final delivery.",
-    "id": "xiaobai66-web/ai-conversation-skills",
-    "language": "\u2014",
-    "name": "xiaobai66-web/ai-conversation-skills",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:46:37Z",
-    "url": "https://github.com/xiaobai66-web/ai-conversation-skills"
   }
 ]
