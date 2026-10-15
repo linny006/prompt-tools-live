@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11858,
+    "updated_at": "2026-10-15T21:35:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 75438,
+    "updated_at": "2026-10-15T21:35:15Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-15T21:34:17Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
     "description": "ChatGPT Prompt Repeater is a Firefox and chrome extension that sends a sequence of prompts to an open ChatGPT conversati",
     "id": "breizhidentevil/chatgpt-prompt-repeater",
     "language": "TypeScript",
     "name": "breizhidentevil/chatgpt-prompt-repeater",
     "stars": 0,
-    "updated_at": "2026-10-15T21:29:57Z",
+    "updated_at": "2026-10-15T21:34:16Z",
     "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Clone a git repo or read a folder and compile its text files into one file for LLM context. CLI plus optional GUI, no de",
+    "id": "octrow/RepoHarvester",
+    "language": "Python",
+    "name": "octrow/RepoHarvester",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:34:00Z",
+    "url": "https://github.com/octrow/RepoHarvester"
+  },
+  {
+    "description": "A pure-Python context management layer for LLM systems \u2014 retrieval, re-ranking, memory decay, and token-budget enforceme",
+    "id": "douglas90694/context-engine",
+    "language": "Python",
+    "name": "douglas90694/context-engine",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:31:25Z",
+    "url": "https://github.com/douglas90694/context-engine"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs, ve",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:31:27Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T21:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Applying AI to QA work, step by step: LLM basics, prompt engineering, RAG, MCP, Langflow, n8n, LangSmith and DeepEval",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:29:49Z",
     "url": "https://github.com/jayamvishnudeep/AiTester"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75438,
-    "updated_at": "2026-10-15T21:29:46Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
@@ -43,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:28:57Z",
     "url": "https://github.com/robmab/one-agent-harness"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-15T21:28:24Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Clone a git repo or read a folder and compile its text files into one file for LLM context. CLI plus optional GUI, no de",
-    "id": "octrow/RepoHarvester",
-    "language": "Python",
-    "name": "octrow/RepoHarvester",
-    "stars": 1,
-    "updated_at": "2026-10-15T21:28:45Z",
-    "url": "https://github.com/octrow/RepoHarvester"
   },
   {
     "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
@@ -162,15 +198,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T21:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -248,7 +275,7 @@
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 5032,
-    "updated_at": "2026-10-15T21:28:01Z",
+    "updated_at": "2026-10-15T21:31:36Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs, ve",
-    "id": "MohammedMoataz/ai-coach",
-    "language": "JavaScript",
-    "name": "MohammedMoataz/ai-coach",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:26:10Z",
-    "url": "https://github.com/MohammedMoataz/ai-coach"
-  },
-  {
     "description": "flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readab",
     "id": "myamamoto359/flompt",
     "language": "TypeScript",
@@ -349,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T20:59:30Z",
     "url": "https://github.com/dwgx/designers-brain"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11858,
-    "updated_at": "2026-10-15T21:24:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:47:16Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-15T20:47:05Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
