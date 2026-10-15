@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:48:49Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "\u80fd\u76f4\u63a5\u88c5\u3001\u76f4\u63a5\u7528\u7684 AI \u5199\u6545\u4e8b\u5f00\u6e90\u5de5\u5177\uff08\u4e0d\u662f\u8bba\u6587\u6e05\u5355\uff09\uff1a\u5c0f\u8bf4\u3001\u7f51\u6587\u3001\u5267\u672c\u3001\u77ed\u5267\u3001\u8dd1\u56e2\u3001\u540c\u4eba\u548c\u975e\u865a\u6784\u7684 skill\u3001\u5e94\u7528\u548c\u6846\u67b6\uff0c\u6309\u65b9\u6cd5\u5206\u7c7b \u00b7 Ready-to-use open-source tools for LLM storytell",
+    "id": "UnderleveledBuilder/awesome-llm-storytelling",
+    "language": "Python",
+    "name": "UnderleveledBuilder/awesome-llm-storytelling",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:46:44Z",
+    "url": "https://github.com/UnderleveledBuilder/awesome-llm-storytelling"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28400,
+    "updated_at": "2026-10-15T23:47:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
+    "id": "m4bwav/cinewright",
+    "language": "Python",
+    "name": "m4bwav/cinewright",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:46:18Z",
+    "url": "https://github.com/m4bwav/cinewright"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-15T23:46:30Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T23:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
     "id": "drobins25/craft",
     "language": "Shell",
@@ -50,7 +104,7 @@
     "language": "JavaScript",
     "name": "kochetkov-ma/claude-brewcode",
     "stars": 32,
-    "updated_at": "2026-10-15T23:43:16Z",
+    "updated_at": "2026-10-15T23:47:23Z",
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T23:34:10Z",
     "url": "https://github.com/kingjethro999/promptdock"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T23:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Tidy dictation for AI: a Claude Code mod that cleans up voice dictation before you send it.",
@@ -247,7 +292,7 @@
     "id": "yzfly/awesome-context-engineering",
     "language": "\u2014",
     "name": "yzfly/awesome-context-engineering",
-    "stars": 209,
+    "stars": 210,
     "updated_at": "2026-10-15T23:15:38Z",
     "url": "https://github.com/yzfly/awesome-context-engineering"
   },
@@ -277,15 +322,6 @@
     "stars": 19,
     "updated_at": "2026-10-15T23:12:52Z",
     "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "\u8ba9\u5927\u6a21\u578b\u8bb2\u597d\u6545\u4e8b\u7684\u5f00\u6e90\u65b9\u6cd5\u5408\u96c6\uff1a\u5c0f\u8bf4\u3001\u7f51\u6587\u3001\u5267\u672c\u3001\u77ed\u5267\u3001\u8dd1\u56e2\u3001\u540c\u4eba\u4e0e\u975e\u865a\u6784\u53d9\u4e8b\u7684 skill\u3001\u63d0\u793a\u8bcd\u3001harness \u548c\u5e94\u7528 \u00b7 Open-source methods for getting LLMs to tell stories: s",
-    "id": "UnderleveledBuilder/awesome-llm-storytelling",
-    "language": "Python",
-    "name": "UnderleveledBuilder/awesome-llm-storytelling",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:11:45Z",
-    "url": "https://github.com/UnderleveledBuilder/awesome-llm-storytelling"
   },
   {
     "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
@@ -360,15 +396,6 @@
     "url": "https://github.com/kimsanguine/AI_Human"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-15T23:01:35Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "El Plano del Minimalismo Digital: laboratorio del CEID (SUTEV Cartago) para usar IA en la planeaci\u00f3n docente, con prompt",
     "id": "alguarito/minimalismo-digital",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-15T22:55:08Z",
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22632,
-    "updated_at": "2026-10-15T23:40:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 11,
-    "updated_at": "2026-10-15T22:51:55Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 3,
-    "updated_at": "2026-10-15T22:51:23Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   }
 ]
