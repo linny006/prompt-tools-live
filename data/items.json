@@ -1,5 +1,176 @@
 [
   {
+    "description": "ChatGPT Prompt Repeater is a Firefox and chrome extension that sends a sequence of prompts to an open ChatGPT conversati",
+    "id": "breizhidentevil/chatgpt-prompt-repeater",
+    "language": "TypeScript",
+    "name": "breizhidentevil/chatgpt-prompt-repeater",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:29:57Z",
+    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Applying AI to QA work, step by step: LLM basics, prompt engineering, RAG, MCP, Langflow, n8n, LangSmith and DeepEval",
+    "id": "jayamvishnudeep/AiTester",
+    "language": "Python",
+    "name": "jayamvishnudeep/AiTester",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:29:49Z",
+    "url": "https://github.com/jayamvishnudeep/AiTester"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 75438,
+    "updated_at": "2026-10-15T21:29:46Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "HuseyinHolland93595/codex-claude-code-config",
+    "language": "Python",
+    "name": "HuseyinHolland93595/codex-claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:29:26Z",
+    "url": "https://github.com/HuseyinHolland93595/codex-claude-code-config"
+  },
+  {
+    "description": "A lean harness template for AI coding agents: 6 skills, 1 sensor, 1 agent. Works with Claude Code and GitHub Copilot.",
+    "id": "robmab/one-agent-harness",
+    "language": "Python",
+    "name": "robmab/one-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:28:57Z",
+    "url": "https://github.com/robmab/one-agent-harness"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-15T21:28:24Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Clone a git repo or read a folder and compile its text files into one file for LLM context. CLI plus optional GUI, no de",
+    "id": "octrow/RepoHarvester",
+    "language": "Python",
+    "name": "octrow/RepoHarvester",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:28:45Z",
+    "url": "https://github.com/octrow/RepoHarvester"
+  },
+  {
+    "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
+    "id": "scampos59095/Prompt-sensei",
+    "language": "JavaScript",
+    "name": "scampos59095/Prompt-sensei",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:24:52Z",
+    "url": "https://github.com/scampos59095/Prompt-sensei"
+  },
+  {
+    "description": "Transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs questions about the paper",
+    "id": "MayaGreco/arxiv-to-prompt",
+    "language": "Python",
+    "name": "MayaGreco/arxiv-to-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:24:21Z",
+    "url": "https://github.com/MayaGreco/arxiv-to-prompt"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-15T21:22:45Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
+    "id": "kapitan00000978-sketch/artisan",
+    "language": "Python",
+    "name": "kapitan00000978-sketch/artisan",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:21:20Z",
+    "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "A token optimizer for coding agents. It shrinks command output, tool results and web pages before they reach the model, ",
+    "id": "gascoigne-ai/gascoigne-cli",
+    "language": "Go",
+    "name": "gascoigne-ai/gascoigne-cli",
+    "stars": 2,
+    "updated_at": "2026-10-15T21:20:26Z",
+    "url": "https://github.com/gascoigne-ai/gascoigne-cli"
+  },
+  {
+    "description": "Caveman prompting, measured. A two-channel evaluation protocol scoring what input and output compression actually cost L",
+    "id": "danielle34/cavewoman",
+    "language": "Python",
+    "name": "danielle34/cavewoman",
+    "stars": 16,
+    "updated_at": "2026-10-15T21:19:25Z",
+    "url": "https://github.com/danielle34/cavewoman"
+  },
+  {
+    "description": "Agent skills for agentic coding tools. Extremely opinionated. Updated (almost) daily.",
+    "id": "JHostalek/dotclaude",
+    "language": "JavaScript",
+    "name": "JHostalek/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-10-15T21:19:37Z",
+    "url": "https://github.com/JHostalek/dotclaude"
+  },
+  {
+    "description": "LLM-driven evolution of prompts and pipelines. Evolves the prompt and the pipeline's parameters together against your la",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 8,
+    "updated_at": "2026-10-15T21:21:09Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "Song-to-Clip AI Director: Turn lyrics into a 20-scene cinematic music video pipeline with locked character continuity.",
+    "id": "sertaiofficial-ops/ai-video-director-pipeline",
+    "language": "Python",
+    "name": "sertaiofficial-ops/ai-video-director-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:18:25Z",
+    "url": "https://github.com/sertaiofficial-ops/ai-video-director-pipeline"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:17:04Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-15T21:17:00Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T21:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -11,7 +182,7 @@
   {
     "description": "Prompt Shelf is a lightweight prompt management system designed for developers and AI engineers.",
     "id": "cadibnhcgc/prompt-shelf",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "cadibnhcgc/prompt-shelf",
     "stars": 0,
     "updated_at": "2026-10-15T21:15:05Z",
@@ -43,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T21:10:18Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Applying AI to QA work, step by step: LLM basics, prompt engineering, RAG, MCP, Langflow, n8n, LangSmith and DeepEval",
-    "id": "jayamvishnudeep/AiTester",
-    "language": "Python",
-    "name": "jayamvishnudeep/AiTester",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:09:32Z",
-    "url": "https://github.com/jayamvishnudeep/AiTester"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,7 +248,7 @@
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 5032,
-    "updated_at": "2026-10-15T21:09:01Z",
+    "updated_at": "2026-10-15T21:28:01Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
@@ -97,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T21:07:21Z",
     "url": "https://github.com/solid-ai-dev/solid-ai-templates"
-  },
-  {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-15T21:13:55Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rit",
@@ -153,24 +306,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-15T21:08:11Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "A lean harness template for AI coding agents: 6 skills, 1 sensor, 1 agent. Works with Claude Code and GitHub Copilot.",
-    "id": "robmab/one-agent-harness",
-    "language": "Python",
-    "name": "robmab/one-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:02:28Z",
-    "url": "https://github.com/robmab/one-agent-harness"
-  },
-  {
     "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
     "id": "ardha27/seedance-prompts",
     "language": "Python",
@@ -189,30 +324,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T21:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Clone a git repo or read a folder and compile its text files into one file for LLM context. CLI plus optional GUI, no de",
-    "id": "octrow/RepoHarvester",
-    "language": "Python",
-    "name": "octrow/RepoHarvester",
-    "stars": 1,
-    "updated_at": "2026-10-15T21:08:08Z",
-    "url": "https://github.com/octrow/RepoHarvester"
-  },
-  {
     "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs, ve",
     "id": "MohammedMoataz/ai-coach",
     "language": "JavaScript",
     "name": "MohammedMoataz/ai-coach",
     "stars": 0,
-    "updated_at": "2026-10-15T21:07:57Z",
+    "updated_at": "2026-10-15T21:26:10Z",
     "url": "https://github.com/MohammedMoataz/ai-coach"
   },
   {
@@ -239,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11858,
-    "updated_at": "2026-10-15T20:58:31Z",
+    "updated_at": "2026-10-15T21:24:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -250,15 +367,6 @@
     "stars": 11,
     "updated_at": "2026-10-15T20:57:22Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75438,
-    "updated_at": "2026-10-15T20:55:37Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "AI agent skills for React Native and mobile development",
@@ -295,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:52:15Z",
     "url": "https://github.com/samirag2010/spartacus-dental-ai"
-  },
-  {
-    "description": "ChatGPT Prompt Repeater is a Firefox and chrome extension that sends a sequence of prompts to an open ChatGPT conversati",
-    "id": "breizhidentevil/chatgpt-prompt-repeater",
-    "language": "TypeScript",
-    "name": "breizhidentevil/chatgpt-prompt-repeater",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:52:00Z",
-    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T20:47:05Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
-    "id": "yangzhou-chaofan/awesome-jev-prompt",
-    "language": "CSS",
-    "name": "yangzhou-chaofan/awesome-jev-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:46:28Z",
-    "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:46:19Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:46:18Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:43:47Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-15T20:42:58Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Provider-neutral frameworks and TypeScript tooling for cinematic AI content planning, storyboards, prompt compilation, c",
-    "id": "shrishmanglik/AUTEUR-Framework",
-    "language": "TypeScript",
-    "name": "shrishmanglik/AUTEUR-Framework",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:43:00Z",
-    "url": "https://github.com/shrishmanglik/AUTEUR-Framework"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-15T20:42:24Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, prompts, to",
-    "id": "mdesalvo/Morgana",
-    "language": "C#",
-    "name": "mdesalvo/Morgana",
-    "stars": 10,
-    "updated_at": "2026-10-15T20:42:05Z",
-    "url": "https://github.com/mdesalvo/Morgana"
-  },
-  {
-    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
-    "id": "lowmason/agent-skills",
-    "language": "Python",
-    "name": "lowmason/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:39:36Z",
-    "url": "https://github.com/lowmason/agent-skills"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "trinh058/hewn-forge",
-    "language": "CSS",
-    "name": "trinh058/hewn-forge",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:39:10Z",
-    "url": "https://github.com/trinh058/hewn-forge"
-  },
-  {
-    "description": "A Lean quality system for AI-assisted work \u2014 every defect becomes a permanent countermeasure. Built by a manufacturing o",
-    "id": "hoanghughes202/Andon",
-    "language": "Python",
-    "name": "hoanghughes202/Andon",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:38:13Z",
-    "url": "https://github.com/hoanghughes202/Andon"
   }
 ]
