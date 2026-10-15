@@ -1,21 +1,12 @@
 [
   {
-    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
-    "id": "ZeroLu/awesome-nanobanana-pro",
-    "language": "\u2014",
-    "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10345,
-    "updated_at": "2026-10-15T02:30:24Z",
-    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
-  },
-  {
-    "description": "AI \u52a8\u6f2b\u89c6\u9891\u521b\u4f5c\u5411\u5bfc\uff1a\u628a\u300c\u6211\u60f3\u505a\u4e2a\u52a8\u6f2b\u89c6\u9891\u300d\u53d8\u6210\u4e00\u4efd\u53ef\u76f4\u63a5\u5f00\u62cd\u7684\u65b9\u6848 \u2014\u2014 \u5206\u955c\u8868 / \u89d2\u8272\u4e0e\u573a\u666f\u8bbe\u5b9a\u5361 / \u591a\u5e73\u53f0\u63d0\u793a\u8bcd / \u7a7f\u5e2e\u68c0\u67e5\u3002\u514d\u6ce8\u518c\u3001\u96f6\u540e\u7aef\uff0c\u6570\u636e\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002",
-    "id": "exiell/ai-video",
-    "language": "TypeScript",
-    "name": "exiell/ai-video",
+    "description": "Drop-in skill that turns any repo \u2014 any language, greenfield or brownfield \u2014 into a self-maintaining markdown context wi",
+    "id": "AnshRoshan/project-context-system",
+    "language": "JavaScript",
+    "name": "AnshRoshan/project-context-system",
     "stars": 0,
-    "updated_at": "2026-10-15T02:29:34Z",
-    "url": "https://github.com/exiell/ai-video"
+    "updated_at": "2026-10-15T02:45:08Z",
+    "url": "https://github.com/AnshRoshan/project-context-system"
   },
   {
     "description": "\u4e0d\u8981\u628a AI \u5ba2\u670d\u505a\u6210\u77e5\u8bc6\u68c0\u7d22\u5de5\u5177\uff0c\u8bb0\u5f55\u4e00\u4e0b\u6211\u5728\u505a\u667a\u80fdAi\u5ba2\u670d\u7684\u9879\u76ee\u8fc7\u7a0b\uff0c\u4ee5\u53ca\u5206\u4eab\u4e00\u4e0b\u771f\u5b9e\u8e29\u8fc7\u7684\u5751\uff01",
@@ -23,8 +14,80 @@
     "language": "\u2014",
     "name": "Olivia972/AI--Customer-Service",
     "stars": 0,
-    "updated_at": "2026-10-15T02:28:53Z",
+    "updated_at": "2026-10-15T02:42:12Z",
     "url": "https://github.com/Olivia972/AI--Customer-Service"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-15T02:39:02Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Refine multilingual text into clearer English prompts. A macOS app with selection actions, plus a browser workspace and ",
+    "id": "JERMYSUEN/promptfinch",
+    "language": "Swift",
+    "name": "JERMYSUEN/promptfinch",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:38:39Z",
+    "url": "https://github.com/JERMYSUEN/promptfinch"
+  },
+  {
+    "description": "Your AI keeps repeating mistakes. Log corrections, promote only recurring root causes into falsifiable rules. Local-firs",
+    "id": "phantomMillie/ai-criteria",
+    "language": "Python",
+    "name": "phantomMillie/ai-criteria",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:37:15Z",
+    "url": "https://github.com/phantomMillie/ai-criteria"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-15T02:35:44Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11537,
+    "updated_at": "2026-10-15T02:35:30Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "AI \u52a8\u6f2b\u89c6\u9891\u521b\u4f5c\u5411\u5bfc\uff1a\u628a\u300c\u6211\u60f3\u505a\u4e2a\u52a8\u6f2b\u89c6\u9891\u300d\u53d8\u6210\u4e00\u4efd\u53ef\u76f4\u63a5\u5f00\u62cd\u7684\u65b9\u6848 \u2014\u2014 \u5206\u955c\u8868 / \u89d2\u8272\u4e0e\u573a\u666f\u8bbe\u5b9a\u5361 / \u591a\u5e73\u53f0\u63d0\u793a\u8bcd / \u7a7f\u5e2e\u68c0\u67e5\u3002\u514d\u6ce8\u518c\u3001\u96f6\u540e\u7aef\uff0c\u6570\u636e\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002",
+    "id": "exiell/ai-video",
+    "language": "TypeScript",
+    "name": "exiell/ai-video",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:34:25Z",
+    "url": "https://github.com/exiell/ai-video"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T02:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10345,
+    "updated_at": "2026-10-15T02:30:24Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
   },
   {
     "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
@@ -45,20 +108,11 @@
     "url": "https://github.com/msintim/claude-code-pm-orchestrator"
   },
   {
-    "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
-    "id": "nx9161/war-room-protocol",
-    "language": "Python",
-    "name": "nx9161/war-room-protocol",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:22:56Z",
-    "url": "https://github.com/nx9161/war-room-protocol"
-  },
-  {
     "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before rou",
     "id": "angel291592/Intent-Router",
     "language": "Python",
     "name": "angel291592/Intent-Router",
-    "stars": 358,
+    "stars": 364,
     "updated_at": "2026-10-15T02:22:07Z",
     "url": "https://github.com/angel291592/Intent-Router"
   },
@@ -97,15 +151,6 @@
     "stars": 15,
     "updated_at": "2026-10-15T02:15:58Z",
     "url": "https://github.com/Novadiem-Studio/bureau"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T02:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "bogheorghiu/ex-cog-dev",
     "stars": 1,
-    "updated_at": "2026-10-15T02:11:35Z",
+    "updated_at": "2026-10-15T02:36:24Z",
     "url": "https://github.com/bogheorghiu/ex-cog-dev"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/ADC1920/AI-short-play-video-creation"
   },
   {
-    "description": "Refine multilingual text into clearer English prompts. A macOS app with selection actions, plus a browser workspace and ",
-    "id": "JERMYSUEN/promptfinch",
-    "language": "Swift",
-    "name": "JERMYSUEN/promptfinch",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:08:28Z",
-    "url": "https://github.com/JERMYSUEN/promptfinch"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -220,7 +256,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17553,
+    "stars": 17554,
     "updated_at": "2026-10-15T02:05:47Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -333,6 +369,15 @@
     "url": "https://github.com/realhassanabbasi/promptsmith"
   },
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40029,
+    "updated_at": "2026-10-15T01:50:27Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
     "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
     "id": "hmmhmmhm/align.md",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:37:14Z",
     "url": "https://github.com/sca-285/sd-webui-prompt-vault"
-  },
-  {
-    "description": "Eval-driven prompt search & regression-testing framework \u2014 reproducible, comparable, revertible prompt tuning. \u8bc4\u4f30\u9a71\u52a8\u7684 Pro",
-    "id": "ByronFinn/PromptOpt",
-    "language": "Go",
-    "name": "ByronFinn/PromptOpt",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:37:03Z",
-    "url": "https://github.com/ByronFinn/PromptOpt"
-  },
-  {
-    "description": "M\u00d8NTAN1 Narrative Intelligence Engine: Bosephus 2050. Not an agent: a machine that constructs a narrative over a cited r",
-    "id": "m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050",
-    "language": "Python",
-    "name": "m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:35:18Z",
-    "url": "https://github.com/m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:35:13Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:34:14Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\ud83c\udfaf CLI \u63d0\u793a\u8bcd\u5f39\u5939 \u00b7 The tactical prompt magazine for CLI coding agents \u2014 inline image pinning, zero-ambiguity compilation, aut",
-    "id": "HaiLanDuJun/PromptMag",
-    "language": "JavaScript",
-    "name": "HaiLanDuJun/PromptMag",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:32:45Z",
-    "url": "https://github.com/HaiLanDuJun/PromptMag"
   }
 ]
