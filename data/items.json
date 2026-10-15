@@ -1,12 +1,93 @@
 [
   {
-    "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
-    "id": "novanoticia/bayesian-compose-plugin",
+    "description": "Model-agnostic prompt library for code and document review through cognitive lenses",
+    "id": "kphutt/prompt-lenses",
     "language": "\u2014",
-    "name": "novanoticia/bayesian-compose-plugin",
+    "name": "kphutt/prompt-lenses",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:29:34Z",
+    "url": "https://github.com/kphutt/prompt-lenses"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 2,
+    "updated_at": "2026-10-15T06:29:26Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": "One command generates a complete technical interview prep system: deep-dive episodes, NotebookLM podcasts, and a Gemini ",
+    "id": "kphutt/interview-prep",
+    "language": "Python",
+    "name": "kphutt/interview-prep",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:29:11Z",
+    "url": "https://github.com/kphutt/interview-prep"
+  },
+  {
+    "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
+    "id": "breizhidentevil/chatgpt-prompt-repeater",
+    "language": "TypeScript",
+    "name": "breizhidentevil/chatgpt-prompt-repeater",
     "stars": 0,
-    "updated_at": "2026-10-15T06:15:02Z",
-    "url": "https://github.com/novanoticia/bayesian-compose-plugin"
+    "updated_at": "2026-10-15T06:28:40Z",
+    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con",
+    "id": "KodekaTeam/superior-skills",
+    "language": "PowerShell",
+    "name": "KodekaTeam/superior-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:26:00Z",
+    "url": "https://github.com/KodekaTeam/superior-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35843,
+    "updated_at": "2026-10-15T06:24:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 9,
+    "updated_at": "2026-10-15T06:22:31Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Auditor filos\u00f3fico multiplataforma para examinar evidencia, conceptos, argumentos y supuestos, con an\u00e1lisis epist\u00e9mico, ",
+    "id": "novanoticia/auditor-filosofico",
+    "language": "JavaScript",
+    "name": "novanoticia/auditor-filosofico",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:19:45Z",
+    "url": "https://github.com/novanoticia/auditor-filosofico"
+  },
+  {
+    "description": "Chinese writing skill for Codex: choose genre and voice for the reader, with literary craft and personal profiles\uff5c\u6309\u573a\u5408\u9009\u6587\u4f53",
+    "id": "AKin-lvyifang/human-doc-writing",
+    "language": "Python",
+    "name": "AKin-lvyifang/human-doc-writing",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:18:39Z",
+    "url": "https://github.com/AKin-lvyifang/human-doc-writing"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-15T06:18:26Z",
+    "url": "https://github.com/costiash/claude-code-docs"
   },
   {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
@@ -14,8 +95,53 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-15T06:15:23Z",
+    "updated_at": "2026-10-15T06:17:45Z",
     "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Compositor epist\u00e9mico de mensajes con 30 criterios de racionalidad bayesiana (LessWrong Sequences). Complemento de email",
+    "id": "novanoticia/bayesian-compose-plugin",
+    "language": "\u2014",
+    "name": "novanoticia/bayesian-compose-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:16:22Z",
+    "url": "https://github.com/novanoticia/bayesian-compose-plugin"
+  },
+  {
+    "description": "Skill de acompa\u00f1amiento editorial para Claude: conversaci\u00f3n que cristaliza en canvas markdown iterativo (nunca escribe e",
+    "id": "novanoticia/mindandhealth-publish-v2",
+    "language": "Python",
+    "name": "novanoticia/mindandhealth-publish-v2",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:16:08Z",
+    "url": "https://github.com/novanoticia/mindandhealth-publish-v2"
+  },
+  {
+    "description": "Skill de apoyo a la formulaci\u00f3n jur\u00eddica de casos civiles ya estudiados por jurista habilitado, usando el C\u00f3digo Civil e",
+    "id": "novanoticia/codigo-civil-formulacion-juridica",
+    "language": "Shell",
+    "name": "novanoticia/codigo-civil-formulacion-juridica",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:15:49Z",
+    "url": "https://github.com/novanoticia/codigo-civil-formulacion-juridica"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Shell",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:15:45Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T06:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Skill editorial conversacional para las publicaciones de mindandhealth.org (Obsidian Publish). Acompa\u00f1a la conversaci\u00f3n,",
@@ -117,15 +243,6 @@
     "url": "https://github.com/Kul-Utkarsh/promptport"
   },
   {
-    "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
-    "id": "breizhidentevil/chatgpt-prompt-repeater",
-    "language": "TypeScript",
-    "name": "breizhidentevil/chatgpt-prompt-repeater",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:09:46Z",
-    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
-  },
-  {
     "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
     "id": "AhmedMerza/agent-skills",
     "language": "Python",
@@ -169,15 +286,6 @@
     "stars": 2066,
     "updated_at": "2026-10-15T06:07:04Z",
     "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35840,
-    "updated_at": "2026-10-15T06:13:55Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
@@ -225,15 +333,6 @@
     "url": "https://github.com/Igor-lx/claudeHarness"
   },
   {
-    "description": "Skill de acompa\u00f1amiento editorial para Claude: conversaci\u00f3n que cristaliza en canvas markdown iterativo (nunca escribe e",
-    "id": "novanoticia/mindandhealth-publish-v2",
-    "language": "Python",
-    "name": "novanoticia/mindandhealth-publish-v2",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:01:27Z",
-    "url": "https://github.com/novanoticia/mindandhealth-publish-v2"
-  },
-  {
     "description": "Optional Claude Code and Codex skills for instruction audits, development reviews, and research workflows.",
     "id": "HoonStyle/agent-policy-radar",
     "language": "Python",
@@ -241,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T06:01:27Z",
     "url": "https://github.com/HoonStyle/agent-policy-radar"
-  },
-  {
-    "description": "Skill de apoyo a la formulaci\u00f3n jur\u00eddica de casos civiles ya estudiados por jurista habilitado, usando el C\u00f3digo Civil e",
-    "id": "novanoticia/codigo-civil-formulacion-juridica",
-    "language": "Shell",
-    "name": "novanoticia/codigo-civil-formulacion-juridica",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:01:20Z",
-    "url": "https://github.com/novanoticia/codigo-civil-formulacion-juridica"
   },
   {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
@@ -268,24 +358,6 @@
     "stars": 8,
     "updated_at": "2026-10-15T06:01:22Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Auditor filos\u00f3fico multiplataforma para examinar evidencia, conceptos, argumentos y supuestos, con an\u00e1lisis epist\u00e9mico, ",
-    "id": "novanoticia/auditor-filosofico",
-    "language": "JavaScript",
-    "name": "novanoticia/auditor-filosofico",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:00:29Z",
-    "url": "https://github.com/novanoticia/auditor-filosofico"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T06:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "LangGraph \u9a71\u52a8\u7684\u4ee3\u7801\u52a9\u624b Agent\uff1aReAct + Plan-and-Execute + Reflect \u6df7\u5408\u67b6\u6784\uff0c9 \u5de5\u5177 + SSE \u5b9e\u65f6\u53ef\u89c6\u5316 + 5 \u7ef4\u8bc4\u4f30\u4f53\u7cfb",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T05:46:37Z",
     "url": "https://github.com/xiaobai66-web/ai-conversation-skills"
-  },
-  {
-    "description": "Multi-agent development pipeline for Claude Code \u2014 plan, design-gate, execute in parallel worktrees, review, UAT, merge.",
-    "id": "buya-v/claude-softhouse",
-    "language": "Shell",
-    "name": "buya-v/claude-softhouse",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:48:43Z",
-    "url": "https://github.com/buya-v/claude-softhouse"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 68,
-    "updated_at": "2026-10-15T05:42:36Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-15T05:42:32Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 11,
-    "updated_at": "2026-10-15T06:03:33Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
-    "id": "locoprice/Fibonax",
-    "language": "TypeScript",
-    "name": "locoprice/Fibonax",
-    "stars": 3,
-    "updated_at": "2026-10-15T05:57:45Z",
-    "url": "https://github.com/locoprice/Fibonax"
-  },
-  {
-    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
-    "id": "gotonote/awesome-agent-boom",
-    "language": "Python",
-    "name": "gotonote/awesome-agent-boom",
-    "stars": 16,
-    "updated_at": "2026-10-15T05:35:10Z",
-    "url": "https://github.com/gotonote/awesome-agent-boom"
-  },
-  {
-    "description": "Portable engineering workflows for AI coding agents \u2014 35 playbooks for bug fixing, feature development, code review, tes",
-    "id": "chiragmangaldev3112/agent-playbooks",
-    "language": "Shell",
-    "name": "chiragmangaldev3112/agent-playbooks",
-    "stars": 8,
-    "updated_at": "2026-10-15T05:33:33Z",
-    "url": "https://github.com/chiragmangaldev3112/agent-playbooks"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-10-15T05:32:30Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
