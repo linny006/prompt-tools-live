@@ -1,12 +1,66 @@
 [
   {
-    "description": "Multi-agent development pipeline for Claude Code \u2014 plan, design-gate, execute in parallel worktrees, review, UAT, merge.",
-    "id": "buya-v/claude-softhouse",
-    "language": "Shell",
-    "name": "buya-v/claude-softhouse",
+    "description": "Skill editorial conversacional para las publicaciones de mindandhealth.org (Obsidian Publish). Acompa\u00f1a la conversaci\u00f3n,",
+    "id": "novanoticia/mindandhealth-publish-plugin",
+    "language": "Python",
+    "name": "novanoticia/mindandhealth-publish-plugin",
     "stars": 0,
-    "updated_at": "2026-10-15T05:44:36Z",
-    "url": "https://github.com/buya-v/claude-softhouse"
+    "updated_at": "2026-10-15T05:59:39Z",
+    "url": "https://github.com/novanoticia/mindandhealth-publish-plugin"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:59:21Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "AI assistant setup, plus an optional GitHub workflow.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:59:47Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "The shot-level prompt behind Burning Bridges AI - one photo in, a 20-second party-scene clip out. Published in full, MIT",
+    "id": "baichuang-lin/burning-bridges-prompt",
+    "language": "\u2014",
+    "name": "baichuang-lin/burning-bridges-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:58:16Z",
+    "url": "https://github.com/baichuang-lin/burning-bridges-prompt"
+  },
+  {
+    "description": "DSH 1.5 \u8f85\u52a9\u6a21\u578b\u964d\u7ea7\uff1a\u8ba9\u538b\u7f29\u6458\u8981\u3001\u4f1a\u8bdd\u6807\u9898\u8fd9\u7c7b\u65c1\u8def\u8c03\u7528\u66f4\u7701\u66f4\u5b8c\u6574\uff0c\u4e3b\u5faa\u73af\u96f6\u5f71\u54cd\u3002\u4ec5\u652f\u6301 DSH 1.5\uff0c\u540e\u7eed\u4f1a\u8ddf\u8fdb\u66f4\u65b0\u3002 / Auxiliary-model degradation for DSH 1.5: cheaper, com",
+    "id": "xiamubumu/dsh-aux-degrade",
+    "language": "JavaScript",
+    "name": "xiamubumu/dsh-aux-degrade",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:58:06Z",
+    "url": "https://github.com/xiamubumu/dsh-aux-degrade"
+  },
+  {
+    "description": "DSH 1.5 \u80fd\u529b\u7ec4\u5408\u5668\uff1a\u6309\u4f1a\u8bdd\u6216\u5de5\u4f5c\u533a\u7f16\u6392\u5de5\u5177\u3001\u6280\u80fd\u4e0e MCP\uff0c\u6309\u9700\u7f29\u5c0f\u7cfb\u7edf\u63d0\u793a\u3002\u4ec5\u652f\u6301 DSH 1.5\uff0c\u540e\u7eed\u4f1a\u8ddf\u8fdb\u66f4\u65b0\u3002 / Capability composer for DSH 1.5: per-session tool / sk",
+    "id": "xiamubumu/dsh-capability-composer",
+    "language": "JavaScript",
+    "name": "xiamubumu/dsh-capability-composer",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:57:58Z",
+    "url": "https://github.com/xiamubumu/dsh-capability-composer"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:56:50Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
     "description": "ChatGPT Prompt Repeater is a Firefox extension that sends a sequence of prompts to an open ChatGPT conversation at regul",
@@ -14,8 +68,98 @@
     "language": "TypeScript",
     "name": "breizhidentevil/chatgpt-prompt-repeater",
     "stars": 0,
-    "updated_at": "2026-10-15T05:43:09Z",
+    "updated_at": "2026-10-15T05:56:15Z",
     "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Distil how you make decisions from your Claude Code history into an always-loaded CLAUDE.md kernel. Local, verifiable, y",
+    "id": "Tespera/decision-kernel",
+    "language": "Python",
+    "name": "Tespera/decision-kernel",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:53:59Z",
+    "url": "https://github.com/Tespera/decision-kernel"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-15T05:52:29Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:00:05Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:49:43Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "AI-powered content generation workflow using n8n, Ollama, and Gemma 3 4B.",
+    "id": "nagina56/ai-content-generator",
+    "language": "\u2014",
+    "name": "nagina56/ai-content-generator",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:49:20Z",
+    "url": "https://github.com/nagina56/ai-content-generator"
+  },
+  {
+    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
+    "id": "ssdiwu/507-skills",
+    "language": "Python",
+    "name": "ssdiwu/507-skills",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:48:46Z",
+    "url": "https://github.com/ssdiwu/507-skills"
+  },
+  {
+    "description": "AI conversation skills for intent clarification, causal analysis, and clean final delivery.",
+    "id": "xiaobai66-web/ai-conversation-skills",
+    "language": "\u2014",
+    "name": "xiaobai66-web/ai-conversation-skills",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:46:37Z",
+    "url": "https://github.com/xiaobai66-web/ai-conversation-skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-15T05:46:28Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T05:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Multi-agent development pipeline for Claude Code \u2014 plan, design-gate, execute in parallel worktrees, review, UAT, merge.",
+    "id": "buya-v/claude-softhouse",
+    "language": "Shell",
+    "name": "buya-v/claude-softhouse",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:48:43Z",
+    "url": "https://github.com/buya-v/claude-softhouse"
   },
   {
     "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
@@ -36,21 +180,12 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "AI assistant setup, plus an optional GitHub workflow.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:38:54Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-10-15T05:38:08Z",
+    "updated_at": "2026-10-15T05:59:55Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -59,7 +194,7 @@
     "language": "TypeScript",
     "name": "locoprice/Fibonax",
     "stars": 3,
-    "updated_at": "2026-10-15T05:36:08Z",
+    "updated_at": "2026-10-15T05:57:45Z",
     "url": "https://github.com/locoprice/Fibonax"
   },
   {
@@ -115,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T05:30:47Z",
     "url": "https://github.com/ichangyou/mf-ai-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T05:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchest",
@@ -189,15 +315,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
-    "id": "ssdiwu/507-skills",
-    "language": "Python",
-    "name": "ssdiwu/507-skills",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:25:32Z",
-    "url": "https://github.com/ssdiwu/507-skills"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -252,15 +369,6 @@
     "url": "https://github.com/RedBeret/ChatGPT-Prompt-Engineering-for-Developers"
   },
   {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-15T05:33:32Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -295,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:15:28Z",
     "url": "https://github.com/askFinz/askfinz-guides"
-  },
-  {
-    "description": "AI agent skills for intent clarification and causal factor analysis\u2014clarify goals, explain what drives outcomes, and val",
-    "id": "xiaobai66-web/ai-intent-skills",
-    "language": "\u2014",
-    "name": "xiaobai66-web/ai-intent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:11:27Z",
-    "url": "https://github.com/xiaobai66-web/ai-intent-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:07:33Z",
     "url": "https://github.com/mdeleon6/rpg-classifier-eval"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7282,
-    "updated_at": "2026-10-15T05:04:12Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 1,921 \u6761\u5fae\u535a\uff0818 \u4e2a\u6708\uff0c\u8de8\u5c01\u7981\u524d\u540e\u4e24\u671f\uff09+ 4,163 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u8bdd\u672f\u6f14\u8fdb\u5206\u671f\u53c2\u8003\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002 /",
-    "id": "MincongZhou/fengge-distill",
-    "language": "JavaScript",
-    "name": "MincongZhou/fengge-distill",
-    "stars": 2,
-    "updated_at": "2026-10-15T05:03:53Z",
-    "url": "https://github.com/MincongZhou/fengge-distill"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-15T05:01:00Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-15T05:01:31Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "JD \u7ffb\u8bd1\u5b98 \u2014 \u628a\u591a\u4e2a\u62db\u8058 JD \u805a\u7c7b\u4e3a\u53ef\u6267\u884c\u6c42\u804c\u65b9\u5411\u7684 Agent Skill\uff1a\u80fd\u529b\u805a\u7c7b\u3001\u7b80\u5386\u5206\u7248\u51b3\u7b56\u3001\u8bc1\u636e\u8bbf\u8c08\u3001\u5b9a\u5411 CV \u91cd\u5199\uff08\u9762\u5411\u4ea7\u54c1/UX \u8bbe\u8ba1\u5e08\uff09",
-    "id": "sxr-design/jd-translator",
-    "language": "\u2014",
-    "name": "sxr-design/jd-translator",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:59:13Z",
-    "url": "https://github.com/sxr-design/jd-translator"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35838,
-    "updated_at": "2026-10-15T04:56:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
-    "id": "tinyhumansai/tinyjuice",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyjuice",
-    "stars": 22,
-    "updated_at": "2026-10-15T04:55:42Z",
-    "url": "https://github.com/tinyhumansai/tinyjuice"
-  },
-  {
-    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
-    "id": "TripoGrowthLab/awesome-astra-prompts",
-    "language": "JavaScript",
-    "name": "TripoGrowthLab/awesome-astra-prompts",
-    "stars": 340,
-    "updated_at": "2026-10-15T04:52:43Z",
-    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
-  },
-  {
-    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
-    "id": "Michel-IT/Kotodama",
-    "language": "Rust",
-    "name": "Michel-IT/Kotodama",
-    "stars": 5,
-    "updated_at": "2026-10-15T04:52:10Z",
-    "url": "https://github.com/Michel-IT/Kotodama"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-10-15T04:48:39Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
-    "id": "drobins25/craft",
-    "language": "Shell",
-    "name": "drobins25/craft",
-    "stars": 68,
-    "updated_at": "2026-10-15T04:40:13Z",
-    "url": "https://github.com/drobins25/craft"
   }
 ]
