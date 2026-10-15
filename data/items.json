@@ -1,5 +1,122 @@
 [
   {
+    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 68,
+    "updated_at": "2026-10-15T23:44:59Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "Compare prompt versions and categorize changed lines deterministically for human review.",
+    "id": "loganpendragonmultiverse/prompt-version-diff",
+    "language": "Python",
+    "name": "loganpendragonmultiverse/prompt-version-diff",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:44:56Z",
+    "url": "https://github.com/loganpendragonmultiverse/prompt-version-diff"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-15T23:43:39Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Free prompt kit that turns a research question into an evidence-based Deep Research workflow. \u8abf\u3079\u305f\u3044\u3053\u3068\u3092\u66f8\u304f\u3060\u3051\u3002Deep Research\u3092",
+    "id": "KS278810/research-robo",
+    "language": "HTML",
+    "name": "KS278810/research-robo",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:43:23Z",
+    "url": "https://github.com/KS278810/research-robo"
+  },
+  {
+    "description": "ChatGPT Prompt Repeater is a Firefox and chrome extension that sends a sequence of prompts to an open ChatGPT conversati",
+    "id": "breizhidentevil/chatgpt-prompt-repeater",
+    "language": "TypeScript",
+    "name": "breizhidentevil/chatgpt-prompt-repeater",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:43:32Z",
+    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
+  },
+  {
+    "description": "Claude Code plugin suite: brewcode (skill/agent/rule authoring, semble semantic search, superreview and teams setups), b",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 32,
+    "updated_at": "2026-10-15T23:43:16Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Open-source, Git-backed knowledge harness for portable, evidence-aware AI agent capabilities across Copilot, Claude, Gem",
+    "id": "venturemavenwill/ai-knowledge-harness",
+    "language": "Python",
+    "name": "venturemavenwill/ai-knowledge-harness",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:39:12Z",
+    "url": "https://github.com/venturemavenwill/ai-knowledge-harness"
+  },
+  {
+    "description": "A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) and gen",
+    "id": "brandonhimpfen/awesome-prompt-engineering",
+    "language": "Python",
+    "name": "brandonhimpfen/awesome-prompt-engineering",
+    "stars": 253,
+    "updated_at": "2026-10-15T23:38:06Z",
+    "url": "https://github.com/brandonhimpfen/awesome-prompt-engineering"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 123,
+    "updated_at": "2026-10-15T23:36:09Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
+    "id": "zahiruddin586-cpu/ai-web-forge",
+    "language": "HTML",
+    "name": "zahiruddin586-cpu/ai-web-forge",
+    "stars": 68,
+    "updated_at": "2026-10-15T23:36:00Z",
+    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
+  },
+  {
+    "description": "\u26bd \u82f1\u8d85 2026/27 AI \u6bd4\u5206\u9884\u6d4b\u5f15\u64ce \u00b7 \u63d0\u793a\u8bcd\u5de5\u7a0b + \u771f\u5b9e\u6570\u636e + GitHub Actions \u5168\u81ea\u52a8\u66f4\u65b0 \u00b7 18 \u7ef4\u6df1\u5ea6\u5206\u6790 \u00b7 1539 \u5f20\u7403\u5458\u7167\u7247 \u00b7 \u514d\u8d39\u5f00\u6e90\u96f6\u6210\u672c",
+    "id": "cyberJason1/premier-league-prediction-skill",
+    "language": "HTML",
+    "name": "cyberJason1/premier-league-prediction-skill",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:34:12Z",
+    "url": "https://github.com/cyberJason1/premier-league-prediction-skill"
+  },
+  {
+    "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
+    "id": "kingjethro999/promptdock",
+    "language": "JavaScript",
+    "name": "kingjethro999/promptdock",
+    "stars": 1,
+    "updated_at": "2026-10-15T23:34:10Z",
+    "url": "https://github.com/kingjethro999/promptdock"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T23:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Tidy dictation for AI: a Claude Code mod that cleans up voice dictation before you send it.",
     "id": "fbwndrud/tidia",
     "language": "TypeScript",
@@ -63,15 +180,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "\u26bd \u82f1\u8d85 2026/27 AI \u6bd4\u5206\u9884\u6d4b\u5f15\u64ce \u00b7 \u63d0\u793a\u8bcd\u5de5\u7a0b + \u771f\u5b9e\u6570\u636e + GitHub Actions \u5168\u81ea\u52a8\u66f4\u65b0 \u00b7 18 \u7ef4\u6df1\u5ea6\u5206\u6790 \u00b7 1539 \u5f20\u7403\u5458\u7167\u7247 \u00b7 \u514d\u8d39\u5f00\u6e90\u96f6\u6210\u672c",
-    "id": "cyberJason1/premier-league-prediction-skill",
-    "language": "HTML",
-    "name": "cyberJason1/premier-league-prediction-skill",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:26:07Z",
-    "url": "https://github.com/cyberJason1/premier-league-prediction-skill"
-  },
-  {
     "description": "David Petry's Website --->  Music \u00b7 Education \u00b7 Technology \u00b7 Innovation",
     "id": "davidpetry-cloud/david-petry-site",
     "language": "HTML",
@@ -90,6 +198,15 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26022,
+    "updated_at": "2026-10-15T23:25:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Agent skills for Claude Code and other coding agents: design review, ADRs, refactoring, and autoresearch loops",
     "id": "will-wright-eng/skills",
     "language": "Shell",
@@ -106,15 +223,6 @@
     "stars": 7261,
     "updated_at": "2026-10-15T23:19:08Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "ChatGPT Prompt Repeater is a Firefox and chrome extension that sends a sequence of prompts to an open ChatGPT conversati",
-    "id": "breizhidentevil/chatgpt-prompt-repeater",
-    "language": "TypeScript",
-    "name": "breizhidentevil/chatgpt-prompt-repeater",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:18:17Z",
-    "url": "https://github.com/breizhidentevil/chatgpt-prompt-repeater"
   },
   {
     "description": "An agentic tool to compound your context over time, portable across IDEs. Own the state. Rent the intelligence.",
@@ -142,15 +250,6 @@
     "stars": 209,
     "updated_at": "2026-10-15T23:15:38Z",
     "url": "https://github.com/yzfly/awesome-context-engineering"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T23:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source code for the IBM Granite AI Model Workshop",
@@ -329,7 +428,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22632,
-    "updated_at": "2026-10-15T22:52:34Z",
+    "updated_at": "2026-10-15T23:40:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-15T22:51:23Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40052,
-    "updated_at": "2026-10-15T22:51:09Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-15T22:50:31Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:49:52Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-15T22:48:33Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 61,
-    "updated_at": "2026-10-15T22:44:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-10-15T22:43:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "OpenCode fork with flexible System prompt control, bundled Codex prompts, and a Codex-compatible ChatGPT Responses wire.",
-    "id": "Krablante/opencodez",
-    "language": "TypeScript",
-    "name": "Krablante/opencodez",
-    "stars": 8,
-    "updated_at": "2026-10-15T22:49:24Z",
-    "url": "https://github.com/Krablante/opencodez"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-10-15T22:42:23Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "A portable library of reusable AI skills, prompts, workflows, schemas, and automation patterns designed for ChatGPT, Cla",
-    "id": "mickpletcher/AI-Skills",
-    "language": "PowerShell",
-    "name": "mickpletcher/AI-Skills",
-    "stars": 19,
-    "updated_at": "2026-10-15T22:42:30Z",
-    "url": "https://github.com/mickpletcher/AI-Skills"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:39:58Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Scenario-based AI coding configuration pack + starter preset bundle (required skills & MCP set with real-run gates)",
-    "id": "Morningstar202604/My-first-step",
-    "language": "Python",
-    "name": "Morningstar202604/My-first-step",
-    "stars": 1,
-    "updated_at": "2026-10-15T22:39:19Z",
-    "url": "https://github.com/Morningstar202604/My-first-step"
   }
 ]
