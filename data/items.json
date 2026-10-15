@@ -1,5 +1,140 @@
 [
   {
+    "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
+    "id": "nx9161/war-room-protocol",
+    "language": "Shell",
+    "name": "nx9161/war-room-protocol",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:28:18Z",
+    "url": "https://github.com/nx9161/war-room-protocol"
+  },
+  {
+    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
+    "id": "kapitan00000978-sketch/artisan",
+    "language": "Python",
+    "name": "kapitan00000978-sketch/artisan",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:24:13Z",
+    "url": "https://github.com/kapitan00000978-sketch/artisan"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 65,
+    "updated_at": "2026-10-15T01:28:37Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "\u7528\u6237\u534f\u4f5c\u5baa\u7ae0 v3.1 \u7684 Agent \u6267\u884c\u5185\u6838\uff1a\u4fe1\u606f\u6d41\u8def\u7531\u3001\u51b2\u7a81\u88c1\u51b3\u3001\u5b89\u5168\u95f8\u95e8\u3001\u8bb0\u5fc6\u56de\u6d41\uff0c\u9644\u7279\u5f81\u7c07\u63d0\u793a\u8bcd\u8bca\u65ad\u5668",
+    "id": "LucasDevKid9/collab-charter",
+    "language": "Python",
+    "name": "LucasDevKid9/collab-charter",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:21:59Z",
+    "url": "https://github.com/LucasDevKid9/collab-charter"
+  },
+  {
+    "description": "Centralized AI agents ecosystem, workspace rules, engineering skills, and toolchain workflows for HELIX-Origin projects.",
+    "id": "HELIX-Origin/agents",
+    "language": "Shell",
+    "name": "HELIX-Origin/agents",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:21:51Z",
+    "url": "https://github.com/HELIX-Origin/agents"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 22,
+    "updated_at": "2026-10-15T01:21:43Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
+    "id": "hmmhmmhm/align.md",
+    "language": "Python",
+    "name": "hmmhmmhm/align.md",
+    "stars": 2,
+    "updated_at": "2026-10-15T01:19:59Z",
+    "url": "https://github.com/hmmhmmhm/align.md"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:18:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 126,
+    "updated_at": "2026-10-15T01:18:45Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40025,
+    "updated_at": "2026-10-15T01:18:25Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
+    "id": "rynald0cst0ltziam/Warden-AI",
+    "language": "TypeScript",
+    "name": "rynald0cst0ltziam/Warden-AI",
+    "stars": 9,
+    "updated_at": "2026-10-15T01:26:08Z",
+    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
+  },
+  {
+    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 18,
+    "updated_at": "2026-10-15T01:17:28Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Bilingual cross-platform AI Skills framework\uff5c\u53cc\u8bed\u8de8\u5e73\u53f0 AI Skills \u5de5\u7a0b\u6846\u67b6",
+    "id": "dss-time/repo-doctor-skills",
+    "language": "JavaScript",
+    "name": "dss-time/repo-doctor-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:16:26Z",
+    "url": "https://github.com/dss-time/repo-doctor-skills"
+  },
+  {
+    "description": "Founder visual director: AI visual production direction for founder IP \u2014 a vertciti skill",
+    "id": "HUIIIM/founder-visual-director",
+    "language": "\u2014",
+    "name": "HUIIIM/founder-visual-director",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:16:18Z",
+    "url": "https://github.com/HUIIIM/founder-visual-director"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-15T01:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -9,31 +144,13 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "War Room Protocol \u2014 autonomous AI-run software office led by Sloane (Chief Orchestrator). 15 specialists, 5 divisions, f",
-    "id": "nx9161/war-room-protocol",
-    "language": "Shell",
-    "name": "nx9161/war-room-protocol",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:15:13Z",
-    "url": "https://github.com/nx9161/war-room-protocol"
-  },
-  {
     "description": "marolaGPT + the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
     "id": "marola-dev/marola-ml",
     "language": "Python",
     "name": "marola-dev/marola-ml",
     "stars": 1,
-    "updated_at": "2026-10-15T01:15:09Z",
+    "updated_at": "2026-10-15T01:18:10Z",
     "url": "https://github.com/marola-dev/marola-ml"
-  },
-  {
-    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 18,
-    "updated_at": "2026-10-15T01:14:37Z",
-    "url": "https://github.com/wangkant/personagent"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -63,30 +180,12 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40025,
-    "updated_at": "2026-10-15T01:13:03Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Autonomous quality and security protocol for AI coding agents. Enforces pre-commit gates against stubs and secret leaks,",
-    "id": "kapitan00000978-sketch/artisan",
-    "language": "Python",
-    "name": "kapitan00000978-sketch/artisan",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:09:59Z",
-    "url": "https://github.com/kapitan00000978-sketch/artisan"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-15T01:09:27Z",
+    "updated_at": "2026-10-15T01:29:55Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -144,6 +243,15 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
+    "description": "Gu\u00eda te\u00f3rico-pr\u00e1ctica sobre Inteligencia Artificial Local, dise\u00f1o de asistentes con LLM e integraci\u00f3n con Ollama, Open W",
+    "id": "juliopez/ia-local-integracion",
+    "language": "Python",
+    "name": "juliopez/ia-local-integracion",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:05:47Z",
+    "url": "https://github.com/juliopez/ia-local-integracion"
+  },
+  {
     "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
     "id": "StephenQiu30/glowloom-server",
     "language": "Go",
@@ -157,18 +265,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22609,
+    "stars": 22610,
     "updated_at": "2026-10-15T01:04:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Centralized AI agents ecosystem, workspace rules, engineering skills, and toolchain workflows for HELIX-Origin projects.",
-    "id": "HELIX-Origin/agents",
-    "language": "Shell",
-    "name": "HELIX-Origin/agents",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:04:16Z",
-    "url": "https://github.com/HELIX-Origin/agents"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -193,7 +292,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 163633,
+    "stars": 163640,
     "updated_at": "2026-10-15T01:02:15Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -216,15 +315,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-15T01:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -243,15 +333,6 @@
     "url": "https://github.com/firaen22/claude-rulebook"
   },
   {
-    "description": "Bilingual cross-platform AI Skills framework\uff5c\u53cc\u8bed\u8de8\u5e73\u53f0 AI Skills \u5de5\u7a0b\u6846\u67b6",
-    "id": "dss-time/repo-doctor-skills",
-    "language": "JavaScript",
-    "name": "dss-time/repo-doctor-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:56:46Z",
-    "url": "https://github.com/dss-time/repo-doctor-skills"
-  },
-  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
@@ -268,15 +349,6 @@
     "stars": 17551,
     "updated_at": "2026-10-15T01:15:13Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "A portable skill and prompt for aligning AI agents with a user's project goals, priorities, and judgment, and keeping th",
-    "id": "hmmhmmhm/align.md",
-    "language": "Python",
-    "name": "hmmhmmhm/align.md",
-    "stars": 2,
-    "updated_at": "2026-10-15T00:53:14Z",
-    "url": "https://github.com/hmmhmmhm/align.md"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -369,15 +441,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "\u7528\u6237\u534f\u4f5c\u5baa\u7ae0 v3.1 \u7684 Agent \u6267\u884c\u5185\u6838\uff1a\u4fe1\u606f\u6d41\u8def\u7531\u3001\u51b2\u7a81\u88c1\u51b3\u3001\u5b89\u5168\u95f8\u95e8\u3001\u8bb0\u5fc6\u56de\u6d41\uff0c\u9644\u7279\u5f81\u7c07\u63d0\u793a\u8bcd\u8bca\u65ad\u5668",
-    "id": "LucasDevKid9/collab-charter",
-    "language": "Python",
-    "name": "LucasDevKid9/collab-charter",
-    "stars": 1,
-    "updated_at": "2026-10-15T00:37:37Z",
-    "url": "https://github.com/LucasDevKid9/collab-charter"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T00:35:42Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "\u89c4\u6a21\u81ea\u9002\u5e94\u7684 AI \u5f00\u53d1\u5de5\u4f5c\u6d41\u2014\u2014\u4ece\u4fee bug \u5230 ERP\uff0c\u4e00\u4e2a skill \u5305\uff0c\u4efb\u4f55 agent\u3002\u7eaf Markdown\uff0c\u65e0 CLI\u3002",
-    "id": "qingyiwss/ai-dev-workflow",
-    "language": "Vim Snippet",
-    "name": "qingyiwss/ai-dev-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:35:32Z",
-    "url": "https://github.com/qingyiwss/ai-dev-workflow"
-  },
-  {
-    "description": "\u26a1 Describe the problem. /god picks the right skills and sees the job through. 107 skills, 6 subagents and one protocol f",
-    "id": "Gastonchevarria/god-mode",
-    "language": "JavaScript",
-    "name": "Gastonchevarria/god-mode",
-    "stars": 3,
-    "updated_at": "2026-10-15T00:35:24Z",
-    "url": "https://github.com/Gastonchevarria/god-mode"
-  },
-  {
-    "description": "Agentic code-hardening plugin for Claude Code. Multi-model AI review loop -- Claude writes and decides, Codex CLI critiq",
-    "id": "minwoo-data/mangchi",
-    "language": "Shell",
-    "name": "minwoo-data/mangchi",
-    "stars": 1,
-    "updated_at": "2026-10-15T00:34:38Z",
-    "url": "https://github.com/minwoo-data/mangchi"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2700,
-    "updated_at": "2026-10-15T00:33:10Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 53,
-    "updated_at": "2026-10-15T00:32:08Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:31:01Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-15T00:26:46Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
