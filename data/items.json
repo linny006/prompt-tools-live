@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-16T18:59:59Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
@@ -43,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-10-16T18:57:32Z",
     "url": "https://github.com/orrrrli/ai-engineering-stack"
+  },
+  {
+    "description": "Curated, production-tested prompt library for sales outreach, AI support bots, structured output, and content generation",
+    "id": "UmarJaved13/prompt-library",
+    "language": "\u2014",
+    "name": "UmarJaved13/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:57:29Z",
+    "url": "https://github.com/UmarJaved13/prompt-library"
   },
   {
     "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
@@ -160,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-10-16T18:46:34Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-16T18:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T18:21:34Z",
     "url": "https://github.com/Shreyaw073/krypton"
-  },
-  {
-    "description": "Detect and rebut rationalization patterns in AI agent output",
-    "id": "hivecommons/rationguard",
-    "language": "TypeScript",
-    "name": "hivecommons/rationguard",
-    "stars": 3,
-    "updated_at": "2026-10-16T18:21:20Z",
-    "url": "https://github.com/hivecommons/rationguard"
   }
 ]
