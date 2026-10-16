@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83c\udde7\ud83c\uddf7 marolaGPT + the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
+    "id": "marola-dev/marola-ml",
+    "language": "Python",
+    "name": "marola-dev/marola-ml",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:30:22Z",
+    "url": "https://github.com/marola-dev/marola-ml"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:30:22Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
+  },
+  {
+    "description": "An operating layer for your agent's judgment \u2014 instruction-only skills that make it verify before it acts, specify befor",
+    "id": "CodeWithJuber/wisdomlens",
+    "language": "JavaScript",
+    "name": "CodeWithJuber/wisdomlens",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:29:43Z",
+    "url": "https://github.com/CodeWithJuber/wisdomlens"
+  },
+  {
+    "description": "One-click prompt injection, inline commenting, and effortless prompt library management for Microsoft Copilot and Google",
+    "id": "Flx-xlF/PromptDock",
+    "language": "JavaScript",
+    "name": "Flx-xlF/PromptDock",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:29:02Z",
+    "url": "https://github.com/Flx-xlF/PromptDock"
+  },
+  {
+    "description": "AI \u5de5\u7a0b\u5b66\u4e60\u624b\u518c\uff5c\u4ece\u6a21\u578b\u539f\u7406\u5230 Agent \u8bbe\u8ba1\u3001AI \u8f85\u52a9\u5f00\u53d1\u4e0e\u8f6f\u4ef6\u6d4b\u8bd5\u3002\u7528\u8bba\u6587\u8bc1\u636e\u3001\u53ef\u624b\u7b97\u6848\u4f8b\u548c\u5931\u8d25\u8fb9\u754c\uff0c\u628a\u201c\u4f1a\u7528 AI\u201d\u63a8\u8fdb\u5230\u201c\u4f1a\u5224\u65ad\u7cfb\u7edf\u201d\u3002",
+    "id": "qiufeng-dot/ai-engineering-handbook",
+    "language": "\u2014",
+    "name": "qiufeng-dot/ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:27:58Z",
+    "url": "https://github.com/qiufeng-dot/ai-engineering-handbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-16T06:27:50Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-16T06:26:33Z",
+    "updated_at": "2026-10-16T06:27:56Z",
     "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Stop shipping AI slop: a multi-agent orchestration skill that makes coding agents prove their work. Claude Code, Codex, ",
+    "id": "Atri10/executor",
+    "language": "Python",
+    "name": "Atri10/executor",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:27:43Z",
+    "url": "https://github.com/Atri10/executor"
   },
   {
     "description": "Build reliable, self-contained AI skills from natural-language source and executable scripts\u2014with deterministic builds a",
@@ -86,17 +149,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35889,
-    "updated_at": "2026-10-16T06:20:14Z",
+    "updated_at": "2026-10-16T06:29:54Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Stop shipping AI slop: a multi-agent orchestration skill that makes coding agents prove their work. Claude Code, Codex, ",
-    "id": "Atri10/executor",
-    "language": "Python",
-    "name": "Atri10/executor",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:27:43Z",
-    "url": "https://github.com/Atri10/executor"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -108,15 +162,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
-    "id": "billyhetech/awesome-viral-ai-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-viral-ai-videos",
-    "stars": 1,
-    "updated_at": "2026-10-16T06:18:50Z",
-    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
-  },
-  {
     "description": "\ud83e\udde0 Free offline AI campus \u2014 128 lessons in 14 tracks \u00b7 agents, MCP, RAG, evals, LoRA \u00b7 one HTML file, no CDN.",
     "id": "CypherMonkeyLabs/ai-lab-free-university-mesmerizing",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T06:16:22Z",
     "url": "https://github.com/CypherMonkeyLabs/ai-lab-free-university-mesmerizing"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-16T06:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
@@ -265,7 +301,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 52306,
+    "stars": 52307,
     "updated_at": "2026-10-16T06:02:39Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -346,18 +382,9 @@
     "id": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
     "language": "Python",
     "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "stars": 242,
+    "stars": 243,
     "updated_at": "2026-10-16T05:53:07Z",
     "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
-  },
-  {
-    "description": "\ud83c\udde7\ud83c\uddf7 marolaGPT + the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
-    "id": "marola-dev/marola-ml",
-    "language": "Python",
-    "name": "marola-dev/marola-ml",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:48:54Z",
-    "url": "https://github.com/marola-dev/marola-ml"
   },
   {
     "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
@@ -421,32 +448,5 @@
     "stars": 959,
     "updated_at": "2026-10-16T05:37:25Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "ComfyUI nodes for NovelAI Diffusion V5 and earlier: txt2img, img2img, inpainting, multi-character prompts, sequential YO",
-    "id": "raspie10032/ComfyUI_RS_NAI_API_Request",
-    "language": "Python",
-    "name": "raspie10032/ComfyUI_RS_NAI_API_Request",
-    "stars": 8,
-    "updated_at": "2026-10-16T05:36:47Z",
-    "url": "https://github.com/raspie10032/ComfyUI_RS_NAI_API_Request"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:34:32Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-16T05:33:37Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
   }
 ]
