@@ -1,11 +1,119 @@
 [
   {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7262,
+    "updated_at": "2026-10-16T02:14:34Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 11,
+    "updated_at": "2026-10-16T02:13:48Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Run two versions of an AI agent (Mastra, OpenAI Agents SDK, or any function) on the same tests and see what it does diff",
+    "id": "amishaba/agentdiff",
+    "language": "TypeScript",
+    "name": "amishaba/agentdiff",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:12:23Z",
+    "url": "https://github.com/amishaba/agentdiff"
+  },
+  {
+    "description": "Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty",
+    "id": "Furkiozknn/prompt-template-manager",
+    "language": "Python",
+    "name": "Furkiozknn/prompt-template-manager",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:11:11Z",
+    "url": "https://github.com/Furkiozknn/prompt-template-manager"
+  },
+  {
+    "description": "A brain for designers \u2014 distilling artists' visual languages into composable, verifiable modules + an ask-first design-c",
+    "id": "dwgx/designers-brain",
+    "language": "Python",
+    "name": "dwgx/designers-brain",
+    "stars": 1,
+    "updated_at": "2026-10-16T02:09:41Z",
+    "url": "https://github.com/dwgx/designers-brain"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11861,
+    "updated_at": "2026-10-16T02:11:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Write your AI agent knowledge once. Compile it to every agent config format - CLAUDE.md, AGENTS.md, .cursor/rules and mo",
+    "id": "wondping0/wondev",
+    "language": "TypeScript",
+    "name": "wondping0/wondev",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:11:04Z",
+    "url": "https://github.com/wondping0/wondev"
+  },
+  {
+    "description": "\u8f93\u5165\u680f\u63d0\u793a\u8bcd\u4f18\u5316\u63d2\u4ef6 / Input-bar prompt optimizer for DeepSeek Harness\uff1a6 \u79cd\u7b56\u7565 \u00d7 3 \u79cd\u8bed\u8a00\u4e00\u952e\u91cd\u5199\u8349\u7a3f\uff0c\u53ef\u9009\u4f1a\u8bdd\u4e0a\u4e0b\u6587\uff0c\u5e26\u786e\u8ba4\u5f39\u7a97\u3001\u6700\u8fd1 5 \u6b21\u5386\u53f2\u4e0e\u4e09\u7ea7\u8bbe\u7f6e\u6301\u4e45\u5316\u3002",
+    "id": "1321928757/dsh-prompt-polish",
+    "language": "JavaScript",
+    "name": "1321928757/dsh-prompt-polish",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:06:47Z",
+    "url": "https://github.com/1321928757/dsh-prompt-polish"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 10105,
+    "updated_at": "2026-10-16T02:05:52Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
+    "id": "DSeaStar/awesome-kling",
+    "language": "Python",
+    "name": "DSeaStar/awesome-kling",
+    "stars": 5,
+    "updated_at": "2026-10-16T02:03:21Z",
+    "url": "https://github.com/DSeaStar/awesome-kling"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-16T02:01:44Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-16T02:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
     "id": "hhuang91/tuningfork",
     "language": "Python",
     "name": "hhuang91/tuningfork",
     "stars": 0,
-    "updated_at": "2026-10-16T01:59:59Z",
+    "updated_at": "2026-10-16T02:14:49Z",
     "url": "https://github.com/hhuang91/tuningfork"
   },
   {
@@ -99,24 +207,6 @@
     "url": "https://github.com/UnderleveledBuilder/awesome-story-skills"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-16T01:46:35Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-16T01:45:18Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T01:41:21Z",
     "url": "https://github.com/m4bwav/cinewright"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11861,
-    "updated_at": "2026-10-16T01:41:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
@@ -193,7 +274,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 75456,
+    "stars": 75457,
     "updated_at": "2026-10-16T01:36:08Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -324,15 +405,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 11,
-    "updated_at": "2026-10-16T01:13:47Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 79,
     "updated_at": "2026-10-16T01:09:02Z",
     "url": "https://github.com/KerberosClaw/kc_ai_skills"
-  },
-  {
-    "description": "Semitexa Platform UI \u2014 LLM-friendly CSS grammar, design tokens, primitive components, and AI-assisted skin generation (S",
-    "id": "semitexa/semitexa-platform-ui",
-    "language": "PHP",
-    "name": "semitexa/semitexa-platform-ui",
-    "stars": 3,
-    "updated_at": "2026-10-16T01:06:57Z",
-    "url": "https://github.com/semitexa/semitexa-platform-ui"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T01:04:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 126,
-    "updated_at": "2026-10-16T01:04:22Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22637,
-    "updated_at": "2026-10-16T01:03:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 8,
-    "updated_at": "2026-10-16T01:02:11Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "YYC\u00b3 MiniMax-H3 DiffSynth \u672c\u5730\u6570\u5b57\u4eba\u751f\u4ea7\u7ebf \u00b7 \u4e94\u6b65\u95ed\u73af\u6d41\u6c34\u7ebf \u00b7 8 \u4f4d AI Family \u591a\u667a\u80fd\u4f53\u534f\u540c \u00b7 \u672c\u5730\u4f18\u5148 100% \u6570\u636e\u4e3b\u6743",
-    "id": "YYC-Cube/YYC3-MH3",
-    "language": "TypeScript",
-    "name": "YYC-Cube/YYC3-MH3",
-    "stars": 0,
-    "updated_at": "2026-10-16T01:02:02Z",
-    "url": "https://github.com/YYC-Cube/YYC3-MH3"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 3,
-    "updated_at": "2026-10-16T01:33:11Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "Ready-to-install AI agent squads for Hermes Agent: job search, marketing, web development, or your own. An orchestrator ",
-    "id": "PuntoyComaTech/hermes-agent-squads",
-    "language": "Python",
-    "name": "PuntoyComaTech/hermes-agent-squads",
-    "stars": 1,
-    "updated_at": "2026-10-16T01:01:24Z",
-    "url": "https://github.com/PuntoyComaTech/hermes-agent-squads"
   }
 ]
