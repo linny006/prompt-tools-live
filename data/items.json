@@ -1,5 +1,140 @@
 [
   {
+    "description": "My Claude Code harness: 17 skills and a 7-agent team (architect, reviewer, security auditor, debugger...), linked into a",
+    "id": "orrrrli/ai-engineering-stack",
+    "language": "Shell",
+    "name": "orrrrli/ai-engineering-stack",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:28:34Z",
+    "url": "https://github.com/orrrrli/ai-engineering-stack"
+  },
+  {
+    "description": "Framework para construir software con agentes de IA sin repetir los mismos errores: skills, patrones, plantillas y scrip",
+    "id": "Nashova/LLM-Dev-Framework",
+    "language": "PowerShell",
+    "name": "Nashova/LLM-Dev-Framework",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:28:22Z",
+    "url": "https://github.com/Nashova/LLM-Dev-Framework"
+  },
+  {
+    "description": "\u628a SillyTavern \u7684\u804a\u5929\u8865\u5168\u9884\u8bbe\u539f\u6837\u642c\u8fdb DeepSeek Harness\uff08DSH\uff09\uff1a\u8bfb ST \u9884\u8bbe JSON\uff0c\u6309 \ud83d\udccc \u5206\u533a\u5217\u51fa\u6761\u76ee\u3001\ud83d\udd00 \u591a\u9009\u4e00\u4e92\u65a5\u3001\u9010\u6761\u5f00\u5173\u4e0e\u6b63\u6587\u5c31\u5730\u7f16\u8f91\uff1b\u5bfc\u5165/\u5220\u9664/\u6539\u540d\u90fd\u5728\u9762\u677f\u91cc\u5b8c\u6210\uff0c\u72b6\u6001\u6309\u4f1a\u8bdd\uff08\u7a97\u53e3\uff09\u9694\u79bb\uff1b",
+    "id": "baiyixing12/sillytavern-preset-for-dsh",
+    "language": "JavaScript",
+    "name": "baiyixing12/sillytavern-preset-for-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:26:51Z",
+    "url": "https://github.com/baiyixing12/sillytavern-preset-for-dsh"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 75466,
+    "updated_at": "2026-10-16T04:27:38Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:22:04Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
+    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "language": "Python",
+    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "stars": 2,
+    "updated_at": "2026-10-16T04:20:27Z",
+    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
+  },
+  {
+    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
+    "id": "m4bwav/cinewright",
+    "language": "Python",
+    "name": "m4bwav/cinewright",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:20:18Z",
+    "url": "https://github.com/m4bwav/cinewright"
+  },
+  {
+    "description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), ea",
+    "id": "billyhetech/awesome-gpt6-astra-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gpt6-astra-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:20:15Z",
+    "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, 3D scenes and motion graphics (Canvas, ",
+    "id": "billyhetech/awesome-gemini4-argon-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gemini4-argon-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:20:14Z",
+    "url": "https://github.com/billyhetech/awesome-gemini4-argon-videos"
+  },
+  {
+    "description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers",
+    "id": "billyhetech/awesome-opus5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-opus5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:20:13Z",
+    "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
+    "id": "billyhetech/awesome-fable5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-fable5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:20:11Z",
+    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:20:10Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
+  },
+  {
+    "description": "A complete framework for building, maintaining and improving AI assistants with Claude \u2014 guides, runnable setup tasks, i",
+    "id": "KalastajaM/Cluide",
+    "language": "Markdown",
+    "name": "KalastajaM/Cluide",
+    "stars": 2,
+    "updated_at": "2026-10-16T04:17:07Z",
+    "url": "https://github.com/KalastajaM/Cluide"
+  },
+  {
+    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 12,
+    "updated_at": "2026-10-16T04:15:51Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-16T04:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
     "id": "heronbo111/HeronBo-AIGC-Prompt",
     "language": "Tcl",
@@ -16,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T04:14:14Z",
     "url": "https://github.com/boloagegit/TurnStage"
-  },
-  {
-    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
-    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "language": "Python",
-    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
-    "stars": 2,
-    "updated_at": "2026-10-16T04:13:46Z",
-    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75466,
-    "updated_at": "2026-10-16T04:13:56Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
@@ -108,15 +225,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-16T04:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Awesome Seedance 2.5 \u2014 prompt-only ByteDance Seedance 2.5 gallery + 12 installable Agent Skills (npx skills add xianyu11",
     "id": "xianyu110/awesome-seedance-2.5",
     "language": "HTML",
@@ -130,7 +238,7 @@
     "id": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
     "language": "Python",
     "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "stars": 230,
+    "stars": 231,
     "updated_at": "2026-10-16T03:59:15Z",
     "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
   },
@@ -203,7 +311,7 @@
     "language": "JavaScript",
     "name": "github/awesome-copilot",
     "stars": 40065,
-    "updated_at": "2026-10-16T03:51:20Z",
+    "updated_at": "2026-10-16T04:22:55Z",
     "url": "https://github.com/github/awesome-copilot"
   },
   {
@@ -310,7 +418,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26030,
+    "stars": 26031,
     "updated_at": "2026-10-16T03:36:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -329,7 +437,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 188,
-    "updated_at": "2026-10-16T03:33:35Z",
+    "updated_at": "2026-10-16T04:28:56Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T03:30:27Z",
     "url": "https://github.com/adwilds/bodymd"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 2,
-    "updated_at": "2026-10-16T03:29:45Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 12,
-    "updated_at": "2026-10-16T04:02:20Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Turn the text you just selected into an optimized prompt for ChatGPT, Claude, Gemini, Codex or Claude Code \u2014 in place, i",
-    "id": "Dennielasouza/prompt-refiner",
-    "language": "TypeScript",
-    "name": "Dennielasouza/prompt-refiner",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:26:38Z",
-    "url": "https://github.com/Dennielasouza/prompt-refiner"
-  },
-  {
-    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
-    "id": "drobins25/craft",
-    "language": "Shell",
-    "name": "drobins25/craft",
-    "stars": 68,
-    "updated_at": "2026-10-16T03:25:30Z",
-    "url": "https://github.com/drobins25/craft"
-  },
-  {
-    "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
-    "id": "OpenScribbler/Katharsis",
-    "language": "TypeScript",
-    "name": "OpenScribbler/Katharsis",
-    "stars": 5,
-    "updated_at": "2026-10-16T03:25:29Z",
-    "url": "https://github.com/OpenScribbler/Katharsis"
-  },
-  {
-    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
-    "id": "billyhetech/awesome-viral-ai-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-viral-ai-videos",
-    "stars": 1,
-    "updated_at": "2026-10-16T03:24:13Z",
-    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11865,
-    "updated_at": "2026-10-16T03:24:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Curated resources for agents teaching humans AI, literacy, prompting and MCP.",
-    "id": "ApexAI-Academy/awesome-agent-teaching",
-    "language": "\u2014",
-    "name": "ApexAI-Academy/awesome-agent-teaching",
-    "stars": 1,
-    "updated_at": "2026-10-16T03:22:19Z",
-    "url": "https://github.com/ApexAI-Academy/awesome-agent-teaching"
-  },
-  {
-    "description": "AI Workflow Builder -- visual drag-and-drop tool to chain prompts into flowcharts. Build, connect, and export AI prompt ",
-    "id": "theluckystrike/claudflow.com",
-    "language": "HTML",
-    "name": "theluckystrike/claudflow.com",
-    "stars": 2,
-    "updated_at": "2026-10-16T03:19:18Z",
-    "url": "https://github.com/theluckystrike/claudflow.com"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 173108,
-    "updated_at": "2026-10-16T03:18:13Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
-    "id": "m4bwav/cinewright",
-    "language": "Python",
-    "name": "m4bwav/cinewright",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:17:50Z",
-    "url": "https://github.com/m4bwav/cinewright"
-  },
-  {
-    "description": "Prompts for GPT Image 2.5, written against the capability areas in OpenAI's announcement \u2014 each shipped with the image i",
-    "id": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
-    "stars": 27,
-    "updated_at": "2026-10-16T03:17:49Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
   }
 ]
