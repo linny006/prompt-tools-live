@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
+    "id": "heronbo111/HeronBo-AIGC-Prompt",
+    "language": "Tcl",
+    "name": "heronbo111/HeronBo-AIGC-Prompt",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:14:38Z",
+    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
+  },
+  {
+    "description": "A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences.",
+    "id": "boloagegit/TurnStage",
+    "language": "TypeScript",
+    "name": "boloagegit/TurnStage",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:14:14Z",
+    "url": "https://github.com/boloagegit/TurnStage"
+  },
+  {
+    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
+    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "language": "Python",
+    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "stars": 2,
+    "updated_at": "2026-10-16T04:13:46Z",
+    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 75466,
+    "updated_at": "2026-10-16T04:13:56Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 1051,
+    "updated_at": "2026-10-16T04:07:36Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
+    "id": "Adilaw12/freebird-vscode",
+    "language": "TypeScript",
+    "name": "Adilaw12/freebird-vscode",
+    "stars": 3,
+    "updated_at": "2026-10-16T04:07:22Z",
+    "url": "https://github.com/Adilaw12/freebird-vscode"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1877,
+    "updated_at": "2026-10-16T04:06:19Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Open-standard Agent Skills for AI coding agents (Claude Code, Cursor, Codex, Copilot). Senior-level planning, expert rev",
+    "id": "shahabahreini/360-skills",
+    "language": "JavaScript",
+    "name": "shahabahreini/360-skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:05:59Z",
+    "url": "https://github.com/shahabahreini/360-skills"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13597,
+    "updated_at": "2026-10-16T04:04:28Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Creators Studio \u2014 AI image, video & audio Creative Director plugin for Claude Code. Imagine \u00b7 Direct \u00b7 Generate.",
+    "id": "juliandickie/creators-studio",
+    "language": "Python",
+    "name": "juliandickie/creators-studio",
+    "stars": 3,
+    "updated_at": "2026-10-16T04:02:37Z",
+    "url": "https://github.com/juliandickie/creators-studio"
+  },
+  {
+    "description": "SKILL.md agent skills for Claude Code and Codex: candid critique, test audits, plan grilling, cleaner AI writing.",
+    "id": "salalaslam/skills",
+    "language": "HTML",
+    "name": "salalaslam/skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:02:03Z",
+    "url": "https://github.com/salalaslam/skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 8,
+    "updated_at": "2026-10-16T04:01:37Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-16T04:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Awesome Seedance 2.5 \u2014 prompt-only ByteDance Seedance 2.5 gallery + 12 installable Agent Skills (npx skills add xianyu11",
     "id": "xianyu110/awesome-seedance-2.5",
     "language": "HTML",
@@ -13,18 +130,9 @@
     "id": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
     "language": "Python",
     "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "stars": 228,
+    "stars": 230,
     "updated_at": "2026-10-16T03:59:15Z",
     "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
-  },
-  {
-    "description": "A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences.",
-    "id": "boloagegit/TurnStage",
-    "language": "TypeScript",
-    "name": "boloagegit/TurnStage",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:58:43Z",
-    "url": "https://github.com/boloagegit/TurnStage"
   },
   {
     "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
@@ -34,6 +142,15 @@
     "stars": 2268,
     "updated_at": "2026-10-16T03:58:35Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "Python",
+    "name": "coco-research/coco",
+    "stars": 638,
+    "updated_at": "2026-10-16T04:12:30Z",
+    "url": "https://github.com/coco-research/coco"
   },
   {
     "description": "The AI engine behind Farkad, built in the open to learn applied AI: say what you ate and did, in any language, and it be",
@@ -81,6 +198,15 @@
     "url": "https://github.com/TripoGrowthLab/vibe-gaming-interactive-handbook"
   },
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40065,
+    "updated_at": "2026-10-16T03:51:20Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
     "id": "iaminpwd/dotfiles",
     "language": "Shell",
@@ -99,24 +225,6 @@
     "url": "https://github.com/elanthus/news-briefing"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 75464,
-    "updated_at": "2026-10-16T03:58:32Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
-    "id": "Adilaw12/freebird-vscode",
-    "language": "TypeScript",
-    "name": "Adilaw12/freebird-vscode",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:49:17Z",
-    "url": "https://github.com/Adilaw12/freebird-vscode"
-  },
-  {
     "description": "David Petry's personal site: human-centered AI consulting, music and drum lessons, and shipped software projects.",
     "id": "davidpetry-cloud/david-petry-site",
     "language": "HTML",
@@ -131,26 +239,8 @@
     "language": "C#",
     "name": "Maneet7805/PromptForge",
     "stars": 3,
-    "updated_at": "2026-10-16T03:48:56Z",
+    "updated_at": "2026-10-16T04:09:34Z",
     "url": "https://github.com/Maneet7805/PromptForge"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 8,
-    "updated_at": "2026-10-16T03:46:25Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-16T03:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first workspace for CLI coding agents: plan projects in Origin, write prompts in Compose, run tasks on Kanban and ",
@@ -160,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T03:41:55Z",
     "url": "https://github.com/datasound-projects/Promptboard"
-  },
-  {
-    "description": "SKILL.md agent skills for Claude Code and Codex: candid critique, test audits, plan grilling, cleaner AI writing.",
-    "id": "salalaslam/skills",
-    "language": "HTML",
-    "name": "salalaslam/skills",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:40:46Z",
-    "url": "https://github.com/salalaslam/skills"
   },
   {
     "description": "AI assistant setup, plus an optional GitHub workflow.",
@@ -243,15 +324,6 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
-    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
-    "id": "heronbo111/HeronBo-AIGC-Prompt",
-    "language": "Tcl",
-    "name": "heronbo111/HeronBo-AIGC-Prompt",
-    "stars": 1,
-    "updated_at": "2026-10-16T03:32:54Z",
-    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
-  },
-  {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
     "id": "minipuft/claude-prompts-mcp",
     "language": "TypeScript",
@@ -284,7 +356,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 12,
-    "updated_at": "2026-10-16T03:32:22Z",
+    "updated_at": "2026-10-16T04:02:20Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -355,7 +427,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 173107,
+    "stars": 173108,
     "updated_at": "2026-10-16T03:18:13Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -376,77 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-16T03:17:49Z",
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
-  },
-  {
-    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
-    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "stars": 6,
-    "updated_at": "2026-10-16T03:17:41Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 239,
-    "updated_at": "2026-10-16T03:17:26Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
-    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "language": "JavaScript",
-    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "stars": 20,
-    "updated_at": "2026-10-16T03:17:18Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 7,
-    "updated_at": "2026-10-16T03:17:09Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "awesome-seedance-2-prompt",
-    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
-    "stars": 11,
-    "updated_at": "2026-10-16T03:17:00Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 57,
-    "updated_at": "2026-10-16T03:16:48Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 55,
-    "updated_at": "2026-10-16T03:16:10Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Installable Claude Code plugin for building agent skills that compound: append-only run archives, a model-maintained wik",
-    "id": "JonasJoe233/skill-creator",
-    "language": "Python",
-    "name": "JonasJoe233/skill-creator",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:15:37Z",
-    "url": "https://github.com/JonasJoe233/skill-creator"
   }
 ]
