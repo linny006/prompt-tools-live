@@ -1,30 +1,75 @@
 [
   {
-    "description": "A looping multi-agent board skill for Claude Code: auto-routes a creative/build track (amplify, build, playtest, judge) ",
-    "id": "mabualsoud/loop-board",
-    "language": "HTML",
-    "name": "mabualsoud/loop-board",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:30:03Z",
-    "url": "https://github.com/mabualsoud/loop-board"
-  },
-  {
-    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
-    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "language": "JavaScript",
-    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:29:45Z",
-    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
-  },
-  {
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
-    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 143,
-    "updated_at": "2026-10-17T15:29:35Z",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:44:20Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:44:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:43:51Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "An AI chat that asks whats missing and writes you the finished prompt, for any AI and any task.",
+    "id": "BajKasum/PromptPrinter",
+    "language": "TypeScript",
+    "name": "BajKasum/PromptPrinter",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:43:10Z",
+    "url": "https://github.com/BajKasum/PromptPrinter"
+  },
+  {
+    "description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), ea",
+    "id": "billyhetech/awesome-gpt6-astra-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gpt6-astra-videos",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:41:30Z",
+    "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+  },
+  {
+    "description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers",
+    "id": "billyhetech/awesome-opus5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-opus5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:41:28Z",
+    "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
+    "id": "billyhetech/awesome-fable5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-fable5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:41:26Z",
+    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:41:25Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
   },
   {
     "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
@@ -32,8 +77,116 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-17T15:28:19Z",
+    "updated_at": "2026-10-17T15:40:12Z",
     "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "language": "Python",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 143,
+    "updated_at": "2026-10-17T15:39:20Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "DeepSeek Harness plugin: DietrichGebert/ponytail lazy senior mode & 7-rung ladder port, 6 skills with bilingual descript",
+    "id": "Wenaixi/dsh-ponytail",
+    "language": "JavaScript",
+    "name": "Wenaixi/dsh-ponytail",
+    "stars": 21,
+    "updated_at": "2026-10-17T15:38:33Z",
+    "url": "https://github.com/Wenaixi/dsh-ponytail"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 4,
+    "updated_at": "2026-10-17T15:37:20Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
+    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "language": "JavaScript",
+    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:36:18Z",
+    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:34:06Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "Score any prompt 0-100, learn what's weak, and get it rewritten \u2014 with an intent classifier built from scratch. Zero dep",
+    "id": "realhassanabbasi/promptsmith",
+    "language": "Python",
+    "name": "realhassanabbasi/promptsmith",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:33:22Z",
+    "url": "https://github.com/realhassanabbasi/promptsmith"
+  },
+  {
+    "description": "Open-source, provider-agnostic AI agent skills, rules and workflows with security reviews, behavioral evaluations and ev",
+    "id": "Borstwerk/KI-Regeln",
+    "language": "Python",
+    "name": "Borstwerk/KI-Regeln",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:33:02Z",
+    "url": "https://github.com/Borstwerk/KI-Regeln"
+  },
+  {
+    "description": "Agent skill for AI Systems \u2014 build model-powered behavior: agents, retrieval, evals, and guardrails",
+    "id": "gabros20/ai-skill",
+    "language": "HTML",
+    "name": "gabros20/ai-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:32:28Z",
+    "url": "https://github.com/gabros20/ai-skill"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:31:34Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:31:16Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T15:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A looping multi-agent board skill for Claude Code: auto-routes a creative/build track (amplify, build, playtest, judge) ",
+    "id": "mabualsoud/loop-board",
+    "language": "HTML",
+    "name": "mabualsoud/loop-board",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:30:03Z",
+    "url": "https://github.com/mabualsoud/loop-board"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -76,7 +229,7 @@
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
     "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 209,
+    "stars": 210,
     "updated_at": "2026-10-17T15:26:43Z",
     "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
   },
@@ -189,15 +342,6 @@
     "url": "https://github.com/api-evangelist/vellum"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T15:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -304,149 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-17T15:06:48Z",
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:06:43Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1509,
-    "updated_at": "2026-10-17T15:28:27Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6 \u00b7 \u6ce8\u5165\u5f0f\u4f18\u5316\u5668 0.8\uff08\u4e3b\u7ebf\uff09\uff1a\u4f60\u7167\u5e38\u8bf4\u8bdd\uff0c\u5b83\u5728\u4f60\u53d1\u9001\u540e,AI\u63a5\u6536\u524d\u628a\"\u8fd9\u4e00\u8f6e\u5230\u5e95\u8981\u4ec0\u4e48\"\u7406\u6e05\u695a\uff0c\u518d\u628a\u8fd9\u4efd\u7406\u89e3\u4ea4\u7ed9\u5de5\u4f5c AI(\u4e0a\u4e0b\u6587\u6ce8\u5165) \u2014\u2014 \u539f\u8bdd\u4e0d\u6539\u5199\uff0c\u6761\u6761\u5e26\u9010\u5b57\u4f9d\u636e\u3002\u542b\u63a7\u5236\u754c\u9762\uff08\u6863\u4f4d/\u6743\u9650/\u6a21\u578b/\u4e0a\u4e0b\u6587/\u53ea\u8bfb\u5de5\u5177\uff09\u3001",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "JavaScript",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 123,
-    "updated_at": "2026-10-17T15:06:14Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
-  },
-  {
-    "description": "Intelligent Skill routing and workflow orchestration for AI agents \u2014 +21.12 pp reward, \u221229.6% tokens on SkillsBench with",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 3724,
-    "updated_at": "2026-10-17T15:05:35Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:05:15Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:05:14Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:05:11Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Welcome to the world of prompt engineering",
-    "id": "NishantDas0079/Prompt-Engineering---Optimizing-Prompts",
-    "language": "\u2014",
-    "name": "NishantDas0079/Prompt-Engineering---Optimizing-Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:05:10Z",
-    "url": "https://github.com/NishantDas0079/Prompt-Engineering---Optimizing-Prompts"
-  },
-  {
-    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:04:45Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
-  },
-  {
-    "description": "Claude Code and Antigravity skills for working smarter with AI: fix weak prompts, budget tokens, shape rough ideas, desi",
-    "id": "mustansirlokhandwala/prompt-craft",
-    "language": "Python",
-    "name": "mustansirlokhandwala/prompt-craft",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:04:15Z",
-    "url": "https://github.com/mustansirlokhandwala/prompt-craft"
-  },
-  {
-    "description": "\u7ed9 WorkBuddy / CodeBuddy \u7684\u6a21\u578b\u63a8\u8350\u6280\u80fd\uff1a\u5f00\u5de5\u524d\u6309\u4efb\u52a1\u7c7b\u578b\u63a8\u8350\u5927\u6a21\u578b\u4e0e\u601d\u8003\u5f3a\u5ea6\uff0c\u81ea\u52a8\u8bfb\u53d6\u672c\u673a\u8d39\u7387\u4e0e\u6298\u6263\u3002\u53cc\u89d2\u5ea6\u63a8\u8350\u2014\u2014\u505a\u5230\u6700\u597d\uff08\u80fd\u529b\u4f18\u5148\uff0c\u4e0d\u8ba1\u6210\u672c\uff09\uff5c\u6027\u4ef7\u6bd4\u6700\u9ad8\uff08\u6309\u9519\u5cf0\u6298\u6263\u4ef7\u7b97\uff0c\u6700\u7701\u94b1\uff09",
-    "id": "SuZhan-Bubility/workbuddy-model-advisor",
-    "language": "Python",
-    "name": "SuZhan-Bubility/workbuddy-model-advisor",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:01:53Z",
-    "url": "https://github.com/SuZhan-Bubility/workbuddy-model-advisor"
-  },
-  {
-    "description": "An AI chat that asks whats missing and writes you the finished prompt, for any AI and any task.",
-    "id": "BajKasum/PromptPrinter",
-    "language": "TypeScript",
-    "name": "BajKasum/PromptPrinter",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:01:19Z",
-    "url": "https://github.com/BajKasum/PromptPrinter"
-  },
-  {
-    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
-    "id": "ariaxhan/kernel-claude",
-    "language": "Python",
-    "name": "ariaxhan/kernel-claude",
-    "stars": 14,
-    "updated_at": "2026-10-17T15:00:57Z",
-    "url": "https://github.com/ariaxhan/kernel-claude"
-  },
-  {
-    "description": "Composer prompt refinement plugin for DeepSeek Harness: rewrite the draft through the harness LLM, review the result, or",
-    "id": "Aliboder/dsh-prompt-forge",
-    "language": "JavaScript",
-    "name": "Aliboder/dsh-prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:00:42Z",
-    "url": "https://github.com/Aliboder/dsh-prompt-forge"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 9,
-    "updated_at": "2026-10-17T15:01:28Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
-    "id": "api-evangelist/compresr",
-    "language": "\u2014",
-    "name": "api-evangelist/compresr",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:57:23Z",
-    "url": "https://github.com/api-evangelist/compresr"
   }
 ]
