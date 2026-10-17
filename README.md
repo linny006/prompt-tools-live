@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 03:00 UTC
+> ⏰ Last updated: 2026-10-17 03:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,21 +43,21 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [janzong/agent-charters](https://github.com/janzong/agent-charters) | 1 | Python | 2026-10-17 | 人写给 AI 智能体的书面规约的结构化语料库｜558 份 AGENTS.md，9 类标注，含分类法与已知局限 |
-| 2 | [DiaryOfUranus/second-brain-framework](https://github.com/DiaryOfUranus/second-brain-framework) | 1 | Python | 2026-10-17 | Portable open-source Second Brain framework & agent skill: cross-session memory, honesty/coordinate discipline, governan |
-| 3 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | 50 | TypeScript | 2026-10-17 | VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle |
-| 4 | [jaypetez/ideaforge](https://github.com/jaypetez/ideaforge) | 0 | JavaScript | 2026-10-17 | An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key. |
-| 5 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 5 | JavaScript | 2026-10-17 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
-| 6 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 0 | HTML | 2026-10-17 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
-| 7 | [drobins25/craft](https://github.com/drobins25/craft) | 68 | Shell | 2026-10-17 | A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de |
-| 8 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1508 | Python | 2026-10-17 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 9 | [wornoxgames/awesome-3d-prompts](https://github.com/wornoxgames/awesome-3d-prompts) | 0 | — | 2026-10-17 | Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by Wandy3D |
-| 10 | [marola-dev/marola-skills](https://github.com/marola-dev/marola-skills) | 1 | Python | 2026-10-17 | marola way of coding |
-| 11 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 113075 | Go | 2026-10-17 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l |
-| 12 | [m4bwav/cinewright](https://github.com/m4bwav/cinewright) | 0 | Python | 2026-10-17 | Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot |
-| 13 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-17 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 14 | [Global-AI-Group-Inc/content-generation-skills](https://github.com/Global-AI-Group-Inc/content-generation-skills) | 6 | JavaScript | 2026-10-17 | Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images  |
-| 15 | [minhtran3124/cc-ste-mod](https://github.com/minhtran3124/cc-ste-mod) | 0 | TypeScript | 2026-10-17 | Claude Code mod that rewrites your prompt in ASD-STE100 Simplified Technical English. Review it, then accept, edit or de |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-17 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 3 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 4 | [DiaryOfUranus/second-brain-framework](https://github.com/DiaryOfUranus/second-brain-framework) | 1 | Python | 2026-10-17 | Portable open-source Second Brain framework & agent skill: cross-session memory, honesty/coordinate discipline, governan |
+| 5 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | 50 | TypeScript | 2026-10-17 | VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle |
+| 6 | [jaypetez/ideaforge](https://github.com/jaypetez/ideaforge) | 0 | JavaScript | 2026-10-17 | An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key. |
+| 7 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 5 | JavaScript | 2026-10-17 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
+| 8 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 0 | HTML | 2026-10-17 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
+| 9 | [drobins25/craft](https://github.com/drobins25/craft) | 68 | Shell | 2026-10-17 | A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de |
+| 10 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1508 | Python | 2026-10-17 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 11 | [wornoxgames/awesome-3d-prompts](https://github.com/wornoxgames/awesome-3d-prompts) | 0 | — | 2026-10-17 | Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by Wandy3D |
+| 12 | [marola-dev/marola-skills](https://github.com/marola-dev/marola-skills) | 1 | Python | 2026-10-17 | marola way of coding |
+| 13 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 113076 | Go | 2026-10-17 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l |
+| 14 | [m4bwav/cinewright](https://github.com/m4bwav/cinewright) | 0 | Python | 2026-10-17 | Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot |
+| 15 | [Global-AI-Group-Inc/content-generation-skills](https://github.com/Global-AI-Group-Inc/content-generation-skills) | 6 | JavaScript | 2026-10-17 | Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images  |
+| 16 | [minhtran3124/cc-ste-mod](https://github.com/minhtran3124/cc-ste-mod) | 0 | TypeScript | 2026-10-17 | Claude Code mod that rewrites your prompt in ASD-STE100 Simplified Technical English. Review it, then accept, edit or de |
 | 17 | [abdelrahman-elkot/universal-ai-software-company](https://github.com/abdelrahman-elkot/universal-ai-software-company) | 1 | JavaScript | 2026-10-17 | Universal AI Software Company OS — Turn Claude Code, Cursor, Windsurf, Antigravity, OpenCode, Copilot, Cline, Roo Code,  |
 | 18 | [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public) | 615 | Python | 2026-10-17 | Local-first memory, decision engine, and governance harness for AI agents — portable across IDEs. Own the state. Rent th |
 | 19 | [cyberJason1/premier-league-prediction-skill](https://github.com/cyberJason1/premier-league-prediction-skill) | 0 | HTML | 2026-10-17 | ⚽ 英超 2026/27 AI 比分预测引擎 · 提示词工程 + 真实数据 + GitHub Actions 全自动更新 · 18 维深度分析 · 1539 张球员照片 · 免费开源零成本 |
