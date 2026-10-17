@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 23:59 UTC
+> ⏰ Last updated: 2026-10-17 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [PuntoyComaTech/hermes-agent-squads](https://github.com/PuntoyComaTech/hermes-agent-squads) | 1 | Python | 2026-10-16 | Ready-to-install AI agent squads for Hermes Agent: job search, marketing, web development, or your own. An orchestrator  |
-| 2 | [janzong/agent-charters](https://github.com/janzong/agent-charters) | 1 | Python | 2026-10-16 | 人写给 AI 智能体的书面规约的结构化语料库｜558 份 AGENTS.md，9 类标注，含分类法与已知局限 |
-| 3 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 0 | HTML | 2026-10-16 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 4 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 3 | JavaScript | 2026-10-16 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
-| 5 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-10-16 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 6 | [keyur7523/probekit](https://github.com/keyur7523/probekit) | 0 | Python | 2026-10-16 | Behavioral eval toolkit for LLM prompts: multi-model runs, evaluator suite, regression detection, and human-in-the-loop  |
-| 7 | [wangkant/personagent](https://github.com/wangkant/personagent) | 18 | Python | 2026-10-16 | A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback  |
-| 8 | [elisrizea/ideas-in-progress](https://github.com/elisrizea/ideas-in-progress) | 0 | HTML | 2026-10-16 | Ideas I'm working on, written up early as working papers. Open to suggestions and collaboration. |
-| 9 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 75527 | Python | 2026-10-16 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
-| 10 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | JavaScript | 2026-10-16 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 11 | [Irsyadmr354/KESTREL](https://github.com/Irsyadmr354/KESTREL) | 9 | — | 2026-10-16 | Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider. |
-| 12 | [Muizzkolapo/agent-actions](https://github.com/Muizzkolapo/agent-actions) | 8 | Python | 2026-10-16 | Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates. |
-| 13 | [hack8998110-cloud/bifang](https://github.com/hack8998110-cloud/bifang) | 3 | JavaScript | 2026-10-16 | Bifang: commercial short-video director-thinking skills for Codex agents |
-| 14 | [theluckystrike/claudflow.com](https://github.com/theluckystrike/claudflow.com) | 2 | HTML | 2026-10-16 | AI Workflow Builder -- visual drag-and-drop tool to chain prompts into flowcharts. Build, connect, and export AI prompt  |
-| 15 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 121485 | Jupyter Notebook | 2026-10-16 | 21 Lessons, Get Started Building with Generative AI  |
-| 16 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-16 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 17 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [PuntoyComaTech/hermes-agent-squads](https://github.com/PuntoyComaTech/hermes-agent-squads) | 1 | Python | 2026-10-16 | Ready-to-install AI agent squads for Hermes Agent: job search, marketing, web development, or your own. An orchestrator  |
+| 3 | [janzong/agent-charters](https://github.com/janzong/agent-charters) | 1 | Python | 2026-10-16 | 人写给 AI 智能体的书面规约的结构化语料库｜558 份 AGENTS.md，9 类标注，含分类法与已知局限 |
+| 4 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 0 | HTML | 2026-10-16 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 5 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 3 | JavaScript | 2026-10-16 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
+| 6 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-10-16 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 7 | [keyur7523/probekit](https://github.com/keyur7523/probekit) | 0 | Python | 2026-10-16 | Behavioral eval toolkit for LLM prompts: multi-model runs, evaluator suite, regression detection, and human-in-the-loop  |
+| 8 | [wangkant/personagent](https://github.com/wangkant/personagent) | 18 | Python | 2026-10-16 | A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback  |
+| 9 | [elisrizea/ideas-in-progress](https://github.com/elisrizea/ideas-in-progress) | 0 | HTML | 2026-10-17 | Ideas I'm working on, written up early as working papers. Open to suggestions and collaboration. |
+| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 75527 | Python | 2026-10-16 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
+| 11 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | JavaScript | 2026-10-16 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 12 | [Irsyadmr354/KESTREL](https://github.com/Irsyadmr354/KESTREL) | 9 | — | 2026-10-16 | Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider. |
+| 13 | [Muizzkolapo/agent-actions](https://github.com/Muizzkolapo/agent-actions) | 8 | Python | 2026-10-16 | Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates. |
+| 14 | [hack8998110-cloud/bifang](https://github.com/hack8998110-cloud/bifang) | 3 | JavaScript | 2026-10-16 | Bifang: commercial short-video director-thinking skills for Codex agents |
+| 15 | [theluckystrike/claudflow.com](https://github.com/theluckystrike/claudflow.com) | 2 | HTML | 2026-10-16 | AI Workflow Builder -- visual drag-and-drop tool to chain prompts into flowcharts. Build, connect, and export AI prompt  |
+| 16 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 121485 | Jupyter Notebook | 2026-10-16 | 21 Lessons, Get Started Building with Generative AI  |
+| 17 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-16 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
 | 18 | [Aluxads/claude-skills](https://github.com/Aluxads/claude-skills) | 0 | JavaScript | 2026-10-16 | Free Claude skills for Claude Code: SEO, SERP teardown, autocomplete mining and marketing ops, by Aluxads, a B2B growth  |
 | 19 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
 | 20 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
