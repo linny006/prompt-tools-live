@@ -1,21 +1,138 @@
 [
   {
-    "description": "Ada \u2014 the AI algorithm engineer of the agent team: reasoning engine design, chain-of-thought architectures, evaluation s",
-    "id": "xhqing/NeuralCoreAgent",
+    "description": "Agent kit for the AI coding agents you already use (Claude Code, Gemini CLI): one portable set of rules, commands, skill",
+    "id": "Aiatulla/agent-kit",
+    "language": "Shell",
+    "name": "Aiatulla/agent-kit",
+    "stars": 2,
+    "updated_at": "2026-10-17T07:39:14Z",
+    "url": "https://github.com/Aiatulla/agent-kit"
+  },
+  {
+    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
+    "id": "xhqing/AgentCortex",
     "language": "\u2014",
-    "name": "xhqing/NeuralCoreAgent",
+    "name": "xhqing/AgentCortex",
     "stars": 0,
-    "updated_at": "2026-10-17T07:28:44Z",
-    "url": "https://github.com/xhqing/NeuralCoreAgent"
+    "updated_at": "2026-10-17T07:39:23Z",
+    "url": "https://github.com/xhqing/AgentCortex"
+  },
+  {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-17T07:37:23Z",
+    "url": "https://github.com/1arry1iu/archetype"
+  },
+  {
+    "description": "Run several LLMs on the same task, score every output in code, and rank them on validity, latency, real cost and prompt-",
+    "id": "andrescr94/llm-bakeoff",
+    "language": "TypeScript",
+    "name": "andrescr94/llm-bakeoff",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:36:07Z",
+    "url": "https://github.com/andrescr94/llm-bakeoff"
+  },
+  {
+    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
+    "id": "xhqing/ProductProducerAgent",
+    "language": "JavaScript",
+    "name": "xhqing/ProductProducerAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:35:39Z",
+    "url": "https://github.com/xhqing/ProductProducerAgent"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28420,
-    "updated_at": "2026-10-17T07:28:04Z",
+    "stars": 28421,
+    "updated_at": "2026-10-17T07:35:32Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u63d0\u793a\u8bcd\u4e0e AI \u5de5\u4f5c\u6d41\u684c\u9762\u7ba1\u7406\u5de5\u5177\u3002Markdown \u5b58\u50a8\u3001\u5168\u6587\u641c\u7d22\u3001\u7248\u672c\u5feb\u7167\u4e0e\u56de\u6eda\u3001\u5de5\u4f5c\u6d41\u53ef\u89c6\u5316\uff0c\u4e0d\u8054\u7f51\u4e5f\u4e0d\u7ed1\u5b9a\u4efb\u4f55 AI \u5e73\u53f0\u3002Electron + \u539f\u751f JS\u3002",
+    "id": "qiqiqi-max/Prompt-Flow-Manager",
+    "language": "JavaScript",
+    "name": "qiqiqi-max/Prompt-Flow-Manager",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:39:04Z",
+    "url": "https://github.com/qiqiqi-max/Prompt-Flow-Manager"
+  },
+  {
+    "description": "Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, an",
+    "id": "TechNomadCode/AI-Product-Development-Toolkit",
+    "language": "\u2014",
+    "name": "TechNomadCode/AI-Product-Development-Toolkit",
+    "stars": 1025,
+    "updated_at": "2026-10-17T07:36:06Z",
+    "url": "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-17T07:33:54Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-17T07:39:50Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 3,
+    "updated_at": "2026-10-17T07:32:49Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 113112,
+    "updated_at": "2026-10-17T07:32:19Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T07:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent skill for AI Systems \u2014 build model-powered behavior: agents, retrieval, evals, and guardrails",
+    "id": "gabros20/ai-skill",
+    "language": "HTML",
+    "name": "gabros20/ai-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:30:25Z",
+    "url": "https://github.com/gabros20/ai-skill"
+  },
+  {
+    "description": "Ada \u2014 the AI algorithm engineer of the agent team: reasoning engine design, chain-of-thought architectures, evaluation s",
+    "id": "xhqing/NeuralCoreAgent",
+    "language": "\u2014",
+    "name": "xhqing/NeuralCoreAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:33:37Z",
+    "url": "https://github.com/xhqing/NeuralCoreAgent"
   },
   {
     "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
@@ -126,15 +243,6 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "Agent kit for the AI coding agents you already use (Claude Code, Gemini CLI): one portable set of rules, commands, skill",
-    "id": "Aiatulla/agent-kit",
-    "language": "Shell",
-    "name": "Aiatulla/agent-kit",
-    "stars": 2,
-    "updated_at": "2026-10-17T07:29:49Z",
-    "url": "https://github.com/Aiatulla/agent-kit"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -232,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:15:51Z",
     "url": "https://github.com/jfjcixbrfa/forward-implementation-first"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T07:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u26bd \u82f1\u8d85 2026/27 AI \u6bd4\u5206\u9884\u6d4b\u5f15\u64ce \u00b7 \u63d0\u793a\u8bcd\u5de5\u7a0b + \u771f\u5b9e\u6570\u636e + GitHub Actions \u5168\u81ea\u52a8\u66f4\u65b0 \u00b7 18 \u7ef4\u6df1\u5ea6\u5206\u6790 \u00b7 1539 \u5f20\u7403\u5458\u7167\u7247 \u00b7 \u514d\u8d39\u5f00\u6e90\u96f6\u6210\u672c",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:13:37Z",
     "url": "https://github.com/Uwez06/engramory"
-  },
-  {
-    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verifi",
-    "id": "Sahu075/Cognitive-Core-Skills",
-    "language": "Python",
-    "name": "Sahu075/Cognitive-Core-Skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:33Z",
-    "url": "https://github.com/Sahu075/Cognitive-Core-Skills"
-  },
-  {
-    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pai",
-    "id": "petert21206/auto-improve",
-    "language": "Python",
-    "name": "petert21206/auto-improve",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:23Z",
-    "url": "https://github.com/petert21206/auto-improve"
-  },
-  {
-    "description": "Rails Engine with MCP compliant Spec.",
-    "id": "RyujiHarrison46620/action_mcp",
-    "language": "Ruby",
-    "name": "RyujiHarrison46620/action_mcp",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:20Z",
-    "url": "https://github.com/RyujiHarrison46620/action_mcp"
-  },
-  {
-    "description": "Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineers breaking ",
-    "id": "hhayashi2889/AI-Engineer-Interview-Questions",
-    "language": "Python",
-    "name": "hhayashi2889/AI-Engineer-Interview-Questions",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:12:56Z",
-    "url": "https://github.com/hhayashi2889/AI-Engineer-Interview-Questions"
-  },
-  {
-    "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
-    "id": "triton2030/agentic-research",
-    "language": "Python",
-    "name": "triton2030/agentic-research",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:12:49Z",
-    "url": "https://github.com/triton2030/agentic-research"
-  },
-  {
-    "description": "200 web animation examples with copy-ready AI prompts + MotionLens: turn any site's animation into a prompt. React, Type",
-    "id": "PhilippeChevalier9571/MotionVault",
-    "language": "TypeScript",
-    "name": "PhilippeChevalier9571/MotionVault",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:12:24Z",
-    "url": "https://github.com/PhilippeChevalier9571/MotionVault"
-  },
-  {
-    "description": "Hallucination-Mitigation Prompt Engineering Architecture & Pre-Submission Audit Protocol for Biomedical Manuscripts, Cli",
-    "id": "Rigjite/Scientific-Editor-AI-Protocol",
-    "language": "\u2014",
-    "name": "Rigjite/Scientific-Editor-AI-Protocol",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:11:38Z",
-    "url": "https://github.com/Rigjite/Scientific-Editor-AI-Protocol"
-  },
-  {
-    "description": "\u041f\u0435\u0440\u0435\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u043c\u043f\u0442 \u043f\u043e\u0434 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u043c\u043e\u0434\u0435\u043b\u0438, \u0433\u0434\u0435 \u0432\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442\u0435 (Claude Opus 5.5, Fable 5.1, GPT-6 Astra/Sol/Luna, Codex), \u0438 \u043f\u043e",
-    "id": "laurenfernandes803/nativeprompt",
-    "language": "Python",
-    "name": "laurenfernandes803/nativeprompt",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:11:24Z",
-    "url": "https://github.com/laurenfernandes803/nativeprompt"
-  },
-  {
-    "description": "Your personal, offline, no-nonsense AI prompt library.",
-    "id": "KungPowUnicorn/gia",
-    "language": "HTML",
-    "name": "KungPowUnicorn/gia",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:11:12Z",
-    "url": "https://github.com/KungPowUnicorn/gia"
-  },
-  {
-    "description": "Goal-based planning and proof gate for AI coding agents",
-    "id": "npatel21691/krypton",
-    "language": "Shell",
-    "name": "npatel21691/krypton",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:10:21Z",
-    "url": "https://github.com/npatel21691/krypton"
-  },
-  {
-    "description": "Hands-on WSQ labs for prompt engineering, Stable Diffusion with Python, and agentic AI image-generation workflows.",
-    "id": "tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation",
-    "stars": 2,
-    "updated_at": "2026-10-17T07:10:09Z",
-    "url": "https://github.com/tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation"
   }
 ]
