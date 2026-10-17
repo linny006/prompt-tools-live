@@ -1,12 +1,84 @@
 [
   {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 210,
+    "updated_at": "2026-10-17T17:29:06Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "PromptMag \u00b7 \u684c\u9762\u63d0\u793a\u8bcd\u5f39\u5939\uff1a\u591a\u56fe\u5f3a\u5173\u8054\u951a\u5b9a\u3001\u6781\u901f\u60ac\u6d6e\u8f93\u5165\u3001\u5168\u5c40\u5feb\u6377\u952e\u5149\u6807\u7c98\u8d34\u4e0e CLI Agent \u4efb\u52a1\u81ea\u52a8\u63a5\u529b",
+    "id": "HaiLanDuJun/PromptMag",
+    "language": "JavaScript",
+    "name": "HaiLanDuJun/PromptMag",
+    "stars": 1,
+    "updated_at": "2026-10-17T17:29:41Z",
+    "url": "https://github.com/HaiLanDuJun/PromptMag"
+  },
+  {
     "description": "Local-first desktop studio for ComfyUI, built for AI short-drama production - zero-dependency 10MB exe: creation, galler",
     "id": "IvenKooLab/comfy-agent",
     "language": "Python",
     "name": "IvenKooLab/comfy-agent",
     "stars": 29,
-    "updated_at": "2026-10-17T17:20:30Z",
+    "updated_at": "2026-10-17T17:27:20Z",
     "url": "https://github.com/IvenKooLab/comfy-agent"
+  },
+  {
+    "description": "A juicy token compression algorithm. Compress upto 95% of tokens without any loss. Free & Opensource",
+    "id": "tinyhumansai/tinyjuice",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyjuice",
+    "stars": 21,
+    "updated_at": "2026-10-17T17:25:38Z",
+    "url": "https://github.com/tinyhumansai/tinyjuice"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-17T17:25:01Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
+    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "language": "JavaScript",
+    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:24:50Z",
+    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
+  },
+  {
+    "description": "\u7ed9\u4f60\u7684\u684c\u9762\u7aef AI \u7f16\u7a0b\u52a9\u624b\u88c5\u300c\u7194\u65ad\u5668\u300d\uff1a\u4e0d\u7a7a\u8f6c\u3001\u4e0d\u5047\u88c5\u5b8c\u6210\u3001\u4e0d\u641e\u574f\u673a\u5668\uff1b\u518d\u8865\u4e00\u5c42\u300c\u6709\u6548\u667a\u5546\u300d\u2014\u2014\u538b\u7f29\u540e\u91cd\u951a\u3001\u4ea4\u4ed8\u5bf9\u8d26\u3001\u53cd AI \u5473\u4e0e\u8bed\u8a00\u9501\uff0c\u5168\u5e26\u53ef\u89c2\u5bdf\u56de\u6267\u3002\u4e00\u6761\u547d\u4ee4\u6ce8\u5165\u5168\u5c40\u3001\u6c38\u4e45\u751f\u6548\u3001\u6362\u4efb\u4f55\u6a21\u578b\u90fd\u5403\u3002\u8986\u76d6 20 \u4e2a\u684c\u9762\u7aef agent\uff08Tr",
+    "id": "foyeya/ai-work-doctor",
+    "language": "PowerShell",
+    "name": "foyeya/ai-work-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:24:34Z",
+    "url": "https://github.com/foyeya/ai-work-doctor"
+  },
+  {
+    "description": "PromptLab is a Streamlit research app for comparing prompt-engineering techniques in code generation using Groq and Olla",
+    "id": "Sahiljain6/promptlab",
+    "language": "Python",
+    "name": "Sahiljain6/promptlab",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:22:47Z",
+    "url": "https://github.com/Sahiljain6/promptlab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T17:21:01Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -27,24 +99,6 @@
     "url": "https://github.com/kereszteszsolt/story-check-ai"
   },
   {
-    "description": "\u7ed9\u4f60\u7684\u684c\u9762\u7aef AI \u7f16\u7a0b\u52a9\u624b\u88c5\u300c\u7194\u65ad\u5668\u300d\uff1a\u4e0d\u7a7a\u8f6c\u3001\u4e0d\u5047\u88c5\u5b8c\u6210\u3001\u4e0d\u641e\u574f\u673a\u5668\uff1b\u518d\u8865\u4e00\u5c42\u300c\u6709\u6548\u667a\u5546\u300d\u2014\u2014\u538b\u7f29\u540e\u91cd\u951a\u3001\u4ea4\u4ed8\u5bf9\u8d26\u3001\u53cd AI \u5473\u4e0e\u8bed\u8a00\u9501\uff0c\u5168\u5e26\u53ef\u89c2\u5bdf\u56de\u6267\u3002\u4e00\u6761\u547d\u4ee4\u6ce8\u5165\u5168\u5c40\u3001\u6c38\u4e45\u751f\u6548\u3001\u6362\u4efb\u4f55\u6a21\u578b\u90fd\u5403\u3002\u8986\u76d6 20 \u4e2a\u684c\u9762\u7aef agent\uff08Tr",
-    "id": "foyeya/ai-work-doctor",
-    "language": "PowerShell",
-    "name": "foyeya/ai-work-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:19:12Z",
-    "url": "https://github.com/foyeya/ai-work-doctor"
-  },
-  {
-    "description": "PromptLab is a Streamlit research app for comparing prompt-engineering techniques in code generation using Groq and Olla",
-    "id": "Sahiljain6/promptlab",
-    "language": "Python",
-    "name": "Sahiljain6/promptlab",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:17:52Z",
-    "url": "https://github.com/Sahiljain6/promptlab"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -63,15 +117,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T17:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
     "id": "VSSK007/ZodicogAI",
     "language": "TypeScript",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T17:14:17Z",
     "url": "https://github.com/VSSK007/ZodicogAI"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 210,
-    "updated_at": "2026-10-17T17:13:11Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
   },
   {
     "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
@@ -223,15 +259,6 @@
     "stars": 42,
     "updated_at": "2026-10-17T17:05:10Z",
     "url": "https://github.com/201901060324/gator-method"
-  },
-  {
-    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
-    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "language": "JavaScript",
-    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:03:56Z",
-    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
   },
   {
     "description": "World Simulator v6 \u00b7 Singulari-Tea Codex. GPT-based ChatGPT project package for dialogue-led narrative simulation, causa",
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "hivecommons/promptargs",
     "stars": 3,
-    "updated_at": "2026-10-17T16:48:27Z",
+    "updated_at": "2026-10-17T17:22:04Z",
     "url": "https://github.com/hivecommons/promptargs"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T16:45:02Z",
     "url": "https://github.com/plasmaflea/dsh-ordinary-thinking"
-  },
-  {
-    "description": "A home for small, quiet tools. Eleven so far \u2014 all run in your browser and keep nothing.",
-    "id": "unfoldingdimensions/Capytools",
-    "language": "TypeScript",
-    "name": "unfoldingdimensions/Capytools",
-    "stars": 1,
-    "updated_at": "2026-10-17T16:45:02Z",
-    "url": "https://github.com/unfoldingdimensions/Capytools"
-  },
-  {
-    "description": "PromptMag \u00b7 \u684c\u9762\u63d0\u793a\u8bcd\u5f39\u5939\uff1a\u591a\u56fe\u5f3a\u5173\u8054\u951a\u5b9a\u3001\u6781\u901f\u60ac\u6d6e\u8f93\u5165\u3001\u5168\u5c40\u5feb\u6377\u952e\u5149\u6807\u7c98\u8d34\u4e0e CLI Agent \u4efb\u52a1\u81ea\u52a8\u63a5\u529b",
-    "id": "HaiLanDuJun/PromptMag",
-    "language": "JavaScript",
-    "name": "HaiLanDuJun/PromptMag",
-    "stars": 1,
-    "updated_at": "2026-10-17T16:43:41Z",
-    "url": "https://github.com/HaiLanDuJun/PromptMag"
-  },
-  {
-    "description": "AI writing skill and zero-dependency CLI linter for producing authentic, human-sounding articles and technical guides wi",
-    "id": "oathanrex/human-article-writer",
-    "language": "Python",
-    "name": "oathanrex/human-article-writer",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:53:51Z",
-    "url": "https://github.com/oathanrex/human-article-writer"
   }
 ]
