@@ -1,12 +1,129 @@
 [
   {
-    "description": "Engineering standards for people and the AI agents that write their code: RFC 2119 rules, pinned tool versions and agent",
-    "id": "agh/crefft",
-    "language": "Markdown",
-    "name": "agh/crefft",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:30:22Z",
-    "url": "https://github.com/agh/crefft"
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 387,
+    "updated_at": "2026-10-17T22:44:49Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:42:16Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:42:03Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Open-source prompt management for creating, versioning, sharing, and integrating reusable AI workflows.",
+    "id": "Promplify/promplify-web",
+    "language": "TypeScript",
+    "name": "Promplify/promplify-web",
+    "stars": 7,
+    "updated_at": "2026-10-17T22:45:02Z",
+    "url": "https://github.com/Promplify/promplify-web"
+  },
+  {
+    "description": "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
+    "id": "3641397194-wq/gpt6-Astra",
+    "language": "JavaScript",
+    "name": "3641397194-wq/gpt6-Astra",
+    "stars": 1131,
+    "updated_at": "2026-10-17T22:40:58Z",
+    "url": "https://github.com/3641397194-wq/gpt6-Astra"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:40:41Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:40:34Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-17T22:39:14Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26090,
+    "updated_at": "2026-10-17T22:38:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider.",
+    "id": "Irsyadmr354/KESTREL",
+    "language": "\u2014",
+    "name": "Irsyadmr354/KESTREL",
+    "stars": 9,
+    "updated_at": "2026-10-17T22:35:33Z",
+    "url": "https://github.com/Irsyadmr354/KESTREL"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:34:51Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Intelligent Skill routing and workflow orchestration for AI agents \u2014 +21.12 pp reward, \u221229.6% tokens on SkillsBench with",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 3724,
+    "updated_at": "2026-10-17T22:34:36Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "Turn any GitHub repository into an interactive engineering workspace with system maps, architecture diagrams, software h",
+    "id": "ProAmineOfficial/GitArchitectureDiagram",
+    "language": "JavaScript",
+    "name": "ProAmineOfficial/GitArchitectureDiagram",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:34:21Z",
+    "url": "https://github.com/ProAmineOfficial/GitArchitectureDiagram"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-10-17T22:33:08Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "An AI roleplay chat platform with the most advanced prompting system",
@@ -14,8 +131,35 @@
     "language": "\u2014",
     "name": "TavernAI/TavernAI",
     "stars": 96,
-    "updated_at": "2026-10-17T22:29:59Z",
+    "updated_at": "2026-10-17T22:30:40Z",
     "url": "https://github.com/TavernAI/TavernAI"
+  },
+  {
+    "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose. Electron, TypeScript, and OpenRou",
+    "id": "michael-kitchin/agent-wars",
+    "language": "TypeScript",
+    "name": "michael-kitchin/agent-wars",
+    "stars": 2,
+    "updated_at": "2026-10-17T22:30:40Z",
+    "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "Engineering standards for people and the AI agents that write their code: RFC 2119 rules, pinned tool versions and agent",
+    "id": "agh/crefft",
+    "language": "Markdown",
+    "name": "agh/crefft",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:32:23Z",
+    "url": "https://github.com/agh/crefft"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T22:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -32,7 +176,7 @@
     "language": "Python",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 3,
-    "updated_at": "2026-10-17T22:29:55Z",
+    "updated_at": "2026-10-17T22:39:25Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -43,15 +187,6 @@
     "stars": 20,
     "updated_at": "2026-10-17T22:28:23Z",
     "url": "https://github.com/LastSearch-HQ/lastsearch"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:28:19Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -117,15 +252,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Open-source prompt management for creating, versioning, sharing, and integrating reusable AI workflows.",
-    "id": "Promplify/promplify-web",
-    "language": "TypeScript",
-    "name": "Promplify/promplify-web",
-    "stars": 7,
-    "updated_at": "2026-10-17T22:24:03Z",
-    "url": "https://github.com/Promplify/promplify-web"
-  },
-  {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
@@ -142,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:21:59Z",
     "url": "https://github.com/jurgenhussain/ai-auto-work"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-17T22:29:43Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rit",
@@ -214,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:15:45Z",
     "url": "https://github.com/ygray893/PromptKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T22:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Rails Engine with MCP compliant Spec.",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:11:01Z",
     "url": "https://github.com/James9698/harness-starter-kit"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:49Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 5,
-    "updated_at": "2026-10-17T22:09:40Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
-  },
-  {
-    "description": "Rust CLI and web UI that intercepts an LLM token stream live: per-token confidence and perplexity, on-the-fly token muta",
-    "id": "Mattbusel/Every-Other-Token",
-    "language": "Rust",
-    "name": "Mattbusel/Every-Other-Token",
-    "stars": 26,
-    "updated_at": "2026-10-17T22:09:27Z",
-    "url": "https://github.com/Mattbusel/Every-Other-Token"
-  },
-  {
-    "description": "CTF for AI agents. 1st & 2nd place LLM-agent solutions to Divar's AI Contest on Quera, built on GPT-4.1-mini (via Metis ",
-    "id": "Hoffmann975/Divar-AI-Contest",
-    "language": "Python",
-    "name": "Hoffmann975/Divar-AI-Contest",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:26Z",
-    "url": "https://github.com/Hoffmann975/Divar-AI-Contest"
-  },
-  {
-    "description": "Declarative prompt evaluation and regression testing CLI with offline fixtures, schema assertions, and terminal diffs.",
-    "id": "aman-abeb/eval-matrix",
-    "language": "Python",
-    "name": "aman-abeb/eval-matrix",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:20Z",
-    "url": "https://github.com/aman-abeb/eval-matrix"
-  },
-  {
-    "description": "Goal-based planning and proof gate for AI coding agents",
-    "id": "carlosrussell074/krypton",
-    "language": "Shell",
-    "name": "carlosrussell074/krypton",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:19Z",
-    "url": "https://github.com/carlosrussell074/krypton"
-  },
-  {
-    "description": "Global instructions for coding agents: evidence, parallelization, validation, all in one AGENTS.md / CLAUDE.md",
-    "id": "Johand8585/AGENTS.md",
-    "language": "Shell",
-    "name": "Johand8585/AGENTS.md",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:06Z",
-    "url": "https://github.com/Johand8585/AGENTS.md"
-  },
-  {
-    "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, ris",
-    "id": "SarahHoffmann24232/boring-is-all-you-need",
-    "language": "\u2014",
-    "name": "SarahHoffmann24232/boring-is-all-you-need",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:07:27Z",
-    "url": "https://github.com/SarahHoffmann24232/boring-is-all-you-need"
-  },
-  {
-    "description": "A unified, modular framework for prompt optimization",
-    "id": "serkandaniels635/promptolution",
-    "language": "Python",
-    "name": "serkandaniels635/promptolution",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:07:19Z",
-    "url": "https://github.com/serkandaniels635/promptolution"
-  },
-  {
-    "description": "A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and autho",
-    "id": "kKonig939/learn-anything-with-AI",
-    "language": "Python",
-    "name": "kKonig939/learn-anything-with-AI",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:06:26Z",
-    "url": "https://github.com/kKonig939/learn-anything-with-AI"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "rivera3560/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "rivera3560/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:06:24Z",
-    "url": "https://github.com/rivera3560/rag-interview-system"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "eharris10/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "eharris10/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:05:27Z",
-    "url": "https://github.com/eharris10/rag-interview-system"
   }
 ]
