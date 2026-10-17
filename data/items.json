@@ -1,8 +1,89 @@
 [
   {
+    "description": "Transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs questions about the paper",
+    "id": "luciamuller/arxiv-to-prompt",
+    "language": "\u2014",
+    "name": "luciamuller/arxiv-to-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:45:21Z",
+    "url": "https://github.com/luciamuller/arxiv-to-prompt"
+  },
+  {
+    "description": "An AI roleplay chat platform with the most advanced prompting system",
+    "id": "TavernAI/TavernAI",
+    "language": "\u2014",
+    "name": "TavernAI/TavernAI",
+    "stars": 96,
+    "updated_at": "2026-10-17T21:45:02Z",
+    "url": "https://github.com/TavernAI/TavernAI"
+  },
+  {
+    "description": "Terminal music agent: compose and revise editable scores, render them, and build tracks from Suno songs and local GPU st",
+    "id": "nschlaepfer/skitz",
+    "language": "Python",
+    "name": "nschlaepfer/skitz",
+    "stars": 9,
+    "updated_at": "2026-10-17T21:44:36Z",
+    "url": "https://github.com/nschlaepfer/skitz"
+  },
+  {
+    "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, ris",
+    "id": "virginiey14024/boring-is-all-you-need",
+    "language": "\u2014",
+    "name": "virginiey14024/boring-is-all-you-need",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:44:29Z",
+    "url": "https://github.com/virginiey14024/boring-is-all-you-need"
+  },
+  {
+    "description": "Goal-based planning and proof gate for AI coding agents",
+    "id": "Fabiom58691/krypton",
+    "language": "Shell",
+    "name": "Fabiom58691/krypton",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:44:08Z",
+    "url": "https://github.com/Fabiom58691/krypton"
+  },
+  {
+    "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
+    "id": "kanakojimenez/engramory",
+    "language": "Python",
+    "name": "kanakojimenez/engramory",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:43:23Z",
+    "url": "https://github.com/kanakojimenez/engramory"
+  },
+  {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbacks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-17T21:43:53Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Rails Engine with MCP compliant Spec.",
+    "id": "Perry2375/action_mcp",
+    "language": "Ruby",
+    "name": "Perry2375/action_mcp",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:43:12Z",
+    "url": "https://github.com/Perry2375/action_mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T21:43:03Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
     "id": "JianErkan/Prompt-sensei",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "JianErkan/Prompt-sensei",
     "stars": 0,
     "updated_at": "2026-10-17T21:42:57Z",
@@ -11,7 +92,7 @@
   {
     "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstructi",
     "id": "NicolePeterson464/GITVERSE",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "NicolePeterson464/GITVERSE",
     "stars": 0,
     "updated_at": "2026-10-17T21:42:13Z",
@@ -95,7 +176,7 @@
     "language": "JavaScript",
     "name": "nikos17001/iloveAgents",
     "stars": 0,
-    "updated_at": "2026-10-17T21:39:24Z",
+    "updated_at": "2026-10-17T21:45:18Z",
     "url": "https://github.com/nikos17001/iloveAgents"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 11,
     "updated_at": "2026-10-17T21:36:07Z",
     "url": "https://github.com/neomjs/neo-agent-skills"
-  },
-  {
-    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbacks, threat models, decks, SQL reviews, DP",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-17T21:36:39Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "\ud83d\udc34 Prompt-first harness engineering for safer AI coding agent workflows.",
@@ -338,17 +410,8 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-17T21:35:56Z",
+    "updated_at": "2026-10-17T21:45:16Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T21:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:28:26Z",
     "url": "https://github.com/Daniels485/hewn-forge"
-  },
-  {
-    "description": "An AI roleplay chat platform with the most advanced prompting system",
-    "id": "TavernAI/TavernAI",
-    "language": "\u2014",
-    "name": "TavernAI/TavernAI",
-    "stars": 96,
-    "updated_at": "2026-10-17T21:42:24Z",
-    "url": "https://github.com/TavernAI/TavernAI"
-  },
-  {
-    "description": "200 web animation examples with copy-ready AI prompts + MotionLens: turn any site's animation into a prompt. React, Type",
-    "id": "Turner401/MotionVault",
-    "language": "TypeScript",
-    "name": "Turner401/MotionVault",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:27:08Z",
-    "url": "https://github.com/Turner401/MotionVault"
-  },
-  {
-    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
-    "id": "WillemLemoine/governor",
-    "language": "Python",
-    "name": "WillemLemoine/governor",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:26:57Z",
-    "url": "https://github.com/WillemLemoine/governor"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:26:34Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
-    "id": "Simon4611/agentsmith",
-    "language": "Python",
-    "name": "Simon4611/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:26:00Z",
-    "url": "https://github.com/Simon4611/agentsmith"
-  },
-  {
-    "description": "Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up",
-    "id": "udaysharmadev/Gravitas",
-    "language": "Python",
-    "name": "udaysharmadev/Gravitas",
-    "stars": 242,
-    "updated_at": "2026-10-17T21:25:51Z",
-    "url": "https://github.com/udaysharmadev/Gravitas"
-  },
-  {
-    "description": "Goal-based planning and proof gate for AI coding agents",
-    "id": "dtucker1226/krypton",
-    "language": "Shell",
-    "name": "dtucker1226/krypton",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:23:26Z",
-    "url": "https://github.com/dtucker1226/krypton"
   }
 ]
