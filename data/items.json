@@ -1,5 +1,122 @@
 [
   {
+    "description": "Su\u00edte open-source de 6 skills de IA criativa baseada na Live #1 da Human Academy + PAULO.IA (prompts + dicas faladas ao ",
+    "id": "wmoriah/human-paulo-studio",
+    "language": "\u2014",
+    "name": "wmoriah/human-paulo-studio",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:28:54Z",
+    "url": "https://github.com/wmoriah/human-paulo-studio"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 12,
+    "updated_at": "2026-10-17T01:25:14Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
+    "id": "RevolutionLA/adversarial-review",
+    "language": "JavaScript",
+    "name": "RevolutionLA/adversarial-review",
+    "stars": 4,
+    "updated_at": "2026-10-17T01:25:03Z",
+    "url": "https://github.com/RevolutionLA/adversarial-review"
+  },
+  {
+    "description": "Centralized AI agents ecosystem, workspace rules, engineering skills, and toolchain workflows for HELIX-Origin projects.",
+    "id": "HELIX-Origin/agents",
+    "language": "Shell",
+    "name": "HELIX-Origin/agents",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:24:59Z",
+    "url": "https://github.com/HELIX-Origin/agents"
+  },
+  {
+    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 18,
+    "updated_at": "2026-10-17T01:23:31Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
+    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "language": "JavaScript",
+    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "stars": 5,
+    "updated_at": "2026-10-17T01:22:21Z",
+    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
+  },
+  {
+    "description": "\u628a Strata \u63a8\u7406\u5f15\u64ce\u548c DeepSeek Harness Agent \u62fc\u6210\u5f00\u7bb1\u53ef\u7528\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0\uff5cLocal AI workbench: Strata 125B MoE inference + dsh agent, with o",
+    "id": "regdiliKUN/strata-dsh-workbench",
+    "language": "HTML",
+    "name": "regdiliKUN/strata-dsh-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:20:11Z",
+    "url": "https://github.com/regdiliKUN/strata-dsh-workbench"
+  },
+  {
+    "description": "Create Suno Prompts Using Gemini Flash, works with the Suno API. Create professional-looking timed word-for-word lyrics ",
+    "id": "Lumi-Script/Suno-Architect",
+    "language": "TypeScript",
+    "name": "Lumi-Script/Suno-Architect",
+    "stars": 46,
+    "updated_at": "2026-10-17T01:18:46Z",
+    "url": "https://github.com/Lumi-Script/Suno-Architect"
+  },
+  {
+    "description": "Claude Code plugin suite: brewcode (skill/agent/rule authoring, semble semantic search, superreview and teams setups), b",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 33,
+    "updated_at": "2026-10-17T01:26:19Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-17T01:17:42Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 12,
+    "updated_at": "2026-10-17T01:25:25Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Free AGENTS.md, CLAUDE.md and Cursor rules that keep AI coding agents on track: Next.js + Supabase, Godot game jams, gam",
+    "id": "eli-alvarado/agentkit-drawer",
+    "language": "\u2014",
+    "name": "eli-alvarado/agentkit-drawer",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:15:59Z",
+    "url": "https://github.com/eli-alvarado/agentkit-drawer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T01:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Bifang: commercial short-video director-thinking skills for Codex agents",
     "id": "hack8998110-cloud/bifang",
     "language": "JavaScript",
@@ -25,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T01:14:08Z",
     "url": "https://github.com/jason3e7/ai-101"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 5,
-    "updated_at": "2026-10-17T01:13:57Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
   },
   {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
@@ -117,15 +225,6 @@
     "url": "https://github.com/BaYue-SYJ/shuixian-prompts"
   },
   {
-    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 12,
-    "updated_at": "2026-10-17T01:02:37Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "A control layer that decides how an LLM should speak before it speaks",
     "id": "Furox-Art/eq-layer",
     "language": "Python",
@@ -158,7 +257,7 @@
     "language": "Python",
     "name": "LLM-Mailroom-Services/eval-environment",
     "stars": 1,
-    "updated_at": "2026-10-17T01:14:55Z",
+    "updated_at": "2026-10-17T01:26:00Z",
     "url": "https://github.com/LLM-Mailroom-Services/eval-environment"
   },
   {
@@ -171,15 +270,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T01:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -187,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T01:00:04Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 18,
-    "updated_at": "2026-10-17T00:59:34Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "\u628a Strata \u63a8\u7406\u5f15\u64ce\u548c DeepSeek Harness Agent \u62fc\u6210\u5f00\u7bb1\u53ef\u7528\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0\uff5cLocal AI workbench: Strata 125B MoE inference + dsh agent, with o",
-    "id": "regdiliKUN/strata-dsh-workbench",
-    "language": "HTML",
-    "name": "regdiliKUN/strata-dsh-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:59:34Z",
-    "url": "https://github.com/regdiliKUN/strata-dsh-workbench"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -288,15 +360,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "Create Suno Prompts Using Gemini Flash, works with the Suno API. Create professional-looking timed word-for-word lyrics ",
-    "id": "Lumi-Script/Suno-Architect",
-    "language": "TypeScript",
-    "name": "Lumi-Script/Suno-Architect",
-    "stars": 46,
-    "updated_at": "2026-10-17T00:47:39Z",
-    "url": "https://github.com/Lumi-Script/Suno-Architect"
-  },
-  {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
     "id": "coco-research/coco",
     "language": "Python",
@@ -342,15 +405,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 12,
-    "updated_at": "2026-10-17T00:41:02Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -373,7 +427,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11874,
+    "stars": 11875,
     "updated_at": "2026-10-17T00:35:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -387,15 +441,6 @@
     "url": "https://github.com/ZeroLu/awesome-seedance"
   },
   {
-    "description": "Free AGENTS.md, CLAUDE.md and Cursor rules that keep AI coding agents on track: Next.js + Supabase, Godot game jams, gam",
-    "id": "eli-alvarado/agentkit-drawer",
-    "language": "\u2014",
-    "name": "eli-alvarado/agentkit-drawer",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:31:13Z",
-    "url": "https://github.com/eli-alvarado/agentkit-drawer"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T00:31:09Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Professional profile & portfolio of Anderson Margalho - IT Security Specialist & Python Developer",
-    "id": "AndersonMargalho/AndersonMargalho-AndersonMargalho",
-    "language": "\u2014",
-    "name": "AndersonMargalho/AndersonMargalho-AndersonMargalho",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:30:28Z",
-    "url": "https://github.com/AndersonMargalho/AndersonMargalho-AndersonMargalho"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 3,
-    "updated_at": "2026-10-17T00:29:34Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-10-17T00:29:33Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-17T00:27:22Z",
-    "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "Codex-native port of pstack: rigorous agent workflows, playbooks, principles, and verified delivery.",
-    "id": "lengjingxu/pstack-for-codex",
-    "language": "TypeScript",
-    "name": "lengjingxu/pstack-for-codex",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:26:36Z",
-    "url": "https://github.com/lengjingxu/pstack-for-codex"
   }
 ]
