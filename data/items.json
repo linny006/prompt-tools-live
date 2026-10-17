@@ -1,5 +1,68 @@
 [
   {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-10-17T07:45:09Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-17T07:45:01Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-17T07:44:57Z",
+    "url": "https://github.com/1arry1iu/archetype"
+  },
+  {
+    "description": "Agent skill: your AI coding logs as a gamified character sheet \u2014 Claude Code, Codex, OpenCode, Gemini, Copilot. 74 achie",
+    "id": "timoncool/prompt-warrior",
+    "language": "Python",
+    "name": "timoncool/prompt-warrior",
+    "stars": 24,
+    "updated_at": "2026-10-17T07:43:43Z",
+    "url": "https://github.com/timoncool/prompt-warrior"
+  },
+  {
+    "description": "Throw ballast overboard! Claude Code and Codex skill to refine all forms of writing like Stefan Zweig in The World of Ye",
+    "id": "rornic/zweig",
+    "language": "\u2014",
+    "name": "rornic/zweig",
+    "stars": 11,
+    "updated_at": "2026-10-17T07:43:29Z",
+    "url": "https://github.com/rornic/zweig"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u63d0\u793a\u8bcd\u4e0e AI \u5de5\u4f5c\u6d41\u684c\u9762\u7ba1\u7406\u5de5\u5177\u3002Markdown \u5b58\u50a8\u3001\u5168\u6587\u641c\u7d22\u3001\u7248\u672c\u5feb\u7167\u4e0e\u56de\u6eda\u3001\u5de5\u4f5c\u6d41\u53ef\u89c6\u5316\uff0c\u4e0d\u8054\u7f51\u4e5f\u4e0d\u7ed1\u5b9a\u4efb\u4f55 AI \u5e73\u53f0\u3002Electron + \u539f\u751f JS\u3002",
+    "id": "qiqiqi-max/Prompt-Flow-Manager",
+    "language": "JavaScript",
+    "name": "qiqiqi-max/Prompt-Flow-Manager",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:42:48Z",
+    "url": "https://github.com/qiqiqi-max/Prompt-Flow-Manager"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T07:42:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent kit for the AI coding agents you already use (Claude Code, Gemini CLI): one portable set of rules, commands, skill",
     "id": "Aiatulla/agent-kit",
     "language": "Shell",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:39:23Z",
     "url": "https://github.com/xhqing/AgentCortex"
-  },
-  {
-    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
-    "id": "1arry1iu/archetype",
-    "language": "Python",
-    "name": "1arry1iu/archetype",
-    "stars": 57,
-    "updated_at": "2026-10-17T07:37:23Z",
-    "url": "https://github.com/1arry1iu/archetype"
   },
   {
     "description": "Run several LLMs on the same task, score every output in code, and rank them on validity, latency, real cost and prompt-",
@@ -54,15 +108,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u63d0\u793a\u8bcd\u4e0e AI \u5de5\u4f5c\u6d41\u684c\u9762\u7ba1\u7406\u5de5\u5177\u3002Markdown \u5b58\u50a8\u3001\u5168\u6587\u641c\u7d22\u3001\u7248\u672c\u5feb\u7167\u4e0e\u56de\u6eda\u3001\u5de5\u4f5c\u6d41\u53ef\u89c6\u5316\uff0c\u4e0d\u8054\u7f51\u4e5f\u4e0d\u7ed1\u5b9a\u4efb\u4f55 AI \u5e73\u53f0\u3002Electron + \u539f\u751f JS\u3002",
-    "id": "qiqiqi-max/Prompt-Flow-Manager",
-    "language": "JavaScript",
-    "name": "qiqiqi-max/Prompt-Flow-Manager",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:39:04Z",
-    "url": "https://github.com/qiqiqi-max/Prompt-Flow-Manager"
-  },
-  {
     "description": "Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, an",
     "id": "TechNomadCode/AI-Product-Development-Toolkit",
     "language": "\u2014",
@@ -81,15 +126,6 @@
     "url": "https://github.com/hivecommons/promptargs"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-17T07:39:50Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
     "id": "velokey-ai/awesome-seedance-2.5-prompts",
     "language": "Python",
@@ -103,18 +139,9 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 113112,
+    "stars": 113113,
     "updated_at": "2026-10-17T07:32:19Z",
     "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T07:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent skill for AI Systems \u2014 build model-powered behavior: agents, retrieval, evals, and guardrails",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:14:13Z",
     "url": "https://github.com/DebraBryant35/forward-implementation-first"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "jGallo633/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "jGallo633/awesome-claude-fable-5-prompt-vault",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:47Z",
-    "url": "https://github.com/jGallo633/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
-    "id": "TolgaConti/Prompt-sensei",
-    "language": "JavaScript",
-    "name": "TolgaConti/Prompt-sensei",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:40Z",
-    "url": "https://github.com/TolgaConti/Prompt-sensei"
-  },
-  {
-    "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
-    "id": "Uwez06/engramory",
-    "language": "Python",
-    "name": "Uwez06/engramory",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:13:37Z",
-    "url": "https://github.com/Uwez06/engramory"
   }
 ]
