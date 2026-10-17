@@ -1,12 +1,201 @@
 [
   {
+    "description": "A looping multi-agent board skill for Claude Code: auto-routes a creative/build track (amplify, build, playtest, judge) ",
+    "id": "mabualsoud/loop-board",
+    "language": "HTML",
+    "name": "mabualsoud/loop-board",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:30:03Z",
+    "url": "https://github.com/mabualsoud/loop-board"
+  },
+  {
+    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
+    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "language": "JavaScript",
+    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:29:45Z",
+    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
+  },
+  {
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "language": "Python",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 143,
+    "updated_at": "2026-10-17T15:29:35Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:28:19Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 12,
+    "updated_at": "2026-10-17T15:27:50Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "an entire Nix based system for interacting with local, TINY, FOSS models with open hardware where possible, leveraging t",
+    "id": "harryprayiv/open-slop",
+    "language": "Haskell",
+    "name": "harryprayiv/open-slop",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:27:40Z",
+    "url": "https://github.com/harryprayiv/open-slop"
+  },
+  {
+    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
+    "id": "badhope/xiaoman",
+    "language": "Python",
+    "name": "badhope/xiaoman",
+    "stars": 77,
+    "updated_at": "2026-10-17T15:27:39Z",
+    "url": "https://github.com/badhope/xiaoman"
+  },
+  {
+    "description": "\u7834\u7532\u8d44\u6599\u5e93\uff1a\u6a21\u578b\u7834\u7532\u63d0\u793a\u8bcd\u3001\u5ba2\u6237\u7aef\u6ce8\u5165\u5de5\u5177\u4e0e\u7ea2\u961f\u65b9\u6cd5\u7684\u673a\u5668\u53ef\u8bfb\u7d22\u5f15\uff08\u6309\u6a21\u578b/\u5ba2\u6237\u7aef/\u5f62\u6001\u7b5b\u9009\uff0c\u4e00\u952e\u5b89\u88c5\u53ef\u56de\u6eda\uff09",
+    "id": "Baimuking/AI-Jailbreak",
+    "language": "Python",
+    "name": "Baimuking/AI-Jailbreak",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:26:51Z",
+    "url": "https://github.com/Baimuking/AI-Jailbreak"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 209,
+    "updated_at": "2026-10-17T15:26:43Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:23:59Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Turn a job description into a ranked referral shortlist and personalized outreach drafts you review before contacting an",
+    "id": "amulyagupta1278/linkedin-referral-scout",
+    "language": "\u2014",
+    "name": "amulyagupta1278/linkedin-referral-scout",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:22:38Z",
+    "url": "https://github.com/amulyagupta1278/linkedin-referral-scout"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-17T15:22:25Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "\ud83c\udde7\ud83c\uddf7 marolaGPT + the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
+    "id": "marola-dev/marola-ml",
+    "language": "Python",
+    "name": "marola-dev/marola-ml",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:22:36Z",
+    "url": "https://github.com/marola-dev/marola-ml"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2148,
+    "updated_at": "2026-10-17T15:21:32Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate, on any stack and any tracker. There are t",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:21:31Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Unofficial Go client for the Latitude LLM API, generated from the official OpenAPI spec.",
+    "id": "psyb0t/go-latitude-llm",
+    "language": "Shell",
+    "name": "psyb0t/go-latitude-llm",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:18:54Z",
+    "url": "https://github.com/psyb0t/go-latitude-llm"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 97,
+    "updated_at": "2026-10-17T15:18:20Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2268,
+    "updated_at": "2026-10-17T15:17:33Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
     "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strateg",
     "id": "NirDiamant/Prompt_Engineering",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/Prompt_Engineering",
     "stars": 7905,
-    "updated_at": "2026-10-17T15:15:17Z",
+    "updated_at": "2026-10-17T15:18:20Z",
     "url": "https://github.com/NirDiamant/Prompt_Engineering"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1880,
+    "updated_at": "2026-10-17T15:16:40Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:16:31Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T15:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
@@ -16,15 +205,6 @@
     "stars": 13,
     "updated_at": "2026-10-17T15:14:40Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Turn a job description into a ranked referral shortlist and personalized outreach drafts you review before contacting an",
-    "id": "amulyagupta1278/linkedin-referral-scout",
-    "language": "\u2014",
-    "name": "amulyagupta1278/linkedin-referral-scout",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:14:16Z",
-    "url": "https://github.com/amulyagupta1278/linkedin-referral-scout"
   },
   {
     "description": "AI solutions with language models.",
@@ -52,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:13:40Z",
     "url": "https://github.com/Phoenixarjun/Agent-Toolkit"
-  },
-  {
-    "description": "Free localhost-only tool for sending one prompt and optional files to multiple signed-in web LLMs through Playwright.",
-    "id": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "language": "JavaScript",
-    "name": "ArnavModi-MSIT/Multi-LLM-Promp-Injector",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:13:39Z",
-    "url": "https://github.com/ArnavModi-MSIT/Multi-LLM-Promp-Injector"
   },
   {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
@@ -149,7 +320,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1509,
-    "updated_at": "2026-10-17T15:06:34Z",
+    "updated_at": "2026-10-17T15:28:27Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -270,15 +441,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T15:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
     "id": "api-evangelist/compresr",
     "language": "\u2014",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:57:23Z",
     "url": "https://github.com/api-evangelist/compresr"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 121514,
-    "updated_at": "2026-10-17T14:57:18Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "Refactoring of the version of the adventure game Mission Odessa originally developed for the C64. Development with Visua",
-    "id": "Aqualung61/MissioneOdessa",
-    "language": "TypeScript",
-    "name": "Aqualung61/MissioneOdessa",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:08:30Z",
-    "url": "https://github.com/Aqualung61/MissioneOdessa"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-10-17T14:55:48Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:54:47Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-17T15:11:28Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-17T14:54:03Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Open-source, provider-agnostic AI agent skills, rules and workflows with security reviews, behavioral evaluations and ev",
-    "id": "Borstwerk/KI-Regeln",
-    "language": "Python",
-    "name": "Borstwerk/KI-Regeln",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:12:46Z",
-    "url": "https://github.com/Borstwerk/KI-Regeln"
-  },
-  {
-    "description": "FREECC \u2014 a free Claude-Code-class agent stack: quota-pooled free-LLM router, harness wiring, quality-gated cascade and m",
-    "id": "aleksamytza-art/freecc",
-    "language": "JavaScript",
-    "name": "aleksamytza-art/freecc",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:53:11Z",
-    "url": "https://github.com/aleksamytza-art/freecc"
-  },
-  {
-    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
-    "id": "dairui1/agentlab",
-    "language": "JavaScript",
-    "name": "dairui1/agentlab",
-    "stars": 4,
-    "updated_at": "2026-10-17T14:53:08Z",
-    "url": "https://github.com/dairui1/agentlab"
-  },
-  {
-    "description": "\u5206\u5c42\u8bb0\u5fc6\u7ba1\u7406\u4f53\u7cfb\uff1a\u5728\u786c\u9884\u7b97\u7ea6\u675f\u4e0b\u7ba1\u7406\u957f\u5468\u671f\u3001\u591a\u5de5\u4f5c\u7ebf AI \u5de5\u4f5c\u7a7a\u95f4\u8bb0\u5fc6\uff08\u89c4\u5219/\u72b6\u6001/\u6570\u636e/\u7ec6\u8282\u56db\u5c42 + \u5341\u7ec4\u5de1\u68c0\uff09",
-    "id": "leozcc-bit/layered-memory-system",
-    "language": "Python",
-    "name": "leozcc-bit/layered-memory-system",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:52:41Z",
-    "url": "https://github.com/leozcc-bit/layered-memory-system"
-  },
-  {
-    "description": "Build reliable, self-contained AI skills from natural-language source and executable scripts\u2014with deterministic builds a",
-    "id": "nanomia-ai/skill-rails",
-    "language": "JavaScript",
-    "name": "nanomia-ai/skill-rails",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:52:25Z",
-    "url": "https://github.com/nanomia-ai/skill-rails"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:51:03Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3870,
-    "updated_at": "2026-10-17T14:48:55Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "The layer between your idea and your build.",
-    "id": "AtharvaK-XD/Bedrock",
-    "language": "TypeScript",
-    "name": "AtharvaK-XD/Bedrock",
-    "stars": 2,
-    "updated_at": "2026-10-17T14:48:10Z",
-    "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-17T14:47:31Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:45:43Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "vstack is a VS Code\u2013native AI engineering workflow system. It provides structured skills \u2014 executable by GitHub Copilot ",
-    "id": "eschaar/vstack",
-    "language": "Python",
-    "name": "eschaar/vstack",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:45:52Z",
-    "url": "https://github.com/eschaar/vstack"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:45:27Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
   }
 ]
