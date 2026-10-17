@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 19:30 UTC
+> ⏰ Last updated: 2026-10-17 19:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-17 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
-| 2 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | — | 2026-10-17 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 3 | [oathanrex/human-article-writer](https://github.com/oathanrex/human-article-writer) | 0 | Python | 2026-10-17 | Production-grade AI agent skill & linter to write and humanize articles in an authentic practitioner voice. Eliminates 2 |
-| 4 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-17 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 5 | [leeex1/Quillan-Ronin](https://github.com/leeex1/Quillan-Ronin) | 27 | HTML | 2026-10-17 | Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0- |
-| 6 | [Shreyash3007/aegis](https://github.com/Shreyash3007/aegis) | 0 | JavaScript | 2026-10-17 | The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle,  |
-| 7 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-10-17 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 8 | [watanabe3tipapa/skills-seedling](https://github.com/watanabe3tipapa/skills-seedling) | 0 | HTML | 2026-10-17 | AIコーディング支援のための SKILLS.md コレクション（用途・言語・実行環境別）。PWA ランチャーと静的サイトで配布。Curated SKILLS.md skills for AI coding assistants. |
-| 9 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-17 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 10 | [drobins25/craft](https://github.com/drobins25/craft) | 68 | Shell | 2026-10-17 | A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de |
-| 11 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 6190 | Python | 2026-10-17 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
-| 12 | [nanomia-ai/skill-rails](https://github.com/nanomia-ai/skill-rails) | 1 | JavaScript | 2026-10-17 | Build reliable, self-contained AI skills from natural-language source and executable scripts—with deterministic builds a |
-| 13 | [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas) | 239 | Python | 2026-10-17 | Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up |
-| 14 | [foyeya/ai-work-doctor](https://github.com/foyeya/ai-work-doctor) | 0 | PowerShell | 2026-10-17 | 给你的桌面端 AI 编程助手装「熔断器」：不空转、不假装完成、不搞坏机器；再补一层「有效智商」——压缩后重锚、交付对账、反 AI 味与语言锁，全带可观察回执。一条命令注入全局、永久生效、换任何模型都吃。覆盖 20 个桌面端 agent（Tr |
-| 15 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26088 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 16 | [pneri7blip/AI-Python-Lab](https://github.com/pneri7blip/AI-Python-Lab) | 0 | Python | 2026-10-17 | Hands-on experiments and projects in Python, prompt engineering and AI development. |
-| 17 | [MCJF28/dsh-prompt-optimizer](https://github.com/MCJF28/dsh-prompt-optimizer) | 0 | JavaScript | 2026-10-17 | One-click prompt rewriter in the DeepSeek Harness composer: three rewrite levels, follows the model you are already chat |
-| 18 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 17657 | Makefile | 2026-10-17 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
-| 19 | [zorcec/vibeflow](https://github.com/zorcec/vibeflow) | 2 | TypeScript | 2026-10-17 | AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for |
-| 20 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-17 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
+| 3 | [rxmna8502/vybe-intelligence-vault](https://github.com/rxmna8502/vybe-intelligence-vault) | 22 | — | 2026-10-17 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 4 | [oathanrex/human-article-writer](https://github.com/oathanrex/human-article-writer) | 0 | Python | 2026-10-17 | Production-grade AI agent skill & linter to write and humanize articles in an authentic practitioner voice. Eliminates 2 |
+| 5 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-17 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 6 | [leeex1/Quillan-Ronin](https://github.com/leeex1/Quillan-Ronin) | 27 | HTML | 2026-10-17 | Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0- |
+| 7 | [Shreyash3007/aegis](https://github.com/Shreyash3007/aegis) | 0 | JavaScript | 2026-10-17 | The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle,  |
+| 8 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-10-17 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 9 | [watanabe3tipapa/skills-seedling](https://github.com/watanabe3tipapa/skills-seedling) | 0 | HTML | 2026-10-17 | AIコーディング支援のための SKILLS.md コレクション（用途・言語・実行環境別）。PWA ランチャーと静的サイトで配布。Curated SKILLS.md skills for AI coding assistants. |
+| 10 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-17 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 11 | [drobins25/craft](https://github.com/drobins25/craft) | 68 | Shell | 2026-10-17 | A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de |
+| 12 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 6190 | Python | 2026-10-17 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
+| 13 | [nanomia-ai/skill-rails](https://github.com/nanomia-ai/skill-rails) | 1 | JavaScript | 2026-10-17 | Build reliable, self-contained AI skills from natural-language source and executable scripts—with deterministic builds a |
+| 14 | [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas) | 239 | Python | 2026-10-17 | Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up |
+| 15 | [foyeya/ai-work-doctor](https://github.com/foyeya/ai-work-doctor) | 0 | PowerShell | 2026-10-17 | 给你的桌面端 AI 编程助手装「熔断器」：不空转、不假装完成、不搞坏机器；再补一层「有效智商」——压缩后重锚、交付对账、反 AI 味与语言锁，全带可观察回执。一条命令注入全局、永久生效、换任何模型都吃。覆盖 20 个桌面端 agent（Tr |
+| 16 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26088 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 17 | [pneri7blip/AI-Python-Lab](https://github.com/pneri7blip/AI-Python-Lab) | 0 | Python | 2026-10-17 | Hands-on experiments and projects in Python, prompt engineering and AI development. |
+| 18 | [MCJF28/dsh-prompt-optimizer](https://github.com/MCJF28/dsh-prompt-optimizer) | 0 | JavaScript | 2026-10-17 | One-click prompt rewriter in the DeepSeek Harness composer: three rewrite levels, follows the model you are already chat |
+| 19 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 17657 | Makefile | 2026-10-17 | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
+| 20 | [zorcec/vibeflow](https://github.com/zorcec/vibeflow) | 2 | TypeScript | 2026-10-17 | AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for |
 | 21 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-10-17 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
 | 22 | [46hdn/ai-prompts-for-work](https://github.com/46hdn/ai-prompts-for-work) | 0 | — | 2026-10-17 | 149 copy-paste AI prompts for work (English & Japanese): sales, marketing, product, ops, engineering, freelancing. |
 | 23 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1509 | Python | 2026-10-17 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
