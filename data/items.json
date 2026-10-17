@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:30:12Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "The layer between your idea and your build.",
+    "id": "AtharvaK-XD/Bedrock",
+    "language": "TypeScript",
+    "name": "AtharvaK-XD/Bedrock",
+    "stars": 2,
+    "updated_at": "2026-10-17T14:29:24Z",
+    "url": "https://github.com/AtharvaK-XD/Bedrock"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-10-17T14:28:49Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Skill para Claude que transforma uma ideia vaga no prompt mais claro e execut\u00e1vel: diagn\u00f3stico de lacunas e vieses, 7 ar",
+    "id": "fernandofigueiredo-data/claude-prompt-engineer",
+    "language": "Python",
+    "name": "fernandofigueiredo-data/claude-prompt-engineer",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:28:03Z",
+    "url": "https://github.com/fernandofigueiredo-data/claude-prompt-engineer"
+  },
+  {
+    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
+    "id": "badhope/xiaoman",
+    "language": "Python",
+    "name": "badhope/xiaoman",
+    "stars": 77,
+    "updated_at": "2026-10-17T14:27:19Z",
+    "url": "https://github.com/badhope/xiaoman"
+  },
+  {
+    "description": "Build a personal AI agent with its own identity, judgment, memory, authority boundaries, and verified action. Runtime-ne",
+    "id": "robertaustinbell/herbert",
+    "language": "Python",
+    "name": "robertaustinbell/herbert",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:26:58Z",
+    "url": "https://github.com/robertaustinbell/herbert"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-17T14:25:21Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "Thanatos9404/llmslim",
     "stars": 16,
-    "updated_at": "2026-10-17T14:18:47Z",
+    "updated_at": "2026-10-17T14:26:37Z",
     "url": "https://github.com/Thanatos9404/llmslim"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "gdebenedetti/skills",
     "stars": 0,
-    "updated_at": "2026-10-17T14:18:21Z",
+    "updated_at": "2026-10-17T14:26:06Z",
     "url": "https://github.com/gdebenedetti/skills"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T14:18:15Z",
     "url": "https://github.com/b0ir/prompt-evaluator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-17T14:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A protocol where one AI model builds, another challenges it adversarially, and a human makes every final call.",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:10:44Z",
     "url": "https://github.com/Jav1es/dsh-prompt-compiler"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:10:19Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "Keystone \u2014 intent-first workflow for Claude Code. Process sized to the change: intent \u2192 plan \u2192 independent check \u2192 imple",
@@ -270,15 +315,6 @@
     "url": "https://github.com/irrumi/universal_humanizer"
   },
   {
-    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
-    "id": "badhope/xiaoman",
-    "language": "Python",
-    "name": "badhope/xiaoman",
-    "stars": 77,
-    "updated_at": "2026-10-17T13:59:03Z",
-    "url": "https://github.com/badhope/xiaoman"
-  },
-  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 97,
     "updated_at": "2026-10-17T13:42:25Z",
     "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 11,
-    "updated_at": "2026-10-17T13:42:10Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 2,
-    "updated_at": "2026-10-17T13:42:08Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 76,
-    "updated_at": "2026-10-17T13:40:49Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "AI-powered data assistant for generating relational synthetic datasets from DDL and querying PostgreSQL through guarded ",
-    "id": "TarasovVP/genai_py",
-    "language": "Python",
-    "name": "TarasovVP/genai_py",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:39:38Z",
-    "url": "https://github.com/TarasovVP/genai_py"
   }
 ]
