@@ -1,12 +1,30 @@
 [
   {
-    "description": "an entire Nix based system for interacting with local, TINY, FOSS models with open hardware where possible, leveraging t",
-    "id": "harryprayiv/open-slop",
-    "language": "Haskell",
-    "name": "harryprayiv/open-slop",
+    "description": "Open-source prompt launcher: press \u2303Q, type a short command, and a parameterized prompt lands in any app. Rust core, nat",
+    "id": "NekroAI/qantrip",
+    "language": "Rust",
+    "name": "NekroAI/qantrip",
     "stars": 0,
-    "updated_at": "2026-10-18T02:15:18Z",
-    "url": "https://github.com/harryprayiv/open-slop"
+    "updated_at": "2026-10-18T02:30:18Z",
+    "url": "https://github.com/NekroAI/qantrip"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:27:54Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:27:38Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
   },
   {
     "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose. Electron, TypeScript, and OpenRou",
@@ -14,8 +32,143 @@
     "language": "TypeScript",
     "name": "michael-kitchin/agent-wars",
     "stars": 2,
-    "updated_at": "2026-10-18T02:13:59Z",
+    "updated_at": "2026-10-18T02:25:59Z",
     "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:25:03Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:23:58Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:23:53Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "\u7535\u5546 AI \u51fa\u56fe\u5de5\u4f5c\u6d41:\u767d\u5e95\u56fe/\u4fc3\u9500\u4e3b\u56fe/\u573a\u666f\u878d\u5408/\u7cfb\u5217\u4e00\u81f4\u6027/\u8be6\u60c5\u9875\u5168\u6d41\u7a0b + \u4e2d\u82f1\u63d0\u793a\u8bcd\u5e93 + OpenAPI \u53ef\u8fd0\u884c\u793a\u4f8b\u3002E-commerce AI image workflows, bilingual prompts and run",
+    "id": "flux-art-ai/flux-art-ecom-image-workflow",
+    "language": "Python",
+    "name": "flux-art-ai/flux-art-ecom-image-workflow",
+    "stars": 6,
+    "updated_at": "2026-10-18T02:22:00Z",
+    "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:21:47Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:21:30Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "Muse \u5185\u7f6e\u89c6\u9891\uff08Muse Video\uff09\u63d0\u793a\u8bcd\u5b9e\u6218 Skill\uff1a\u516d\u6bb5\u5f0f\u63d0\u793a\u8bcd\u6a21\u677f \u2192 \u751f\u6210 \u2192 \u591a\u6bb5\u62fc\u63a5 \u2192 \u62bd\u5e27\u9a8c\u8bc1\u7684\u5b8c\u6574\u95ed\u73af | Prompt engineering workflow skill for Muse built-in ",
+    "id": "masonmosen/muse-video-prompt-skill",
+    "language": "Python",
+    "name": "masonmosen/muse-video-prompt-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T02:20:36Z",
+    "url": "https://github.com/masonmosen/muse-video-prompt-skill"
+  },
+  {
+    "description": "Test whether an LLM prompt cache can be poisoned across users: multi-tenant cache-isolation testing with canary evidence",
+    "id": "Iceman2050/prompt-cache-poison-detector",
+    "language": "Python",
+    "name": "Iceman2050/prompt-cache-poison-detector",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:20:03Z",
+    "url": "https://github.com/Iceman2050/prompt-cache-poison-detector"
+  },
+  {
+    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 68,
+    "updated_at": "2026-10-18T02:19:42Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an",
+    "id": "enclave402/narrative-token-ssot",
+    "language": "JavaScript",
+    "name": "enclave402/narrative-token-ssot",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:29:58Z",
+    "url": "https://github.com/enclave402/narrative-token-ssot"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 16,
+    "updated_at": "2026-10-18T02:18:14Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10352,
+    "updated_at": "2026-10-18T02:17:34Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Makefile",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 17660,
+    "updated_at": "2026-10-18T02:16:05Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T02:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "an entire Nix based system for interacting with local, TINY, FOSS models with open hardware where possible, leveraging t",
+    "id": "harryprayiv/open-slop",
+    "language": "Haskell",
+    "name": "harryprayiv/open-slop",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:15:18Z",
+    "url": "https://github.com/harryprayiv/open-slop"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -108,15 +261,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T02:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
@@ -157,7 +301,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 166281,
+    "stars": 166288,
     "updated_at": "2026-10-18T01:55:14Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -194,7 +338,7 @@
     "language": "Markdown",
     "name": "agh/crefft",
     "stars": 3,
-    "updated_at": "2026-10-18T02:11:30Z",
+    "updated_at": "2026-10-18T02:15:50Z",
     "url": "https://github.com/agh/crefft"
   },
   {
@@ -274,7 +418,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 52549,
+    "stars": 52554,
     "updated_at": "2026-10-18T01:25:37Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -304,149 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-18T01:18:04Z",
     "url": "https://github.com/findscripter/everything-skills"
-  },
-  {
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
-    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "language": "Python",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 143,
-    "updated_at": "2026-10-18T01:16:09Z",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:13:13Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:14:42Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-18T01:10:40Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-10-18T01:08:35Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:04:41Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "\u5b59\u5b87\u6668\u7684\u89c2\u70b9\uff0c\u7528 AI \u843d\u5730\u3002\u628a\u4e24\u671f\u8bbf\u8c08\uff08\u90b5\u827e\u4f26 \u00d7 \u91d1\u660e\uff09\u7684\u89c2\u70b9\u914d\u6210 23 \u7bc7 AI \u5b9e\u64cd\u6559\u7a0b\u548c\u4e00\u952e\u4e22\u7ed9 AI \u7684\u89c4\u5212 prompt\uff0c\u9644\u5e26\u65f6\u95f4\u6233\u5168\u6587\u548c\u601d\u7ef4\u5bfc\u56fe",
-    "id": "wousp112/awesome-justin-sun-ideas-to-ai-howto",
-    "language": "\u2014",
-    "name": "wousp112/awesome-justin-sun-ideas-to-ai-howto",
-    "stars": 152,
-    "updated_at": "2026-10-18T01:01:58Z",
-    "url": "https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto"
-  },
-  {
-    "description": "Official PyTorch code for BAP-MOS (arXiv 2608.08191): bandit-based adaptive prompting of SAM and MedSAM for boundary-sen",
-    "id": "SatvikPraveen/BAP-MOS",
-    "language": "Python",
-    "name": "SatvikPraveen/BAP-MOS",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:58:57Z",
-    "url": "https://github.com/SatvikPraveen/BAP-MOS"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:54:11Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:53:24Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 1,
-    "updated_at": "2026-10-18T00:52:46Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 1,
-    "updated_at": "2026-10-18T00:51:47Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:51:36Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
-    "id": "neomjs/neo-agent-skills",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-skills",
-    "stars": 11,
-    "updated_at": "2026-10-18T01:37:12Z",
-    "url": "https://github.com/neomjs/neo-agent-skills"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:49:28Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
-    "id": "lowmason/agent-skills",
-    "language": "Python",
-    "name": "lowmason/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:48:32Z",
-    "url": "https://github.com/lowmason/agent-skills"
   }
 ]
