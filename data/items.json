@@ -1,5 +1,68 @@
 [
   {
+    "description": "Clean up bloated Codex Agent Skills while preserving their behavior.",
+    "id": "parzival-000/skilltidy",
+    "language": "Python",
+    "name": "parzival-000/skilltidy",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:29:46Z",
+    "url": "https://github.com/parzival-000/skilltidy"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-18T21:29:25Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:28:32Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:27:48Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Agent skills for Claude Code, Codex, OpenCode & Cursor \u2014 autonomous orchestration, code quality, local LLMs (Harbor), an",
+    "id": "av/skills",
+    "language": "Python",
+    "name": "av/skills",
+    "stars": 20,
+    "updated_at": "2026-10-18T21:27:17Z",
+    "url": "https://github.com/av/skills"
+  },
+  {
+    "description": "PromptMaster Studio \u2014 In-browser AI Prompt Linter, Token Scorer & Meta-Optimizer for Claude, ChatGPT & Gemini ($19 Lifet",
+    "id": "1nc0gn30/promptmaster-studio",
+    "language": "Python",
+    "name": "1nc0gn30/promptmaster-studio",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:27:05Z",
+    "url": "https://github.com/1nc0gn30/promptmaster-studio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T21:27:00Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
@@ -63,15 +126,6 @@
     "url": "https://github.com/jmagly/aiwg"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T21:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u7cbe\u901a\u7684\u5de5\u5177\u7bb1",
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
@@ -133,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-10-18T21:09:44Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:26:42Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -221,7 +266,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-18T21:00:36Z",
+    "updated_at": "2026-10-18T21:27:34Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:49:30Z",
     "url": "https://github.com/MaryamKarahan8655/harness-starter-kit"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "NathalieRorato/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "NathalieRorato/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:49:06Z",
-    "url": "https://github.com/NathalieRorato/rag-interview-system"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "RinaMenon85485/hewn-forge",
-    "language": "HTML",
-    "name": "RinaMenon85485/hewn-forge",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:48:55Z",
-    "url": "https://github.com/RinaMenon85485/hewn-forge"
-  },
-  {
-    "description": "Compare prompt versions and categorize changed lines, with optional context windows and original physical line numbers.",
-    "id": "loganpendragonmultiverse/prompt-version-diff",
-    "language": "Python",
-    "name": "loganpendragonmultiverse/prompt-version-diff",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:48:23Z",
-    "url": "https://github.com/loganpendragonmultiverse/prompt-version-diff"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "MariaFlores8721/LLMFlex",
-    "language": "Python",
-    "name": "MariaFlores8721/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:47:46Z",
-    "url": "https://github.com/MariaFlores8721/LLMFlex"
-  },
-  {
-    "description": "A hybrid symbolic-generative system for compatibility, communication, and relationship intelligence \u2014 deterministic mult",
-    "id": "VSSK007/ZodicogAI",
-    "language": "TypeScript",
-    "name": "VSSK007/ZodicogAI",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:47:31Z",
-    "url": "https://github.com/VSSK007/ZodicogAI"
   }
 ]
