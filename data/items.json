@@ -1,11 +1,47 @@
 [
   {
+    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
+    "id": "ZhouYinLong-lab/OhMyStyle",
+    "language": "Python",
+    "name": "ZhouYinLong-lab/OhMyStyle",
+    "stars": 5,
+    "updated_at": "2026-10-18T14:13:54Z",
+    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
+  },
+  {
+    "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
+    "id": "triton2030/agentic-research",
+    "language": "Python",
+    "name": "triton2030/agentic-research",
+    "stars": 0,
+    "updated_at": "2026-10-18T14:12:08Z",
+    "url": "https://github.com/triton2030/agentic-research"
+  },
+  {
+    "description": "A comprehensive blueprint for Large Language Models(LLMs). A rigorous curriculum covering transformer architectures, pre",
+    "id": "Ayush-2703/Large_languaage_Models",
+    "language": "Python",
+    "name": "Ayush-2703/Large_languaage_Models",
+    "stars": 3,
+    "updated_at": "2026-10-18T14:11:22Z",
+    "url": "https://github.com/Ayush-2703/Large_languaage_Models"
+  },
+  {
+    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
+    "id": "Michel-IT/Kotodama",
+    "language": "Rust",
+    "name": "Michel-IT/Kotodama",
+    "stars": 5,
+    "updated_at": "2026-10-18T14:09:37Z",
+    "url": "https://github.com/Michel-IT/Kotodama"
+  },
+  {
     "description": "Prompt para an\u00e1lise de feedbacks banc\u00e1rios: CX, insights e prioridades | Prompt for banking CX feedback analysis",
     "id": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
     "language": "\u2014",
     "name": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
     "stars": 0,
-    "updated_at": "2026-10-18T13:59:40Z",
+    "updated_at": "2026-10-18T14:09:08Z",
     "url": "https://github.com/KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio"
   },
   {
@@ -14,8 +50,98 @@
     "language": "\u2014",
     "name": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
     "stars": 0,
-    "updated_at": "2026-10-18T13:59:37Z",
+    "updated_at": "2026-10-18T14:09:05Z",
     "url": "https://github.com/KelvinOliveiraCode/miniguia-estudos-notebooklm"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 14,
+    "updated_at": "2026-10-18T14:10:04Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "Rewrite prompts in one click inside ChatGPT, Gemini, and Claude \u2014 and rephrase any text on the web. Bring your own Gemin",
+    "id": "piyushdoorwar/ask-better",
+    "language": "JavaScript",
+    "name": "piyushdoorwar/ask-better",
+    "stars": 0,
+    "updated_at": "2026-10-18T14:05:59Z",
+    "url": "https://github.com/piyushdoorwar/ask-better"
+  },
+  {
+    "description": "FREECC \u2014 a free Claude-Code-class agent stack: quota-pooled free-LLM router, harness wiring, quality-gated cascade and m",
+    "id": "aleksamytza-art/freecc",
+    "language": "JavaScript",
+    "name": "aleksamytza-art/freecc",
+    "stars": 0,
+    "updated_at": "2026-10-18T14:05:21Z",
+    "url": "https://github.com/aleksamytza-art/freecc"
+  },
+  {
+    "description": "Multi-agent AI skill orchestration \u2014 15 skills, 7 lifecycle phases, from idea to post-release. Works with Claude Code, C",
+    "id": "SkillWeave-AI/skillweave",
+    "language": "Python",
+    "name": "SkillWeave-AI/skillweave",
+    "stars": 5,
+    "updated_at": "2026-10-18T14:04:03Z",
+    "url": "https://github.com/SkillWeave-AI/skillweave"
+  },
+  {
+    "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
+    "id": "ystk-kai/claude-harness",
+    "language": "Shell",
+    "name": "ystk-kai/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-10-18T14:03:52Z",
+    "url": "https://github.com/ystk-kai/claude-harness"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-10-18T14:04:41Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-18T14:02:03Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "A collection of reusable AI Agent Skills for development, DevOps, and content automation.",
+    "id": "AthenDrakomin-hub/agent-skills",
+    "language": "Python",
+    "name": "AthenDrakomin-hub/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T14:01:38Z",
+    "url": "https://github.com/AthenDrakomin-hub/agent-skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 9,
+    "updated_at": "2026-10-18T14:01:30Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T14:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
@@ -41,7 +167,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-18T13:58:12Z",
+    "updated_at": "2026-10-18T14:12:48Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -180,24 +306,6 @@
     "url": "https://github.com/wu736139669/goal-instruction-writer"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 9,
-    "updated_at": "2026-10-18T13:46:38Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T13:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Version-controlled catalog of Dryvist LLM prompts",
     "id": "dryvist/ai-llm-prompts",
     "language": "Nix",
@@ -221,7 +329,7 @@
     "language": "Python",
     "name": "Nayjest/ai-microcore",
     "stars": 108,
-    "updated_at": "2026-10-18T13:48:41Z",
+    "updated_at": "2026-10-18T14:13:38Z",
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
@@ -241,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T14:00:27Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-18T13:57:06Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
@@ -320,17 +419,8 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-10-18T13:39:51Z",
+    "updated_at": "2026-10-18T14:13:11Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "A collection of reusable AI Agent Skills for development, DevOps, and content automation.",
-    "id": "AthenDrakomin-hub/agent-skills",
-    "language": "Python",
-    "name": "AthenDrakomin-hub/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:35:12Z",
-    "url": "https://github.com/AthenDrakomin-hub/agent-skills"
   },
   {
     "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:32:02Z",
     "url": "https://github.com/Sahiljain6/promptlab"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6 \u00b7 \u53d1\u9001\u680f\u4e00\u952e\u300c\u4f18\u5316\u300d\u63d0\u793a\u8bcd\u8349\u7a3f\uff1a\u4e94\u7ef4\u8bca\u65ad + \u6539\u5199\u7a3f SSE \u6d41\u5f0f\u4e0a\u5c4f\uff0c\u53ef\u66ff\u6362 / \u590d\u5236 / \u64a4\u56de\uff0c\u6a21\u578b\u8def\u7531\u9ed8\u8ba4\u8ddf\u968f\u5f53\u524d\u4f1a\u8bdd\u3002",
-    "id": "Y1X1n/dsh-prompt-optimizer",
-    "language": "TypeScript",
-    "name": "Y1X1n/dsh-prompt-optimizer",
-    "stars": 24,
-    "updated_at": "2026-10-18T13:38:27Z",
-    "url": "https://github.com/Y1X1n/dsh-prompt-optimizer"
-  },
-  {
-    "description": "AI-image-prompt-TAG-skill",
-    "id": "1756141021/tag-skill",
-    "language": "\u2014",
-    "name": "1756141021/tag-skill",
-    "stars": 16,
-    "updated_at": "2026-10-18T13:29:25Z",
-    "url": "https://github.com/1756141021/tag-skill"
-  },
-  {
-    "description": "\u2702\ufe0f Chrome extension for AI prompt compression \u2014 reduce token usage on ChatGPT, Claude & Gemini by up to 80%",
-    "id": "sebin-gg/brevity-prompt",
-    "language": "JavaScript",
-    "name": "sebin-gg/brevity-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:28:12Z",
-    "url": "https://github.com/sebin-gg/brevity-prompt"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:27:56Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Save 30-60% on Claude Code costs -- proven strategies, real benchmarks, copy-paste configs, and interactive tools",
-    "id": "Sagargupta16/claude-cost-optimizer",
-    "language": "TypeScript",
-    "name": "Sagargupta16/claude-cost-optimizer",
-    "stars": 38,
-    "updated_at": "2026-10-18T13:26:39Z",
-    "url": "https://github.com/Sagargupta16/claude-cost-optimizer"
-  },
-  {
-    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
-    "id": "novanoticia/email-triage-plugin",
-    "language": "Python",
-    "name": "novanoticia/email-triage-plugin",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:00:19Z",
-    "url": "https://github.com/novanoticia/email-triage-plugin"
-  },
-  {
-    "description": "Portable AI governance kit \u2014 handover, roadmap, freeze review. Inject into any repo with ok init",
-    "id": "aaronrene/overseer-kit",
-    "language": "Python",
-    "name": "aaronrene/overseer-kit",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:00:06Z",
-    "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Gravitas is a free add-on for Google Antigravity that makes its AI agent check what your answer depends on, tell you kin",
-    "id": "Emily2040/gravitas",
-    "language": "Python",
-    "name": "Emily2040/gravitas",
-    "stars": 25,
-    "updated_at": "2026-10-18T13:24:31Z",
-    "url": "https://github.com/Emily2040/gravitas"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:22:40Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "AI \u5c0f\u8bf4\u521b\u4f5c\u4e91\uff08LangGraph\uff09\u7684\u67b6\u6784\u4e0e\u8bc4\u6d4b\u5c55\u793a\u5c42\uff1a\u76ee\u6807\u9a71\u52a8 Agent \u4e3b\u5faa\u73af\u3001fail-closed \u5de5\u5177\u95e8\u7981\u3001\u4e09\u5c42\u8bb0\u5fc6\u4e0e\u6df7\u5408\u68c0\u7d22\u3001Agent \u8d28\u91cf\u8bc4\u6d4b\u95ed\u73af",
-    "id": "MatchFive/ai-novel-agent",
-    "language": "Python",
-    "name": "MatchFive/ai-novel-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:21:00Z",
-    "url": "https://github.com/MatchFive/ai-novel-agent"
   }
 ]
