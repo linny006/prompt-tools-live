@@ -1,12 +1,129 @@
 [
   {
-    "description": "Agent Skills for AI that connect to verifiable facts \u2014 8 cognitive skills (built from classic books) + 6 industry skills",
-    "id": "Trustbaselab/trustbase-skills",
+    "description": "Prompt para an\u00e1lise de feedbacks banc\u00e1rios: CX, insights e prioridades | Prompt for banking CX feedback analysis",
+    "id": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
     "language": "\u2014",
-    "name": "Trustbaselab/trustbase-skills",
+    "name": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:59:40Z",
+    "url": "https://github.com/KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio"
+  },
+  {
+    "description": "Miniguia de engenharia de prompts com NotebookLM: 10 prompts testados | Prompt engineering miniguide with NotebookLM",
+    "id": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
+    "language": "\u2014",
+    "name": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:59:37Z",
+    "url": "https://github.com/KelvinOliveiraCode/miniguia-estudos-notebooklm"
+  },
+  {
+    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 12,
+    "updated_at": "2026-10-18T13:59:42Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-18T13:58:52Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-18T13:45:25Z",
-    "url": "https://github.com/Trustbaselab/trustbase-skills"
+    "updated_at": "2026-10-18T13:58:12Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Model-agnostic output control for LLM agents: concise, action-first answers with proof and risk preserved. Native instal",
+    "id": "FlorianBruniaux/flow-lean",
+    "language": "Python",
+    "name": "FlorianBruniaux/flow-lean",
+    "stars": 21,
+    "updated_at": "2026-10-18T13:57:32Z",
+    "url": "https://github.com/FlorianBruniaux/flow-lean"
+  },
+  {
+    "description": "Four AI skills that split an investment committee into roles: analyst, risk officer, macro analyst, portfolio manager. W",
+    "id": "Vidwaansinghania/Finance-Skills",
+    "language": "\u2014",
+    "name": "Vidwaansinghania/Finance-Skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:57:21Z",
+    "url": "https://github.com/Vidwaansinghania/Finance-Skills"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:56:42Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\ud83c\udf0c Official open-source prompt recipes & creative guide for Vistella (\u661f\u5883) \u2014 Web-based AI image generation & editing at vi",
+    "id": "Ethon1130/vistella",
+    "language": "\u2014",
+    "name": "Ethon1130/vistella",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:56:21Z",
+    "url": "https://github.com/Ethon1130/vistella"
+  },
+  {
+    "description": "Software, written by everyone: apps evolved one prompt at a time. Free, non-commercial, no code required.",
+    "id": "serialtyAI/serialtyai",
+    "language": "HTML",
+    "name": "serialtyAI/serialtyai",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:55:48Z",
+    "url": "https://github.com/serialtyAI/serialtyai"
+  },
+  {
+    "description": "Rails Engine with MCP compliant Spec.",
+    "id": "seuros/action_mcp",
+    "language": "Ruby",
+    "name": "seuros/action_mcp",
+    "stars": 122,
+    "updated_at": "2026-10-18T13:55:51Z",
+    "url": "https://github.com/seuros/action_mcp"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-18T13:53:52Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
+    "id": "Shreyash3007/aegis",
+    "language": "JavaScript",
+    "name": "Shreyash3007/aegis",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:51:00Z",
+    "url": "https://github.com/Shreyash3007/aegis"
+  },
+  {
+    "description": "\u4f01\u4e1a AI \u843d\u5730\u5b9e\u6218\u624b\u518c\uff1a\u627e\u573a\u666f \u2192 \u62c6\u9700\u6c42 \u2192 \u9009\u65b9\u6848 \u2192 \u505a\u4ea4\u4ed8\u3002\u542b\u56db\u6b65\u6cd5\u6307\u5357\u4e0e\u53ef\u590d\u7528\u6a21\u677f\u3002",
+    "id": "dell0721/ai-landing-playbook",
+    "language": "JavaScript",
+    "name": "dell0721/ai-landing-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:51:00Z",
+    "url": "https://github.com/dell0721/ai-landing-playbook"
   },
   {
     "description": "Agent Skill: turn novels/stories into character-consistent AI comic dramas \u2014 script, storyboard, prompts, image & video ",
@@ -14,8 +131,71 @@
     "language": "Python",
     "name": "ayase0307/ai-comic-drama",
     "stars": 0,
-    "updated_at": "2026-10-18T13:44:05Z",
+    "updated_at": "2026-10-18T13:49:59Z",
     "url": "https://github.com/ayase0307/ai-comic-drama"
+  },
+  {
+    "description": "A practical catalog of AI UI slop patterns \u2014 and constraints so models stop shipping the same indigo/Inter/pill design.",
+    "id": "jethineddula-web/anti-ai-detection",
+    "language": "CSS",
+    "name": "jethineddula-web/anti-ai-detection",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:49:10Z",
+    "url": "https://github.com/jethineddula-web/anti-ai-detection"
+  },
+  {
+    "description": "A reusable Claude Code agent team: orchestrator + subagents, cost ledger, hooks, and hire/retire/retro skills.",
+    "id": "exaltedo2/agent-crew",
+    "language": "PowerShell",
+    "name": "exaltedo2/agent-crew",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:48:29Z",
+    "url": "https://github.com/exaltedo2/agent-crew"
+  },
+  {
+    "description": "AI-KIT is a practical starter kit for development: ChatGPT/Codex, Claude, DeepSeek, KIMI, and other coding agents. It pr",
+    "id": "tigusigalpa/ai-kit",
+    "language": "Python",
+    "name": "tigusigalpa/ai-kit",
+    "stars": 47,
+    "updated_at": "2026-10-18T13:55:51Z",
+    "url": "https://github.com/tigusigalpa/ai-kit"
+  },
+  {
+    "description": "Agent Skills for AI that connect to verifiable facts \u2014 8 cognitive skills (built from classic books) + 6 industry skills",
+    "id": "Trustbaselab/trustbase-skills",
+    "language": "\u2014",
+    "name": "Trustbaselab/trustbase-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:46:43Z",
+    "url": "https://github.com/Trustbaselab/trustbase-skills"
+  },
+  {
+    "description": "Preview agent loops and write durable Goals for coding, game development, and research, with evidence, drift control, pr",
+    "id": "wu736139669/goal-instruction-writer",
+    "language": "HTML",
+    "name": "wu736139669/goal-instruction-writer",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:46:18Z",
+    "url": "https://github.com/wu736139669/goal-instruction-writer"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 9,
+    "updated_at": "2026-10-18T13:46:38Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T13:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Version-controlled catalog of Dryvist LLM prompts",
@@ -41,26 +221,8 @@
     "language": "Python",
     "name": "Nayjest/ai-microcore",
     "stars": 108,
-    "updated_at": "2026-10-18T13:42:24Z",
+    "updated_at": "2026-10-18T13:48:41Z",
     "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T13:42:10Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A reusable Claude Code agent team: orchestrator + subagents, cost ledger, hooks, and hire/retire/retro skills.",
-    "id": "exaltedo2/agent-crew",
-    "language": "PowerShell",
-    "name": "exaltedo2/agent-crew",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:42:02Z",
-    "url": "https://github.com/exaltedo2/agent-crew"
   },
   {
     "description": "AI-written articles on software engineering and life in the AI age, covering coding agents, software architecture, backe",
@@ -77,7 +239,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-18T13:41:45Z",
+    "updated_at": "2026-10-18T14:00:27Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -86,7 +248,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T13:40:29Z",
+    "updated_at": "2026-10-18T13:57:06Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -94,18 +256,9 @@
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 6195,
+    "stars": 6196,
     "updated_at": "2026-10-18T13:40:23Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "\ud83c\udf0c Open-source Vistella toolkit, prompt recipes & agent skills \u2014 Online AI image generation & editing at vistella.xyz",
-    "id": "Ethon1130/vistella",
-    "language": "\u2014",
-    "name": "Ethon1130/vistella",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:38:48Z",
-    "url": "https://github.com/Ethon1130/vistella"
   },
   {
     "description": "A reusable, framework-agnostic starter template for AI coding agents, featuring development rules, requirements manageme",
@@ -126,15 +279,6 @@
     "url": "https://github.com/YT1721/ai-director-workbench"
   },
   {
-    "description": "Preview agent loops and write durable Goals for coding, game development, and research, with evidence, drift control, pr",
-    "id": "wu736139669/goal-instruction-writer",
-    "language": "HTML",
-    "name": "wu736139669/goal-instruction-writer",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:38:07Z",
-    "url": "https://github.com/wu736139669/goal-instruction-writer"
-  },
-  {
     "description": "Um motor de RPG de mesa bare-metal e ass\u00edncrono projetado para mestrar 'Vampiro: A M\u00e1scara 5\u00aa Edi\u00e7\u00e3o' com intelig\u00eancia l",
     "id": "CHCLopes/Agente-Storyteller-VampireTheMasqueradeV5",
     "language": "Python",
@@ -142,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T13:37:54Z",
     "url": "https://github.com/CHCLopes/Agente-Storyteller-VampireTheMasqueradeV5"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-18T13:37:42Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
     "description": "Keystone \u2014 intent-first workflow for Claude Code. Process sized to the change: intent \u2192 plan \u2192 independent check \u2192 imple",
@@ -169,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:37:25Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "AI-KIT is a practical starter kit for development: ChatGPT/Codex, Claude, DeepSeek, KIMI, and other coding agents. It pr",
-    "id": "tigusigalpa/ai-kit",
-    "language": "Python",
-    "name": "tigusigalpa/ai-kit",
-    "stars": 47,
-    "updated_at": "2026-10-18T13:35:46Z",
-    "url": "https://github.com/tigusigalpa/ai-kit"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -225,24 +351,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "Prompt para an\u00e1lise de feedbacks banc\u00e1rios: CX, insights e prioridades | Prompt for banking CX feedback analysis",
-    "id": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
-    "language": "\u2014",
-    "name": "KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:32:37Z",
-    "url": "https://github.com/KelvinOliveiraCode/prompt-analise-feedbacks-bancarios-dio"
-  },
-  {
-    "description": "Miniguia de engenharia de prompts com NotebookLM: 10 prompts testados | Prompt engineering miniguide with NotebookLM",
-    "id": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
-    "language": "\u2014",
-    "name": "KelvinOliveiraCode/miniguia-estudos-notebooklm",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:32:33Z",
-    "url": "https://github.com/KelvinOliveiraCode/miniguia-estudos-notebooklm"
-  },
-  {
     "description": "PromptLab is a Streamlit research app for comparing prompt-engineering techniques in code generation using Groq and Olla",
     "id": "Sahiljain6/promptlab",
     "language": "Python",
@@ -261,15 +369,6 @@
     "url": "https://github.com/Y1X1n/dsh-prompt-optimizer"
   },
   {
-    "description": "Rails Engine with MCP compliant Spec.",
-    "id": "seuros/action_mcp",
-    "language": "Ruby",
-    "name": "seuros/action_mcp",
-    "stars": 122,
-    "updated_at": "2026-10-18T13:30:01Z",
-    "url": "https://github.com/seuros/action_mcp"
-  },
-  {
     "description": "AI-image-prompt-TAG-skill",
     "id": "1756141021/tag-skill",
     "language": "\u2014",
@@ -277,15 +376,6 @@
     "stars": 16,
     "updated_at": "2026-10-18T13:29:25Z",
     "url": "https://github.com/1756141021/tag-skill"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:40:50Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "\u2702\ufe0f Chrome extension for AI prompt compression \u2014 reduce token usage on ChatGPT, Claude & Gemini by up to 80%",
@@ -320,7 +410,7 @@
     "language": "Python",
     "name": "novanoticia/email-triage-plugin",
     "stars": 1,
-    "updated_at": "2026-10-18T13:40:42Z",
+    "updated_at": "2026-10-18T14:00:19Z",
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
@@ -329,7 +419,7 @@
     "language": "Python",
     "name": "aaronrene/overseer-kit",
     "stars": 1,
-    "updated_at": "2026-10-18T13:25:03Z",
+    "updated_at": "2026-10-18T14:00:06Z",
     "url": "https://github.com/aaronrene/overseer-kit"
   },
   {
@@ -340,15 +430,6 @@
     "stars": 25,
     "updated_at": "2026-10-18T13:24:31Z",
     "url": "https://github.com/Emily2040/gravitas"
-  },
-  {
-    "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 12,
-    "updated_at": "2026-10-18T13:39:02Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:21:00Z",
     "url": "https://github.com/MatchFive/ai-novel-agent"
-  },
-  {
-    "description": "LuciferDono's Claude Code marketplace. Five portable skills that each fix one real AI-agent failure mode: deglaze (sycop",
-    "id": "LuciferDono/skills-stack",
-    "language": "\u2014",
-    "name": "LuciferDono/skills-stack",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:20:59Z",
-    "url": "https://github.com/LuciferDono/skills-stack"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:20:30Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Separates startup gaps that are real companies from features waiting to be cloned. Barred test (incumbent conflict) + Re",
-    "id": "LuciferDono/gap-scan",
-    "language": "\u2014",
-    "name": "LuciferDono/gap-scan",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:19:37Z",
-    "url": "https://github.com/LuciferDono/gap-scan"
-  },
-  {
-    "description": "A coding-agent skill for decision review and audit integrity: first principles, steelmanning, and a coverage ledger",
-    "id": "Mo12y/first-principles-review",
-    "language": "Python",
-    "name": "Mo12y/first-principles-review",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:18:08Z",
-    "url": "https://github.com/Mo12y/first-principles-review"
-  },
-  {
-    "description": "\uc218\ub178(Suno)\uc6a9 \ud55c\uad6d\uc5b4 \uc791\uc0ac Claude \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 \uac00\uc0ac\uc640 Style\u00b7Exclude\u00b7Title\uc744 \uc7a5\ub974\uc5d0 \ub9de\ucdb0 \ud568\uaed8 \uc124\uacc4 (v3.0, CC BY 4.0)",
-    "id": "previtlab/suno-lyrics-skill",
-    "language": "\u2014",
-    "name": "previtlab/suno-lyrics-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T13:17:48Z",
-    "url": "https://github.com/previtlab/suno-lyrics-skill"
-  },
-  {
-    "description": "Curated, unified monorepo of high-performance skills for Google Antigravity, Claude Code, Gemini CLI, and agentic AI cod",
-    "id": "ksprashu/agent-skill-forge",
-    "language": "Python",
-    "name": "ksprashu/agent-skill-forge",
-    "stars": 3,
-    "updated_at": "2026-10-18T13:17:37Z",
-    "url": "https://github.com/ksprashu/agent-skill-forge"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:16:46Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
-    "id": "badhope/xiaoman",
-    "language": "Python",
-    "name": "badhope/xiaoman",
-    "stars": 77,
-    "updated_at": "2026-10-18T13:15:52Z",
-    "url": "https://github.com/badhope/xiaoman"
-  },
-  {
-    "description": "Persistent persona memory for Claude Code, Cursor, Codex, Copilot, Antigravity. Mesh-structured state survives context c",
-    "id": "LuciferDono/persona",
-    "language": "\u2014",
-    "name": "LuciferDono/persona",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:15:48Z",
-    "url": "https://github.com/LuciferDono/persona"
   }
 ]
