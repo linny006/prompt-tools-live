@@ -1,5 +1,140 @@
 [
   {
+    "description": "Universal schema-based runtime for prompts, skills, and AI composition. Framework-independent, portable, and enterprise-",
+    "id": "studentleaner/Axiom",
+    "language": "Python",
+    "name": "studentleaner/Axiom",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:29:36Z",
+    "url": "https://github.com/studentleaner/Axiom"
+  },
+  {
+    "description": "Context Engineering library for LLM pipelines. Compression, token budgeting, context modes, and provider-agnostic execut",
+    "id": "studentleaner/ContextFlow",
+    "language": "Python",
+    "name": "studentleaner/ContextFlow",
+    "stars": 4,
+    "updated_at": "2026-10-18T06:29:28Z",
+    "url": "https://github.com/studentleaner/ContextFlow"
+  },
+  {
+    "description": "ALIGNS.md helps you and your AI agents share project goals, priorities, and judgment through a maintained alignment skil",
+    "id": "hmmhmmhm/aligns.md",
+    "language": "Python",
+    "name": "hmmhmmhm/aligns.md",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:29:19Z",
+    "url": "https://github.com/hmmhmmhm/aligns.md"
+  },
+  {
+    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
+    "id": "kair789/agent-efficiency-diagnostics",
+    "language": "Python",
+    "name": "kair789/agent-efficiency-diagnostics",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:25:30Z",
+    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
+  },
+  {
+    "description": "Governance for AI coding agents, as one Claude Code plugin: a rigor router (FAST vs HEAVY, decided by an eleven danger-s",
+    "id": "sayeediftekhar/Keel",
+    "language": "JavaScript",
+    "name": "sayeediftekhar/Keel",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:25:27Z",
+    "url": "https://github.com/sayeediftekhar/Keel"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:25:49Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
+    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "language": "JavaScript",
+    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "stars": 5,
+    "updated_at": "2026-10-18T06:23:36Z",
+    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:22:53Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "\u4e09\u79cd\u903b\u8f91\u6a21\u578b\u601d\u7ef4\u6280\u80fd\uff1a\u6797\u72b6\u5206\u5c42\u5206\u7c7b\u56de\u6eaf\u6cd5 / \u7f51\u72b6\u7ebf\u7d22\u5173\u8054\u7a77\u4e3e\u6cd5 / \u7ecf\u9a8c\u516c\u5f0f\u8d28\u70b9\u4ee3\u5165\u6cd5",
+    "id": "plasmaflea/dsh-thinking-models",
+    "language": "PowerShell",
+    "name": "plasmaflea/dsh-thinking-models",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:22:33Z",
+    "url": "https://github.com/plasmaflea/dsh-thinking-models"
+  },
+  {
+    "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
+    "id": "FeatherHunter/dsh-prompt",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-prompt",
+    "stars": 45,
+    "updated_at": "2026-10-18T06:22:15Z",
+    "url": "https://github.com/FeatherHunter/dsh-prompt"
+  },
+  {
+    "description": "AI Production Pipeline by One Two Film \u2014 Claude Code skills for AI filmmaking: script \u2192 references \u2192 shot list \u2192 cinemat",
+    "id": "teen-boop/AiProductionPipeline",
+    "language": "Python",
+    "name": "teen-boop/AiProductionPipeline",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:22:01Z",
+    "url": "https://github.com/teen-boop/AiProductionPipeline"
+  },
+  {
+    "description": "PromptMag \u00b7 \u684c\u9762\u63d0\u793a\u8bcd\u5f39\u5939\uff1a\u591a\u56fe\u5f3a\u5173\u8054\u951a\u5b9a\u3001\u6781\u901f\u60ac\u6d6e\u8f93\u5165\u3001\u5168\u5c40\u5feb\u6377\u952e\u5149\u6807\u7c98\u8d34\u4e0e CLI Agent \u4efb\u52a1\u81ea\u52a8\u63a5\u529b",
+    "id": "HaiLanDuJun/PromptMag",
+    "language": "JavaScript",
+    "name": "HaiLanDuJun/PromptMag",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:21:00Z",
+    "url": "https://github.com/HaiLanDuJun/PromptMag"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:19:19Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:15:53Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T06:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with",
     "id": "LearnPrompt/awesome-seedance",
     "language": "JavaScript",
@@ -16,24 +151,6 @@
     "stars": 42,
     "updated_at": "2026-10-18T06:15:11Z",
     "url": "https://github.com/201901060324/gator-method"
-  },
-  {
-    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
-    "id": "kair789/agent-efficiency-diagnostics",
-    "language": "Python",
-    "name": "kair789/agent-efficiency-diagnostics",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:14:37Z",
-    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
-  },
-  {
-    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
-    "id": "novanoticia/email-triage-plugin",
-    "language": "Python",
-    "name": "novanoticia/email-triage-plugin",
-    "stars": 1,
-    "updated_at": "2026-10-18T06:14:08Z",
-    "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
     "description": "Awesome GPT Image Prompts by MuseSignal. Complete prompts, preview images and full JSON; versions share one collection. ",
@@ -79,33 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T06:10:42Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 5,
-    "updated_at": "2026-10-18T06:10:33Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-18T06:07:42Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "\u4e09\u79cd\u903b\u8f91\u6a21\u578b\u601d\u7ef4\u6280\u80fd\uff1a\u6797\u72b6\u5206\u5c42\u5206\u7c7b\u56de\u6eaf\u6cd5 / \u7f51\u72b6\u7ebf\u7d22\u5173\u8054\u7a77\u4e3e\u6cd5 / \u7ecf\u9a8c\u516c\u5f0f\u8d28\u70b9\u4ee3\u5165\u6cd5",
-    "id": "plasmaflea/dsh-thinking-models",
-    "language": "PowerShell",
-    "name": "plasmaflea/dsh-thinking-models",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:06:55Z",
-    "url": "https://github.com/plasmaflea/dsh-thinking-models"
   },
   {
     "description": "\u6bdb\u6cfd\u4e1c\u8bed\u6599\u5e93\u6536\u675f skill\uff1a154 \u6761\u53ef\u8003\u8bed\u6599 + \u6587\u98ce\u4eff\u5199\uff0c\u4e3a\u5b8c\u6210\u7684\u4efb\u52a1\u5199\u4e00\u6bb5\u4e0d\u7a7a\u4e0d\u5047\u7684\u603b\u7ed3",
@@ -160,15 +250,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T06:01:38Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T06:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
@@ -297,15 +378,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "PromptMag \u00b7 \u684c\u9762\u63d0\u793a\u8bcd\u5f39\u5939\uff1a\u591a\u56fe\u5f3a\u5173\u8054\u951a\u5b9a\u3001\u6781\u901f\u60ac\u6d6e\u8f93\u5165\u3001\u5168\u5c40\u5feb\u6377\u952e\u5149\u6807\u7c98\u8d34\u4e0e CLI Agent \u4efb\u52a1\u81ea\u52a8\u63a5\u529b",
-    "id": "HaiLanDuJun/PromptMag",
-    "language": "JavaScript",
-    "name": "HaiLanDuJun/PromptMag",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:52:33Z",
-    "url": "https://github.com/HaiLanDuJun/PromptMag"
-  },
-  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -331,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T05:41:08Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI Production Pipeline by One Two Film \u2014 Claude Code skills for AI filmmaking: script \u2192 references \u2192 shot list \u2192 cinemat",
-    "id": "teen-boop/AiProductionPipeline",
-    "language": "Python",
-    "name": "teen-boop/AiProductionPipeline",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:39:48Z",
-    "url": "https://github.com/teen-boop/AiProductionPipeline"
   },
   {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
@@ -385,68 +448,5 @@
     "stars": 123,
     "updated_at": "2026-10-18T05:35:16Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 68,
-    "updated_at": "2026-10-18T05:35:01Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:43:42Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
-    "id": "mxyhi/ok-skills",
-    "language": "HTML",
-    "name": "mxyhi/ok-skills",
-    "stars": 498,
-    "updated_at": "2026-10-18T05:33:55Z",
-    "url": "https://github.com/mxyhi/ok-skills"
-  },
-  {
-    "description": "\u767d\u819c\u5de5\u4f5c\u53f0 Whitebox Workbench \u00b7 AI \u89c6\u9891\u5236\u4f5c\u524d\u7684 3D \u767d\u819c\u573a\u666f\u642d\u5efa\u4e0e\u5206\u955c\u9884\u6f14\u5de5\u5177\uff1a6 \u79cd\u9884\u8bbe\u73af\u5883 + 33 \u4e2a\u9884\u8bbe\u5efa\u6a21\u8d44\u4ea7\u575e\uff08\u4eba\u7269/\u6c7d\u8f66/\u623f\u95f4\u76f4\u63a5\u653e\u8fdb\u753b\u9762\uff09\uff0c\u6216\u5bfc\u5165\u4efb\u610f AI \u751f\u6210\u7684\u767d\u819c HTML \u5728 Cinema",
-    "id": "Twdhsi-666/whitebox-workbench",
-    "language": "JavaScript",
-    "name": "Twdhsi-666/whitebox-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:32:28Z",
-    "url": "https://github.com/Twdhsi-666/whitebox-workbench"
-  },
-  {
-    "description": "Build reliable, self-contained AI skills from natural-language source and executable scripts\u2014with deterministic builds a",
-    "id": "nanomia-ai/skill-rails",
-    "language": "JavaScript",
-    "name": "nanomia-ai/skill-rails",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:29:09Z",
-    "url": "https://github.com/nanomia-ai/skill-rails"
-  },
-  {
-    "description": "Awesome DeepSeek V4.1 Flash 1017: curated videos, prompts and examples made with DeepSeek V4.1 Flash 1017 (Three.js, Web",
-    "id": "sandbase-lab/awesome-deepseek-v4.1-flash-1017",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-deepseek-v4.1-flash-1017",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:29:07Z",
-    "url": "https://github.com/sandbase-lab/awesome-deepseek-v4.1-flash-1017"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-10-18T05:28:23Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
   }
 ]
