@@ -1,5 +1,41 @@
 [
   {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:00:03Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "\u4e09\u79cd\u903b\u8f91\u6a21\u578b\u601d\u7ef4\u6280\u80fd\uff1a\u6797\u72b6\u5206\u5c42\u5206\u7c7b\u56de\u6eaf\u6cd5 / \u7f51\u72b6\u7ebf\u7d22\u5173\u8054\u7a77\u4e3e\u6cd5 / \u7ecf\u9a8c\u516c\u5f0f\u8d28\u70b9\u4ee3\u5165\u6cd5",
+    "id": "plasmaflea/dsh-thinking-models",
+    "language": "PowerShell",
+    "name": "plasmaflea/dsh-thinking-models",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:00:02Z",
+    "url": "https://github.com/plasmaflea/dsh-thinking-models"
+  },
+  {
+    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
+    "id": "1arry1iu/archetype",
+    "language": "Python",
+    "name": "1arry1iu/archetype",
+    "stars": 57,
+    "updated_at": "2026-10-18T09:59:29Z",
+    "url": "https://github.com/1arry1iu/archetype"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T09:57:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
@@ -23,7 +59,7 @@
     "language": "JavaScript",
     "name": "Xxx91n/jiahao",
     "stars": 0,
-    "updated_at": "2026-10-18T09:55:57Z",
+    "updated_at": "2026-10-18T09:58:38Z",
     "url": "https://github.com/Xxx91n/jiahao"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
-    "id": "1arry1iu/archetype",
-    "language": "Python",
-    "name": "1arry1iu/archetype",
-    "stars": 57,
-    "updated_at": "2026-10-18T09:50:55Z",
-    "url": "https://github.com/1arry1iu/archetype"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T09:46:26Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "\u4e09\u79cd\u903b\u8f91\u6a21\u578b\u601d\u7ef4\u6280\u80fd\uff1a\u6797\u72b6\u5206\u5c42\u5206\u7c7b\u56de\u6eaf\u6cd5 / \u7f51\u72b6\u7ebf\u7d22\u5173\u8054\u7a77\u4e3e\u6cd5 / \u7ecf\u9a8c\u516c\u5f0f\u8d28\u70b9\u4ee3\u5165\u6cd5",
-    "id": "plasmaflea/dsh-thinking-models",
-    "language": "PowerShell",
-    "name": "plasmaflea/dsh-thinking-models",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:46:24Z",
-    "url": "https://github.com/plasmaflea/dsh-thinking-models"
   },
   {
     "description": "A practical handbook for GPT Image 2.5: character consistency, pose transfer, background replacement, multi-turn editing",
@@ -169,15 +187,6 @@
     "stars": 361,
     "updated_at": "2026-10-18T09:45:36Z",
     "url": "https://github.com/kydlikebtc/awesome-grokbot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T09:45:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
@@ -396,6 +405,15 @@
     "url": "https://github.com/DavideRogers126/PromptKit"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28432,
+    "updated_at": "2026-10-18T09:36:59Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
     "id": "Wichai14349/rag-interview-system",
     "language": "Jupyter Notebook",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T09:54:45Z",
     "url": "https://github.com/HT0710/claudzilla"
-  },
-  {
-    "description": "Goal-based planning and proof gate for AI coding agents",
-    "id": "elizabethw06060/krypton",
-    "language": "Shell",
-    "name": "elizabethw06060/krypton",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:35:24Z",
-    "url": "https://github.com/elizabethw06060/krypton"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:34:49Z",
-    "url": "https://github.com/jaypetez/ideaforge"
   }
 ]
