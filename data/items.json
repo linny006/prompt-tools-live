@@ -1,12 +1,345 @@
 [
   {
-    "description": "Windows tray app that turns any selected text into a better AI prompt, and dictates straight into whatever app you're ty",
-    "id": "Abhijeet-dhotre/Quickpromptai",
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-18T20:30:09Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
     "language": "Python",
-    "name": "Abhijeet-dhotre/Quickpromptai",
+    "name": "kzndotsh/companion",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:30:03Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that \u2014 composable, version-controlle",
+    "id": "Chiarah0437/PromptKit",
+    "language": "\u2014",
+    "name": "Chiarah0437/PromptKit",
     "stars": 0,
-    "updated_at": "2026-10-18T20:15:14Z",
-    "url": "https://github.com/Abhijeet-dhotre/Quickpromptai"
+    "updated_at": "2026-10-18T20:29:34Z",
+    "url": "https://github.com/Chiarah0437/PromptKit"
+  },
+  {
+    "description": "Automatically completes the full workflow from requirement research \u2192 research review \u2192 planning \u2192 plan review \u2192 develop",
+    "id": "sun01504/ai-auto-work",
+    "language": "Shell",
+    "name": "sun01504/ai-auto-work",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:29:07Z",
+    "url": "https://github.com/sun01504/ai-auto-work"
+  },
+  {
+    "description": "One person, one bot team: supervisor + specialist Grok Bot teams with copy-ready prompts for 8 personas \u00b7 \u4e00\u4e2a\u4eba\uff0c\u4e00\u652f Bot \u56e2\u961f",
+    "id": "doublesq97-ui/bot-team-playbook",
+    "language": "\u2014",
+    "name": "doublesq97-ui/bot-team-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:28:19Z",
+    "url": "https://github.com/doublesq97-ui/bot-team-playbook"
+  },
+  {
+    "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
+    "id": "MatthewMartini60566/Prompt-sensei",
+    "language": "JavaScript",
+    "name": "MatthewMartini60566/Prompt-sensei",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:29:54Z",
+    "url": "https://github.com/MatthewMartini60566/Prompt-sensei"
+  },
+  {
+    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
+    "id": "roedyrustam/vibes-plug",
+    "language": "JavaScript",
+    "name": "roedyrustam/vibes-plug",
+    "stars": 77,
+    "updated_at": "2026-10-18T20:27:37Z",
+    "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "",
+    "id": "kreftamarcio/kreftamarcio",
+    "language": "TypeScript",
+    "name": "kreftamarcio/kreftamarcio",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:27:28Z",
+    "url": "https://github.com/kreftamarcio/kreftamarcio"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-18T20:26:55Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
+    "id": "karaca73601/lintlang",
+    "language": "Python",
+    "name": "karaca73601/lintlang",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:39Z",
+    "url": "https://github.com/karaca73601/lintlang"
+  },
+  {
+    "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, ris",
+    "id": "LouisSenturk48464/boring-is-all-you-need",
+    "language": "\u2014",
+    "name": "LouisSenturk48464/boring-is-all-you-need",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:37Z",
+    "url": "https://github.com/LouisSenturk48464/boring-is-all-you-need"
+  },
+  {
+    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
+    "id": "Fernando2193/agent-starter-kit",
+    "language": "Shell",
+    "name": "Fernando2193/agent-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:21Z",
+    "url": "https://github.com/Fernando2193/agent-starter-kit"
+  },
+  {
+    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+    "id": "fischer7201/hewn-forge",
+    "language": "HTML",
+    "name": "fischer7201/hewn-forge",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:19Z",
+    "url": "https://github.com/fischer7201/hewn-forge"
+  },
+  {
+    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pai",
+    "id": "eduardo488/auto-improve",
+    "language": "Python",
+    "name": "eduardo488/auto-improve",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:16Z",
+    "url": "https://github.com/eduardo488/auto-improve"
+  },
+  {
+    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pai",
+    "id": "ngo9895/auto-improve",
+    "language": "Python",
+    "name": "ngo9895/auto-improve",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:07Z",
+    "url": "https://github.com/ngo9895/auto-improve"
+  },
+  {
+    "description": "flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readab",
+    "id": "Kennethc7461/flompt",
+    "language": "TypeScript",
+    "name": "Kennethc7461/flompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:25:46Z",
+    "url": "https://github.com/Kennethc7461/flompt"
+  },
+  {
+    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
+    "id": "ZhouYinLong-lab/OhMyStyle",
+    "language": "Python",
+    "name": "ZhouYinLong-lab/OhMyStyle",
+    "stars": 5,
+    "updated_at": "2026-10-18T20:25:29Z",
+    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 126,
+    "updated_at": "2026-10-18T20:24:55Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:24:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-10-18T20:24:06Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Terminal AI agent on a strict START \u2192 THINK \u2192 TOOL \u2192 OBSERVE \u2192 OUTPUT loop, with file-writing tools that scaffold a mult",
+    "id": "Yeagerist0/GenaiAssign2",
+    "language": "JavaScript",
+    "name": "Yeagerist0/GenaiAssign2",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:24:00Z",
+    "url": "https://github.com/Yeagerist0/GenaiAssign2"
+  },
+  {
+    "description": "Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider.",
+    "id": "Irsyadmr354/KESTREL",
+    "language": "\u2014",
+    "name": "Irsyadmr354/KESTREL",
+    "stars": 9,
+    "updated_at": "2026-10-18T20:23:49Z",
+    "url": "https://github.com/Irsyadmr354/KESTREL"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-18T20:22:41Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:22:50Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
+    "id": "zahiruddin586-cpu/ai-web-forge",
+    "language": "HTML",
+    "name": "zahiruddin586-cpu/ai-web-forge",
+    "stars": 68,
+    "updated_at": "2026-10-18T20:21:51Z",
+    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 123,
+    "updated_at": "2026-10-18T20:21:49Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:21:36Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-10-18T20:20:34Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 57,
+    "updated_at": "2026-10-18T20:20:17Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Cybersecurity and IT domain evaluations of AI model outputs (ChatGPT vs Gemini), scored on a consistent rubric and verif",
+    "id": "alexojocyber/AI-Response-Evaluation-Portfolio",
+    "language": "Python",
+    "name": "alexojocyber/AI-Response-Evaluation-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:19:43Z",
+    "url": "https://github.com/alexojocyber/AI-Response-Evaluation-Portfolio"
+  },
+  {
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
+    "id": "supachaihoffmann159/lintlang",
+    "language": "Python",
+    "name": "supachaihoffmann159/lintlang",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:19:31Z",
+    "url": "https://github.com/supachaihoffmann159/lintlang"
+  },
+  {
+    "description": "Agent skills for spec-driven development. An automated agentic delivery loop coordinates planning, implementation, and c",
+    "id": "valzav/valcraft",
+    "language": "Python",
+    "name": "valzav/valcraft",
+    "stars": 22,
+    "updated_at": "2026-10-18T20:19:28Z",
+    "url": "https://github.com/valzav/valcraft"
+  },
+  {
+    "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
+    "id": "bhaskarjha-dev/genai-notes",
+    "language": "PowerShell",
+    "name": "bhaskarjha-dev/genai-notes",
+    "stars": 2,
+    "updated_at": "2026-10-18T20:18:41Z",
+    "url": "https://github.com/bhaskarjha-dev/genai-notes"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:18:26Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "A Claude Code plugin that acts as an intelligent harness for your development workflow: your codebase is read-only by de",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 68,
+    "updated_at": "2026-10-18T20:17:54Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:16:39Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:16:09Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T20:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -25,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:14:24Z",
     "url": "https://github.com/juliauchida/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 5,
-    "updated_at": "2026-10-18T20:14:15Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
   },
   {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
@@ -61,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:13:24Z",
     "url": "https://github.com/larrylawson/flompt"
-  },
-  {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 77,
-    "updated_at": "2026-10-18T20:13:24Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
   },
   {
     "description": "Prompt Shelf is a lightweight prompt management system designed for developers and AI engineers.",
@@ -117,15 +432,6 @@
     "url": "https://github.com/victorhugofcaetano/curadoria-3d-bot"
   },
   {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "supachaihoffmann159/lintlang",
-    "language": "Python",
-    "name": "supachaihoffmann159/lintlang",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:12:03Z",
-    "url": "https://github.com/supachaihoffmann159/lintlang"
-  },
-  {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
     "id": "SHENG5411/grimoire-of-tools",
     "language": "HTML",
@@ -142,311 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:11:10Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:11:05Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-18T20:11:01Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-10-18T20:11:00Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-18T20:11:00Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Local-first prompt coach for Claude Code and Codex that improves prompts, observes prompting habits, and analyzes local ",
-    "id": "Myers0137/Prompt-sensei",
-    "language": "JavaScript",
-    "name": "Myers0137/Prompt-sensei",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:09:58Z",
-    "url": "https://github.com/Myers0137/Prompt-sensei"
-  },
-  {
-    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and",
-    "id": "Wolfgang7570/building-with-typesafe-jev",
-    "language": "Python",
-    "name": "Wolfgang7570/building-with-typesafe-jev",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:09:06Z",
-    "url": "https://github.com/Wolfgang7570/building-with-typesafe-jev"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-10-18T20:08:31Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
-    "id": "lowmason/agent-skills",
-    "language": "Python",
-    "name": "lowmason/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:08:08Z",
-    "url": "https://github.com/lowmason/agent-skills"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "ramirez64069/agent-starter-kit",
-    "language": "Shell",
-    "name": "ramirez64069/agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:07:42Z",
-    "url": "https://github.com/ramirez64069/agent-starter-kit"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-18T20:07:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Rails Engine with MCP compliant Spec.",
-    "id": "cMiller73/action_mcp",
-    "language": "Ruby",
-    "name": "cMiller73/action_mcp",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:07:21Z",
-    "url": "https://github.com/cMiller73/action_mcp"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 5084,
-    "updated_at": "2026-10-18T20:07:30Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Automatically completes the full workflow from requirement research \u2192 research review \u2192 planning \u2192 plan review \u2192 develop",
-    "id": "Leonie730/ai-auto-work",
-    "language": "Shell",
-    "name": "Leonie730/ai-auto-work",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:05:46Z",
-    "url": "https://github.com/Leonie730/ai-auto-work"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13619,
-    "updated_at": "2026-10-18T20:05:41Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "A Lean quality system for AI-assisted work \u2014 every defect becomes a permanent countermeasure. Built by a manufacturing o",
-    "id": "elizabethhughes729/Andon",
-    "language": "Python",
-    "name": "elizabethhughes729/Andon",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:05:38Z",
-    "url": "https://github.com/elizabethhughes729/Andon"
-  },
-  {
-    "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
-    "id": "tomoyajaworski4767/engramory",
-    "language": "Python",
-    "name": "tomoyajaworski4767/engramory",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:05:01Z",
-    "url": "https://github.com/tomoyajaworski4767/engramory"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 123,
-    "updated_at": "2026-10-18T20:04:44Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Agent Skill: break a page's copy into blocks and write a checked prompt and example for each",
-    "id": "Olexan-art/page-text-to-prompts",
-    "language": "JavaScript",
-    "name": "Olexan-art/page-text-to-prompts",
-    "stars": 2,
-    "updated_at": "2026-10-18T20:04:41Z",
-    "url": "https://github.com/Olexan-art/page-text-to-prompts"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:03:53Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "fontaine45621/awesome-claude-fable-5-prompt-vault",
-    "language": "JavaScript",
-    "name": "fontaine45621/awesome-claude-fable-5-prompt-vault",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:02:44Z",
-    "url": "https://github.com/fontaine45621/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "The Ultimate Claude Code Toolkit: 180 skills, 10 agents, 29 commands, 7 hooks, and 81 marketplace repos (11,000+ communi",
-    "id": "travisjneuman/.claude",
-    "language": "TypeScript",
-    "name": "travisjneuman/.claude",
-    "stars": 104,
-    "updated_at": "2026-10-18T20:02:21Z",
-    "url": "https://github.com/travisjneuman/.claude"
-  },
-  {
-    "description": "flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readab",
-    "id": "degroot7076/flompt",
-    "language": "TypeScript",
-    "name": "degroot7076/flompt",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:02:19Z",
-    "url": "https://github.com/degroot7076/flompt"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8f93\u5165\u63d2\u4ef6\u529f\u80fd\u589e\u5f3a",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 98,
-    "updated_at": "2026-10-18T20:02:03Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "sanjays3540/agent-starter-kit",
-    "language": "Shell",
-    "name": "sanjays3540/agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:01:32Z",
-    "url": "https://github.com/sanjays3540/agent-starter-kit"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T20:01:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
-    "id": "yadav715/engramory",
-    "language": "Python",
-    "name": "yadav715/engramory",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:01:14Z",
-    "url": "https://github.com/yadav715/engramory"
-  },
-  {
-    "description": "Avalia\u00e7\u00e3o de qualidade e seguran\u00e7a (Go/No-Go) da assistente virtual Lia (LLM) para a loja Pop & Doce. Projeto final do H",
-    "id": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
-    "language": "Python",
-    "name": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
-    "stars": 3,
-    "updated_at": "2026-10-18T20:01:00Z",
-    "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 9,
-    "updated_at": "2026-10-18T20:01:32Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T20:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "luciagray00/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "luciagray00/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:00:03Z",
-    "url": "https://github.com/luciagray00/rag-interview-system"
-  },
-  {
-    "description": "200 web animation examples with copy-ready AI prompts + MotionLens: turn any site's animation into a prompt. React, Type",
-    "id": "NatashaSon925/MotionVault",
-    "language": "TypeScript",
-    "name": "NatashaSon925/MotionVault",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:00:00Z",
-    "url": "https://github.com/NatashaSon925/MotionVault"
-  },
-  {
-    "description": "LLM \u0440\u0435\u0448\u0430\u044e\u0442 \u0437\u0430\u0434\u0430\u0447\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u043f\u043e \u043a\u043e\u0434\u0443. \u041f\u0440\u043e\u043c\u043f\u0442\u044b, \u043e\u0442\u0432\u0435\u0442\u044b \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u043e \u044d\u0442\u0430\u043b\u043e\u043d\u0443, \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043a \u0441\u0442\u0430\u0442\u044c\u0435 \u043d\u0430 \u0425\u0430\u0431\u0440\u0435. LLM ",
-    "id": "pavel-mlgn/system-analysis-with-llm",
-    "language": "Java",
-    "name": "pavel-mlgn/system-analysis-with-llm",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:59:56Z",
-    "url": "https://github.com/pavel-mlgn/system-analysis-with-llm"
-  },
-  {
-    "description": "A pure-Python context management layer for LLM systems \u2014 retrieval, re-ranking, memory decay, and token-budget enforceme",
-    "id": "taeyongf4300/context-engine",
-    "language": "Python",
-    "name": "taeyongf4300/context-engine",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:58:52Z",
-    "url": "https://github.com/taeyongf4300/context-engine"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-18T19:58:42Z",
-    "url": "https://github.com/gthgomez/Babel"
   }
 ]
