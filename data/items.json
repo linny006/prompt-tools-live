@@ -1,12 +1,84 @@
 [
   {
+    "description": "Turn-based grand strategy on a real-Earth hex map, against an LLM opponent you choose. Electron, TypeScript, and OpenRou",
+    "id": "michael-kitchin/agent-wars",
+    "language": "TypeScript",
+    "name": "michael-kitchin/agent-wars",
+    "stars": 2,
+    "updated_at": "2026-10-18T01:44:55Z",
+    "url": "https://github.com/michael-kitchin/agent-wars"
+  },
+  {
+    "description": "Engineering standards for people and the AI agents that write their code: RFC 2119 rules, pinned tool versions and agent",
+    "id": "agh/crefft",
+    "language": "Markdown",
+    "name": "agh/crefft",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:44:58Z",
+    "url": "https://github.com/agh/crefft"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-10-18T01:43:04Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
+    "id": "jaypetez/ideaforge",
+    "language": "JavaScript",
+    "name": "jaypetez/ideaforge",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:42:09Z",
+    "url": "https://github.com/jaypetez/ideaforge"
+  },
+  {
     "description": "Avalia\u00e7\u00e3o de qualidade e seguran\u00e7a (Go/No-Go) da assistente virtual Lia (LLM) para a loja Pop & Doce. Projeto final do H",
     "id": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
     "language": "\u2014",
     "name": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
     "stars": 3,
-    "updated_at": "2026-10-18T01:29:44Z",
+    "updated_at": "2026-10-18T01:37:20Z",
     "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 141,
+    "updated_at": "2026-10-18T01:37:15Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "\ud83c\udfad 277 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Claude Code/Cursor/Copilot \u7b49 20 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 64 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Qt \u4e0a",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 21331,
+    "updated_at": "2026-10-18T01:35:50Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:35:46Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T01:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 224,
-    "updated_at": "2026-10-18T01:29:52Z",
+    "updated_at": "2026-10-18T01:37:28Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T01:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -121,7 +184,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 166262,
+    "stars": 166266,
     "updated_at": "2026-10-18T01:05:16Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -203,7 +266,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-skills",
     "stars": 11,
-    "updated_at": "2026-10-18T01:12:01Z",
+    "updated_at": "2026-10-18T01:37:12Z",
     "url": "https://github.com/neomjs/neo-agent-skills"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Shell",
     "name": "cgfixit/ai-agent-instruction-templates",
     "stars": 1,
-    "updated_at": "2026-10-18T00:42:18Z",
+    "updated_at": "2026-10-18T01:33:16Z",
     "url": "https://github.com/cgfixit/ai-agent-instruction-templates"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T00:41:00Z",
     "url": "https://github.com/nuwa-skills/yuminhong-skill"
-  },
-  {
-    "description": "\u738b\u5065\u6797.skill \u2014 \u6562\u60f3\u6562\u505a/\u6267\u884c\u529b/\u76ee\u6807\u7ba1\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangjianlin-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangjianlin-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:56Z",
-    "url": "https://github.com/nuwa-skills/wangjianlin-skill"
-  },
-  {
-    "description": "\u738b\u592b\u4e4b.skill \u2014 \u5b9e\u5b66/\u7ecf\u4e16\u81f4\u7528/\u552f\u7269\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangfuzhi-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangfuzhi-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T00:40:48Z",
-    "url": "https://github.com/nuwa-skills/wangfuzhi-skill"
-  },
-  {
-    "description": "\u738b\u4f20\u798f.skill \u2014 \u5de5\u7a0b\u5e08\u7cbe\u795e/\u5782\u76f4\u6574\u5408/\u6280\u672f\u4e3a\u738b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangchuanfu-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangchuanfu-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:44Z",
-    "url": "https://github.com/nuwa-skills/wangchuanfu-skill"
-  },
-  {
-    "description": "\u82cf\u4e1c\u5761.skill \u2014 \u8c41\u8fbe/\u6587\u5b66/\u751f\u6d3b\u7f8e\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/sudongpo-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/sudongpo-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:36Z",
-    "url": "https://github.com/nuwa-skills/sudongpo-skill"
-  },
-  {
-    "description": "\u53f2\u7389\u67f1.skill \u2014 \u8425\u9500\u9b3c\u624d/\u4e1c\u5c71\u518d\u8d77/\u4eba\u6027\u6d1e\u5bdf\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/shiyuzhu-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/shiyuzhu-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:28Z",
-    "url": "https://github.com/nuwa-skills/shiyuzhu-skill"
-  },
-  {
-    "description": "\u674e\u5f66\u5b8f.skill \u2014 \u6280\u672f\u4fe1\u4ef0/\u641c\u7d22/AI\u8f6c\u578b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/liyanhong-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/liyanhong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:21Z",
-    "url": "https://github.com/nuwa-skills/liyanhong-skill"
-  },
-  {
-    "description": "\u5218\u6c38\u597d.skill \u2014 \u519c\u4e1a\u5e1d\u56fd/\u5bb6\u65cf\u4f20\u627f/\u987a\u52bf\u800c\u4e3a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/liuyonghao-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/liuyonghao-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:17Z",
-    "url": "https://github.com/nuwa-skills/liuyonghao-skill"
   }
 ]
