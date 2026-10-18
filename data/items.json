@@ -1,5 +1,68 @@
 [
   {
+    "description": "SunflowersLwtech's toolbox: Claude Code skills, agents, commands, and MCP servers in one plugin marketplace",
+    "id": "SunflowersLwtech/sunkit",
+    "language": "JavaScript",
+    "name": "SunflowersLwtech/sunkit",
+    "stars": 13,
+    "updated_at": "2026-10-18T23:29:19Z",
+    "url": "https://github.com/SunflowersLwtech/sunkit"
+  },
+  {
+    "description": "GoRi custom nodes for ComfyUI \u2014 camera-aware prompts for Qwen-Image 2.1 (full conditioning), KREA 2, MiniMax H3",
+    "id": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
+    "language": "Python",
+    "name": "kwonhyukdal/ComfyUI_GoRi_custom_nodes",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:27:30Z",
+    "url": "https://github.com/kwonhyukdal/ComfyUI_GoRi_custom_nodes"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36004,
+    "updated_at": "2026-10-18T23:27:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
+    "id": "ZhouYinLong-lab/OhMyStyle",
+    "language": "Python",
+    "name": "ZhouYinLong-lab/OhMyStyle",
+    "stars": 5,
+    "updated_at": "2026-10-18T23:26:32Z",
+    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
+  },
+  {
+    "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
+    "id": "bdchang403/AI_Software_Foundations",
+    "language": "Python",
+    "name": "bdchang403/AI_Software_Foundations",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:26:19Z",
+    "url": "https://github.com/bdchang403/AI_Software_Foundations"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:25:13Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T23:25:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "rxmna8502/vybe-intelligence-vault",
     "language": "\u2014",
@@ -32,7 +95,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-18T23:20:55Z",
+    "updated_at": "2026-10-18T23:28:25Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T23:20:54Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 5,
-    "updated_at": "2026-10-18T23:19:53Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
   },
   {
     "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T23:15:45Z",
     "url": "https://github.com/gascoigne-ai/gascoigne-cli"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T23:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A reusable foundation for AI projects: rules, agents, templates, and commands.",
@@ -225,15 +270,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36003,
-    "updated_at": "2026-10-18T22:59:36Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
     "id": "fysoul17/devlyn-cli",
     "language": "Python",
@@ -324,15 +360,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
-    "id": "lowmason/agent-skills",
-    "language": "Python",
-    "name": "lowmason/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:10:47Z",
-    "url": "https://github.com/lowmason/agent-skills"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 123,
     "updated_at": "2026-10-18T22:44:48Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:44:46Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Turn rough requests into clear coding-agent instructions. A Windows desktop app with cost guardrails for OpenAI, Anthrop",
-    "id": "xfaith4/PromptPilot",
-    "language": "PowerShell",
-    "name": "xfaith4/PromptPilot",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:41:28Z",
-    "url": "https://github.com/xfaith4/PromptPilot"
-  },
-  {
-    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
-    "id": "kalinichenko88/agent-skills",
-    "language": "Shell",
-    "name": "kalinichenko88/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:15:46Z",
-    "url": "https://github.com/kalinichenko88/agent-skills"
   }
 ]
