@@ -1,5 +1,23 @@
 [
   {
+    "description": "A curated, cross-referenced encyclopedia of 1100+ open-source agent skills (native languages kept) and 1600+ indexed ski",
+    "id": "findscripter/everything-skills",
+    "language": "JavaScript",
+    "name": "findscripter/everything-skills",
+    "stars": 5,
+    "updated_at": "2026-10-18T01:15:19Z",
+    "url": "https://github.com/findscripter/everything-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T01:14:21Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "terrylica/cc-skills",
     "stars": 0,
-    "updated_at": "2026-10-18T01:11:11Z",
+    "updated_at": "2026-10-18T01:14:42Z",
     "url": "https://github.com/terrylica/cc-skills"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T01:01:35Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T01:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -248,7 +257,7 @@
     "language": "JavaScript",
     "name": "enclave402/narrative-token-ssot",
     "stars": 0,
-    "updated_at": "2026-10-18T00:51:31Z",
+    "updated_at": "2026-10-18T01:14:43Z",
     "url": "https://github.com/enclave402/narrative-token-ssot"
   },
   {
@@ -270,7 +279,7 @@
     "url": "https://github.com/nuwa-skills/zongqinghou-skill"
   },
   {
-    "description": "",
+    "description": "\u6731\u71b9.skill \u2014 \u7406\u5b66/\u683c\u7269\u81f4\u77e5/\u8bfb\u4e66\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
     "id": "nuwa-skills/zhuxi-skill",
     "language": "\u2014",
     "name": "nuwa-skills/zhuxi-skill",
@@ -279,7 +288,7 @@
     "url": "https://github.com/nuwa-skills/zhuxi-skill"
   },
   {
-    "description": "",
+    "description": "\u8bf8\u845b\u4eae.skill \u2014 \u6218\u7565/\u8c0b\u7565/\u6cbb\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
     "id": "nuwa-skills/zhugeliang-skill",
     "language": "\u2014",
     "name": "nuwa-skills/zhugeliang-skill",
@@ -333,7 +342,7 @@
     "url": "https://github.com/nuwa-skills/wangjianlin-skill"
   },
   {
-    "description": "",
+    "description": "\u738b\u592b\u4e4b.skill \u2014 \u5b9e\u5b66/\u7ecf\u4e16\u81f4\u7528/\u552f\u7269\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
     "id": "nuwa-skills/wangfuzhi-skill",
     "language": "\u2014",
     "name": "nuwa-skills/wangfuzhi-skill",
@@ -351,7 +360,7 @@
     "url": "https://github.com/nuwa-skills/wangchuanfu-skill"
   },
   {
-    "description": "",
+    "description": "\u82cf\u4e1c\u5761.skill \u2014 \u8c41\u8fbe/\u6587\u5b66/\u751f\u6d3b\u7f8e\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
     "id": "nuwa-skills/sudongpo-skill",
     "language": "\u2014",
     "name": "nuwa-skills/sudongpo-skill",
@@ -405,7 +414,7 @@
     "url": "https://github.com/nuwa-skills/liangjianzhang-skill"
   },
   {
-    "description": "",
+    "description": "\u9b3c\u8c37\u5b50.skill \u2014 \u7eb5\u6a2a\u672f/\u8bf4\u670d\u672f/\u535a\u5f08\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
     "id": "nuwa-skills/guiguzi-skill",
     "language": "\u2014",
     "name": "nuwa-skills/guiguzi-skill",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T00:39:42Z",
     "url": "https://github.com/nuwa-skills/dinglei-skill"
-  },
-  {
-    "description": "",
-    "id": "nuwa-skills/caodewang-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/caodewang-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:39:37Z",
-    "url": "https://github.com/nuwa-skills/caodewang-skill"
   }
 ]

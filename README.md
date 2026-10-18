@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 01:14 UTC
+> ⏰ Last updated: 2026-10-18 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-10-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 2 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 0 | TypeScript | 2026-10-18 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 3 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 224 | TypeScript | 2026-10-18 | Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools  |
-| 4 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-10-18 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 5 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-18 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 166257 | JavaScript | 2026-10-18 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 7 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-10-18 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
-| 8 | [wousp112/awesome-justin-sun-ideas-to-ai-howto](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) | 152 | — | 2026-10-18 | 孙宇晨的观点，用 AI 落地。把两期访谈（邵艾伦 × 金明）的观点配成 23 篇 AI 实操教程和一键丢给 AI 的规划 prompt，附带时间戳全文和思维导图 |
-| 9 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-18 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 11 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-10-18 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 12 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 0 | HTML | 2026-10-18 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 13 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 1 | HTML | 2026-10-18 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 14 | [hampshirecottage-ai/ootk-thoth-engine](https://github.com/hampshirecottage-ai/ootk-thoth-engine) | 1 | Python | 2026-10-18 | Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres |
-| 15 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-10-18 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 16 | [neomjs/neo-agent-skills](https://github.com/neomjs/neo-agent-skills) | 11 | JavaScript | 2026-10-18 | Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination |
-| 17 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-10-18 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 18 | [lowmason/agent-skills](https://github.com/lowmason/agent-skills) | 0 | Python | 2026-10-18 | Portable AI agent skills and customization configs for Claude, Codex, and Gemini |
-| 19 | [Baimuking/AI-Jailbreak](https://github.com/Baimuking/AI-Jailbreak) | 7 | Python | 2026-10-18 | 全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt  |
-| 20 | [fernandofigueiredo-data/claude-prompt-engineer](https://github.com/fernandofigueiredo-data/claude-prompt-engineer) | 0 | Python | 2026-10-18 | Skill para Claude que transforma uma ideia vaga no prompt mais claro e executável: diagnóstico de lacunas e vieses, 7 ar |
-| 21 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 22 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 126 | HTML | 2026-10-18 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
-| 23 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-10-18 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
-| 24 | [ynewt/fine_tuning_llm_with_lora](https://github.com/ynewt/fine_tuning_llm_with_lora) | 0 | Python | 2026-10-18 | Fine-tuning Qwen2.5-0.5B with LoRA to extract organism/assay/sample size from biology methods sections, vs. zero/few-sho |
-| 25 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 123 | HTML | 2026-10-18 | Top 10 Claude Prompt Optimization Frameworks 2026 |
-| 26 | [fysoul17/devlyn-cli](https://github.com/fysoul17/devlyn-cli) | 1 | Python | 2026-10-18 | AI development toolkit for Claude Code — ideate, auto-resolve, and ship with context engineering and agent orchestration |
-| 27 | [zahiruddin586-cpu/ai-web-forge](https://github.com/zahiruddin586-cpu/ai-web-forge) | 68 | HTML | 2026-10-18 | AI Web Solutions and Python Automation Projects by Krish Sharma 2026 |
-| 28 | [enclave402/narrative-token-ssot](https://github.com/enclave402/narrative-token-ssot) | 0 | JavaScript | 2026-10-18 | Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an |
-| 29 | [cgfixit/ai-agent-instruction-templates](https://github.com/cgfixit/ai-agent-instruction-templates) | 1 | Shell | 2026-10-18 | Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents |
-| 30 | [nuwa-skills/zongqinghou-skill](https://github.com/nuwa-skills/zongqinghou-skill) | 0 | — | 2026-10-18 |  |
-| 31 | [nuwa-skills/zhuxi-skill](https://github.com/nuwa-skills/zhuxi-skill) | 0 | — | 2026-10-18 |  |
-| 32 | [nuwa-skills/zhugeliang-skill](https://github.com/nuwa-skills/zhugeliang-skill) | 0 | — | 2026-10-18 |  |
-| 33 | [CatsMansion/research-first](https://github.com/CatsMansion/research-first) | 0 | Python | 2026-10-18 | Do research with stopping criteria instead of vibes — five machine-checkable stopping criteria, six breadth axes, nine a |
-| 34 | [nuwa-skills/zhouhongyi-skill](https://github.com/nuwa-skills/zhouhongyi-skill) | 0 | — | 2026-10-18 |  |
-| 35 | [nuwa-skills/zhangxiaolong-skill](https://github.com/nuwa-skills/zhangxiaolong-skill) | 0 | — | 2026-10-18 |  |
-| 36 | [nuwa-skills/yuminhong-skill](https://github.com/nuwa-skills/yuminhong-skill) | 0 | — | 2026-10-18 |  |
-| 37 | [nuwa-skills/wangjianlin-skill](https://github.com/nuwa-skills/wangjianlin-skill) | 0 | — | 2026-10-18 |  |
-| 38 | [nuwa-skills/wangfuzhi-skill](https://github.com/nuwa-skills/wangfuzhi-skill) | 1 | — | 2026-10-18 |  |
-| 39 | [nuwa-skills/wangchuanfu-skill](https://github.com/nuwa-skills/wangchuanfu-skill) | 0 | — | 2026-10-18 |  |
-| 40 | [nuwa-skills/sudongpo-skill](https://github.com/nuwa-skills/sudongpo-skill) | 0 | — | 2026-10-18 |  |
-| 41 | [nuwa-skills/shiyuzhu-skill](https://github.com/nuwa-skills/shiyuzhu-skill) | 0 | — | 2026-10-18 |  |
-| 42 | [nuwa-skills/liyanhong-skill](https://github.com/nuwa-skills/liyanhong-skill) | 0 | — | 2026-10-18 |  |
-| 43 | [nuwa-skills/liuyonghao-skill](https://github.com/nuwa-skills/liuyonghao-skill) | 0 | — | 2026-10-18 |  |
-| 44 | [nuwa-skills/lishufu-skill](https://github.com/nuwa-skills/lishufu-skill) | 0 | — | 2026-10-18 |  |
-| 45 | [nuwa-skills/liangjianzhang-skill](https://github.com/nuwa-skills/liangjianzhang-skill) | 0 | — | 2026-10-18 |  |
-| 46 | [nuwa-skills/guiguzi-skill](https://github.com/nuwa-skills/guiguzi-skill) | 0 | — | 2026-10-18 |  |
-| 47 | [nuwa-skills/duanyongping-skill](https://github.com/nuwa-skills/duanyongping-skill) | 3 | — | 2026-10-18 |  |
-| 48 | [nuwa-skills/dongmingzhu-skill](https://github.com/nuwa-skills/dongmingzhu-skill) | 0 | — | 2026-10-18 |  |
-| 49 | [nuwa-skills/dinglei-skill](https://github.com/nuwa-skills/dinglei-skill) | 0 | — | 2026-10-18 |  |
-| 50 | [nuwa-skills/caodewang-skill](https://github.com/nuwa-skills/caodewang-skill) | 0 | — | 2026-10-18 |  |
+| 1 | [findscripter/everything-skills](https://github.com/findscripter/everything-skills) | 5 | JavaScript | 2026-10-18 | A curated, cross-referenced encyclopedia of 1100+ open-source agent skills (native languages kept) and 1600+ indexed ski |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-10-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 4 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 0 | TypeScript | 2026-10-18 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 5 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 224 | TypeScript | 2026-10-18 | Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools  |
+| 6 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-10-18 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 7 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-18 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 166257 | JavaScript | 2026-10-18 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 9 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-10-18 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
+| 10 | [wousp112/awesome-justin-sun-ideas-to-ai-howto](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) | 152 | — | 2026-10-18 | 孙宇晨的观点，用 AI 落地。把两期访谈（邵艾伦 × 金明）的观点配成 23 篇 AI 实操教程和一键丢给 AI 的规划 prompt，附带时间戳全文和思维导图 |
+| 11 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-18 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 12 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-10-18 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 13 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 0 | HTML | 2026-10-18 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 14 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 1 | HTML | 2026-10-18 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 15 | [hampshirecottage-ai/ootk-thoth-engine](https://github.com/hampshirecottage-ai/ootk-thoth-engine) | 1 | Python | 2026-10-18 | Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres |
+| 16 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-10-18 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 17 | [neomjs/neo-agent-skills](https://github.com/neomjs/neo-agent-skills) | 11 | JavaScript | 2026-10-18 | Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination |
+| 18 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-10-18 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 19 | [lowmason/agent-skills](https://github.com/lowmason/agent-skills) | 0 | Python | 2026-10-18 | Portable AI agent skills and customization configs for Claude, Codex, and Gemini |
+| 20 | [Baimuking/AI-Jailbreak](https://github.com/Baimuking/AI-Jailbreak) | 7 | Python | 2026-10-18 | 全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt  |
+| 21 | [fernandofigueiredo-data/claude-prompt-engineer](https://github.com/fernandofigueiredo-data/claude-prompt-engineer) | 0 | Python | 2026-10-18 | Skill para Claude que transforma uma ideia vaga no prompt mais claro e executável: diagnóstico de lacunas e vieses, 7 ar |
+| 22 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 23 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 126 | HTML | 2026-10-18 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
+| 24 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-10-18 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
+| 25 | [ynewt/fine_tuning_llm_with_lora](https://github.com/ynewt/fine_tuning_llm_with_lora) | 0 | Python | 2026-10-18 | Fine-tuning Qwen2.5-0.5B with LoRA to extract organism/assay/sample size from biology methods sections, vs. zero/few-sho |
+| 26 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 123 | HTML | 2026-10-18 | Top 10 Claude Prompt Optimization Frameworks 2026 |
+| 27 | [fysoul17/devlyn-cli](https://github.com/fysoul17/devlyn-cli) | 1 | Python | 2026-10-18 | AI development toolkit for Claude Code — ideate, auto-resolve, and ship with context engineering and agent orchestration |
+| 28 | [zahiruddin586-cpu/ai-web-forge](https://github.com/zahiruddin586-cpu/ai-web-forge) | 68 | HTML | 2026-10-18 | AI Web Solutions and Python Automation Projects by Krish Sharma 2026 |
+| 29 | [enclave402/narrative-token-ssot](https://github.com/enclave402/narrative-token-ssot) | 0 | JavaScript | 2026-10-18 | Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an |
+| 30 | [cgfixit/ai-agent-instruction-templates](https://github.com/cgfixit/ai-agent-instruction-templates) | 1 | Shell | 2026-10-18 | Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents |
+| 31 | [nuwa-skills/zongqinghou-skill](https://github.com/nuwa-skills/zongqinghou-skill) | 0 | — | 2026-10-18 |  |
+| 32 | [nuwa-skills/zhuxi-skill](https://github.com/nuwa-skills/zhuxi-skill) | 0 | — | 2026-10-18 | 朱熹.skill — 理学/格物致知/读书法的思维操作系统 |
+| 33 | [nuwa-skills/zhugeliang-skill](https://github.com/nuwa-skills/zhugeliang-skill) | 0 | — | 2026-10-18 | 诸葛亮.skill — 战略/谋略/治国的思维操作系统 |
+| 34 | [CatsMansion/research-first](https://github.com/CatsMansion/research-first) | 0 | Python | 2026-10-18 | Do research with stopping criteria instead of vibes — five machine-checkable stopping criteria, six breadth axes, nine a |
+| 35 | [nuwa-skills/zhouhongyi-skill](https://github.com/nuwa-skills/zhouhongyi-skill) | 0 | — | 2026-10-18 |  |
+| 36 | [nuwa-skills/zhangxiaolong-skill](https://github.com/nuwa-skills/zhangxiaolong-skill) | 0 | — | 2026-10-18 |  |
+| 37 | [nuwa-skills/yuminhong-skill](https://github.com/nuwa-skills/yuminhong-skill) | 0 | — | 2026-10-18 |  |
+| 38 | [nuwa-skills/wangjianlin-skill](https://github.com/nuwa-skills/wangjianlin-skill) | 0 | — | 2026-10-18 |  |
+| 39 | [nuwa-skills/wangfuzhi-skill](https://github.com/nuwa-skills/wangfuzhi-skill) | 1 | — | 2026-10-18 | 王夫之.skill — 实学/经世致用/唯物的思维操作系统 |
+| 40 | [nuwa-skills/wangchuanfu-skill](https://github.com/nuwa-skills/wangchuanfu-skill) | 0 | — | 2026-10-18 |  |
+| 41 | [nuwa-skills/sudongpo-skill](https://github.com/nuwa-skills/sudongpo-skill) | 0 | — | 2026-10-18 | 苏东坡.skill — 豁达/文学/生活美学的思维操作系统 |
+| 42 | [nuwa-skills/shiyuzhu-skill](https://github.com/nuwa-skills/shiyuzhu-skill) | 0 | — | 2026-10-18 |  |
+| 43 | [nuwa-skills/liyanhong-skill](https://github.com/nuwa-skills/liyanhong-skill) | 0 | — | 2026-10-18 |  |
+| 44 | [nuwa-skills/liuyonghao-skill](https://github.com/nuwa-skills/liuyonghao-skill) | 0 | — | 2026-10-18 |  |
+| 45 | [nuwa-skills/lishufu-skill](https://github.com/nuwa-skills/lishufu-skill) | 0 | — | 2026-10-18 |  |
+| 46 | [nuwa-skills/liangjianzhang-skill](https://github.com/nuwa-skills/liangjianzhang-skill) | 0 | — | 2026-10-18 |  |
+| 47 | [nuwa-skills/guiguzi-skill](https://github.com/nuwa-skills/guiguzi-skill) | 0 | — | 2026-10-18 | 鬼谷子.skill — 纵横术/说服术/博弈的思维操作系统 |
+| 48 | [nuwa-skills/duanyongping-skill](https://github.com/nuwa-skills/duanyongping-skill) | 3 | — | 2026-10-18 |  |
+| 49 | [nuwa-skills/dongmingzhu-skill](https://github.com/nuwa-skills/dongmingzhu-skill) | 0 | — | 2026-10-18 |  |
+| 50 | [nuwa-skills/dinglei-skill](https://github.com/nuwa-skills/dinglei-skill) | 0 | — | 2026-10-18 |  |
 <!-- TRACKER_TABLE_END -->
 
 ---
