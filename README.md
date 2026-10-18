@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 08:15 UTC
+> ⏰ Last updated: 2026-10-18 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 1 | TypeScript | 2026-10-18 | The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done. |
-| 2 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 5 | JavaScript | 2026-10-18 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
-| 3 | [stephen-taipei/intent-galaxy](https://github.com/stephen-taipei/intent-galaxy) | 0 | JavaScript | 2026-10-18 | 60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions |
-| 4 | [davidfernxndez/github-repository-rag](https://github.com/davidfernxndez/github-repository-rag) | 0 | Jupyter Notebook | 2026-10-18 |  Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries |
-| 5 | [Muizzkolapo/agent-actions](https://github.com/Muizzkolapo/agent-actions) | 8 | Python | 2026-10-18 | Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates. |
-| 6 | [martinffx/atelier](https://github.com/martinffx/atelier) | 47 | TypeScript | 2026-10-18 | An atelier for your Agent: spec-driven workflows, deep thinking, and code quality. |
-| 7 | [solid-ai-dev/solid-ai-templates](https://github.com/solid-ai-dev/solid-ai-templates) | 4 | Python | 2026-10-18 | Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates |
-| 8 | [SUDARSHANCHAUDHARI/Bonsai](https://github.com/SUDARSHANCHAUDHARI/Bonsai) | 3 | JavaScript | 2026-10-18 | Bonsai mode for AI agents — forces the smallest solution that works. YAGNI, stdlib first, no unrequested abstractions. C |
-| 9 | [FanBroWell/AI-paper-reviewer](https://github.com/FanBroWell/AI-paper-reviewer) | 45 | Python | 2026-10-18 | AI Paper Reviewer: LLM-based tool for academic paper review |
-| 10 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-10-18 | Claude Code plugin with four stages and hooks that refuse risky commands. |
-| 11 | [wildcat430524/Steps2Great-skill](https://github.com/wildcat430524/Steps2Great-skill) | 2 | JavaScript | 2026-10-18 | 把任何支持 Agent Skills 的 AI 变成一对一导师：Socratic 引导 + 掌握学习法，三维评估全 ✅ 才推进。An Agent Skill that turns any AI into a one-on-one Socra |
-| 12 | [wildcat430524/StepsToGreat](https://github.com/wildcat430524/StepsToGreat) | 2 | JavaScript | 2026-10-18 | 打开这个文件夹，就有一位一对一导师。A Markdown teaching protocol that turns any AI tool into a one-on-one tutor. |
-| 13 | [yckonnnnn/zack-design-skills](https://github.com/yckonnnnn/zack-design-skills) | 6 | Python | 2026-10-18 | 8 个设计技能 + 60 条可执行判断标准，专治网页「一眼就是 AI 做的」。装进 Claude Code / Cursor / Codex 即用。 |
-| 14 | [FanBroWell/simple-learning-prompts](https://github.com/FanBroWell/simple-learning-prompts) | 1 | Python | 2026-10-18 | 把题目丢给 AI，让它用大白话、生活例子和“为什么”，一直讲到你懂 \| Simple & sustainable AI learning prompts |
-| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35985 | TypeScript | 2026-10-18 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 16 | [roedyrustam/vibes-plug](https://github.com/roedyrustam/vibes-plug) | 77 | JavaScript | 2026-10-18 | ⚡ Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows |
-| 17 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13609 | TypeScript | 2026-10-18 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 18 | [timoncool/angry-switcher](https://github.com/timoncool/angry-switcher) | 2 | TypeScript | 2026-10-18 | Swear at Claude Code all you like. It reads the clean version: typos, translit, wrong keyboard layout, swearing and caps |
-| 19 | [zakk1024/ambition-harness](https://github.com/zakk1024/ambition-harness) | 0 | Python | 2026-10-18 | Prompt-compiler skill for AI agents: outcome goals, falsifiable verifiers, judge verdicts by someone other than the auth |
-| 20 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-18 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
-| 21 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-18 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 22 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 23 | [yair-zehavi/claude-code-skills](https://github.com/yair-zehavi/claude-code-skills) | 0 | Shell | 2026-10-18 | Claude Code skills from real marketing-operations work: report accuracy, Meta Ads API campaigns, WordPress incident resp |
-| 24 | [kwokwile/awesome-aigc-tools](https://github.com/kwokwile/awesome-aigc-tools) | 2 | TypeScript | 2026-10-18 | Bilingual, searchable radar for useful open-source AIGC creative tools. |
-| 25 | [hmmhmmhm/aligns.md](https://github.com/hmmhmmhm/aligns.md) | 3 | Python | 2026-10-18 | ALIGNS.md helps you and your AI agents share project goals, priorities, and judgment through a maintained alignment skil |
-| 26 | [HaiLanDuJun/PromptMag](https://github.com/HaiLanDuJun/PromptMag) | 1 | JavaScript | 2026-10-18 | PromptMag · 桌面提示词弹夹：多图强关联锚定、极速悬浮输入、全局快捷键光标粘贴与 CLI Agent 任务自动接力 |
-| 27 | [timoncool/prompt-warrior](https://github.com/timoncool/prompt-warrior) | 24 | Python | 2026-10-18 | Agent skill: your AI coding logs as a gamified character sheet — Claude Code, Codex, OpenCode, Gemini, Copilot. 74 achie |
-| 28 | [Aluxads/claude-skills](https://github.com/Aluxads/claude-skills) | 0 | JavaScript | 2026-10-18 | Free Claude skills for Claude Code: SEO, SERP teardown, autocomplete mining and marketing ops, by Aluxads, a B2B growth  |
-| 29 | [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) | 3726 | Python | 2026-10-18 | Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with |
-| 30 | [Miseat/northern-netizen-chat](https://github.com/Miseat/northern-netizen-chat) | 0 | Python | 2026-10-18 | 中文北方网友聊天风格 · Chat Style Skill：短句、脏话、归因降维，5.4 万条真实语料校准 |
-| 31 | [kesslernity/awesome-copilot-chat-agents](https://github.com/kesslernity/awesome-copilot-chat-agents) | 111 | — | 2026-10-18 | 82 ready-to-deploy agents for Microsoft Copilot Chat, no Copilot Premium required. Paste the instruction block into the  |
-| 32 | [plasmaflea/dsh-thinking-models](https://github.com/plasmaflea/dsh-thinking-models) | 0 | PowerShell | 2026-10-18 | 三种逻辑模型思维技能：林状分层分类回溯法 / 网状线索关联穷举法 / 经验公式质点代入法 |
-| 33 | [novanoticia/email-triage-plugin](https://github.com/novanoticia/email-triage-plugin) | 1 | Python | 2026-10-18 | Filtrado epistémico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu |
-| 34 | [sca-285/sd-webui-prompt-vault](https://github.com/sca-285/sd-webui-prompt-vault) | 1 | Python | 2026-10-18 | Searchable tag library, saved prompts, history and local AI (TIPO, Qwen-VL, WD14) for Stable Diffusion WebUI Forge. |
-| 35 | [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) | 96 | — | 2026-10-18 | An AI roleplay chat platform with the most advanced prompting system |
-| 36 | [123abc-123/useful-agent-skills](https://github.com/123abc-123/useful-agent-skills) | 0 | HTML | 2026-10-18 | Curated, auditable Agent Skills for algorithm engineers using Pi and OpenCode — training, evals, debugging, security and |
-| 37 | [velokey-ai/awesome-seedance-2.5-prompts](https://github.com/velokey-ai/awesome-seedance-2.5-prompts) | 3 | Python | 2026-10-18 | 🎬 Curated Seedance 2.5 video prompts with preview frames — auto-generated README, EN/中文 |
-| 38 | [mileson/task-handoff-skill](https://github.com/mileson/task-handoff-skill) | 0 | — | 2026-10-18 | A standalone Claude Code / Cursor skill for creating clean, executable handoff prompts. |
-| 39 | [mileson/prompt-benchmark-open-source](https://github.com/mileson/prompt-benchmark-open-source) | 0 | TypeScript | 2026-10-18 | Open-source teaching event tool for prompt collection and AI scoring |
-| 40 | [nanomia-ai/skill-rails](https://github.com/nanomia-ai/skill-rails) | 1 | JavaScript | 2026-10-18 | Build reliable, self-contained AI skills from natural-language source and executable scripts—with deterministic builds a |
-| 41 | [mrwogu/promptscript](https://github.com/mrwogu/promptscript) | 387 | TypeScript | 2026-10-18 | Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant. |
-| 42 | [carpentry-liu/awesome-astra-3d](https://github.com/carpentry-liu/awesome-astra-3d) | 16 | TypeScript | 2026-10-18 | Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. 中英文案例库 |
-| 43 | [hhuang91/tuningfork](https://github.com/hhuang91/tuningfork) | 0 | Python | 2026-10-18 | Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works — on local L |
-| 44 | [gyr0byte/Generative-AI](https://github.com/gyr0byte/Generative-AI) | 0 | Python | 2026-10-18 | Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine |
-| 45 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 113343 | Go | 2026-10-18 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l |
-| 46 | [velokey-ai/awesome-seedream-5.0-pro-prompts](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts) | 3 | Python | 2026-10-18 | 🎨 Curated Seedream 5.0 Pro prompts with previews — auto-generated README, EN/中文 |
-| 47 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-10-18 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
-| 48 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 0 | HTML | 2026-10-18 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
-| 49 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 1 | HTML | 2026-10-18 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
-| 50 | [kambleakash0/agent-skills](https://github.com/kambleakash0/agent-skills) | 10 | Python | 2026-10-18 | A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assi |
+| 1 | [imagineVid/Awesome-muse-image-prompts-and-skills](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills) | 3 | TypeScript | 2026-10-18 | Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual  |
+| 2 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-10-18 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 3 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 5 | JavaScript | 2026-10-18 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
+| 4 | [najeebjb724-star/ppt-supervisor](https://github.com/najeebjb724-star/ppt-supervisor) | 0 | — | 2026-10-18 | WorkBuddy expert 猫猫来做PPT — five-phase PPT SOP with hard gates: it won't let you start making slides until your logic is  |
+| 5 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 0 | TypeScript | 2026-10-18 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 6 | [Shreyash3007/aegis](https://github.com/Shreyash3007/aegis) | 0 | JavaScript | 2026-10-18 | The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle,  |
+| 7 | [stephen-taipei/intent-galaxy](https://github.com/stephen-taipei/intent-galaxy) | 0 | JavaScript | 2026-10-18 | 60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions |
+| 8 | [JjByteX/project-foundation](https://github.com/JjByteX/project-foundation) | 1 | — | 2026-10-18 | A starter kit of rules and structure for building projects with AI. |
+| 9 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 61 | TypeScript | 2026-10-18 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
+| 10 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 25 | TypeScript | 2026-10-18 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
+| 11 | [tertiarycourses/IES-GenAI-for-Engineers](https://github.com/tertiarycourses/IES-GenAI-for-Engineers) | 0 | Python | 2026-10-18 | IES Academy GenAI for Engineers v2.3 - one-day hands-on Microsoft 365 Copilot course: 12 connected water-maintenance lab |
+| 12 | [hivecommons/promptargs](https://github.com/hivecommons/promptargs) | 3 | TypeScript | 2026-10-18 | Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more |
+| 13 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-10-18 | Claude Code plugin with four stages and hooks that refuse risky commands. |
+| 14 | [nuwa-skills/zhugeliang-skill](https://github.com/nuwa-skills/zhugeliang-skill) | 0 | — | 2026-10-18 | 诸葛亮.skill — 战略/谋略/治国的思维操作系统 |
+| 15 | [nuwa-skills/zongqinghou-skill](https://github.com/nuwa-skills/zongqinghou-skill) | 0 | — | 2026-10-18 | 宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统 |
+| 16 | [nuwa-skills/zhuxi-skill](https://github.com/nuwa-skills/zhuxi-skill) | 0 | — | 2026-10-18 | 朱熹.skill — 理学/格物致知/读书法的思维操作系统 |
+| 17 | [nuwa-skills/zhuangzi-skill](https://github.com/nuwa-skills/zhuangzi-skill) | 1 | — | 2026-10-18 | 庄子.skill — 逍遥游/齐物论/寓言哲学的思维操作系统 |
+| 18 | [nuwa-skills/zhouhongyi-skill](https://github.com/nuwa-skills/zhouhongyi-skill) | 0 | — | 2026-10-18 | 周鸿祎.skill — 安全/红衣教主/颠覆式创新的思维操作系统 |
+| 19 | [nuwa-skills/zhangxue-skill](https://github.com/nuwa-skills/zhangxue-skill) | 0 | — | 2026-10-18 | 张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。 |
+| 20 | [nuwa-skills/zhangyiming-skill](https://github.com/nuwa-skills/zhangyiming-skill) | 1 | — | 2026-10-18 | 张一鸣.skill — 延迟满足/算法思维/全球化的思维操作系统 |
+| 21 | [nuwa-skills/zhangjuzheng-skill](https://github.com/nuwa-skills/zhangjuzheng-skill) | 0 | — | 2026-10-18 | 张居正.skill — 改革/执行力/制度设计的思维操作系统 |
+| 22 | [nuwa-skills/zengguofan-skill](https://github.com/nuwa-skills/zengguofan-skill) | 3 | — | 2026-10-18 | 曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统 |
+| 23 | [nuwa-skills/yangzhenning-skill](https://github.com/nuwa-skills/yangzhenning-skill) | 0 | — | 2026-10-18 | 杨振宁.skill — 物理之美/科学品味/对称性的思维操作系统 |
+| 24 | [nuwa-skills/zhangxiaolong-skill](https://github.com/nuwa-skills/zhangxiaolong-skill) | 0 | — | 2026-10-18 | 张小龙.skill — 极简产品/克制/用完即走的思维操作系统 |
+| 25 | [nuwa-skills/yuminhong-skill](https://github.com/nuwa-skills/yuminhong-skill) | 0 | — | 2026-10-18 | 俞敏洪.skill — 教育创业/逆境重生/从绝望中寻找希望的思维操作系统 |
+| 26 | [nuwa-skills/wujun-skill](https://github.com/nuwa-skills/wujun-skill) | 1 | — | 2026-10-18 | 吴军.skill — 文明之光/信息论思维/格局/见识的思维操作系统 |
+| 27 | [nuwa-skills/xunzi-skill](https://github.com/nuwa-skills/xunzi-skill) | 0 | — | 2026-10-18 | 荀子.skill — 性恶论/礼法并重/教化的思维操作系统 |
+| 28 | [nuwa-skills/wittgenstein-skill](https://github.com/nuwa-skills/wittgenstein-skill) | 0 | — | 2026-10-18 | 维特根斯坦.skill — 语言哲学/逻辑/沉默的思维操作系统 |
+| 29 | [nuwa-skills/welch-skill](https://github.com/nuwa-skills/welch-skill) | 1 | — | 2026-10-18 | 杰克·韦尔奇.skill — 数一数二/活力曲线/变革的思维操作系统 |
+| 30 | [nuwa-skills/webb-skill](https://github.com/nuwa-skills/webb-skill) | 0 | — | 2026-10-18 | 詹姆斯·韦伯.skill — NASA管理/阿波罗计划/科学行政的思维操作系统 |
+| 31 | [nuwa-skills/sunzi-skill](https://github.com/nuwa-skills/sunzi-skill) | 3 | — | 2026-10-18 | 孙子.skill — 兵法/战略思维/博弈论的思维操作系统 |
+| 32 | [nuwa-skills/wangyangming-skill](https://github.com/nuwa-skills/wangyangming-skill) | 25 | — | 2026-10-18 | 王阳明.skill — 知行合一/心学/决策哲学的思维操作系统 |
+| 33 | [nuwa-skills/wangxing-skill](https://github.com/nuwa-skills/wangxing-skill) | 0 | — | 2026-10-18 | 王兴.skill — 无边界/后发制人/长期主义的思维操作系统 |
+| 34 | [nuwa-skills/wangjianlin-skill](https://github.com/nuwa-skills/wangjianlin-skill) | 0 | — | 2026-10-18 | 王健林.skill — 敢想敢做/执行力/目标管理的思维操作系统 |
+| 35 | [nuwa-skills/wangxiaobo-skill](https://github.com/nuwa-skills/wangxiaobo-skill) | 5 | — | 2026-10-18 | 王小波.skill — 自由/理性/黑色幽默的思维操作系统 |
+| 36 | [nuwa-skills/wangfuzhi-skill](https://github.com/nuwa-skills/wangfuzhi-skill) | 1 | — | 2026-10-18 | 王夫之.skill — 实学/经世致用/唯物的思维操作系统 |
+| 37 | [nuwa-skills/schumpeter-skill](https://github.com/nuwa-skills/schumpeter-skill) | 0 | — | 2026-10-18 | 熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统 |
+| 38 | [nuwa-skills/wangchuanfu-skill](https://github.com/nuwa-skills/wangchuanfu-skill) | 0 | — | 2026-10-18 | 王传福.skill — 工程师精神/垂直整合/技术为王的思维操作系统 |
+| 39 | [nuwa-skills/walton-skill](https://github.com/nuwa-skills/walton-skill) | 0 | — | 2026-10-18 | 山姆·沃尔顿.skill — 零售/节约/规模效应的思维操作系统 |
+| 40 | [nuwa-skills/turing-skill](https://github.com/nuwa-skills/turing-skill) | 1 | — | 2026-10-18 | 图灵.skill — 计算思维/人工智能/密码学的思维操作系统 |
+| 41 | [nuwa-skills/vonneumann-skill](https://github.com/nuwa-skills/vonneumann-skill) | 2 | — | 2026-10-18 | 冯·诺依曼.skill — 博弈论/计算架构/跨学科的思维操作系统 |
+| 42 | [nuwa-skills/torvalds-skill](https://github.com/nuwa-skills/torvalds-skill) | 0 | — | 2026-10-18 | 林纳斯·托瓦兹.skill — 开源/工程美学/务实的思维操作系统 |
+| 43 | [nuwa-skills/tolstoy-skill](https://github.com/nuwa-skills/tolstoy-skill) | 0 | — | 2026-10-18 | 托尔斯泰.skill — 人性/道德/史诗叙事的思维操作系统 |
+| 44 | [nuwa-skills/thiel-skill](https://github.com/nuwa-skills/thiel-skill) | 0 | — | 2026-10-18 | 彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统 |
+| 45 | [nuwa-skills/taoxingzhi-skill](https://github.com/nuwa-skills/taoxingzhi-skill) | 0 | — | 2026-10-18 | 陶行知.skill — 生活教育/教学做合一/乡村的思维操作系统 |
+| 46 | [nuwa-skills/thichnhathanh-skill](https://github.com/nuwa-skills/thichnhathanh-skill) | 1 | — | 2026-10-18 | 一行禅师.skill — 正念/当下/和平的思维操作系统 |
+| 47 | [nuwa-skills/tesla-skill](https://github.com/nuwa-skills/tesla-skill) | 0 | — | 2026-10-18 | 特斯拉.skill — 发明/想象力/交流电思维的思维操作系统 |
+| 48 | [nuwa-skills/plato-skill](https://github.com/nuwa-skills/plato-skill) | 0 | — | 2026-10-18 | 柏拉图.skill — 理念论/哲学对话/理想国的思维操作系统 |
+| 49 | [nuwa-skills/suzukitoshio-skill](https://github.com/nuwa-skills/suzukitoshio-skill) | 0 | — | 2026-10-18 | 铃木敏夫.skill — 吉卜力制作人/商业与艺术平衡的思维操作系统 |
+| 50 | [nuwa-skills/suzukitoshifumi-skill](https://github.com/nuwa-skills/suzukitoshifumi-skill) | 0 | — | 2026-10-18 | 铃木敏文.skill — 7-Eleven/单品管理/假设验证的思维操作系统 |
 <!-- TRACKER_TABLE_END -->
 
 ---
