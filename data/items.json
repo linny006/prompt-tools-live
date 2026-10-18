@@ -1,12 +1,156 @@
 [
   {
+    "description": "\ud83c\udfad 277 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Claude Code/Cursor/Copilot \u7b49 20 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 64 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Qt \u4e0a",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 21346,
+    "updated_at": "2026-10-18T22:28:21Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "A prompt enhancer that learns from you: enhance and feedback over MCP",
+    "id": "Egoushka/whetstone",
+    "language": "C#",
+    "name": "Egoushka/whetstone",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:27:57Z",
+    "url": "https://github.com/Egoushka/whetstone"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:26:37Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
+    "id": "ZhouYinLong-lab/OhMyStyle",
+    "language": "Python",
+    "name": "ZhouYinLong-lab/OhMyStyle",
+    "stars": 5,
+    "updated_at": "2026-10-18T22:25:33Z",
+    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
+  },
+  {
+    "description": "Bash CLI that turns LLM Markdown answers into real project files: extracts code blocks from ChatGPT, Claude, Gemini or D",
+    "id": "paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures",
+    "language": "Shell",
+    "name": "paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures",
+    "stars": 2,
+    "updated_at": "2026-10-18T22:24:25Z",
+    "url": "https://github.com/paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:25:41Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
+    "language": "Python",
+    "name": "kzndotsh/companion",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:22:22Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
+    "id": "rustyorb/SillyTavern-CreativeStudio",
+    "language": "JavaScript",
+    "name": "rustyorb/SillyTavern-CreativeStudio",
+    "stars": 7,
+    "updated_at": "2026-10-18T22:21:01Z",
+    "url": "https://github.com/rustyorb/SillyTavern-CreativeStudio"
+  },
+  {
+    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:20:13Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
+  },
+  {
+    "description": "Examples of prompts for Microsoft Copilot",
+    "id": "pnp/copilot-prompts",
+    "language": "Astro",
+    "name": "pnp/copilot-prompts",
+    "stars": 895,
+    "updated_at": "2026-10-18T22:18:21Z",
+    "url": "https://github.com/pnp/copilot-prompts"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-18T22:18:09Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Engineering standards for people and the AI agents that write their code: RFC 2119 rules, pinned tool versions and agent",
+    "id": "agh/crefft",
+    "language": "Markdown",
+    "name": "agh/crefft",
+    "stars": 3,
+    "updated_at": "2026-10-18T22:18:00Z",
+    "url": "https://github.com/agh/crefft"
+  },
+  {
     "description": "Text (ascii, markdown, code) based Database(less) to create books, CMS, JIRAs, code,...:  Just tag your markdown or code",
     "id": "earizon/wise_books",
     "language": "JavaScript",
     "name": "earizon/wise_books",
     "stars": 6,
-    "updated_at": "2026-10-18T22:14:18Z",
+    "updated_at": "2026-10-18T22:16:25Z",
     "url": "https://github.com/earizon/wise_books"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-10-18T22:16:37Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 8,
+    "updated_at": "2026-10-18T22:16:23Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T22:15:41Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T22:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -16,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T22:13:33Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "A prompt enhancer that learns from you: enhance and feedback over MCP",
-    "id": "Egoushka/whetstone",
-    "language": "C#",
-    "name": "Egoushka/whetstone",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:13:39Z",
-    "url": "https://github.com/Egoushka/whetstone"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 5,
-    "updated_at": "2026-10-18T22:11:25Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -162,15 +288,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Examples of prompts for Microsoft Copilot",
-    "id": "pnp/copilot-prompts",
-    "language": "Astro",
-    "name": "pnp/copilot-prompts",
-    "stars": 895,
-    "updated_at": "2026-10-18T22:04:34Z",
-    "url": "https://github.com/pnp/copilot-prompts"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -189,12 +306,21 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2374,
+    "updated_at": "2026-10-18T22:03:11Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 12,
-    "updated_at": "2026-10-18T22:03:00Z",
+    "updated_at": "2026-10-18T22:23:42Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -207,15 +333,6 @@
     "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2373,
-    "updated_at": "2026-10-18T22:03:11Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assi",
     "id": "kambleakash0/agent-skills",
     "language": "Python",
@@ -225,24 +342,6 @@
     "url": "https://github.com/kambleakash0/agent-skills"
   },
   {
-    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
-    "id": "kalinichenko88/agent-skills",
-    "language": "Shell",
-    "name": "kalinichenko88/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:13:58Z",
-    "url": "https://github.com/kalinichenko88/agent-skills"
-  },
-  {
-    "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
-    "id": "rustyorb/SillyTavern-CreativeStudio",
-    "language": "JavaScript",
-    "name": "rustyorb/SillyTavern-CreativeStudio",
-    "stars": 7,
-    "updated_at": "2026-10-18T22:07:26Z",
-    "url": "https://github.com/rustyorb/SillyTavern-CreativeStudio"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -250,24 +349,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T22:01:36Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T22:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Bash CLI that turns LLM Markdown answers into real project files: extracts code blocks from ChatGPT, Claude, Gemini or D",
-    "id": "paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures",
-    "language": "Shell",
-    "name": "paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures",
-    "stars": 2,
-    "updated_at": "2026-10-18T22:01:42Z",
-    "url": "https://github.com/paulmann/1st-Launch-Projects-Code-from-LLM-Responses-in-Markdown-into-Actual-File-Structures"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -304,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T21:58:54Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:58:46Z",
-    "url": "https://github.com/kzndotsh/companion"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T21:49:02Z",
     "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
-    "id": "hmoses/poly-glot-ai-workspace",
-    "language": "JavaScript",
-    "name": "hmoses/poly-glot-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:48:38Z",
-    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
-  },
-  {
-    "description": "Privacy-first web tools for developers: JWT decoder, regex tester, JSON formatter, passphrase generator, calculators, an",
-    "id": "hdudic/bytetools.io",
-    "language": "\u2014",
-    "name": "hdudic/bytetools.io",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:46:51Z",
-    "url": "https://github.com/hdudic/bytetools.io"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:45:36Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 50,
-    "updated_at": "2026-10-18T21:44:25Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an",
-    "id": "enclave402/narrative-token-ssot",
-    "language": "JavaScript",
-    "name": "enclave402/narrative-token-ssot",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:47:54Z",
-    "url": "https://github.com/enclave402/narrative-token-ssot"
-  },
-  {
-    "description": "Multimodal LLM research for misinformation detection \u2014 dynamic few-shot prompting, evidence fusion, classical ML baselin",
-    "id": "mahdinass/FakeTT-Multimodal-LLM-Research",
-    "language": "Python",
-    "name": "mahdinass/FakeTT-Multimodal-LLM-Research",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:38:29Z",
-    "url": "https://github.com/mahdinass/FakeTT-Multimodal-LLM-Research"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:36:47Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Agent skill that raises a task to its more ambitious version, delivers it, and proves the result with an outside judge (",
-    "id": "linkxzhou/ambition-loop",
-    "language": "Python",
-    "name": "linkxzhou/ambition-loop",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:36:17Z",
-    "url": "https://github.com/linkxzhou/ambition-loop"
   }
 ]
