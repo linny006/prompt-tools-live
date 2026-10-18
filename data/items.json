@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agent Skills for AI that connect to verifiable facts \u2014 8 cognitive skills (built from classic books) + 6 industry skills",
+    "id": "Trustbaselab/trustbase-skills",
+    "language": "\u2014",
+    "name": "Trustbaselab/trustbase-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:45:25Z",
+    "url": "https://github.com/Trustbaselab/trustbase-skills"
+  },
+  {
+    "description": "Agent Skill: turn novels/stories into character-consistent AI comic dramas \u2014 script, storyboard, prompts, image & video ",
+    "id": "ayase0307/ai-comic-drama",
+    "language": "Python",
+    "name": "ayase0307/ai-comic-drama",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:44:05Z",
+    "url": "https://github.com/ayase0307/ai-comic-drama"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:44:00Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes",
+    "id": "ReSerendipity/ComfyUI-BatchPromptLoader",
+    "language": "Python",
+    "name": "ReSerendipity/ComfyUI-BatchPromptLoader",
+    "stars": 2,
+    "updated_at": "2026-10-18T13:43:26Z",
+    "url": "https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-10-18T13:42:24Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T13:42:10Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A reusable Claude Code agent team: orchestrator + subagents, cost ledger, hooks, and hire/retire/retro skills.",
     "id": "exaltedo2/agent-crew",
     "language": "PowerShell",
@@ -27,15 +81,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Version-controlled catalog of Dryvist LLM prompts",
-    "id": "dryvist/ai-llm-prompts",
-    "language": "Nix",
-    "name": "dryvist/ai-llm-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:41:55Z",
-    "url": "https://github.com/dryvist/ai-llm-prompts"
-  },
-  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
@@ -52,6 +97,15 @@
     "stars": 6195,
     "updated_at": "2026-10-18T13:40:23Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "\ud83c\udf0c Open-source Vistella toolkit, prompt recipes & agent skills \u2014 Online AI image generation & editing at vistella.xyz",
+    "id": "Ethon1130/vistella",
+    "language": "\u2014",
+    "name": "Ethon1130/vistella",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:38:48Z",
+    "url": "https://github.com/Ethon1130/vistella"
   },
   {
     "description": "A reusable, framework-agnostic starter template for AI coding agents, featuring development rules, requirements manageme",
@@ -153,15 +207,6 @@
     "url": "https://github.com/AthenDrakomin-hub/agent-skills"
   },
   {
-    "description": "Agent Skills for AI that connect to verifiable facts \u2014 8 cognitive skills (built from classic books) + 6 industry skills",
-    "id": "Trustbaselab/trustbase-skills",
-    "language": "\u2014",
-    "name": "Trustbaselab/trustbase-skills",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:33:27Z",
-    "url": "https://github.com/Trustbaselab/trustbase-skills"
-  },
-  {
     "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
     "id": "Thanatos9404/llmslim",
     "language": "Python",
@@ -214,15 +259,6 @@
     "stars": 24,
     "updated_at": "2026-10-18T13:38:27Z",
     "url": "https://github.com/Y1X1n/dsh-prompt-optimizer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T13:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Rails Engine with MCP compliant Spec.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:15:48Z",
     "url": "https://github.com/LuciferDono/persona"
-  },
-  {
-    "description": "ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes",
-    "id": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "language": "Python",
-    "name": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "stars": 2,
-    "updated_at": "2026-10-18T13:41:51Z",
-    "url": "https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader"
-  },
-  {
-    "description": "The foundation layer for agentic intelligence.",
-    "id": "promptise-com/Foundry",
-    "language": "Python",
-    "name": "promptise-com/Foundry",
-    "stars": 874,
-    "updated_at": "2026-10-18T13:36:18Z",
-    "url": "https://github.com/promptise-com/Foundry"
-  },
-  {
-    "description": "Regression tests for prompts: cases with deterministic checks, repeated runs, a baseline that fails the build when a pas",
-    "id": "ErenOzgu/prompt-regression",
-    "language": "Python",
-    "name": "ErenOzgu/prompt-regression",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:14:13Z",
-    "url": "https://github.com/ErenOzgu/prompt-regression"
-  },
-  {
-    "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
-    "id": "Coolhand-Labs/coolhand-ruby",
-    "language": "Ruby",
-    "name": "Coolhand-Labs/coolhand-ruby",
-    "stars": 10,
-    "updated_at": "2026-10-18T13:24:09Z",
-    "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
   }
 ]
