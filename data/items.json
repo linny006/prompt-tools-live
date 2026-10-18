@@ -1,12 +1,165 @@
 [
   {
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
+    "language": "Python",
+    "name": "kzndotsh/companion",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:30:07Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:30:02Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
+    "id": "ZhouYinLong-lab/OhMyStyle",
+    "language": "Python",
+    "name": "ZhouYinLong-lab/OhMyStyle",
+    "stars": 5,
+    "updated_at": "2026-10-18T17:29:53Z",
+    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
+  },
+  {
+    "description": "Refine multilingual text into clearer English prompts. A macOS app with selection actions, plus a browser workspace and ",
+    "id": "JERMYSUEN/promptfinch",
+    "language": "Swift",
+    "name": "JERMYSUEN/promptfinch",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:26:37Z",
+    "url": "https://github.com/JERMYSUEN/promptfinch"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:25:20Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
+    "description": "\u4e2d\u6587\u7f51\u6587\u4ece\u9009\u9898\u5230\u6210\u7a3f\u7684\u6d41\u6c34\u7ebf Skill\uff1a\u516d\u6b65\u4e3b\u5e72 + \u4eba\u5de5\u786e\u8ba4\u95e8 + 16 \u4e2a\u8d28\u68c0\u811a\u672c\uff08AI Agent Skills \u5305\uff09",
+    "id": "Holz-ops/xiaoshuo-gongzliu",
+    "language": "Python",
+    "name": "Holz-ops/xiaoshuo-gongzliu",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:24:27Z",
+    "url": "https://github.com/Holz-ops/xiaoshuo-gongzliu"
+  },
+  {
+    "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
+    "id": "bhaskarjha-dev/genai-notes",
+    "language": "PowerShell",
+    "name": "bhaskarjha-dev/genai-notes",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:24:25Z",
+    "url": "https://github.com/bhaskarjha-dev/genai-notes"
+  },
+  {
+    "description": "\u7ed9 DeepSeek Harness \u7528\u7684\u89d2\u8272\u626e\u6f14\u63d0\u793a\u8bcd\u6539\u5199\u63d2\u4ef6\uff1a\u5728\u8f93\u5165\u6846\u9009\u4e00\u5f20\u89d2\u8272\u5361\uff0c\u8349\u7a3f\u5c31\u4f1a\u7531 harness \u7684\u6a21\u578b\u6539\u5199\u6210\u8be5\u89d2\u8272\u7684\u53e3\u543b\uff08\u8ddf\u968f\u5f53\u524d\u4f1a\u8bdd\u6b63\u5728\u4f7f\u7528\u7684\u6a21\u578b\uff09\uff0c\u7136\u540e\u76f4\u63a5\u53d1\u51fa\u6216\u5148\u4eba\u5de5\u5ba1\u67e5\u3002\u96f6\u4f9d\u8d56\u3001\u96f6\u6784\u5efa\u3002",
+    "id": "sugarmaster666/dsh-persona-forge",
+    "language": "JavaScript",
+    "name": "sugarmaster666/dsh-persona-forge",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:24:09Z",
+    "url": "https://github.com/sugarmaster666/dsh-persona-forge"
+  },
+  {
+    "description": "Inertia-Drift-Framework (DMF): file-based governance for LLM-assisted development. Invariants, registers, and the inerti",
+    "id": "buntas-tofu/Inertia-Drift-Framework",
+    "language": "Python",
+    "name": "buntas-tofu/Inertia-Drift-Framework",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:21:59Z",
+    "url": "https://github.com/buntas-tofu/Inertia-Drift-Framework"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 83,
+    "updated_at": "2026-10-18T17:21:02Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
+  },
+  {
+    "description": "A 50-line agent skill that makes AI deliver finished work in the way that's easiest for the user.",
+    "id": "wy1040489623-tech/last-mile",
+    "language": "\u2014",
+    "name": "wy1040489623-tech/last-mile",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:20:07Z",
+    "url": "https://github.com/wy1040489623-tech/last-mile"
+  },
+  {
     "description": "AI apps development in LangChain & LangGraph - tutorial notebooks",
     "id": "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph",
     "language": "Jupyter Notebook",
     "name": "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph",
     "stars": 12,
-    "updated_at": "2026-10-18T17:15:05Z",
+    "updated_at": "2026-10-18T17:19:50Z",
     "url": "https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph"
+  },
+  {
+    "description": "Open-source prompt launcher: press \u2303Q, type a short command, and a parameterized prompt lands in any app. Rust core, nat",
+    "id": "NekroAI/qantrip",
+    "language": "Rust",
+    "name": "NekroAI/qantrip",
+    "stars": 5,
+    "updated_at": "2026-10-18T17:18:51Z",
+    "url": "https://github.com/NekroAI/qantrip"
+  },
+  {
+    "description": "\uc218\ub178(Suno)\uc6a9 \ud55c\uad6d\uc5b4 \uc791\uc0ac Claude \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 \uac00\uc0ac\uc640 Style\u00b7Exclude\u00b7Title\uc744 \uc7a5\ub974\uc5d0 \ub9de\ucdb0 \ud568\uaed8 \uc124\uacc4 (v3.0, CC BY 4.0)",
+    "id": "previtlab/suno-lyrics-skill",
+    "language": "\u2014",
+    "name": "previtlab/suno-lyrics-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:16:44Z",
+    "url": "https://github.com/previtlab/suno-lyrics-skill"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:16:16Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:16:01Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:15:23Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
@@ -16,15 +169,6 @@
     "stars": 738,
     "updated_at": "2026-10-18T17:15:09Z",
     "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Refine multilingual text into clearer English prompts. A macOS app with selection actions, plus a browser workspace and ",
-    "id": "JERMYSUEN/promptfinch",
-    "language": "Swift",
-    "name": "JERMYSUEN/promptfinch",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:14:21Z",
-    "url": "https://github.com/JERMYSUEN/promptfinch"
   },
   {
     "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
@@ -43,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:12:32Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 5,
-    "updated_at": "2026-10-18T17:12:31Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
   },
   {
     "description": "Spec-driven governance for AI coding agents. A CLI installs AGENTS.md and on-demand skills, so Claude Code, Cursor, Copi",
@@ -77,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35997,
-    "updated_at": "2026-10-18T17:11:09Z",
+    "updated_at": "2026-10-18T17:23:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -115,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:08:55Z",
     "url": "https://github.com/sonwe1e/ambitious-prompt"
-  },
-  {
-    "description": "\uc218\ub178(Suno)\uc6a9 \ud55c\uad6d\uc5b4 \uc791\uc0ac Claude \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 \uac00\uc0ac\uc640 Style\u00b7Exclude\u00b7Title\uc744 \uc7a5\ub974\uc5d0 \ub9de\ucdb0 \ud568\uaed8 \uc124\uacc4 (v3.0, CC BY 4.0)",
-    "id": "previtlab/suno-lyrics-skill",
-    "language": "\u2014",
-    "name": "previtlab/suno-lyrics-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:08:44Z",
-    "url": "https://github.com/previtlab/suno-lyrics-skill"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -185,7 +311,7 @@
     "language": "Python",
     "name": "Mullassery/PyContextFold",
     "stars": 0,
-    "updated_at": "2026-10-18T17:01:58Z",
+    "updated_at": "2026-10-18T17:28:28Z",
     "url": "https://github.com/Mullassery/PyContextFold"
   },
   {
@@ -196,15 +322,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T17:01:27Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-18T17:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "German B1 writing tutor built entirely by directing a coding agent. Spec-driven, self-verifying, zero hand-written code",
@@ -293,7 +410,7 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-10-18T16:52:04Z",
+    "updated_at": "2026-10-18T17:20:29Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
@@ -324,24 +441,6 @@
     "url": "https://github.com/58fly/dsh-language-guard"
   },
   {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:46:23Z",
-    "url": "https://github.com/kzndotsh/companion"
-  },
-  {
-    "description": "Open-source prompt launcher: press \u2303Q, type a short command, and a parameterized prompt lands in any app. Rust core, nat",
-    "id": "NekroAI/qantrip",
-    "language": "Rust",
-    "name": "NekroAI/qantrip",
-    "stars": 5,
-    "updated_at": "2026-10-18T16:45:30Z",
-    "url": "https://github.com/NekroAI/qantrip"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
@@ -349,104 +448,5 @@
     "stars": 3880,
     "updated_at": "2026-10-18T16:43:32Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 148,
-    "updated_at": "2026-10-18T16:42:31Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "\u26a1 High-performance linter, cache-layout optimizer, and garbage collector for AI agent instruction files (AGENTS.md, CLAU",
-    "id": "ronitgupta138/Agent-MemGC",
-    "language": "Rust",
-    "name": "ronitgupta138/Agent-MemGC",
-    "stars": 2,
-    "updated_at": "2026-10-18T16:41:16Z",
-    "url": "https://github.com/ronitgupta138/Agent-MemGC"
-  },
-  {
-    "description": "Reusable agents, skills, and prompts for AI-assisted development, maintenance, and troubleshooting.",
-    "id": "pranayagarwal90/ai-engineering-toolkit",
-    "language": "Python",
-    "name": "pranayagarwal90/ai-engineering-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:54:19Z",
-    "url": "https://github.com/pranayagarwal90/ai-engineering-toolkit"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-18T16:38:59Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 54,
-    "updated_at": "2026-10-18T17:04:02Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:37:28Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:10:23Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:37:03Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:36:01Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
-    "id": "StephenQiu30/glowloom-server",
-    "language": "Go",
-    "name": "StephenQiu30/glowloom-server",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:32:47Z",
-    "url": "https://github.com/StephenQiu30/glowloom-server"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-18T16:32:34Z",
-    "url": "https://github.com/zorcec/vibeflow"
   }
 ]
