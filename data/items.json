@@ -1,12 +1,39 @@
 [
   {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
     "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:29:50Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:45:14Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Open-source prompt launcher: press \u2303Q, type a short command, and a parameterized prompt lands in any app. Rust core, nat",
+    "id": "NekroAI/qantrip",
+    "language": "Rust",
+    "name": "NekroAI/qantrip",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:44:42Z",
+    "url": "https://github.com/NekroAI/qantrip"
+  },
+  {
+    "description": "An Intelligent Cloud Security Posture Assessment and Threat Detection Platform for AWS Environments.",
+    "id": "ayushkp930/CloudSentinel",
+    "language": "Python",
+    "name": "ayushkp930/CloudSentinel",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:44:03Z",
+    "url": "https://github.com/ayushkp930/CloudSentinel"
+  },
+  {
+    "description": "\u4e01\u78ca.skill \u2014 \u4ea7\u54c1\u54c1\u5473/\u6162\u516c\u53f8/\u4e0d\u8ddf\u98ce\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/dinglei-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/dinglei-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:41Z",
+    "url": "https://github.com/nuwa-skills/dinglei-skill"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -14,107 +41,26 @@
     "language": "Python",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-10-18T08:28:27Z",
+    "updated_at": "2026-10-18T08:42:38Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 5,
-    "updated_at": "2026-10-18T08:27:01Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
-  },
-  {
-    "description": "WorkBuddy expert \u732b\u732b\u6765\u505aPPT \u2014 five-phase PPT SOP with hard gates: it won't let you start making slides until your logic is ",
-    "id": "najeebjb724-star/ppt-supervisor",
+    "description": "\u5f20\u96ea.skill \u2014 \u5f20\u96ea\u673a\u8f66\u521b\u59cb\u4eba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf\u30025\u4e2a\u6838\u5fc3\u5fc3\u667a\u6a21\u578b\u30018\u6761\u51b3\u7b56\u542f\u53d1\u5f0f\u548c\u5b8c\u6574\u8868\u8fbeDNA\u3002",
+    "id": "nuwa-skills/zhangxue-skill",
     "language": "\u2014",
-    "name": "najeebjb724-star/ppt-supervisor",
+    "name": "nuwa-skills/zhangxue-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:26:59Z",
-    "url": "https://github.com/najeebjb724-star/ppt-supervisor"
+    "updated_at": "2026-10-18T08:42:16Z",
+    "url": "https://github.com/nuwa-skills/zhangxue-skill"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:26:20Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
-    "id": "Shreyash3007/aegis",
-    "language": "JavaScript",
-    "name": "Shreyash3007/aegis",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:19Z",
-    "url": "https://github.com/Shreyash3007/aegis"
-  },
-  {
-    "description": "60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions",
-    "id": "stephen-taipei/intent-galaxy",
-    "language": "JavaScript",
-    "name": "stephen-taipei/intent-galaxy",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:25:00Z",
-    "url": "https://github.com/stephen-taipei/intent-galaxy"
-  },
-  {
-    "description": "A starter kit of rules and structure for building projects with AI.",
-    "id": "JjByteX/project-foundation",
+    "description": "\u6731\u71b9.skill \u2014 \u7406\u5b66/\u683c\u7269\u81f4\u77e5/\u8bfb\u4e66\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhuxi-skill",
     "language": "\u2014",
-    "name": "JjByteX/project-foundation",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:24:45Z",
-    "url": "https://github.com/JjByteX/project-foundation"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 61,
-    "updated_at": "2026-10-18T08:22:49Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-10-18T08:22:26Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "IES Academy GenAI for Engineers v2.3 - one-day hands-on Microsoft 365 Copilot course: 12 connected water-maintenance lab",
-    "id": "tertiarycourses/IES-GenAI-for-Engineers",
-    "language": "Python",
-    "name": "tertiarycourses/IES-GenAI-for-Engineers",
+    "name": "nuwa-skills/zhuxi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:22:10Z",
-    "url": "https://github.com/tertiarycourses/IES-GenAI-for-Engineers"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:21:41Z",
-    "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:21:21Z",
-    "url": "https://github.com/blauwtje/exo"
+    "updated_at": "2026-10-18T08:42:08Z",
+    "url": "https://github.com/nuwa-skills/zhuxi-skill"
   },
   {
     "description": "\u8bf8\u845b\u4eae.skill \u2014 \u6218\u7565/\u8c0b\u7565/\u6cbb\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -122,7 +68,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/zhugeliang-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
+    "updated_at": "2026-10-18T08:42:07Z",
     "url": "https://github.com/nuwa-skills/zhugeliang-skill"
   },
   {
@@ -131,17 +77,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/zongqinghou-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
+    "updated_at": "2026-10-18T08:42:07Z",
     "url": "https://github.com/nuwa-skills/zongqinghou-skill"
-  },
-  {
-    "description": "\u6731\u71b9.skill \u2014 \u7406\u5b66/\u683c\u7269\u81f4\u77e5/\u8bfb\u4e66\u6cd5\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhuxi-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhuxi-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:14Z",
-    "url": "https://github.com/nuwa-skills/zhuxi-skill"
   },
   {
     "description": "\u5e84\u5b50.skill \u2014 \u900d\u9065\u6e38/\u9f50\u7269\u8bba/\u5bd3\u8a00\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -149,53 +86,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/zhuangzi-skill",
     "stars": 1,
-    "updated_at": "2026-10-18T08:19:13Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/zhuangzi-skill"
-  },
-  {
-    "description": "\u5468\u9e3f\u794e.skill \u2014 \u5b89\u5168/\u7ea2\u8863\u6559\u4e3b/\u98a0\u8986\u5f0f\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhouhongyi-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhouhongyi-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:13Z",
-    "url": "https://github.com/nuwa-skills/zhouhongyi-skill"
-  },
-  {
-    "description": "\u5f20\u96ea.skill \u2014 \u5f20\u96ea\u673a\u8f66\u521b\u59cb\u4eba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf\u30025\u4e2a\u6838\u5fc3\u5fc3\u667a\u6a21\u578b\u30018\u6761\u51b3\u7b56\u542f\u53d1\u5f0f\u548c\u5b8c\u6574\u8868\u8fbeDNA\u3002",
-    "id": "nuwa-skills/zhangxue-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangxue-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:12Z",
-    "url": "https://github.com/nuwa-skills/zhangxue-skill"
-  },
-  {
-    "description": "\u5f20\u4e00\u9e23.skill \u2014 \u5ef6\u8fdf\u6ee1\u8db3/\u7b97\u6cd5\u601d\u7ef4/\u5168\u7403\u5316\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangyiming-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangyiming-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:12Z",
-    "url": "https://github.com/nuwa-skills/zhangyiming-skill"
-  },
-  {
-    "description": "\u5f20\u5c45\u6b63.skill \u2014 \u6539\u9769/\u6267\u884c\u529b/\u5236\u5ea6\u8bbe\u8ba1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangjuzheng-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangjuzheng-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:11Z",
-    "url": "https://github.com/nuwa-skills/zhangjuzheng-skill"
-  },
-  {
-    "description": "\u66fe\u56fd\u85e9.skill \u2014 \u81ea\u6211\u7ba1\u7406/\u9886\u5bfc\u529b/\u9006\u5883\u7a81\u56f4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zengguofan-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zengguofan-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/zengguofan-skill"
   },
   {
     "description": "\u6768\u632f\u5b81.skill \u2014 \u7269\u7406\u4e4b\u7f8e/\u79d1\u5b66\u54c1\u5473/\u5bf9\u79f0\u6027\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -203,35 +95,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/yangzhenning-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/yangzhenning-skill"
-  },
-  {
-    "description": "\u5f20\u5c0f\u9f99.skill \u2014 \u6781\u7b80\u4ea7\u54c1/\u514b\u5236/\u7528\u5b8c\u5373\u8d70\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/zhangxiaolong-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/zhangxiaolong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/zhangxiaolong-skill"
-  },
-  {
-    "description": "\u4fde\u654f\u6d2a.skill \u2014 \u6559\u80b2\u521b\u4e1a/\u9006\u5883\u91cd\u751f/\u4ece\u7edd\u671b\u4e2d\u5bfb\u627e\u5e0c\u671b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/yuminhong-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/yuminhong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:10Z",
-    "url": "https://github.com/nuwa-skills/yuminhong-skill"
-  },
-  {
-    "description": "\u5434\u519b.skill \u2014 \u6587\u660e\u4e4b\u5149/\u4fe1\u606f\u8bba\u601d\u7ef4/\u683c\u5c40/\u89c1\u8bc6\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wujun-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wujun-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:09Z",
-    "url": "https://github.com/nuwa-skills/wujun-skill"
   },
   {
     "description": "\u8340\u5b50.skill \u2014 \u6027\u6076\u8bba/\u793c\u6cd5\u5e76\u91cd/\u6559\u5316\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -239,62 +104,35 @@
     "language": "\u2014",
     "name": "nuwa-skills/xunzi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:09Z",
+    "updated_at": "2026-10-18T08:42:06Z",
     "url": "https://github.com/nuwa-skills/xunzi-skill"
   },
   {
-    "description": "\u7ef4\u7279\u6839\u65af\u5766.skill \u2014 \u8bed\u8a00\u54f2\u5b66/\u903b\u8f91/\u6c89\u9ed8\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wittgenstein-skill",
+    "description": "\u5468\u9e3f\u794e.skill \u2014 \u5b89\u5168/\u7ea2\u8863\u6559\u4e3b/\u98a0\u8986\u5f0f\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhouhongyi-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/wittgenstein-skill",
+    "name": "nuwa-skills/zhouhongyi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:08Z",
-    "url": "https://github.com/nuwa-skills/wittgenstein-skill"
+    "updated_at": "2026-10-18T08:42:05Z",
+    "url": "https://github.com/nuwa-skills/zhouhongyi-skill"
   },
   {
-    "description": "\u6770\u514b\u00b7\u97e6\u5c14\u5947.skill \u2014 \u6570\u4e00\u6570\u4e8c/\u6d3b\u529b\u66f2\u7ebf/\u53d8\u9769\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/welch-skill",
+    "description": "\u5f20\u5c0f\u9f99.skill \u2014 \u6781\u7b80\u4ea7\u54c1/\u514b\u5236/\u7528\u5b8c\u5373\u8d70\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhangxiaolong-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/welch-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:07Z",
-    "url": "https://github.com/nuwa-skills/welch-skill"
-  },
-  {
-    "description": "\u8a79\u59c6\u65af\u00b7\u97e6\u4f2f.skill \u2014 NASA\u7ba1\u7406/\u963f\u6ce2\u7f57\u8ba1\u5212/\u79d1\u5b66\u884c\u653f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/webb-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/webb-skill",
+    "name": "nuwa-skills/zhangxiaolong-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:07Z",
-    "url": "https://github.com/nuwa-skills/webb-skill"
+    "updated_at": "2026-10-18T08:42:04Z",
+    "url": "https://github.com/nuwa-skills/zhangxiaolong-skill"
   },
   {
-    "description": "\u5b59\u5b50.skill \u2014 \u5175\u6cd5/\u6218\u7565\u601d\u7ef4/\u535a\u5f08\u8bba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/sunzi-skill",
+    "description": "\u5f20\u5c45\u6b63.skill \u2014 \u6539\u9769/\u6267\u884c\u529b/\u5236\u5ea6\u8bbe\u8ba1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zhangjuzheng-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/sunzi-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/sunzi-skill"
-  },
-  {
-    "description": "\u738b\u9633\u660e.skill \u2014 \u77e5\u884c\u5408\u4e00/\u5fc3\u5b66/\u51b3\u7b56\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangyangming-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangyangming-skill",
-    "stars": 25,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/wangyangming-skill"
-  },
-  {
-    "description": "\u738b\u5174.skill \u2014 \u65e0\u8fb9\u754c/\u540e\u53d1\u5236\u4eba/\u957f\u671f\u4e3b\u4e49\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/wangxing-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/wangxing-skill",
+    "name": "nuwa-skills/zhangjuzheng-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:06Z",
-    "url": "https://github.com/nuwa-skills/wangxing-skill"
+    "updated_at": "2026-10-18T08:42:03Z",
+    "url": "https://github.com/nuwa-skills/zhangjuzheng-skill"
   },
   {
     "description": "\u738b\u5065\u6797.skill \u2014 \u6562\u60f3\u6562\u505a/\u6267\u884c\u529b/\u76ee\u6807\u7ba1\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -302,7 +140,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangjianlin-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:05Z",
+    "updated_at": "2026-10-18T08:42:01Z",
     "url": "https://github.com/nuwa-skills/wangjianlin-skill"
   },
   {
@@ -311,8 +149,71 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangxiaobo-skill",
     "stars": 5,
-    "updated_at": "2026-10-18T08:19:05Z",
+    "updated_at": "2026-10-18T08:42:01Z",
     "url": "https://github.com/nuwa-skills/wangxiaobo-skill"
+  },
+  {
+    "description": "\u66fe\u56fd\u85e9.skill \u2014 \u81ea\u6211\u7ba1\u7406/\u9886\u5bfc\u529b/\u9006\u5883\u7a81\u56f4\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/zengguofan-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/zengguofan-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:42:01Z",
+    "url": "https://github.com/nuwa-skills/zengguofan-skill"
+  },
+  {
+    "description": "\u4fde\u654f\u6d2a.skill \u2014 \u6559\u80b2\u521b\u4e1a/\u9006\u5883\u91cd\u751f/\u4ece\u7edd\u671b\u4e2d\u5bfb\u627e\u5e0c\u671b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/yuminhong-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/yuminhong-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:42:00Z",
+    "url": "https://github.com/nuwa-skills/yuminhong-skill"
+  },
+  {
+    "description": "\u5434\u519b.skill \u2014 \u6587\u660e\u4e4b\u5149/\u4fe1\u606f\u8bba\u601d\u7ef4/\u683c\u5c40/\u89c1\u8bc6\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wujun-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wujun-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:59Z",
+    "url": "https://github.com/nuwa-skills/wujun-skill"
+  },
+  {
+    "description": "\u51af\u00b7\u8bfa\u4f9d\u66fc.skill \u2014 \u535a\u5f08\u8bba/\u8ba1\u7b97\u67b6\u6784/\u8de8\u5b66\u79d1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/vonneumann-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/vonneumann-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:57Z",
+    "url": "https://github.com/nuwa-skills/vonneumann-skill"
+  },
+  {
+    "description": "\u7ef4\u7279\u6839\u65af\u5766.skill \u2014 \u8bed\u8a00\u54f2\u5b66/\u903b\u8f91/\u6c89\u9ed8\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wittgenstein-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wittgenstein-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:57Z",
+    "url": "https://github.com/nuwa-skills/wittgenstein-skill"
+  },
+  {
+    "description": "\u738b\u9633\u660e.skill \u2014 \u77e5\u884c\u5408\u4e00/\u5fc3\u5b66/\u51b3\u7b56\u54f2\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wangyangming-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wangyangming-skill",
+    "stars": 25,
+    "updated_at": "2026-10-18T08:41:56Z",
+    "url": "https://github.com/nuwa-skills/wangyangming-skill"
+  },
+  {
+    "description": "\u738b\u5174.skill \u2014 \u65e0\u8fb9\u754c/\u540e\u53d1\u5236\u4eba/\u957f\u671f\u4e3b\u4e49\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/wangxing-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/wangxing-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:56Z",
+    "url": "https://github.com/nuwa-skills/wangxing-skill"
   },
   {
     "description": "\u738b\u592b\u4e4b.skill \u2014 \u5b9e\u5b66/\u7ecf\u4e16\u81f4\u7528/\u552f\u7269\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -320,17 +221,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangfuzhi-skill",
     "stars": 1,
-    "updated_at": "2026-10-18T08:19:04Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/wangfuzhi-skill"
-  },
-  {
-    "description": "\u718a\u5f7c\u7279.skill \u2014 \u521b\u9020\u6027\u7834\u574f/\u4f01\u4e1a\u5bb6\u7cbe\u795e/\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/schumpeter-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/schumpeter-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
-    "url": "https://github.com/nuwa-skills/schumpeter-skill"
   },
   {
     "description": "\u738b\u4f20\u798f.skill \u2014 \u5de5\u7a0b\u5e08\u7cbe\u795e/\u5782\u76f4\u6574\u5408/\u6280\u672f\u4e3a\u738b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -338,7 +230,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/wangchuanfu-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/wangchuanfu-skill"
   },
   {
@@ -347,44 +239,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/walton-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:19:03Z",
+    "updated_at": "2026-10-18T08:41:53Z",
     "url": "https://github.com/nuwa-skills/walton-skill"
-  },
-  {
-    "description": "\u56fe\u7075.skill \u2014 \u8ba1\u7b97\u601d\u7ef4/\u4eba\u5de5\u667a\u80fd/\u5bc6\u7801\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/turing-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/turing-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:19:02Z",
-    "url": "https://github.com/nuwa-skills/turing-skill"
-  },
-  {
-    "description": "\u51af\u00b7\u8bfa\u4f9d\u66fc.skill \u2014 \u535a\u5f08\u8bba/\u8ba1\u7b97\u67b6\u6784/\u8de8\u5b66\u79d1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/vonneumann-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/vonneumann-skill",
-    "stars": 2,
-    "updated_at": "2026-10-18T08:19:02Z",
-    "url": "https://github.com/nuwa-skills/vonneumann-skill"
-  },
-  {
-    "description": "\u6797\u7eb3\u65af\u00b7\u6258\u74e6\u5179.skill \u2014 \u5f00\u6e90/\u5de5\u7a0b\u7f8e\u5b66/\u52a1\u5b9e\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/torvalds-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/torvalds-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:01Z",
-    "url": "https://github.com/nuwa-skills/torvalds-skill"
-  },
-  {
-    "description": "\u6258\u5c14\u65af\u6cf0.skill \u2014 \u4eba\u6027/\u9053\u5fb7/\u53f2\u8bd7\u53d9\u4e8b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/tolstoy-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/tolstoy-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:19:01Z",
-    "url": "https://github.com/nuwa-skills/tolstoy-skill"
   },
   {
     "description": "\u5f7c\u5f97\u00b7\u8482\u5c14.skill \u2014 \u4ece0\u52301/\u5784\u65ad/\u9006\u5411\u601d\u8003\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -392,8 +248,26 @@
     "language": "\u2014",
     "name": "nuwa-skills/thiel-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:59Z",
+    "updated_at": "2026-10-18T08:41:52Z",
     "url": "https://github.com/nuwa-skills/thiel-skill"
+  },
+  {
+    "description": "\u56fe\u7075.skill \u2014 \u8ba1\u7b97\u601d\u7ef4/\u4eba\u5de5\u667a\u80fd/\u5bc6\u7801\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/turing-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/turing-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:52Z",
+    "url": "https://github.com/nuwa-skills/turing-skill"
+  },
+  {
+    "description": "\u6797\u7eb3\u65af\u00b7\u6258\u74e6\u5179.skill \u2014 \u5f00\u6e90/\u5de5\u7a0b\u7f8e\u5b66/\u52a1\u5b9e\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/torvalds-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/torvalds-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:51Z",
+    "url": "https://github.com/nuwa-skills/torvalds-skill"
   },
   {
     "description": "\u9676\u884c\u77e5.skill \u2014 \u751f\u6d3b\u6559\u80b2/\u6559\u5b66\u505a\u5408\u4e00/\u4e61\u6751\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -401,8 +275,62 @@
     "language": "\u2014",
     "name": "nuwa-skills/taoxingzhi-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:58Z",
+    "updated_at": "2026-10-18T08:41:51Z",
     "url": "https://github.com/nuwa-skills/taoxingzhi-skill"
+  },
+  {
+    "description": "\u5b59\u5b50.skill \u2014 \u5175\u6cd5/\u6218\u7565\u601d\u7ef4/\u535a\u5f08\u8bba\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/sunzi-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/sunzi-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/sunzi-skill"
+  },
+  {
+    "description": "\u94c3\u6728\u654f\u6587.skill \u2014 7-Eleven/\u5355\u54c1\u7ba1\u7406/\u5047\u8bbe\u9a8c\u8bc1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/suzukitoshifumi-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/suzukitoshifumi-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/suzukitoshifumi-skill"
+  },
+  {
+    "description": "\u6258\u5c14\u65af\u6cf0.skill \u2014 \u4eba\u6027/\u9053\u5fb7/\u53f2\u8bd7\u53d9\u4e8b\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/tolstoy-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/tolstoy-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:50Z",
+    "url": "https://github.com/nuwa-skills/tolstoy-skill"
+  },
+  {
+    "description": "\u94c3\u6728\u4fca\u9686.skill \u2014 \u7985\u8005\u7684\u521d\u5fc3/\u5f53\u4e0b/\u7a7a\u676f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/suzuki-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/suzuki-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:49Z",
+    "url": "https://github.com/nuwa-skills/suzuki-skill"
+  },
+  {
+    "description": "\u82cf\u4e1c\u5761.skill \u2014 \u8c41\u8fbe/\u6587\u5b66/\u751f\u6d3b\u7f8e\u5b66\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/sudongpo-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/sudongpo-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:49Z",
+    "url": "https://github.com/nuwa-skills/sudongpo-skill"
+  },
+  {
+    "description": "\u65af\u8482\u82ac\u00b7\u91d1.skill \u2014 \u5199\u4f5c/\u7eaa\u5f8b/\u6050\u60e7\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/stephenking-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/stephenking-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:47Z",
+    "url": "https://github.com/nuwa-skills/stephenking-skill"
   },
   {
     "description": "\u4e00\u884c\u7985\u5e08.skill \u2014 \u6b63\u5ff5/\u5f53\u4e0b/\u548c\u5e73\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -410,7 +338,7 @@
     "language": "\u2014",
     "name": "nuwa-skills/thichnhathanh-skill",
     "stars": 1,
-    "updated_at": "2026-10-18T08:18:58Z",
+    "updated_at": "2026-10-18T08:41:46Z",
     "url": "https://github.com/nuwa-skills/thichnhathanh-skill"
   },
   {
@@ -419,17 +347,8 @@
     "language": "\u2014",
     "name": "nuwa-skills/tesla-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:57Z",
+    "updated_at": "2026-10-18T08:41:43Z",
     "url": "https://github.com/nuwa-skills/tesla-skill"
-  },
-  {
-    "description": "\u67cf\u62c9\u56fe.skill \u2014 \u7406\u5ff5\u8bba/\u54f2\u5b66\u5bf9\u8bdd/\u7406\u60f3\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/plato-skill",
-    "language": "\u2014",
-    "name": "nuwa-skills/plato-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:18:57Z",
-    "url": "https://github.com/nuwa-skills/plato-skill"
   },
   {
     "description": "\u94c3\u6728\u654f\u592b.skill \u2014 \u5409\u535c\u529b\u5236\u4f5c\u4eba/\u5546\u4e1a\u4e0e\u827a\u672f\u5e73\u8861\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
@@ -437,16 +356,97 @@
     "language": "\u2014",
     "name": "nuwa-skills/suzukitoshio-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:55Z",
+    "updated_at": "2026-10-18T08:41:43Z",
     "url": "https://github.com/nuwa-skills/suzukitoshio-skill"
   },
   {
-    "description": "\u94c3\u6728\u654f\u6587.skill \u2014 7-Eleven/\u5355\u54c1\u7ba1\u7406/\u5047\u8bbe\u9a8c\u8bc1\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
-    "id": "nuwa-skills/suzukitoshifumi-skill",
+    "description": "\u7d22\u7f57\u65af.skill \u2014 \u53cd\u8eab\u6027/\u91d1\u878d\u54f2\u5b66/\u5f00\u653e\u793e\u4f1a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/soros-skill",
     "language": "\u2014",
-    "name": "nuwa-skills/suzukitoshifumi-skill",
+    "name": "nuwa-skills/soros-skill",
+    "stars": 2,
+    "updated_at": "2026-10-18T08:41:40Z",
+    "url": "https://github.com/nuwa-skills/soros-skill"
+  },
+  {
+    "description": "\u82cf\u683c\u62c9\u5e95.skill \u2014 \u63d0\u95ee\u672f/\u6279\u5224\u6027\u601d\u7ef4/\u8ba4\u77e5\u8c26\u900a\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/socrates-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/socrates-skill",
+    "stars": 14,
+    "updated_at": "2026-10-18T08:41:40Z",
+    "url": "https://github.com/nuwa-skills/socrates-skill"
+  },
+  {
+    "description": "\u53f2\u7389\u67f1.skill \u2014 \u8425\u9500\u9b3c\u624d/\u4e1c\u5c71\u518d\u8d77/\u4eba\u6027\u6d1e\u5bdf\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/shiyuzhu-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/shiyuzhu-skill",
     "stars": 0,
-    "updated_at": "2026-10-18T08:18:54Z",
-    "url": "https://github.com/nuwa-skills/suzukitoshifumi-skill"
+    "updated_at": "2026-10-18T08:41:39Z",
+    "url": "https://github.com/nuwa-skills/shiyuzhu-skill"
+  },
+  {
+    "description": "\u9999\u519c.skill \u2014 \u4fe1\u606f\u8bba/\u5316\u7e41\u4e3a\u7b80/\u521b\u9020\u6027\u73a9\u800d\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/shannon-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/shannon-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:39Z",
+    "url": "https://github.com/nuwa-skills/shannon-skill"
+  },
+  {
+    "description": "\u718a\u5f7c\u7279.skill \u2014 \u521b\u9020\u6027\u7834\u574f/\u4f01\u4e1a\u5bb6\u7cbe\u795e/\u521b\u65b0\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/schumpeter-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/schumpeter-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/schumpeter-skill"
+  },
+  {
+    "description": "\u53d4\u672c\u534e.skill \u2014 \u610f\u5fd7/\u60b2\u89c2\u4e3b\u4e49/\u5ba1\u7f8e\u89e3\u8131\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/schopenhauer-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/schopenhauer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/schopenhauer-skill"
+  },
+  {
+    "description": "\u585e\u6d85\u5361.skill \u2014 \u65af\u591a\u845b/\u4e66\u4fe1/\u65f6\u95f4\u7ba1\u7406\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/seneca-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/seneca-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:41:38Z",
+    "url": "https://github.com/nuwa-skills/seneca-skill"
+  },
+  {
+    "description": "\u67cf\u62c9\u56fe.skill \u2014 \u7406\u5ff5\u8bba/\u54f2\u5b66\u5bf9\u8bdd/\u7406\u60f3\u56fd\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/plato-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/plato-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/plato-skill"
+  },
+  {
+    "description": "\u4efb\u6b63\u975e.skill \u2014 \u7070\u5ea6\u7ba1\u7406/\u72fc\u6027/\u81ea\u6211\u6279\u5224\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/renzhengfei-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/renzhengfei-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/renzhengfei-skill"
+  },
+  {
+    "description": "\u94b1\u949f\u4e66.skill \u2014 \u535a\u5b66/\u8bbd\u523a/\u5b66\u672f\u7684\u601d\u7ef4\u64cd\u4f5c\u7cfb\u7edf",
+    "id": "nuwa-skills/qianzhongshu-skill",
+    "language": "\u2014",
+    "name": "nuwa-skills/qianzhongshu-skill",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:41:36Z",
+    "url": "https://github.com/nuwa-skills/qianzhongshu-skill"
   }
 ]

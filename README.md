@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 08:30 UTC
+> ⏰ Last updated: 2026-10-18 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [imagineVid/Awesome-muse-image-prompts-and-skills](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills) | 3 | TypeScript | 2026-10-18 | Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual  |
-| 2 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-10-18 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 3 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 5 | JavaScript | 2026-10-18 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
-| 4 | [najeebjb724-star/ppt-supervisor](https://github.com/najeebjb724-star/ppt-supervisor) | 0 | — | 2026-10-18 | WorkBuddy expert 猫猫来做PPT — five-phase PPT SOP with hard gates: it won't let you start making slides until your logic is  |
-| 5 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 0 | TypeScript | 2026-10-18 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 6 | [Shreyash3007/aegis](https://github.com/Shreyash3007/aegis) | 0 | JavaScript | 2026-10-18 | The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle,  |
-| 7 | [stephen-taipei/intent-galaxy](https://github.com/stephen-taipei/intent-galaxy) | 0 | JavaScript | 2026-10-18 | 60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions |
-| 8 | [JjByteX/project-foundation](https://github.com/JjByteX/project-foundation) | 1 | — | 2026-10-18 | A starter kit of rules and structure for building projects with AI. |
-| 9 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 61 | TypeScript | 2026-10-18 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
-| 10 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 25 | TypeScript | 2026-10-18 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
-| 11 | [tertiarycourses/IES-GenAI-for-Engineers](https://github.com/tertiarycourses/IES-GenAI-for-Engineers) | 0 | Python | 2026-10-18 | IES Academy GenAI for Engineers v2.3 - one-day hands-on Microsoft 365 Copilot course: 12 connected water-maintenance lab |
-| 12 | [hivecommons/promptargs](https://github.com/hivecommons/promptargs) | 3 | TypeScript | 2026-10-18 | Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more |
-| 13 | [blauwtje/exo](https://github.com/blauwtje/exo) | 1 | JavaScript | 2026-10-18 | Claude Code plugin with four stages and hooks that refuse risky commands. |
-| 14 | [nuwa-skills/zhugeliang-skill](https://github.com/nuwa-skills/zhugeliang-skill) | 0 | — | 2026-10-18 | 诸葛亮.skill — 战略/谋略/治国的思维操作系统 |
-| 15 | [nuwa-skills/zongqinghou-skill](https://github.com/nuwa-skills/zongqinghou-skill) | 0 | — | 2026-10-18 | 宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统 |
-| 16 | [nuwa-skills/zhuxi-skill](https://github.com/nuwa-skills/zhuxi-skill) | 0 | — | 2026-10-18 | 朱熹.skill — 理学/格物致知/读书法的思维操作系统 |
-| 17 | [nuwa-skills/zhuangzi-skill](https://github.com/nuwa-skills/zhuangzi-skill) | 1 | — | 2026-10-18 | 庄子.skill — 逍遥游/齐物论/寓言哲学的思维操作系统 |
-| 18 | [nuwa-skills/zhouhongyi-skill](https://github.com/nuwa-skills/zhouhongyi-skill) | 0 | — | 2026-10-18 | 周鸿祎.skill — 安全/红衣教主/颠覆式创新的思维操作系统 |
-| 19 | [nuwa-skills/zhangxue-skill](https://github.com/nuwa-skills/zhangxue-skill) | 0 | — | 2026-10-18 | 张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。 |
-| 20 | [nuwa-skills/zhangyiming-skill](https://github.com/nuwa-skills/zhangyiming-skill) | 1 | — | 2026-10-18 | 张一鸣.skill — 延迟满足/算法思维/全球化的思维操作系统 |
-| 21 | [nuwa-skills/zhangjuzheng-skill](https://github.com/nuwa-skills/zhangjuzheng-skill) | 0 | — | 2026-10-18 | 张居正.skill — 改革/执行力/制度设计的思维操作系统 |
-| 22 | [nuwa-skills/zengguofan-skill](https://github.com/nuwa-skills/zengguofan-skill) | 3 | — | 2026-10-18 | 曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统 |
-| 23 | [nuwa-skills/yangzhenning-skill](https://github.com/nuwa-skills/yangzhenning-skill) | 0 | — | 2026-10-18 | 杨振宁.skill — 物理之美/科学品味/对称性的思维操作系统 |
-| 24 | [nuwa-skills/zhangxiaolong-skill](https://github.com/nuwa-skills/zhangxiaolong-skill) | 0 | — | 2026-10-18 | 张小龙.skill — 极简产品/克制/用完即走的思维操作系统 |
-| 25 | [nuwa-skills/yuminhong-skill](https://github.com/nuwa-skills/yuminhong-skill) | 0 | — | 2026-10-18 | 俞敏洪.skill — 教育创业/逆境重生/从绝望中寻找希望的思维操作系统 |
-| 26 | [nuwa-skills/wujun-skill](https://github.com/nuwa-skills/wujun-skill) | 1 | — | 2026-10-18 | 吴军.skill — 文明之光/信息论思维/格局/见识的思维操作系统 |
-| 27 | [nuwa-skills/xunzi-skill](https://github.com/nuwa-skills/xunzi-skill) | 0 | — | 2026-10-18 | 荀子.skill — 性恶论/礼法并重/教化的思维操作系统 |
-| 28 | [nuwa-skills/wittgenstein-skill](https://github.com/nuwa-skills/wittgenstein-skill) | 0 | — | 2026-10-18 | 维特根斯坦.skill — 语言哲学/逻辑/沉默的思维操作系统 |
-| 29 | [nuwa-skills/welch-skill](https://github.com/nuwa-skills/welch-skill) | 1 | — | 2026-10-18 | 杰克·韦尔奇.skill — 数一数二/活力曲线/变革的思维操作系统 |
-| 30 | [nuwa-skills/webb-skill](https://github.com/nuwa-skills/webb-skill) | 0 | — | 2026-10-18 | 詹姆斯·韦伯.skill — NASA管理/阿波罗计划/科学行政的思维操作系统 |
-| 31 | [nuwa-skills/sunzi-skill](https://github.com/nuwa-skills/sunzi-skill) | 3 | — | 2026-10-18 | 孙子.skill — 兵法/战略思维/博弈论的思维操作系统 |
-| 32 | [nuwa-skills/wangyangming-skill](https://github.com/nuwa-skills/wangyangming-skill) | 25 | — | 2026-10-18 | 王阳明.skill — 知行合一/心学/决策哲学的思维操作系统 |
-| 33 | [nuwa-skills/wangxing-skill](https://github.com/nuwa-skills/wangxing-skill) | 0 | — | 2026-10-18 | 王兴.skill — 无边界/后发制人/长期主义的思维操作系统 |
-| 34 | [nuwa-skills/wangjianlin-skill](https://github.com/nuwa-skills/wangjianlin-skill) | 0 | — | 2026-10-18 | 王健林.skill — 敢想敢做/执行力/目标管理的思维操作系统 |
-| 35 | [nuwa-skills/wangxiaobo-skill](https://github.com/nuwa-skills/wangxiaobo-skill) | 5 | — | 2026-10-18 | 王小波.skill — 自由/理性/黑色幽默的思维操作系统 |
-| 36 | [nuwa-skills/wangfuzhi-skill](https://github.com/nuwa-skills/wangfuzhi-skill) | 1 | — | 2026-10-18 | 王夫之.skill — 实学/经世致用/唯物的思维操作系统 |
-| 37 | [nuwa-skills/schumpeter-skill](https://github.com/nuwa-skills/schumpeter-skill) | 0 | — | 2026-10-18 | 熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统 |
-| 38 | [nuwa-skills/wangchuanfu-skill](https://github.com/nuwa-skills/wangchuanfu-skill) | 0 | — | 2026-10-18 | 王传福.skill — 工程师精神/垂直整合/技术为王的思维操作系统 |
-| 39 | [nuwa-skills/walton-skill](https://github.com/nuwa-skills/walton-skill) | 0 | — | 2026-10-18 | 山姆·沃尔顿.skill — 零售/节约/规模效应的思维操作系统 |
-| 40 | [nuwa-skills/turing-skill](https://github.com/nuwa-skills/turing-skill) | 1 | — | 2026-10-18 | 图灵.skill — 计算思维/人工智能/密码学的思维操作系统 |
-| 41 | [nuwa-skills/vonneumann-skill](https://github.com/nuwa-skills/vonneumann-skill) | 2 | — | 2026-10-18 | 冯·诺依曼.skill — 博弈论/计算架构/跨学科的思维操作系统 |
-| 42 | [nuwa-skills/torvalds-skill](https://github.com/nuwa-skills/torvalds-skill) | 0 | — | 2026-10-18 | 林纳斯·托瓦兹.skill — 开源/工程美学/务实的思维操作系统 |
-| 43 | [nuwa-skills/tolstoy-skill](https://github.com/nuwa-skills/tolstoy-skill) | 0 | — | 2026-10-18 | 托尔斯泰.skill — 人性/道德/史诗叙事的思维操作系统 |
-| 44 | [nuwa-skills/thiel-skill](https://github.com/nuwa-skills/thiel-skill) | 0 | — | 2026-10-18 | 彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统 |
-| 45 | [nuwa-skills/taoxingzhi-skill](https://github.com/nuwa-skills/taoxingzhi-skill) | 0 | — | 2026-10-18 | 陶行知.skill — 生活教育/教学做合一/乡村的思维操作系统 |
-| 46 | [nuwa-skills/thichnhathanh-skill](https://github.com/nuwa-skills/thichnhathanh-skill) | 1 | — | 2026-10-18 | 一行禅师.skill — 正念/当下/和平的思维操作系统 |
-| 47 | [nuwa-skills/tesla-skill](https://github.com/nuwa-skills/tesla-skill) | 0 | — | 2026-10-18 | 特斯拉.skill — 发明/想象力/交流电思维的思维操作系统 |
+| 1 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 1 | TypeScript | 2026-10-18 | The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done. |
+| 2 | [NekroAI/qantrip](https://github.com/NekroAI/qantrip) | 0 | Rust | 2026-10-18 | Open-source prompt launcher: press ⌃Q, type a short command, and a parameterized prompt lands in any app. Rust core, nat |
+| 3 | [ayushkp930/CloudSentinel](https://github.com/ayushkp930/CloudSentinel) | 1 | Python | 2026-10-18 | An Intelligent Cloud Security Posture Assessment and Threat Detection Platform for AWS Environments. |
+| 4 | [nuwa-skills/dinglei-skill](https://github.com/nuwa-skills/dinglei-skill) | 0 | — | 2026-10-18 | 丁磊.skill — 产品品味/慢公司/不跟风的思维操作系统 |
+| 5 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-10-18 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 6 | [nuwa-skills/zhangxue-skill](https://github.com/nuwa-skills/zhangxue-skill) | 0 | — | 2026-10-18 | 张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。 |
+| 7 | [nuwa-skills/zhuxi-skill](https://github.com/nuwa-skills/zhuxi-skill) | 0 | — | 2026-10-18 | 朱熹.skill — 理学/格物致知/读书法的思维操作系统 |
+| 8 | [nuwa-skills/zhugeliang-skill](https://github.com/nuwa-skills/zhugeliang-skill) | 0 | — | 2026-10-18 | 诸葛亮.skill — 战略/谋略/治国的思维操作系统 |
+| 9 | [nuwa-skills/zongqinghou-skill](https://github.com/nuwa-skills/zongqinghou-skill) | 0 | — | 2026-10-18 | 宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统 |
+| 10 | [nuwa-skills/zhuangzi-skill](https://github.com/nuwa-skills/zhuangzi-skill) | 1 | — | 2026-10-18 | 庄子.skill — 逍遥游/齐物论/寓言哲学的思维操作系统 |
+| 11 | [nuwa-skills/yangzhenning-skill](https://github.com/nuwa-skills/yangzhenning-skill) | 0 | — | 2026-10-18 | 杨振宁.skill — 物理之美/科学品味/对称性的思维操作系统 |
+| 12 | [nuwa-skills/xunzi-skill](https://github.com/nuwa-skills/xunzi-skill) | 0 | — | 2026-10-18 | 荀子.skill — 性恶论/礼法并重/教化的思维操作系统 |
+| 13 | [nuwa-skills/zhouhongyi-skill](https://github.com/nuwa-skills/zhouhongyi-skill) | 0 | — | 2026-10-18 | 周鸿祎.skill — 安全/红衣教主/颠覆式创新的思维操作系统 |
+| 14 | [nuwa-skills/zhangxiaolong-skill](https://github.com/nuwa-skills/zhangxiaolong-skill) | 0 | — | 2026-10-18 | 张小龙.skill — 极简产品/克制/用完即走的思维操作系统 |
+| 15 | [nuwa-skills/zhangjuzheng-skill](https://github.com/nuwa-skills/zhangjuzheng-skill) | 0 | — | 2026-10-18 | 张居正.skill — 改革/执行力/制度设计的思维操作系统 |
+| 16 | [nuwa-skills/wangjianlin-skill](https://github.com/nuwa-skills/wangjianlin-skill) | 0 | — | 2026-10-18 | 王健林.skill — 敢想敢做/执行力/目标管理的思维操作系统 |
+| 17 | [nuwa-skills/wangxiaobo-skill](https://github.com/nuwa-skills/wangxiaobo-skill) | 5 | — | 2026-10-18 | 王小波.skill — 自由/理性/黑色幽默的思维操作系统 |
+| 18 | [nuwa-skills/zengguofan-skill](https://github.com/nuwa-skills/zengguofan-skill) | 3 | — | 2026-10-18 | 曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统 |
+| 19 | [nuwa-skills/yuminhong-skill](https://github.com/nuwa-skills/yuminhong-skill) | 0 | — | 2026-10-18 | 俞敏洪.skill — 教育创业/逆境重生/从绝望中寻找希望的思维操作系统 |
+| 20 | [nuwa-skills/wujun-skill](https://github.com/nuwa-skills/wujun-skill) | 1 | — | 2026-10-18 | 吴军.skill — 文明之光/信息论思维/格局/见识的思维操作系统 |
+| 21 | [nuwa-skills/vonneumann-skill](https://github.com/nuwa-skills/vonneumann-skill) | 2 | — | 2026-10-18 | 冯·诺依曼.skill — 博弈论/计算架构/跨学科的思维操作系统 |
+| 22 | [nuwa-skills/wittgenstein-skill](https://github.com/nuwa-skills/wittgenstein-skill) | 0 | — | 2026-10-18 | 维特根斯坦.skill — 语言哲学/逻辑/沉默的思维操作系统 |
+| 23 | [nuwa-skills/wangyangming-skill](https://github.com/nuwa-skills/wangyangming-skill) | 25 | — | 2026-10-18 | 王阳明.skill — 知行合一/心学/决策哲学的思维操作系统 |
+| 24 | [nuwa-skills/wangxing-skill](https://github.com/nuwa-skills/wangxing-skill) | 0 | — | 2026-10-18 | 王兴.skill — 无边界/后发制人/长期主义的思维操作系统 |
+| 25 | [nuwa-skills/wangfuzhi-skill](https://github.com/nuwa-skills/wangfuzhi-skill) | 1 | — | 2026-10-18 | 王夫之.skill — 实学/经世致用/唯物的思维操作系统 |
+| 26 | [nuwa-skills/wangchuanfu-skill](https://github.com/nuwa-skills/wangchuanfu-skill) | 0 | — | 2026-10-18 | 王传福.skill — 工程师精神/垂直整合/技术为王的思维操作系统 |
+| 27 | [nuwa-skills/walton-skill](https://github.com/nuwa-skills/walton-skill) | 0 | — | 2026-10-18 | 山姆·沃尔顿.skill — 零售/节约/规模效应的思维操作系统 |
+| 28 | [nuwa-skills/thiel-skill](https://github.com/nuwa-skills/thiel-skill) | 0 | — | 2026-10-18 | 彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统 |
+| 29 | [nuwa-skills/turing-skill](https://github.com/nuwa-skills/turing-skill) | 1 | — | 2026-10-18 | 图灵.skill — 计算思维/人工智能/密码学的思维操作系统 |
+| 30 | [nuwa-skills/torvalds-skill](https://github.com/nuwa-skills/torvalds-skill) | 0 | — | 2026-10-18 | 林纳斯·托瓦兹.skill — 开源/工程美学/务实的思维操作系统 |
+| 31 | [nuwa-skills/taoxingzhi-skill](https://github.com/nuwa-skills/taoxingzhi-skill) | 0 | — | 2026-10-18 | 陶行知.skill — 生活教育/教学做合一/乡村的思维操作系统 |
+| 32 | [nuwa-skills/sunzi-skill](https://github.com/nuwa-skills/sunzi-skill) | 3 | — | 2026-10-18 | 孙子.skill — 兵法/战略思维/博弈论的思维操作系统 |
+| 33 | [nuwa-skills/suzukitoshifumi-skill](https://github.com/nuwa-skills/suzukitoshifumi-skill) | 0 | — | 2026-10-18 | 铃木敏文.skill — 7-Eleven/单品管理/假设验证的思维操作系统 |
+| 34 | [nuwa-skills/tolstoy-skill](https://github.com/nuwa-skills/tolstoy-skill) | 0 | — | 2026-10-18 | 托尔斯泰.skill — 人性/道德/史诗叙事的思维操作系统 |
+| 35 | [nuwa-skills/suzuki-skill](https://github.com/nuwa-skills/suzuki-skill) | 0 | — | 2026-10-18 | 铃木俊隆.skill — 禅者的初心/当下/空杯的思维操作系统 |
+| 36 | [nuwa-skills/sudongpo-skill](https://github.com/nuwa-skills/sudongpo-skill) | 0 | — | 2026-10-18 | 苏东坡.skill — 豁达/文学/生活美学的思维操作系统 |
+| 37 | [nuwa-skills/stephenking-skill](https://github.com/nuwa-skills/stephenking-skill) | 0 | — | 2026-10-18 | 斯蒂芬·金.skill — 写作/纪律/恐惧的思维操作系统 |
+| 38 | [nuwa-skills/thichnhathanh-skill](https://github.com/nuwa-skills/thichnhathanh-skill) | 1 | — | 2026-10-18 | 一行禅师.skill — 正念/当下/和平的思维操作系统 |
+| 39 | [nuwa-skills/tesla-skill](https://github.com/nuwa-skills/tesla-skill) | 0 | — | 2026-10-18 | 特斯拉.skill — 发明/想象力/交流电思维的思维操作系统 |
+| 40 | [nuwa-skills/suzukitoshio-skill](https://github.com/nuwa-skills/suzukitoshio-skill) | 0 | — | 2026-10-18 | 铃木敏夫.skill — 吉卜力制作人/商业与艺术平衡的思维操作系统 |
+| 41 | [nuwa-skills/soros-skill](https://github.com/nuwa-skills/soros-skill) | 2 | — | 2026-10-18 | 索罗斯.skill — 反身性/金融哲学/开放社会的思维操作系统 |
+| 42 | [nuwa-skills/socrates-skill](https://github.com/nuwa-skills/socrates-skill) | 14 | — | 2026-10-18 | 苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统 |
+| 43 | [nuwa-skills/shiyuzhu-skill](https://github.com/nuwa-skills/shiyuzhu-skill) | 0 | — | 2026-10-18 | 史玉柱.skill — 营销鬼才/东山再起/人性洞察的思维操作系统 |
+| 44 | [nuwa-skills/shannon-skill](https://github.com/nuwa-skills/shannon-skill) | 1 | — | 2026-10-18 | 香农.skill — 信息论/化繁为简/创造性玩耍的思维操作系统 |
+| 45 | [nuwa-skills/schumpeter-skill](https://github.com/nuwa-skills/schumpeter-skill) | 0 | — | 2026-10-18 | 熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统 |
+| 46 | [nuwa-skills/schopenhauer-skill](https://github.com/nuwa-skills/schopenhauer-skill) | 0 | — | 2026-10-18 | 叔本华.skill — 意志/悲观主义/审美解脱的思维操作系统 |
+| 47 | [nuwa-skills/seneca-skill](https://github.com/nuwa-skills/seneca-skill) | 1 | — | 2026-10-18 | 塞涅卡.skill — 斯多葛/书信/时间管理的思维操作系统 |
 | 48 | [nuwa-skills/plato-skill](https://github.com/nuwa-skills/plato-skill) | 0 | — | 2026-10-18 | 柏拉图.skill — 理念论/哲学对话/理想国的思维操作系统 |
-| 49 | [nuwa-skills/suzukitoshio-skill](https://github.com/nuwa-skills/suzukitoshio-skill) | 0 | — | 2026-10-18 | 铃木敏夫.skill — 吉卜力制作人/商业与艺术平衡的思维操作系统 |
-| 50 | [nuwa-skills/suzukitoshifumi-skill](https://github.com/nuwa-skills/suzukitoshifumi-skill) | 0 | — | 2026-10-18 | 铃木敏文.skill — 7-Eleven/单品管理/假设验证的思维操作系统 |
+| 49 | [nuwa-skills/renzhengfei-skill](https://github.com/nuwa-skills/renzhengfei-skill) | 0 | — | 2026-10-18 | 任正非.skill — 灰度管理/狼性/自我批判的思维操作系统 |
+| 50 | [nuwa-skills/qianzhongshu-skill](https://github.com/nuwa-skills/qianzhongshu-skill) | 0 | — | 2026-10-18 | 钱钟书.skill — 博学/讽刺/学术的思维操作系统 |
 <!-- TRACKER_TABLE_END -->
 
 ---
