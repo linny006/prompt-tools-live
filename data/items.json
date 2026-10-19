@@ -1,5 +1,77 @@
 [
   {
+    "description": "SillyTavern extension: one line (or nothing) \u2192 a complete, linked roleplay: card, openings, lorebook, preset, regex, Qui",
+    "id": "rustyorb/SillyTavern-CreativeStudio",
+    "language": "JavaScript",
+    "name": "rustyorb/SillyTavern-CreativeStudio",
+    "stars": 8,
+    "updated_at": "2026-10-19T03:14:36Z",
+    "url": "https://github.com/rustyorb/SillyTavern-CreativeStudio"
+  },
+  {
+    "description": "Avalia\u00e7\u00e3o de qualidade e seguran\u00e7a (Go/No-Go) da assistente virtual Lia (LLM) para a loja Pop & Doce. Projeto final do H",
+    "id": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
+    "language": "Python",
+    "name": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
+    "stars": 3,
+    "updated_at": "2026-10-19T03:08:50Z",
+    "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:06:28Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "\ud83c\udfad 277 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Claude Code/Cursor/Copilot \u7b49 20 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 64 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Qt \u4e0a",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 21351,
+    "updated_at": "2026-10-19T03:05:40Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
+    "id": "honlam6/talk2stock",
+    "language": "Java",
+    "name": "honlam6/talk2stock",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:02:28Z",
+    "url": "https://github.com/honlam6/talk2stock"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 9,
+    "updated_at": "2026-10-19T03:01:34Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Engineering standards for people and the AI agents that write their code: RFC 2119 rules, pinned tool versions and agent",
+    "id": "agh/crefft",
+    "language": "Markdown",
+    "name": "agh/crefft",
+    "stars": 3,
+    "updated_at": "2026-10-19T03:00:32Z",
+    "url": "https://github.com/agh/crefft"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T03:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "JavaScript",
     "name": "DaveHomeAssist/prompt-lab",
     "stars": 3,
-    "updated_at": "2026-10-19T02:58:18Z",
+    "updated_at": "2026-10-19T03:09:39Z",
     "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/arm-pz/prompts-to-skill"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 9,
-    "updated_at": "2026-10-19T02:46:33Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "Document-driven development protocol with three decision gates that prevent solution-jumping and catch wrong foundations",
     "id": "B67687/development-protocol",
     "language": "Python",
@@ -124,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T02:45:33Z",
     "url": "https://github.com/B67687/development-protocol"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T02:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude skill: chief of staff for AI agents \u2014 single-owner routing, gated escalation, decision log",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-10-19T02:42:03Z",
+    "updated_at": "2026-10-19T03:13:58Z",
     "url": "https://github.com/gthgomez/Babel"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "rubicon/ai-skills",
     "stars": 1,
-    "updated_at": "2026-10-19T02:32:05Z",
+    "updated_at": "2026-10-19T03:01:38Z",
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
@@ -297,15 +351,6 @@
     "url": "https://github.com/ayase0307/h3-combat-impact"
   },
   {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:24:39Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
-  },
-  {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
     "id": "danh121097/squad-skills",
     "language": "TypeScript",
@@ -355,7 +400,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 10123,
+    "stars": 10124,
     "updated_at": "2026-10-19T02:17:15Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/DSeaStar/awesome-kling"
   },
   {
-    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
-    "id": "honlam6/talk2stock",
-    "language": "Java",
-    "name": "honlam6/talk2stock",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:11:37Z",
-    "url": "https://github.com/honlam6/talk2stock"
-  },
-  {
     "description": "Portable open-source Second Brain framework & agent skill: cross-session memory, honesty/coordinate discipline, governan",
     "id": "DiaryOfUranus/second-brain-framework",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T02:11:10Z",
     "url": "https://github.com/DiaryOfUranus/second-brain-framework"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 62,
-    "updated_at": "2026-10-19T02:08:33Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
-    "id": "KM-it-ops/Proofhouse",
-    "language": "Python",
-    "name": "KM-it-ops/Proofhouse",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:06:28Z",
-    "url": "https://github.com/KM-it-ops/Proofhouse"
-  },
-  {
-    "description": "Prompts estruturados para LLMs com execu\u00e7\u00e3o de c\u00f3digo que automatizam tarefas de seguran\u00e7a e an\u00e1lise de dados, como tria",
-    "id": "Armidge/Prompts",
-    "language": "\u2014",
-    "name": "Armidge/Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:06:04Z",
-    "url": "https://github.com/Armidge/Prompts"
-  },
-  {
-    "description": "The Ultimate Claude Code Toolkit: 180 skills, 10 agents, 29 commands, 7 hooks, and 81 marketplace repos (11,000+ communi",
-    "id": "travisjneuman/.claude",
-    "language": "TypeScript",
-    "name": "travisjneuman/.claude",
-    "stars": 104,
-    "updated_at": "2026-10-19T02:05:10Z",
-    "url": "https://github.com/travisjneuman/.claude"
   }
 ]
