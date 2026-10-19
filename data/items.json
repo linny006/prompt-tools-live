@@ -1,5 +1,158 @@
 [
   {
+    "description": "marola way of coding",
+    "id": "marola-dev/marola-skills",
+    "language": "Python",
+    "name": "marola-dev/marola-skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:44:34Z",
+    "url": "https://github.com/marola-dev/marola-skills"
+  },
+  {
+    "description": "\ud83c\udde7\ud83c\uddf7 marolaGPT + the fine-tune, the DSPy prompt compile, the local model image and the benchmark gate",
+    "id": "marola-dev/marola-ml",
+    "language": "Python",
+    "name": "marola-dev/marola-ml",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:44:54Z",
+    "url": "https://github.com/marola-dev/marola-ml"
+  },
+  {
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
+    "language": "Python",
+    "name": "kzndotsh/companion",
+    "stars": 2,
+    "updated_at": "2026-10-19T21:43:08Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-19T21:42:34Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "Your coding friend in the terminal.",
+    "id": "johnsellin93/trace",
+    "language": "Shell",
+    "name": "johnsellin93/trace",
+    "stars": 28,
+    "updated_at": "2026-10-19T21:41:48Z",
+    "url": "https://github.com/johnsellin93/trace"
+  },
+  {
+    "description": "AI-written articles on software engineering and life in the AI age, covering coding agents, software architecture, backe",
+    "id": "marcelomiyake/marcelomiyake.github.io",
+    "language": "HTML",
+    "name": "marcelomiyake/marcelomiyake.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:40:24Z",
+    "url": "https://github.com/marcelomiyake/marcelomiyake.github.io"
+  },
+  {
+    "description": "Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 3,
+    "updated_at": "2026-10-19T21:39:27Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:38:47Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:38:05Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:38:01Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "AI-related dotfiles and configs",
+    "id": "kubasejdak-org/dotfiles-ai",
+    "language": "Python",
+    "name": "kubasejdak-org/dotfiles-ai",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:36:54Z",
+    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:36:40Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:35:36Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 4038,
+    "updated_at": "2026-10-19T21:39:37Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u7cbe\u901a\u7684\u5de5\u5177\u7bb1",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Makefile",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 17687,
+    "updated_at": "2026-10-19T21:32:21Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-19T21:31:31Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T21:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -54,40 +207,13 @@
     "url": "https://github.com/Irsyadmr354/KESTREL"
   },
   {
-    "description": "AI-related dotfiles and configs",
-    "id": "kubasejdak-org/dotfiles-ai",
-    "language": "Python",
-    "name": "kubasejdak-org/dotfiles-ai",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:27:56Z",
-    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
-  },
-  {
     "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
     "id": "MikeMoore1337/ai-development-toolkit",
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-19T21:28:25Z",
+    "updated_at": "2026-10-19T21:38:20Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-19T21:26:51Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 2,
-    "updated_at": "2026-10-19T21:26:13Z",
-    "url": "https://github.com/kzndotsh/companion"
   },
   {
     "description": "Projet personnel: Plateforme d'ing\u00e9nierie pour sourcer et d\u00e9crocher des stages d'\u00e9lite en IA/Data. Pipeline ETL r\u00e9silien",
@@ -103,7 +229,7 @@
     "id": "UnderleveledBuilder/awesome-story-skills",
     "language": "Python",
     "name": "UnderleveledBuilder/awesome-story-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-19T21:25:52Z",
     "url": "https://github.com/UnderleveledBuilder/awesome-story-skills"
   },
@@ -115,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T21:25:52Z",
     "url": "https://github.com/ygyzys83/Turtle_Trading_Simulator"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-19T21:24:44Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Avalia\u00e7\u00e3o de qualidade de atendimento com checagens determin\u00edsticas (LGPD) + LLM-as-judge (Claude) e compara\u00e7\u00e3o A/B de p",
@@ -149,7 +266,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 189,
-    "updated_at": "2026-10-19T21:25:23Z",
+    "updated_at": "2026-10-19T21:31:40Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -248,17 +365,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26153,
-    "updated_at": "2026-10-19T21:18:02Z",
+    "updated_at": "2026-10-19T21:34:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T21:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineers breaking ",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T21:27:33Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "amirajimenez/lintlang",
-    "language": "Python",
-    "name": "amirajimenez/lintlang",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:11:53Z",
-    "url": "https://github.com/amirajimenez/lintlang"
-  },
-  {
-    "description": "A Lean quality system for AI-assisted work \u2014 every defect becomes a permanent countermeasure. Built by a manufacturing o",
-    "id": "KostasElliott9787/Andon",
-    "language": "Python",
-    "name": "KostasElliott9787/Andon",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:11:41Z",
-    "url": "https://github.com/KostasElliott9787/Andon"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8f93\u5165\u63d2\u4ef6\u529f\u80fd\u589e\u5f3a",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 99,
-    "updated_at": "2026-10-19T21:11:14Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "UI/UX system for Claude Code: 71 plugins, 93 agents, 74 skills. Design mastery, archetypal design, accessibility, and fr",
-    "id": "Omar94171/LibreUIUX-Claude-Code",
-    "language": "Shell",
-    "name": "Omar94171/LibreUIUX-Claude-Code",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:11:06Z",
-    "url": "https://github.com/Omar94171/LibreUIUX-Claude-Code"
-  },
-  {
-    "description": "A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and autho",
-    "id": "RaulStone/learn-anything-with-AI",
-    "language": "Python",
-    "name": "RaulStone/learn-anything-with-AI",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:10:58Z",
-    "url": "https://github.com/RaulStone/learn-anything-with-AI"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 18,
-    "updated_at": "2026-10-19T21:10:40Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstructi",
-    "id": "GeorgesFlores343/GITVERSE",
-    "language": "TypeScript",
-    "name": "GeorgesFlores343/GITVERSE",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:10:03Z",
-    "url": "https://github.com/GeorgesFlores343/GITVERSE"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-19T21:08:53Z",
-    "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pai",
-    "id": "kward975/auto-improve",
-    "language": "Python",
-    "name": "kward975/auto-improve",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:08:50Z",
-    "url": "https://github.com/kward975/auto-improve"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7281,
-    "updated_at": "2026-10-19T21:08:18Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and autho",
-    "id": "rrose7530/learn-anything-with-AI",
-    "language": "Python",
-    "name": "rrose7530/learn-anything-with-AI",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:07:55Z",
-    "url": "https://github.com/rrose7530/learn-anything-with-AI"
-  },
-  {
-    "description": "A unified, modular framework for prompt optimization",
-    "id": "tOrlov970/promptolution",
-    "language": "Python",
-    "name": "tOrlov970/promptolution",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:07:10Z",
-    "url": "https://github.com/tOrlov970/promptolution"
   }
 ]
