@@ -1,5 +1,158 @@
 [
   {
+    "description": "Score any prompt 0-100, learn what's weak, and get it rewritten \u2014 with an intent classifier built from scratch. Zero dep",
+    "id": "realhassanabbasi/promptsmith",
+    "language": "Python",
+    "name": "realhassanabbasi/promptsmith",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:00:20Z",
+    "url": "https://github.com/realhassanabbasi/promptsmith"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 26,
+    "updated_at": "2026-10-19T02:00:16Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Prompts estruturados para LLMs com execu\u00e7\u00e3o de c\u00f3digo que automatizam tarefas de seguran\u00e7a e an\u00e1lise de dados, como tria",
+    "id": "Armidge/Prompts",
+    "language": "\u2014",
+    "name": "Armidge/Prompts",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:59:52Z",
+    "url": "https://github.com/Armidge/Prompts"
+  },
+  {
+    "description": "Hassan Abbasi \u2014 AI Engineer building AI-powered products with excellent UX",
+    "id": "realhassanabbasi/realhassanabbasi",
+    "language": "\u2014",
+    "name": "realhassanabbasi/realhassanabbasi",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:59:17Z",
+    "url": "https://github.com/realhassanabbasi/realhassanabbasi"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:59:13Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Agent Skills for AI that connect to verifiable facts \u2014 8 cognitive skills (built from classic books) + 6 industry skills",
+    "id": "Trustbaselab/trustbase-skills",
+    "language": "\u2014",
+    "name": "Trustbaselab/trustbase-skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T01:58:18Z",
+    "url": "https://github.com/Trustbaselab/trustbase-skills"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-19T01:57:18Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 141,
+    "updated_at": "2026-10-19T01:54:28Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 19,
+    "updated_at": "2026-10-19T01:54:04Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Avalia\u00e7\u00e3o de qualidade e seguran\u00e7a (Go/No-Go) da assistente virtual Lia (LLM) para a loja Pop & Doce. Projeto final do H",
+    "id": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
+    "language": "Python",
+    "name": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
+    "stars": 3,
+    "updated_at": "2026-10-19T01:51:33Z",
+    "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
+  },
+  {
+    "description": "Awesome QA Skills is an open-source AI-native Quality Engineering skill system that helps engineering teams reason about",
+    "id": "naodeng/awesome-qa-skills",
+    "language": "Python",
+    "name": "naodeng/awesome-qa-skills",
+    "stars": 266,
+    "updated_at": "2026-10-19T01:50:43Z",
+    "url": "https://github.com/naodeng/awesome-qa-skills"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:49:03Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "A Claude skill that deconstructs articles into facts, opinions, hidden premises, logical jumps, and rhetorical framing.",
+    "id": "PAOLO12321/article-analyzer",
+    "language": "\u2014",
+    "name": "PAOLO12321/article-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:48:00Z",
+    "url": "https://github.com/PAOLO12321/article-analyzer"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 9,
+    "updated_at": "2026-10-19T01:47:06Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Multi-agent development pipeline for Claude Code \u2014 plan, design-gate, execute in parallel worktrees, review, UAT, merge.",
+    "id": "buya-v/claude-softhouse",
+    "language": "Shell",
+    "name": "buya-v/claude-softhouse",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:45:48Z",
+    "url": "https://github.com/buya-v/claude-softhouse"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 9,
+    "updated_at": "2026-10-19T01:46:33Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T01:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A prompt enhancer that learns from you: enhance and feedback over MCP",
     "id": "Egoushka/whetstone",
     "language": "C#",
@@ -41,17 +194,8 @@
     "language": "Shell",
     "name": "drobins25/craft",
     "stars": 68,
-    "updated_at": "2026-10-19T01:42:16Z",
+    "updated_at": "2026-10-19T01:57:16Z",
     "url": "https://github.com/drobins25/craft"
-  },
-  {
-    "description": "Avalia\u00e7\u00e3o de qualidade e seguran\u00e7a (Go/No-Go) da assistente virtual Lia (LLM) para a loja Pop & Doce. Projeto final do H",
-    "id": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
-    "language": "Python",
-    "name": "Gabs-jg/Hackaton-Encerramento-Lia-AI-R",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:43:01Z",
-    "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
   },
   {
     "description": "SunflowersLwtech's toolbox: Claude Code skills, agents, commands, and MCP servers in one plugin marketplace",
@@ -124,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T01:31:28Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-python"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T01:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -216,15 +351,6 @@
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
-    "description": "Prompts estruturados para LLMs com execu\u00e7\u00e3o de c\u00f3digo que automatizam tarefas de seguran\u00e7a e an\u00e1lise de dados, como tria",
-    "id": "Armidge/Prompts",
-    "language": "\u2014",
-    "name": "Armidge/Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:20:55Z",
-    "url": "https://github.com/Armidge/Prompts"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -270,24 +396,6 @@
     "url": "https://github.com/lbhubedu/lbedu.me"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:13:31Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:10:13Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
-  },
-  {
     "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
     "id": "StephenQiu30/glowloom-server",
     "language": "Go",
@@ -295,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T01:10:00Z",
     "url": "https://github.com/StephenQiu30/glowloom-server"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:36:43Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
     "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T01:05:50Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:05:31Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
-    "id": "hhuang91/tuningfork",
-    "language": "Python",
-    "name": "hhuang91/tuningfork",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:06:25Z",
-    "url": "https://github.com/hhuang91/tuningfork"
-  },
-  {
-    "description": "ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes",
-    "id": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "language": "Python",
-    "name": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "stars": 2,
-    "updated_at": "2026-10-19T01:03:18Z",
-    "url": "https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader"
-  },
-  {
-    "description": "whispererdeck",
-    "id": "verishimoto/whisperdeck-mobile-morph",
-    "language": "TypeScript",
-    "name": "verishimoto/whisperdeck-mobile-morph",
-    "stars": 1,
-    "updated_at": "2026-10-19T01:02:16Z",
-    "url": "https://github.com/verishimoto/whisperdeck-mobile-morph"
-  },
-  {
-    "description": "A reusable foundation for AI projects: rules, agents, templates, and commands.",
-    "id": "bpstack/harness",
-    "language": "JavaScript",
-    "name": "bpstack/harness",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:01:26Z",
-    "url": "https://github.com/bpstack/harness"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 9,
-    "updated_at": "2026-10-19T01:01:26Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 126,
-    "updated_at": "2026-10-19T00:58:45Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-19T00:58:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 68,
-    "updated_at": "2026-10-19T00:57:58Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-19T00:57:53Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:54:32Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
   }
 ]
