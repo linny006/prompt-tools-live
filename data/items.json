@@ -1,12 +1,12 @@
 [
   {
-    "description": "An Agent Skill for designing, refactoring, and evaluating reusable Agent Skills.",
-    "id": "FengZhiHen1/luo-meta-skill",
-    "language": "\u2014",
-    "name": "FengZhiHen1/luo-meta-skill",
+    "description": "Score any prompt 0-100, learn what's weak, and get it rewritten \u2014 with an intent classifier built from scratch. Zero dep",
+    "id": "realhassanabbasi/promptsmith",
+    "language": "Python",
+    "name": "realhassanabbasi/promptsmith",
     "stars": 0,
-    "updated_at": "2026-10-19T04:30:17Z",
-    "url": "https://github.com/FengZhiHen1/luo-meta-skill"
+    "updated_at": "2026-10-19T04:45:18Z",
+    "url": "https://github.com/realhassanabbasi/promptsmith"
   },
   {
     "description": "\u4e3a DeepSeek Harness \u8bbe\u8ba1\u7684\u7834\u9650\u63d2\u4ef6\uff1a\u5378\u6389\u5bbf\u4e3b\u7684\u63d0\u793a\u8bcd\u9650\u5236\u548c\u5ba1\u6279\u62e6\u622a\uff0c\u8ba9\u52a9\u624b\u7167\u4f60\u8bf4\u7684\u505a\uff0c\u4e0d\u534a\u8def\u62d2\u7edd\u3001\u4e0d\u53cd\u590d\u8bf7\u793a\u3002\u8865\u4e01\u9010\u6761\u53ef\u9009\uff0c\u968f\u65f6\u8fd8\u539f\u539f\u7248\u3002 A jailbreak plugin for DeepSeek Harness: ",
@@ -14,8 +14,170 @@
     "language": "JavaScript",
     "name": "rumoii/dsh-breaklimit",
     "stars": 2,
-    "updated_at": "2026-10-19T04:29:57Z",
+    "updated_at": "2026-10-19T04:43:52Z",
     "url": "https://github.com/rumoii/dsh-breaklimit"
+  },
+  {
+    "description": "\u98ce\u63d2 2.0 \u2014 DSH \u63a8\u7406\u8bed\u57df\u951a\u5b9a\u9884\u8bbe\uff1a\u4e24\u4e2a agent preset\uff08\u98ce\u63d2\u6807\u51c6/\u98ce\u63d2 PTC\uff09\u5728 runtime-context \u5feb\u7167\u5934\u5c3e\u5404\u6ce8\u5165\u4e00\u6b21\u5f62\u5f0f\u5316\u7ea6\u675f\uff0c\u4f7f\u63a8\u7406\u4ee5\u7b2c\u4e00\u4eba\u79f0\u590d\u6570\u5c55\u5f00\u3002\u5b9a\u6027=\u786c\u6307\u4ee4\u7ea6\u675f\uff08\u975e\u5438\u5f15\u5b50\uff09\uff1b\u672a\u8bc1\u660e\u80fd\u529b\u63d0\u5347\uff0c\u672a",
+    "id": "yjh051108/fengcha-2.0",
+    "language": "JavaScript",
+    "name": "yjh051108/fengcha-2.0",
+    "stars": 4,
+    "updated_at": "2026-10-19T04:43:26Z",
+    "url": "https://github.com/yjh051108/fengcha-2.0"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:43:08Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Markdown",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-19T04:42:19Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 2,
+    "updated_at": "2026-10-19T04:39:49Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:38:29Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:38:17Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:37:44Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "Agent skill that audits and fine-tunes a skill that already exists: triggering descriptions, sibling overlaps, stale nam",
+    "id": "arm-pz/tune-skill",
+    "language": "Python",
+    "name": "arm-pz/tune-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:36:06Z",
+    "url": "https://github.com/arm-pz/tune-skill"
+  },
+  {
+    "description": "\uc218\ub178(Suno)\uc6a9 \ud55c\uad6d\uc5b4 \uc791\uc0ac Claude \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 \uac00\uc0ac\uc640 Style\u00b7Exclude\u00b7Title\uc744 \uc7a5\ub974\uc5d0 \ub9de\ucdb0 \ud568\uaed8 \uc124\uacc4 (v3.0, CC BY 4.0)",
+    "id": "previtlab/suno-lyrics-skill",
+    "language": "\u2014",
+    "name": "previtlab/suno-lyrics-skill",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:36:32Z",
+    "url": "https://github.com/previtlab/suno-lyrics-skill"
+  },
+  {
+    "description": "Agent skill that turns a list of your own prompts into a finished, tested skill. Intent interview, overlap check against",
+    "id": "arm-pz/prompts-to-skill",
+    "language": "\u2014",
+    "name": "arm-pz/prompts-to-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:36:02Z",
+    "url": "https://github.com/arm-pz/prompts-to-skill"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:35:51Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "Agent skill that creates a new skill from an idea: confirms the purpose before writing, checks installed siblings for ov",
+    "id": "arm-pz/draft-skill",
+    "language": "\u2014",
+    "name": "arm-pz/draft-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:35:22Z",
+    "url": "https://github.com/arm-pz/draft-skill"
+  },
+  {
+    "description": "Reusable AI skill for prospecting, lead analysis, sales follow-up, pipeline management and digital project delivery.",
+    "id": "gabrielsystems-ai/sales-prospecting-pipeline-skill",
+    "language": "\u2014",
+    "name": "gabrielsystems-ai/sales-prospecting-pipeline-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:33:36Z",
+    "url": "https://github.com/gabrielsystems-ai/sales-prospecting-pipeline-skill"
+  },
+  {
+    "description": "Principle-first software-development workflow for Claude Code \u2014 brief \u2192 plan \u2192 task \u2192 implement \u2192 review, built for curr",
+    "id": "kenspc/kenspc-claude-plugin",
+    "language": "Shell",
+    "name": "kenspc/kenspc-claude-plugin",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:32:46Z",
+    "url": "https://github.com/kenspc/kenspc-claude-plugin"
+  },
+  {
+    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
+    "id": "badhope/xiaoman",
+    "language": "Python",
+    "name": "badhope/xiaoman",
+    "stars": 77,
+    "updated_at": "2026-10-19T04:31:45Z",
+    "url": "https://github.com/badhope/xiaoman"
+  },
+  {
+    "description": "60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions",
+    "id": "stephen-taipei/intent-galaxy",
+    "language": "JavaScript",
+    "name": "stephen-taipei/intent-galaxy",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:31:23Z",
+    "url": "https://github.com/stephen-taipei/intent-galaxy"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T04:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An Agent Skill for designing, refactoring, and evaluating reusable Agent Skills.",
+    "id": "FengZhiHen1/luo-meta-skill",
+    "language": "\u2014",
+    "name": "FengZhiHen1/luo-meta-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:30:17Z",
+    "url": "https://github.com/FengZhiHen1/luo-meta-skill"
   },
   {
     "description": "dsh-purge \u7684\u975e\u5b98\u65b9\u5206\u652f\uff08fork\uff09\uff1a\u9002\u914d DeepSeek Harness 0.2.1-rc.2\u3001\u7834\u7532\u5185\u6838 v3\u3001\u8bbe\u7f6e\u9875 UI \u91cd\u505a / unofficial fork of YuJunZhiXue/dsh-purge (MIT)",
@@ -27,15 +189,6 @@
     "url": "https://github.com/JeffKeeping/dsh-purge-plus"
   },
   {
-    "description": "60-second visual decision galaxy & deterministic intent compiler for Claude Code (MCP), local CLI and browser extensions",
-    "id": "stephen-taipei/intent-galaxy",
-    "language": "JavaScript",
-    "name": "stephen-taipei/intent-galaxy",
-    "stars": 0,
-    "updated_at": "2026-10-19T04:29:07Z",
-    "url": "https://github.com/stephen-taipei/intent-galaxy"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -43,15 +196,6 @@
     "stars": 28443,
     "updated_at": "2026-10-19T04:28:03Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Markdown",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-19T04:25:45Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
     "description": "Evidence-first skills for coding agents. Role, Context, Task, Constraints, then proof.",
@@ -90,24 +234,6 @@
     "url": "https://github.com/LiU-SKY/yourprompt"
   },
   {
-    "description": "\u98ce\u63d2 2.0 \u2014 DSH \u63a8\u7406\u8bed\u57df\u951a\u5b9a\u9884\u8bbe\uff1a\u4e24\u4e2a agent preset\uff08\u98ce\u63d2\u6807\u51c6/\u98ce\u63d2 PTC\uff09\u5728 runtime-context \u5feb\u7167\u5934\u5c3e\u5404\u6ce8\u5165\u4e00\u6b21\u5f62\u5f0f\u5316\u7ea6\u675f\uff0c\u4f7f\u63a8\u7406\u4ee5\u7b2c\u4e00\u4eba\u79f0\u590d\u6570\u5c55\u5f00\u3002\u5b9a\u6027=\u786c\u6307\u4ee4\u7ea6\u675f\uff08\u975e\u5438\u5f15\u5b50\uff09\uff1b\u672a\u8bc1\u660e\u80fd\u529b\u63d0\u5347\uff0c\u672a",
-    "id": "yjh051108/fengcha-2.0",
-    "language": "JavaScript",
-    "name": "yjh051108/fengcha-2.0",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:21:23Z",
-    "url": "https://github.com/yjh051108/fengcha-2.0"
-  },
-  {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-19T04:18:49Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
-  },
-  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "TypeScript",
@@ -115,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T04:17:25Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Role-specialized engineering squad skills for AI coding agents.",
-    "id": "danh121097/squad-skills",
-    "language": "TypeScript",
-    "name": "danh121097/squad-skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T04:16:25Z",
-    "url": "https://github.com/danh121097/squad-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T04:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
@@ -288,15 +396,6 @@
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
-    "description": "Xiaoman (\u5c0f\u6ee1) \u2014 a conversation-first, local-first personal finance AI agent \u00b7 FastAPI + LangGraph + React \u00b7 data 100% loc",
-    "id": "badhope/xiaoman",
-    "language": "Python",
-    "name": "badhope/xiaoman",
-    "stars": 77,
-    "updated_at": "2026-10-19T03:54:47Z",
-    "url": "https://github.com/badhope/xiaoman"
-  },
-  {
     "description": "Turn your app's codebase and UI snapshots into ready-to-paste video prompts and style reference images for AI video gene",
     "id": "betyourluck/AppPromoVideo",
     "language": "Rust",
@@ -337,7 +436,7 @@
     "id": "Baimuking/AI-Jailbreak",
     "language": "Python",
     "name": "Baimuking/AI-Jailbreak",
-    "stars": 28,
+    "stars": 30,
     "updated_at": "2026-10-19T03:50:11Z",
     "url": "https://github.com/Baimuking/AI-Jailbreak"
   },
@@ -347,106 +446,7 @@
     "language": "TypeScript",
     "name": "hivecommons/rationguard",
     "stars": 3,
-    "updated_at": "2026-10-19T04:25:40Z",
+    "updated_at": "2026-10-19T04:41:47Z",
     "url": "https://github.com/hivecommons/rationguard"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-10-19T03:47:19Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
-    "id": "hhuang91/tuningfork",
-    "language": "Python",
-    "name": "hhuang91/tuningfork",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:51:21Z",
-    "url": "https://github.com/hhuang91/tuningfork"
-  },
-  {
-    "description": "Review gate for Claude Code subagents: fresh reviewer, ship/fix/hold verdict, capped fix loop. Plain markdown, MIT.",
-    "id": "reviewgate-dev/claude-review-gate",
-    "language": "\u2014",
-    "name": "reviewgate-dev/claude-review-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:46:17Z",
-    "url": "https://github.com/reviewgate-dev/claude-review-gate"
-  },
-  {
-    "description": "ZCode \u684c\u9762\u5ba2\u6237\u7aef\u589e\u5f3a\u63d2\u4ef6\uff1a\u601d\u8003\u6863\u4f4d\u914d\u7f6e\uff083.14+ \u539f\u751f optionSpecs\uff09\u3001\u7528\u91cf\u56fe\u8868\u5168\u91cf\u3001TPS \u72b6\u6001\u680f\u3001\u601d\u8003\u5f3a\u5ea6\u6ed1\u6761\u3001\u4e00\u952e\u589e\u5f3a\u63d0\u793a\u8bcd\u3001\u8bbe\u7f6e\u9875\u6a21\u578b\u62c9\u53d6\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5168\u90e8\u53ef\u68c0\u67e5\u3001\u53ef\u7cbe\u786e\u8fd8\u539f\u3001\u53ef\u5728\u63d2\u4ef6\u8be6\u60c5\u9875\u9010\u9879\u5f00\u5173\u3002",
-    "id": "c80361619/zcode-toolkit",
-    "language": "Python",
-    "name": "c80361619/zcode-toolkit",
-    "stars": 13,
-    "updated_at": "2026-10-19T03:45:55Z",
-    "url": "https://github.com/c80361619/zcode-toolkit"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-19T03:44:35Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2152,
-    "updated_at": "2026-10-19T03:44:08Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-19T04:22:27Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Agent skill that turns a list of your own prompts into a finished, tested skill. Intent interview, overlap check against",
-    "id": "arm-pz/prompts-to-skill",
-    "language": "\u2014",
-    "name": "arm-pz/prompts-to-skill",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:43:09Z",
-    "url": "https://github.com/arm-pz/prompts-to-skill"
-  },
-  {
-    "description": "Jailbreak / safety-filter test suite: 25 questions a responsible AI should refuse, with explanations of the safeguards e",
-    "id": "LongpanZhou/safe-guard-test-questions",
-    "language": "\u2014",
-    "name": "LongpanZhou/safe-guard-test-questions",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:43:01Z",
-    "url": "https://github.com/LongpanZhou/safe-guard-test-questions"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-10-19T03:42:52Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Agent skill that audits and fine-tunes a skill that already exists: triggering descriptions, sibling overlaps, stale nam",
-    "id": "arm-pz/tune-skill",
-    "language": "Python",
-    "name": "arm-pz/tune-skill",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:42:05Z",
-    "url": "https://github.com/arm-pz/tune-skill"
   }
 ]
