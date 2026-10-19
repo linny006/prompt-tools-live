@@ -1,5 +1,32 @@
 [
   {
+    "description": "Give DeepSeek Harness an operator mode: 13 system-prompt and runtime layers applied as a single --patch overlay. dsh its",
+    "id": "zoujiapeng/dshpj-installer",
+    "language": "JavaScript",
+    "name": "zoujiapeng/dshpj-installer",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:59:40Z",
+    "url": "https://github.com/zoujiapeng/dshpj-installer"
+  },
+  {
+    "description": "An AI chat that asks whats missing and writes you the finished prompt, for any AI and any task.",
+    "id": "BajKasum/PromptPrinter",
+    "language": "TypeScript",
+    "name": "BajKasum/PromptPrinter",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:59:13Z",
+    "url": "https://github.com/BajKasum/PromptPrinter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T22:58:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
     "id": "ryanduguid/llm-tax-guardrails",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-19T22:56:57Z",
+    "updated_at": "2026-10-19T22:58:48Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 9,
     "updated_at": "2026-10-19T22:46:11Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T22:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T22:21:07Z",
     "url": "https://github.com/JoasASantos/REA-Prompts"
-  },
-  {
-    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
-    "id": "jthiruveedula/agentkit",
-    "language": "Python",
-    "name": "jthiruveedula/agentkit",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:21:07Z",
-    "url": "https://github.com/jthiruveedula/agentkit"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 65,
-    "updated_at": "2026-10-19T22:54:11Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
   }
 ]
