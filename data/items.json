@@ -1,11 +1,164 @@
 [
   {
+    "description": "Portable Claude Code profile \u2014 8-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Shell",
+    "name": "kopp0510/claude-dd",
+    "stars": 12,
+    "updated_at": "2026-10-19T00:28:22Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:27:33Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:27:28Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-10-19T00:25:50Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Response-style skill for AI coding agents, for twice-exceptional (2e: gifted + ADHD) users: expert depth, ADHD-friendly ",
+    "id": "JohnnyTriggerDev/twice-exceptional-skill",
+    "language": "Python",
+    "name": "JohnnyTriggerDev/twice-exceptional-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:23:55Z",
+    "url": "https://github.com/JohnnyTriggerDev/twice-exceptional-skill"
+  },
+  {
+    "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u56fe\u5e93\uff1a\u7cbe\u9009 X \u4e0a\u7684\u771f\u5b9e\u4f5c\u54c1\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u652f\u6301\u641c\u7d22\u3001\u7b5b\u9009\u3001\u4e00\u952e\u590d\u5236\uff0c\u6570\u636e\u53ef\u4e0b\u8f7d\uff08JSON/CSV\uff09\u3002\u975e\u5b98\u65b9\u5f00\u6e90\u9879\u76ee\u3002",
+    "id": "Bin0754/gpt-image-gallery",
+    "language": "HTML",
+    "name": "Bin0754/gpt-image-gallery",
+    "stars": 1,
+    "updated_at": "2026-10-19T00:22:48Z",
+    "url": "https://github.com/Bin0754/gpt-image-gallery"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-19T00:22:45Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "A prompt enhancer that learns from you: enhance and feedback over MCP",
+    "id": "Egoushka/whetstone",
+    "language": "C#",
+    "name": "Egoushka/whetstone",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:22:34Z",
+    "url": "https://github.com/Egoushka/whetstone"
+  },
+  {
+    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
+    "id": "belajarcarabelajar/vivera",
+    "language": "JavaScript",
+    "name": "belajarcarabelajar/vivera",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:20:54Z",
+    "url": "https://github.com/belajarcarabelajar/vivera"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:19:17Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
+    "id": "rynald0cst0ltziam/Warden-AI",
+    "language": "TypeScript",
+    "name": "rynald0cst0ltziam/Warden-AI",
+    "stars": 10,
+    "updated_at": "2026-10-19T00:18:18Z",
+    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
+  },
+  {
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
+    "id": "yzhao062/agent-style",
+    "language": "Python",
+    "name": "yzhao062/agent-style",
+    "stars": 718,
+    "updated_at": "2026-10-19T00:17:42Z",
+    "url": "https://github.com/yzhao062/agent-style"
+  },
+  {
+    "description": "Your prompt says 'don't mention billing.' Your agent mentions billing. Pink Elephant finds the don'ts in prompts, skills",
+    "id": "shahshrey/pink-elephant",
+    "language": "Python",
+    "name": "shahshrey/pink-elephant",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:17:33Z",
+    "url": "https://github.com/shahshrey/pink-elephant"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-10-19T00:16:58Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
+    "id": "projectbom/dev-guard",
+    "language": "TypeScript",
+    "name": "projectbom/dev-guard",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:16:21Z",
+    "url": "https://github.com/projectbom/dev-guard"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:15:40Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-19T00:15:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
     "id": "lowmason/agent-skills",
     "language": "Python",
     "name": "lowmason/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-19T00:12:54Z",
+    "updated_at": "2026-10-19T00:30:11Z",
     "url": "https://github.com/lowmason/agent-skills"
   },
   {
@@ -27,15 +180,6 @@
     "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
-    "description": "A prompt enhancer that learns from you: enhance and feedback over MCP",
-    "id": "Egoushka/whetstone",
-    "language": "C#",
-    "name": "Egoushka/whetstone",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:12:31Z",
-    "url": "https://github.com/Egoushka/whetstone"
-  },
-  {
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "id": "DenisSergeevitch/agents-best-practices",
     "language": "\u2014",
@@ -52,33 +196,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T00:11:22Z",
     "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "Your prompt says 'don't mention billing.' Your agent mentions billing. Pink Elephant finds the don'ts in prompts, skills",
-    "id": "shahshrey/pink-elephant",
-    "language": "Python",
-    "name": "shahshrey/pink-elephant",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:11:16Z",
-    "url": "https://github.com/shahshrey/pink-elephant"
-  },
-  {
-    "description": "Detect and rebut rationalization patterns in AI agent output",
-    "id": "hivecommons/rationguard",
-    "language": "TypeScript",
-    "name": "hivecommons/rationguard",
-    "stars": 3,
-    "updated_at": "2026-10-19T00:11:08Z",
-    "url": "https://github.com/hivecommons/rationguard"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-10-19T00:10:17Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -108,33 +225,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
-    "id": "belajarcarabelajar/vivera",
-    "language": "JavaScript",
-    "name": "belajarcarabelajar/vivera",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:08:15Z",
-    "url": "https://github.com/belajarcarabelajar/vivera"
-  },
-  {
-    "description": "Response-style skill for AI coding agents, for twice-exceptional (2e: gifted + ADHD) users: expert depth, ADHD-friendly ",
-    "id": "JohnnyTriggerDev/twice-exceptional-skill",
-    "language": "Python",
-    "name": "JohnnyTriggerDev/twice-exceptional-skill",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:05:40Z",
-    "url": "https://github.com/JohnnyTriggerDev/twice-exceptional-skill"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-19T00:11:55Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -142,15 +232,6 @@
     "stars": 9,
     "updated_at": "2026-10-19T00:01:33Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-19T00:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Keeps project direction recoverable without turning planning into the project.",
@@ -207,21 +288,12 @@
     "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
   },
   {
-    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
-    "id": "rynald0cst0ltziam/Warden-AI",
-    "language": "TypeScript",
-    "name": "rynald0cst0ltziam/Warden-AI",
-    "stars": 10,
-    "updated_at": "2026-10-19T00:11:57Z",
-    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28440,
-    "updated_at": "2026-10-18T23:55:44Z",
+    "updated_at": "2026-10-19T00:29:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -229,7 +301,7 @@
     "id": "kzndotsh/companion",
     "language": "Python",
     "name": "kzndotsh/companion",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-18T23:51:46Z",
     "url": "https://github.com/kzndotsh/companion"
   },
@@ -277,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T23:54:09Z",
     "url": "https://github.com/Gabs-jg/Hackaton-Encerramento-Lia-AI-R"
-  },
-  {
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
-    "id": "yzhao062/agent-style",
-    "language": "Python",
-    "name": "yzhao062/agent-style",
-    "stars": 718,
-    "updated_at": "2026-10-18T23:44:50Z",
-    "url": "https://github.com/yzhao062/agent-style"
   },
   {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:22:32Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-18T23:49:42Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:20:54Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Turn English into Chinese that reads like it was written in Chinese \u2014 a transcreation skill for AI agents (Claude Code, ",
-    "id": "NextAgentBC/zh-transcreation",
-    "language": "\u2014",
-    "name": "NextAgentBC/zh-transcreation",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:19:25Z",
-    "url": "https://github.com/NextAgentBC/zh-transcreation"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:19:11Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:19:07Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
-    "id": "ryanduguid/llm-tax-guardrails",
-    "language": "Python",
-    "name": "ryanduguid/llm-tax-guardrails",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:16:57Z",
-    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:15:50Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
   }
 ]
