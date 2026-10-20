@@ -1,5 +1,113 @@
 [
   {
+    "description": "Agent preset for DeepSeek Harness (dsh) \u2014 official preset channel, complete:true whole-prompt replacement, built-in tool",
+    "id": "wudidianzishu/dsh-purge-preset",
+    "language": "JavaScript",
+    "name": "wudidianzishu/dsh-purge-preset",
+    "stars": 1,
+    "updated_at": "2026-10-20T22:37:20Z",
+    "url": "https://github.com/wudidianzishu/dsh-purge-preset"
+  },
+  {
+    "description": "Universal Agent Prompt Deck \u2014 static HTML/CSS/JS deck of 107 agent prompts.",
+    "id": "nicolas-found42/prompt-pack",
+    "language": "JavaScript",
+    "name": "nicolas-found42/prompt-pack",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:35:18Z",
+    "url": "https://github.com/nicolas-found42/prompt-pack"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4983,
+    "updated_at": "2026-10-20T22:34:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A library of reusable instructions and Claude Code skills for AI coding agents.",
+    "id": "konstruktoid/agent-instructions-skills",
+    "language": "Python",
+    "name": "konstruktoid/agent-instructions-skills",
+    "stars": 2,
+    "updated_at": "2026-10-20T22:34:26Z",
+    "url": "https://github.com/konstruktoid/agent-instructions-skills"
+  },
+  {
+    "description": "Autonomous multi-agent engineering sentinel & bootstrapper. Synchronizes specialized agent personas, curated skills, and",
+    "id": "bepaldes/heimdall-agent",
+    "language": "JavaScript",
+    "name": "bepaldes/heimdall-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:34:36Z",
+    "url": "https://github.com/bepaldes/heimdall-agent"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 189,
+    "updated_at": "2026-10-20T22:37:30Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 50,
+    "updated_at": "2026-10-20T22:33:24Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 4095,
+    "updated_at": "2026-10-20T22:34:35Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:30:56Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7284,
+    "updated_at": "2026-10-20T22:30:36Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T22:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-20T22:37:27Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -115,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T22:18:58Z",
     "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T22:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -349,104 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-20T22:01:08Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4983,
-    "updated_at": "2026-10-20T22:24:45Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-20T22:00:14Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26199,
-    "updated_at": "2026-10-20T22:00:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-20T22:05:08Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28470,
-    "updated_at": "2026-10-20T21:57:55Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-10-20T21:56:55Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:55:44Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Modular agentic prompt library \u2014 turn a brief into production-ready software specs. Built for small context windows. By ",
-    "id": "ameedanxari/ai-prompt-library",
-    "language": "TypeScript",
-    "name": "ameedanxari/ai-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:55:37Z",
-    "url": "https://github.com/ameedanxari/ai-prompt-library"
-  },
-  {
-    "description": "Installable browser-task recovery Agent Skill, 12 original prompt modules and six local recovery demos. MIT; no leaked p",
-    "id": "LydiaTools/browser-agent-blueprint",
-    "language": "JavaScript",
-    "name": "LydiaTools/browser-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:00:31Z",
-    "url": "https://github.com/LydiaTools/browser-agent-blueprint"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:29:35Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "The foundation layer for agentic intelligence.",
-    "id": "promptise-com/Foundry",
-    "language": "Python",
-    "name": "promptise-com/Foundry",
-    "stars": 874,
-    "updated_at": "2026-10-20T22:28:07Z",
-    "url": "https://github.com/promptise-com/Foundry"
   }
 ]
