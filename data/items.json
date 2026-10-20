@@ -1,5 +1,86 @@
 [
   {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-20T06:18:05Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-20T06:18:04Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36056,
+    "updated_at": "2026-10-20T06:18:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "FavsHub \u2014\u2014 \u7f51\u5740\u5bfc\u822a\u4e0e\u667a\u80fd\u4e66\u7b7e\u7ba1\u7406\u5de5\u4f5c\u53f0\uff08Nuxt 3 SSR + SQLite\uff09\u3002\u5361\u7247\u5f0f\u4e66\u7b7e\u4e3b\u9875\u3001\u7ea6 29 \u6b3e\u641c\u7d22\u5f15\u64ce\u805a\u5408\u3001\u7cbe\u9009\u96c6\u5e02\u573a\u3001PromptPro AI \u63d0\u793a\u8bcd\u7ba1\u7406\u3001\u514d\u8d39\u989d\u5ea6\u901a\u544a\u4e0e\u5206\u4eab\u5361\u7247\uff1b\u914d\u6d4f\u89c8\u5668\u6269\u5c55\u591a\u7aef\u540c\u6b65\uff0c\u5e76\u63d0\u4f9b ",
+    "id": "huanyu-a/FavsHub_web",
+    "language": "TypeScript",
+    "name": "huanyu-a/FavsHub_web",
+    "stars": 4,
+    "updated_at": "2026-10-20T06:17:48Z",
+    "url": "https://github.com/huanyu-a/FavsHub_web"
+  },
+  {
+    "description": "",
+    "id": "digitaltodoenuno/claude",
+    "language": "HTML",
+    "name": "digitaltodoenuno/claude",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:17:22Z",
+    "url": "https://github.com/digitaltodoenuno/claude"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:17:18Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 ",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 2166,
+    "updated_at": "2026-10-20T06:15:41Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:15:39Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T06:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Creative Production Lab \u00b7 \u89c6\u89c9\u3001\u754c\u9762\u4e0e\u5199\u4f5c\u7684\u521b\u610f\u914d\u65b9\u5e93\u3002\u5148\u770b\u9884\u89c8\uff0c\u518d\u628a\u65b9\u6cd5\u5e26\u8fdb\u81ea\u5df1\u7684\u4f5c\u54c1\u3002",
     "id": "AurvalLab/Creative-Pro",
     "language": "\u2014",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-10-20T06:14:45Z",
     "url": "https://github.com/AurvalLab/Creative-Pro"
+  },
+  {
+    "description": "Portable coding-agent skills for evidence-first delivery and review.",
+    "id": "tyj-618/agent-skills",
+    "language": "Python",
+    "name": "tyj-618/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:13:49Z",
+    "url": "https://github.com/tyj-618/agent-skills"
   },
   {
     "description": "\u4e2a\u4eba Agent \u4e0a\u4e0b\u6587\u67b6\u6784\uff1a\u8ba9\u4efb\u4f55 AI \u4e0d\u7528\u91cd\u65b0\u89e3\u91ca\u5c31\u80fd\u7406\u89e3\u6211\u3002\u504f\u597d / \u8bb0\u5fc6 / \u5168\u5c40\u89c4\u5219 / \u96c6\u6210\u77e5\u8bc6 / Hook\u3002",
@@ -41,7 +131,7 @@
     "language": "Markdown",
     "name": "solid-ai-dev/solid-ai-templates",
     "stars": 4,
-    "updated_at": "2026-10-20T06:10:25Z",
+    "updated_at": "2026-10-20T06:19:25Z",
     "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-20T06:13:12Z",
+    "updated_at": "2026-10-20T06:18:28Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T06:09:20Z",
     "url": "https://github.com/chenhz01/instruction-gate"
-  },
-  {
-    "description": "FavsHub \u2014\u2014 \u7f51\u5740\u5bfc\u822a\u4e0e\u667a\u80fd\u4e66\u7b7e\u7ba1\u7406\u5de5\u4f5c\u53f0\uff08Nuxt 3 SSR + SQLite\uff09\u3002\u5361\u7247\u5f0f\u4e66\u7b7e\u4e3b\u9875\u3001\u7ea6 29 \u6b3e\u641c\u7d22\u5f15\u64ce\u805a\u5408\u3001\u7cbe\u9009\u96c6\u5e02\u573a\u3001PromptPro AI \u63d0\u793a\u8bcd\u7ba1\u7406\u3001\u514d\u8d39\u989d\u5ea6\u901a\u544a\u4e0e\u5206\u4eab\u5361\u7247\uff1b\u914d\u6d4f\u89c8\u5668\u6269\u5c55\u591a\u7aef\u540c\u6b65\uff0c\u5e76\u63d0\u4f9b ",
-    "id": "huanyu-a/FavsHub_web",
-    "language": "TypeScript",
-    "name": "huanyu-a/FavsHub_web",
-    "stars": 4,
-    "updated_at": "2026-10-20T06:08:32Z",
-    "url": "https://github.com/huanyu-a/FavsHub_web"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -178,15 +259,6 @@
     "stars": 2476,
     "updated_at": "2026-10-20T06:00:38Z",
     "url": "https://github.com/google/mantis"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T06:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Four-level skill index for agents with too many skills: cut per-turn prompt cost by 63%, hot-first retrieval, on-demand ",
@@ -288,15 +360,6 @@
     "url": "https://github.com/iKato92712/learn-anything-with-AI"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:57:47Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pai",
     "id": "Carolyn988/auto-improve",
     "language": "Python",
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:52:56Z",
     "url": "https://github.com/michalwarren70907/promptolution"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36056,
-    "updated_at": "2026-10-20T06:13:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:49:56Z",
     "url": "https://github.com/akiraking50150/MotionVault"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "ayseking922/hewn-forge",
-    "language": "HTML",
-    "name": "ayseking922/hewn-forge",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:48:53Z",
-    "url": "https://github.com/ayseking922/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28455,
-    "updated_at": "2026-10-20T05:56:49Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A Lean quality system for AI-assisted work \u2014 every defect becomes a permanent countermeasure. Built by a manufacturing o",
-    "id": "EduardoMemon1928/Andon",
-    "language": "Python",
-    "name": "EduardoMemon1928/Andon",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:48:24Z",
-    "url": "https://github.com/EduardoMemon1928/Andon"
-  },
-  {
-    "description": "flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readab",
-    "id": "sanjaylemoine/flompt",
-    "language": "TypeScript",
-    "name": "sanjaylemoine/flompt",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:59Z",
-    "url": "https://github.com/sanjaylemoine/flompt"
-  },
-  {
-    "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, ris",
-    "id": "adrianschmidt608/boring-is-all-you-need",
-    "language": "\u2014",
-    "name": "adrianschmidt608/boring-is-all-you-need",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:15Z",
-    "url": "https://github.com/adrianschmidt608/boring-is-all-you-need"
-  },
-  {
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
-    "id": "EliasWulff103/agentsmith",
-    "language": "Python",
-    "name": "EliasWulff103/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:00Z",
-    "url": "https://github.com/EliasWulff103/agentsmith"
   }
 ]
