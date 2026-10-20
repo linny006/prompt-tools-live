@@ -1,5 +1,113 @@
 [
   {
+    "description": "Gemini Studio AI is Google AI Studio in the browser. google gemini ai studio and gemini ai studio share one prompt bench",
+    "id": "Gemini-Studio-AI/Google-AI-Studio",
+    "language": "Python",
+    "name": "Gemini-Studio-AI/Google-AI-Studio",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:39:16Z",
+    "url": "https://github.com/Gemini-Studio-AI/Google-AI-Studio"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-10-20T19:38:04Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Evidence-first LLM-as-judge scoring for AI artifacts \u2014 papers, PRs, prompts, cold emails: synthesizes a rubric, collects",
+    "id": "hermes-labs-ai/hermes-rubric",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermes-rubric",
+    "stars": 2,
+    "updated_at": "2026-10-20T19:38:03Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-rubric"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-20T19:37:20Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-20T19:37:14Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Agent skills for Claude Code, Codex, OpenCode & Cursor \u2014 autonomous orchestration, code quality, local LLMs (Harbor), an",
+    "id": "av/skills",
+    "language": "Python",
+    "name": "av/skills",
+    "stars": 20,
+    "updated_at": "2026-10-20T19:35:50Z",
+    "url": "https://github.com/av/skills"
+  },
+  {
+    "description": "Local-first algorithmic trading research and automation app with multi-strategy backtesting, input optimization, LLM-ass",
+    "id": "ygyzys83/Turtle_Trading_Simulator",
+    "language": "Python",
+    "name": "ygyzys83/Turtle_Trading_Simulator",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:34:24Z",
+    "url": "https://github.com/ygyzys83/Turtle_Trading_Simulator"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:34:06Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, prompts, to",
+    "id": "mdesalvo/Morgana",
+    "language": "C#",
+    "name": "mdesalvo/Morgana",
+    "stars": 10,
+    "updated_at": "2026-10-20T19:32:45Z",
+    "url": "https://github.com/mdesalvo/Morgana"
+  },
+  {
+    "description": "Realtor Decision Assistant (RDA) \u2014 Early AI Prototype",
+    "id": "builditdan/realtordecisionassistant_md",
+    "language": "\u2014",
+    "name": "builditdan/realtordecisionassistant_md",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:32:13Z",
+    "url": "https://github.com/builditdan/realtordecisionassistant_md"
+  },
+  {
+    "description": "A side panel for Claude Code that coaches every prompt: what to improve, an enhanced prompt to copy, and skills drawn fr",
+    "id": "teransarathchandra/coachline",
+    "language": "Python",
+    "name": "teransarathchandra/coachline",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:32:07Z",
+    "url": "https://github.com/teransarathchandra/coachline"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T19:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
     "id": "tryAGI/Vellum",
     "language": "C#",
@@ -18,13 +126,13 @@
     "url": "https://github.com/Jxbbbbbyan/dsh-ml-planner"
   },
   {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:29:59Z",
-    "url": "https://github.com/joshuafolkken/kit"
+    "name": "langfuse/langfuse",
+    "stars": 36094,
+    "updated_at": "2026-10-20T19:29:47Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local-first AI prompt workspace with reusable templates, live previews, and optional multi-provider prompt enhancement",
@@ -32,7 +140,7 @@
     "language": "JavaScript",
     "name": "kingjethro999/promptdock",
     "stars": 1,
-    "updated_at": "2026-10-20T19:26:56Z",
+    "updated_at": "2026-10-20T19:38:20Z",
     "url": "https://github.com/kingjethro999/promptdock"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-20T19:26:50Z",
+    "updated_at": "2026-10-20T19:36:40Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -122,7 +230,7 @@
     "language": "Python",
     "name": "nuncaeslupus/claude-arsenal",
     "stars": 0,
-    "updated_at": "2026-10-20T19:22:22Z",
+    "updated_at": "2026-10-20T19:34:10Z",
     "url": "https://github.com/nuncaeslupus/claude-arsenal"
   },
   {
@@ -139,8 +247,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22781,
-    "updated_at": "2026-10-20T19:21:10Z",
+    "stars": 22782,
+    "updated_at": "2026-10-20T19:37:28Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-20T19:29:49Z",
+    "updated_at": "2026-10-20T19:39:32Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -207,15 +315,6 @@
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T19:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
     "id": "lowmason/agent-skills",
     "language": "Python",
@@ -223,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:14:42Z",
     "url": "https://github.com/lowmason/agent-skills"
-  },
-  {
-    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, prompts, to",
-    "id": "mdesalvo/Morgana",
-    "language": "C#",
-    "name": "mdesalvo/Morgana",
-    "stars": 10,
-    "updated_at": "2026-10-20T19:14:16Z",
-    "url": "https://github.com/mdesalvo/Morgana"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -342,15 +432,6 @@
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   },
   {
-    "description": "A side panel for Claude Code that coaches every prompt: what to improve, an enhanced prompt to copy, and skills drawn fr",
-    "id": "teransarathchandra/coachline",
-    "language": "Python",
-    "name": "teransarathchandra/coachline",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:29:48Z",
-    "url": "https://github.com/teransarathchandra/coachline"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:00:16Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-20T18:59:55Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28467,
-    "updated_at": "2026-10-20T19:00:42Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
-    "id": "Antarsoft/morphness",
-    "language": "Shell",
-    "name": "Antarsoft/morphness",
-    "stars": 6,
-    "updated_at": "2026-10-20T19:00:12Z",
-    "url": "https://github.com/Antarsoft/morphness"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-20T18:58:45Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:58:35Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "ctf: one Bash command that packs a source tree into a single Markdown, JSON, JSONL or text document with relative paths,",
-    "id": "paulmann/ctf-collect-to-file",
-    "language": "Shell",
-    "name": "paulmann/ctf-collect-to-file",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:58:19Z",
-    "url": "https://github.com/paulmann/ctf-collect-to-file"
-  },
-  {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 160 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 105,
-    "updated_at": "2026-10-20T18:58:15Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "PHP 8.4 web app that runs a council of LLMs over a BotHub-compatible API, scores their answers with a structured consens",
-    "id": "paulmann/AI-Consensus",
-    "language": "PHP",
-    "name": "paulmann/AI-Consensus",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:57:46Z",
-    "url": "https://github.com/paulmann/AI-Consensus"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:57:39Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
