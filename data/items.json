@@ -1,12 +1,75 @@
 [
   {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-20T00:27:48Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Matt Pocock skills \u7684\u7b80\u4f53\u4e2d\u6587\u672c\u5730\u5316\uff1a\u4eba\u5de5\u5ba1\u6838\u6bcf\u4e00\u6b21\u66f4\u65b0\uff0c\u5b9a\u671f\u540c\u6b65\u4e0a\u6e38\uff0c\u652f\u6301 Claude\u3001Codex \u548c DSH \u63d2\u4ef6\u3002",
+    "id": "vinvcn/mattpocock-skills-zh-CN",
+    "language": "JavaScript",
+    "name": "vinvcn/mattpocock-skills-zh-CN",
+    "stars": 5094,
+    "updated_at": "2026-10-20T00:28:30Z",
+    "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 13,
+    "updated_at": "2026-10-20T00:25:21Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22751,
+    "updated_at": "2026-10-20T00:24:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Curated map of self-evolving LLM agents \u2014 240+ papers across 18 topics incl. recursive self-improvement, harness evoluti",
+    "id": "sukoji/awesome-self-evolving-agents",
+    "language": "Python",
+    "name": "sukoji/awesome-self-evolving-agents",
+    "stars": 7,
+    "updated_at": "2026-10-20T00:23:41Z",
+    "url": "https://github.com/sukoji/awesome-self-evolving-agents"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-20T00:23:14Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 4,
+    "updated_at": "2026-10-20T00:22:30Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
+  },
+  {
+    "description": "Give DeepSeek Harness an operator mode: 13 system-prompt and runtime layers applied as a single --patch overlay. dsh its",
+    "id": "zoujiapeng/dshpj-installer",
+    "language": "JavaScript",
+    "name": "zoujiapeng/dshpj-installer",
     "stars": 0,
-    "updated_at": "2026-10-20T00:15:01Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
+    "updated_at": "2026-10-20T00:22:25Z",
+    "url": "https://github.com/zoujiapeng/dshpj-installer"
   },
   {
     "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
@@ -14,8 +77,35 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 224,
-    "updated_at": "2026-10-20T00:14:06Z",
+    "updated_at": "2026-10-20T00:21:36Z",
     "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-10-20T00:15:44Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T00:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:15:01Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
     "description": "Claude Code plugin that refines the prompts you type using Anthropic's prompt-engineering guidance; clear prompts pass t",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T00:09:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 13,
-    "updated_at": "2026-10-20T00:09:57Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -108,15 +189,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T00:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable agent skills you carry into any project. A Claude Code plugin marketplace in the open SKILL.md format, so other",
     "id": "matiinchauspe/arsenal",
     "language": "CSS",
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28452,
-    "updated_at": "2026-10-19T23:48:35Z",
+    "updated_at": "2026-10-20T00:27:31Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-19T23:23:45Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5205,
-    "updated_at": "2026-10-19T23:24:19Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:22:33Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:22:30Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:21:59Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:21:59Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:21:56Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Autonomous, headless AI Go-to-Market (GTM) outbound engine & MCP Server powered by PostgreSQL 16 + pgvector.",
-    "id": "lucasmartins-ai/lookaberry",
-    "language": "TypeScript",
-    "name": "lucasmartins-ai/lookaberry",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:21:33Z",
-    "url": "https://github.com/lucasmartins-ai/lookaberry"
-  },
-  {
-    "description": "Free, open-source, token-efficient local alternative to Firecrawl with native MCP Server for LLMs (>73% token reduction)",
-    "id": "lucasmartins-ai/lookacrawler",
-    "language": "TypeScript",
-    "name": "lucasmartins-ai/lookacrawler",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:21:29Z",
-    "url": "https://github.com/lucasmartins-ai/lookacrawler"
   }
 ]
