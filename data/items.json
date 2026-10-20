@@ -1,5 +1,86 @@
 [
   {
+    "description": "Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all.",
+    "id": "ChefPlex/ai-automations",
+    "language": "\u2014",
+    "name": "ChefPlex/ai-automations",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:28:26Z",
+    "url": "https://github.com/ChefPlex/ai-automations"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 1058,
+    "updated_at": "2026-10-20T04:26:08Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:25:50Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1885,
+    "updated_at": "2026-10-20T04:25:49Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 7,
+    "updated_at": "2026-10-20T04:22:57Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "Empirical dataset and SAST security evaluation benchmarks for LLM code across 218 prompting experiments.",
+    "id": "MasterPandaa/Prompt-Engineering-Collection",
+    "language": "Python",
+    "name": "MasterPandaa/Prompt-Engineering-Collection",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:21:54Z",
+    "url": "https://github.com/MasterPandaa/Prompt-Engineering-Collection"
+  },
+  {
+    "description": "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
+    "id": "3641397194-wq/gpt6-Astra",
+    "language": "JavaScript",
+    "name": "3641397194-wq/gpt6-Astra",
+    "stars": 1169,
+    "updated_at": "2026-10-20T04:19:57Z",
+    "url": "https://github.com/3641397194-wq/gpt6-Astra"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2271,
+    "updated_at": "2026-10-20T04:17:12Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T04:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Emily2040/gravitas"
   },
   {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:15:07Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
     "description": "Evaluating an LLM as a manual test-case generator: rubric review, bug detection across 3 prompt versions, and bug report",
     "id": "jjservaldez/ai-test-case-agent",
     "language": "\u2014",
@@ -113,7 +185,7 @@
     "language": "JavaScript",
     "name": "SunflowersLwtech/sunkit",
     "stars": 13,
-    "updated_at": "2026-10-20T04:01:20Z",
+    "updated_at": "2026-10-20T04:26:11Z",
     "url": "https://github.com/SunflowersLwtech/sunkit"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 9,
     "updated_at": "2026-10-20T04:01:09Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T04:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 12,
-    "updated_at": "2026-10-20T03:59:43Z",
+    "updated_at": "2026-10-20T04:30:00Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/NekroAI/qantrip"
   },
   {
-    "description": "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
-    "id": "3641397194-wq/gpt6-Astra",
-    "language": "JavaScript",
-    "name": "3641397194-wq/gpt6-Astra",
-    "stars": 1169,
-    "updated_at": "2026-10-20T03:55:32Z",
-    "url": "https://github.com/3641397194-wq/gpt6-Astra"
-  },
-  {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
@@ -220,7 +274,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26163,
+    "stars": 26164,
     "updated_at": "2026-10-20T03:54:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "hhuang91/tuningfork",
     "stars": 0,
-    "updated_at": "2026-10-20T03:52:57Z",
+    "updated_at": "2026-10-20T04:26:57Z",
     "url": "https://github.com/hhuang91/tuningfork"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
   {
-    "description": "Empirical dataset and SAST security evaluation benchmarks for LLM code across 218 prompting experiments.",
-    "id": "MasterPandaa/Prompt-Engineering-Collection",
-    "language": "Python",
-    "name": "MasterPandaa/Prompt-Engineering-Collection",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:39:50Z",
-    "url": "https://github.com/MasterPandaa/Prompt-Engineering-Collection"
-  },
-  {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
     "id": "majoie02/agent-contract-nexus",
     "language": "HTML",
@@ -383,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T04:04:41Z",
+    "updated_at": "2026-10-20T04:23:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "hivecommons/promptargs",
     "stars": 3,
-    "updated_at": "2026-10-20T03:59:37Z",
+    "updated_at": "2026-10-20T04:20:18Z",
     "url": "https://github.com/hivecommons/promptargs"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3729,
     "updated_at": "2026-10-20T03:34:29Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "Python",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 4,
-    "updated_at": "2026-10-20T03:34:02Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 5,
-    "updated_at": "2026-10-20T03:30:48Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-20T03:56:38Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
-    "id": "carpentry-liu/awesome-astra-3d",
-    "language": "TypeScript",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "stars": 16,
-    "updated_at": "2026-10-20T03:27:58Z",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
-  },
-  {
-    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
-    "id": "chjm-ai/vococo",
-    "language": "Python",
-    "name": "chjm-ai/vococo",
-    "stars": 42,
-    "updated_at": "2026-10-20T03:26:02Z",
-    "url": "https://github.com/chjm-ai/vococo"
   }
 ]
