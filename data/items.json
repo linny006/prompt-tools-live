@@ -1,11 +1,128 @@
 [
   {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 4095,
+    "updated_at": "2026-10-20T21:43:16Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-20T21:42:08Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:41:45Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "\u98ce\u63d2 2.0 \u2014 DSH \u63a8\u7406\u8bed\u57df\u951a\u5b9a\u9884\u8bbe\uff1a\u4e24\u4e2a agent preset\uff08\u98ce\u63d2\u6807\u51c6/\u98ce\u63d2 PTC\uff09\u5728 runtime-context \u5feb\u7167\u5934\u5c3e\u5404\u6ce8\u5165\u4e00\u6b21\u5f62\u5f0f\u5316\u7ea6\u675f\uff0c\u4f7f\u63a8\u7406\u4ee5\u7b2c\u4e00\u4eba\u79f0\u590d\u6570\u5c55\u5f00\u3002\u5b9a\u6027=\u786c\u6307\u4ee4\u7ea6\u675f\uff08\u975e\u5438\u5f15\u5b50\uff09\uff1b\u672a\u8bc1\u660e\u80fd\u529b\u63d0\u5347\uff0c\u672a",
+    "id": "yjh051108/fengcha-2.0",
+    "language": "JavaScript",
+    "name": "yjh051108/fengcha-2.0",
+    "stars": 21,
+    "updated_at": "2026-10-20T21:40:58Z",
+    "url": "https://github.com/yjh051108/fengcha-2.0"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-20T21:44:34Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 113842,
+    "updated_at": "2026-10-20T21:39:34Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-10-20T21:39:12Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Stories, archetypes, and pressure tests for agents that need more than instructions.",
+    "id": "lachyy262/mythopraxis",
+    "language": "Python",
+    "name": "lachyy262/mythopraxis",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:38:13Z",
+    "url": "https://github.com/lachyy262/mythopraxis"
+  },
+  {
+    "description": "AI agents in n8n that turn support chat and feedback forms into Jira tickets, sharing Jira tools through an MCP server",
+    "id": "matei02/n8n-ai-support-agents",
+    "language": "\u2014",
+    "name": "matei02/n8n-ai-support-agents",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:35:11Z",
+    "url": "https://github.com/matei02/n8n-ai-support-agents"
+  },
+  {
+    "description": "AI-related dotfiles and configs",
+    "id": "kubasejdak-org/dotfiles-ai",
+    "language": "Python",
+    "name": "kubasejdak-org/dotfiles-ai",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:34:50Z",
+    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:34:48Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-20T21:32:38Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-20T21:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Every claim machine-checked, including the counts in these badges \u2014 governed skills, rules and replayable state. One con",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 12,
-    "updated_at": "2026-10-20T21:30:03Z",
+    "updated_at": "2026-10-20T21:35:28Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -45,15 +162,6 @@
     "url": "https://github.com/gufranco/claude-engineering-rules"
   },
   {
-    "description": "Stories, archetypes, and pressure tests for agents that need more than instructions.",
-    "id": "lachyy262/mythopraxis",
-    "language": "Python",
-    "name": "lachyy262/mythopraxis",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:22:34Z",
-    "url": "https://github.com/lachyy262/mythopraxis"
-  },
-  {
     "description": "marola way of coding",
     "id": "marola-dev/marola-skills",
     "language": "Python",
@@ -63,15 +171,6 @@
     "url": "https://github.com/marola-dev/marola-skills"
   },
   {
-    "description": "\u98ce\u63d2 2.0 \u2014 DSH \u63a8\u7406\u8bed\u57df\u951a\u5b9a\u9884\u8bbe\uff1a\u4e24\u4e2a agent preset\uff08\u98ce\u63d2\u6807\u51c6/\u98ce\u63d2 PTC\uff09\u5728 runtime-context \u5feb\u7167\u5934\u5c3e\u5404\u6ce8\u5165\u4e00\u6b21\u5f62\u5f0f\u5316\u7ea6\u675f\uff0c\u4f7f\u63a8\u7406\u4ee5\u7b2c\u4e00\u4eba\u79f0\u590d\u6570\u5c55\u5f00\u3002\u5b9a\u6027=\u786c\u6307\u4ee4\u7ea6\u675f\uff08\u975e\u5438\u5f15\u5b50\uff09\uff1b\u672a\u8bc1\u660e\u80fd\u529b\u63d0\u5347\uff0c\u672a",
-    "id": "yjh051108/fengcha-2.0",
-    "language": "JavaScript",
-    "name": "yjh051108/fengcha-2.0",
-    "stars": 21,
-    "updated_at": "2026-10-20T21:21:22Z",
-    "url": "https://github.com/yjh051108/fengcha-2.0"
-  },
-  {
     "description": "What does your system prompt actually cost on every single request?",
     "id": "rustemmustafingovua-byte/prompt-budget",
     "language": "JavaScript",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:20:10Z",
     "url": "https://github.com/rustemmustafingovua-byte/prompt-budget"
-  },
-  {
-    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:26:17Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
@@ -133,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:15:57Z",
     "url": "https://github.com/bay714/VibiusMaximus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-20T21:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:24:33Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
     "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
@@ -207,15 +279,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-20T21:05:14Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
     "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
     "id": "ryanportfolio/savetokens",
     "language": "JavaScript",
@@ -223,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T21:05:02Z",
     "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:26:40Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -315,15 +369,6 @@
     "url": "https://github.com/ardha27/seedance-prompts"
   },
   {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:01:40Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 35,
     "updated_at": "2026-10-20T20:49:45Z",
     "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
-    "description": "AI \u7f51\u6587\u521b\u4f5c\u5de5\u7a0b\u5316\u6280\u80fd\uff1a30\u9879\u6821\u9a8c\u786c\u5361 + 18\u672c\u5199\u4f5c\u624b\u518c + \u8d28\u68c0\u5de5\u5177\u94fe\uff0c\u628a\u300c\u4f1a\u5199\u5c0f\u8bf4\u300d\u53d8\u6210\u53ef\u9a8c\u8bc1\u7684\u5de5\u7a0b\u6d41\u7a0b\uff08ZCode / Claude Code\uff09",
-    "id": "lenmo181/novel-writing-skill",
-    "language": "Python",
-    "name": "lenmo181/novel-writing-skill",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:49:34Z",
-    "url": "https://github.com/lenmo181/novel-writing-skill"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40231,
-    "updated_at": "2026-10-20T20:47:50Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-20T20:47:40Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an",
-    "id": "enclave402/narrative-token-ssot",
-    "language": "JavaScript",
-    "name": "enclave402/narrative-token-ssot",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:46:14Z",
-    "url": "https://github.com/enclave402/narrative-token-ssot"
-  },
-  {
-    "description": "latest top 100 showcases for jev (keep updating) from x / github / latest sources",
-    "id": "yangzhou-chaofan/awesome-jev-prompt",
-    "language": "CSS",
-    "name": "yangzhou-chaofan/awesome-jev-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:46:10Z",
-    "url": "https://github.com/yangzhou-chaofan/awesome-jev-prompt"
   }
 ]
