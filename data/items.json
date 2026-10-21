@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-10-21T10:19:21Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
+    "id": "dylanma8232-art/daming-skillgain",
+    "language": "Python",
+    "name": "dylanma8232-art/daming-skillgain",
+    "stars": 0,
+    "updated_at": "2026-10-21T10:17:58Z",
+    "url": "https://github.com/dylanma8232-art/daming-skillgain"
+  },
+  {
+    "description": "Model-agnostic output control for LLM agents: concise, action-first answers with proof and risk preserved. Native instal",
+    "id": "FlorianBruniaux/flow-lean",
+    "language": "Python",
+    "name": "FlorianBruniaux/flow-lean",
+    "stars": 21,
+    "updated_at": "2026-10-21T10:17:12Z",
+    "url": "https://github.com/FlorianBruniaux/flow-lean"
+  },
+  {
+    "description": "Claude Code plugin that refines the prompts you type using Anthropic's prompt-engineering guidance; clear prompts pass t",
+    "id": "monte3l/m3l-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "monte3l/m3l-prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-21T10:17:00Z",
+    "url": "https://github.com/monte3l/m3l-prompt-optimizer"
+  },
+  {
+    "description": "Drop-in skill that turns any repo \u2014 any language, greenfield or brownfield \u2014 into a self-maintaining markdown context wi",
+    "id": "AnshRoshan/ctxfolio",
+    "language": "JavaScript",
+    "name": "AnshRoshan/ctxfolio",
+    "stars": 0,
+    "updated_at": "2026-10-21T10:16:48Z",
+    "url": "https://github.com/AnshRoshan/ctxfolio"
+  },
+  {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T10:16:38Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T10:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local Windows AI prompt enhancer (Tauri 2 + Rust). 100% offline: prompts, history, API key stay on disk (SQLCipher). Qua",
     "id": "wewe29/ai-prompt-enhancer",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4985,
-    "updated_at": "2026-10-21T10:14:47Z",
+    "updated_at": "2026-10-21T10:18:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22791,
-    "updated_at": "2026-10-21T10:11:00Z",
+    "updated_at": "2026-10-21T10:18:21Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T10:09:58Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Open-source Agent Skills for planning, drafting, revising, and polishing SCI/SSCI papers\u2014while preserving evidence, cita",
@@ -106,6 +160,15 @@
     "stars": 138,
     "updated_at": "2026-10-21T10:08:55Z",
     "url": "https://github.com/Yila-AI/awesome-research-skills"
+  },
+  {
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 28470,
+    "updated_at": "2026-10-21T10:08:24Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "A complete user working-rules skill for AI coding assistants: 21 core rules (C1\u2013C21) + 12 scenario chapters, with a v3 f",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 13,
-    "updated_at": "2026-10-21T10:04:49Z",
+    "updated_at": "2026-10-21T10:18:20Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36129,
-    "updated_at": "2026-10-21T10:14:08Z",
+    "updated_at": "2026-10-21T10:19:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -216,24 +279,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T10:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 28469,
-    "updated_at": "2026-10-21T10:08:24Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "solid-ai-dev/solid-ai-templates",
     "stars": 4,
-    "updated_at": "2026-10-21T10:12:18Z",
+    "updated_at": "2026-10-21T10:19:21Z",
     "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T09:51:21Z",
     "url": "https://github.com/Yu-Xiao-Sheng/fabric-patterns-zh"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-21T09:55:08Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 2,
-    "updated_at": "2026-10-21T09:50:08Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-10-21T09:49:43Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
-    "description": "AI \u52a8\u6f2b\u89c6\u9891\u521b\u4f5c\u5411\u5bfc\uff1a\u628a\u300c\u6211\u60f3\u505a\u4e2a\u52a8\u6f2b\u89c6\u9891\u300d\u53d8\u6210\u4e00\u4efd\u53ef\u76f4\u63a5\u5f00\u62cd\u7684\u65b9\u6848 \u2014\u2014 \u5206\u955c\u8868 / \u89d2\u8272\u4e0e\u573a\u666f\u8bbe\u5b9a\u5361 / \u591a\u5e73\u53f0\u63d0\u793a\u8bcd / \u7a7f\u5e2e\u68c0\u67e5\u3002\u514d\u6ce8\u518c\u3001\u96f6\u540e\u7aef\uff0c\u6570\u636e\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002",
-    "id": "exiell/ai-video",
-    "language": "TypeScript",
-    "name": "exiell/ai-video",
-    "stars": 1,
-    "updated_at": "2026-10-21T09:49:19Z",
-    "url": "https://github.com/exiell/ai-video"
-  },
-  {
-    "description": "\u738b\u4e8c\u8bb2Agent\uff1aAI Agent \u9762\u8bd5\u9898 / Agent\u516b\u80a1\uff0c\u9010\u9898\u56fe\u6587\u8be6\u89e3+\u89c6\u9891\u8bb2\u89e3\uff0c\u9644 Remotion \u89c6\u9891\u5de5\u7a0b",
-    "id": "itwanger/ai-better",
-    "language": "TypeScript",
-    "name": "itwanger/ai-better",
-    "stars": 6,
-    "updated_at": "2026-10-21T09:49:14Z",
-    "url": "https://github.com/itwanger/ai-better"
   }
 ]
