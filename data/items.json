@@ -1,12 +1,93 @@
 [
   {
+    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
+    "id": "5dive-ai/skills",
+    "language": "Shell",
+    "name": "5dive-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:30:16Z",
+    "url": "https://github.com/5dive-ai/skills"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-21T05:29:28Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
+    "id": "dakotamurphyucf/ochat",
+    "language": "OCaml",
+    "name": "dakotamurphyucf/ochat",
+    "stars": 31,
+    "updated_at": "2026-10-21T05:28:07Z",
+    "url": "https://github.com/dakotamurphyucf/ochat"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:27:52Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
     "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
     "id": "AhmedMerza/agent-skills",
     "language": "Python",
     "name": "AhmedMerza/agent-skills",
     "stars": 2,
-    "updated_at": "2026-10-21T05:23:51Z",
+    "updated_at": "2026-10-21T05:27:48Z",
     "url": "https://github.com/AhmedMerza/agent-skills"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3916,
+    "updated_at": "2026-10-21T05:27:47Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "ComfyUI custom nodes: a zero-dependency seasonal fashion/scene prompt generator (CSV) + Gemma-4 TIPO that expands Korean",
+    "id": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "language": "Python",
+    "name": "raspie10032/RS-Seasonal-Prompt-Generator",
+    "stars": 2,
+    "updated_at": "2026-10-21T05:27:08Z",
+    "url": "https://github.com/raspie10032/RS-Seasonal-Prompt-Generator"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 224,
+    "updated_at": "2026-10-21T05:26:17Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 141,
+    "updated_at": "2026-10-21T05:24:45Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T05:24:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, a",
@@ -99,15 +180,6 @@
     "url": "https://github.com/askFinz/askfinz-guides"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T05:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
     "id": "Antarsoft/morphness",
     "language": "Shell",
@@ -115,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-10-21T05:13:48Z",
     "url": "https://github.com/Antarsoft/morphness"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-21T05:12:32Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26214,
-    "updated_at": "2026-10-21T05:02:20Z",
+    "updated_at": "2026-10-21T05:26:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "hhuang91/tuningfork",
     "stars": 0,
-    "updated_at": "2026-10-21T05:04:45Z",
+    "updated_at": "2026-10-21T05:25:48Z",
     "url": "https://github.com/hhuang91/tuningfork"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T05:10:02Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 2,
-    "updated_at": "2026-10-21T04:48:55Z",
-    "url": "https://github.com/kzndotsh/companion"
-  },
-  {
-    "description": "PromptMend: Espanso triggers that rewrite rough drafts into precise LLM prompts (OpenRouter, Anthropic, Ollama, LM Studi",
-    "id": "vlastimilbures/promptmend",
-    "language": "Python",
-    "name": "vlastimilbures/promptmend",
-    "stars": 3,
-    "updated_at": "2026-10-21T04:48:51Z",
-    "url": "https://github.com/vlastimilbures/promptmend"
-  },
-  {
-    "description": "An 18-test, 6-dimension reliability battery for AI agents. Honest A-F, and any dimension the evidence cannot support com",
-    "id": "forevercrab321-svg/leevar-battery",
-    "language": "TypeScript",
-    "name": "forevercrab321-svg/leevar-battery",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:47:06Z",
-    "url": "https://github.com/forevercrab321-svg/leevar-battery"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-10-21T04:47:04Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
-    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
-    "id": "5dive-ai/skills",
-    "language": "Shell",
-    "name": "5dive-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T05:17:16Z",
-    "url": "https://github.com/5dive-ai/skills"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 50,
-    "updated_at": "2026-10-21T04:48:21Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
-    "id": "alivirgo/Major-AI-Skills",
-    "language": "HTML",
-    "name": "alivirgo/Major-AI-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-21T04:45:33Z",
-    "url": "https://github.com/alivirgo/Major-AI-Skills"
   }
 ]
