@@ -1,5 +1,113 @@
 [
   {
+    "description": "MOSS-Image \u63d0\u793a\u8bcd skill\uff1a\u5199\u5b9e\u4e0e\u4e8c\u6b21\u5143\u4e24\u6761\u98ce\u683c\u901a\u9053 + \u955c\u5934/\u6784\u56fe/\u7f8e\u5b66\u6280\u6cd5\u5c42\uff0c\u5206\u6587\u4ef6\u6309\u9700\u52a0\u8f7d\u3002",
+    "id": "jialanhu0915/silver-moss-image-prompt-skill",
+    "language": "\u2014",
+    "name": "jialanhu0915/silver-moss-image-prompt-skill",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:30:13Z",
+    "url": "https://github.com/jialanhu0915/silver-moss-image-prompt-skill"
+  },
+  {
+    "description": "\ud83c\udfac 60 curated Kling 4.0 video generation prompts \u2014 cinematic, action, animation, UGC, ads, and video editing. Includes or",
+    "id": "BravoNeo/awesome-kling-4-0-prompts",
+    "language": "Python",
+    "name": "BravoNeo/awesome-kling-4-0-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:28:19Z",
+    "url": "https://github.com/BravoNeo/awesome-kling-4-0-prompts"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36137,
+    "updated_at": "2026-10-21T15:29:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-21T15:27:07Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "The skills I use to build software with coding agents.",
+    "id": "bostonaholic/skills",
+    "language": "JavaScript",
+    "name": "bostonaholic/skills",
+    "stars": 2,
+    "updated_at": "2026-10-21T15:30:21Z",
+    "url": "https://github.com/bostonaholic/skills"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 2,
+    "updated_at": "2026-10-21T15:25:57Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "Installable browser-task recovery Agent Skill, 12 original prompt modules and six local recovery demos. MIT; no leaked p",
+    "id": "LydiaTools/browser-agent-blueprint",
+    "language": "JavaScript",
+    "name": "LydiaTools/browser-agent-blueprint",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:25:52Z",
+    "url": "https://github.com/LydiaTools/browser-agent-blueprint"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-21T15:30:28Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 4103,
+    "updated_at": "2026-10-21T15:24:30Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T15:23:18Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:22:53Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-21T15:26:48Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
     "description": "Animated React components for sites that sell, each with a prompt that teaches your AI agent to rebuild it.",
     "id": "JouberthAlves/motionshelf",
     "language": "TypeScript",
@@ -14,26 +122,8 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-21T15:19:11Z",
+    "updated_at": "2026-10-21T15:30:05Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "Kling 4.0 series video prompts with original text, video previews, creator credits and input references. Current example",
-    "id": "BravoNeo/awesome-kling-4-0-prompts",
-    "language": "Python",
-    "name": "BravoNeo/awesome-kling-4-0-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:18:40Z",
-    "url": "https://github.com/BravoNeo/awesome-kling-4-0-prompts"
-  },
-  {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-21T15:21:12Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
     "description": "Composable ::name prompt snippets for omp (oh-my-pi) \u2014 live picker, pin mechanism, exclusivity groups",
@@ -54,15 +144,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T15:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -70,15 +151,6 @@
     "stars": 13,
     "updated_at": "2026-10-21T15:14:56Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-21T15:20:51Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T15:12:42Z",
     "url": "https://github.com/ayase0307/ai-comic-drama"
-  },
-  {
-    "description": "The skills I use to build software with coding agents.",
-    "id": "bostonaholic/skills",
-    "language": "JavaScript",
-    "name": "bostonaholic/skills",
-    "stars": 2,
-    "updated_at": "2026-10-21T15:14:13Z",
-    "url": "https://github.com/bostonaholic/skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -153,20 +216,11 @@
     "url": "https://github.com/hhuang91/tuningfork"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36136,
-    "updated_at": "2026-10-21T15:22:44Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22799,
+    "stars": 22800,
     "updated_at": "2026-10-21T15:06:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -176,7 +230,7 @@
     "language": "HTML",
     "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
     "stars": 797,
-    "updated_at": "2026-10-21T15:06:07Z",
+    "updated_at": "2026-10-21T15:19:54Z",
     "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
   },
   {
@@ -207,6 +261,15 @@
     "url": "https://github.com/flashfrogluo/second-take"
   },
   {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:04:24Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-21T15:21:36Z",
+    "updated_at": "2026-10-21T15:29:00Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -247,7 +310,7 @@
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 121825,
+    "stars": 121826,
     "updated_at": "2026-10-21T15:02:05Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -268,6 +331,15 @@
     "stars": 9,
     "updated_at": "2026-10-21T15:01:17Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:00:21Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
     "description": "Local Windows AI prompt enhancer (Tauri 2 + Rust). 100% offline: prompts, history, API key stay on disk (SQLCipher). Qua",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T14:57:31Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:57:28Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:57:06Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:56:12Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:56:07Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
-    "id": "tradecatlabs/vibe-coding-cn",
-    "language": "Makefile",
-    "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17709,
-    "updated_at": "2026-10-21T14:56:03Z",
-    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "\u26a1 Describe the problem. /god picks the right skills and sees the job through. 107 skills, 6 subagents and one protocol f",
-    "id": "Gastonchevarria/god-mode",
-    "language": "JavaScript",
-    "name": "Gastonchevarria/god-mode",
-    "stars": 3,
-    "updated_at": "2026-10-21T14:55:59Z",
-    "url": "https://github.com/Gastonchevarria/god-mode"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:55:47Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-21T14:55:33Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
