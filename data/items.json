@@ -1,5 +1,122 @@
 [
   {
+    "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
+    "id": "Coolhand-Labs/coolhand-ruby",
+    "language": "Ruby",
+    "name": "Coolhand-Labs/coolhand-ruby",
+    "stars": 10,
+    "updated_at": "2026-10-21T21:45:18Z",
+    "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
+  },
+  {
+    "description": "Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 3,
+    "updated_at": "2026-10-21T21:43:10Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "ctf: one Bash command that packs a source tree into a single Markdown, JSON, JSONL or text document with relative paths,",
+    "id": "paulmann/ctf-collect-to-file",
+    "language": "Shell",
+    "name": "paulmann/ctf-collect-to-file",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:42:28Z",
+    "url": "https://github.com/paulmann/ctf-collect-to-file"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:42:16Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "ComfyUI \u52a8\u6f2b\u51fa\u56fe/\u4fee\u56fe\u7684 agent \u6280\u80fd\u5957\u4ef6\uff1a\u56db\u8def\u5b9a\u4f4d\u2192\u63a9\u7248\u2192\u5c40\u90e8\u91cd\u7ed8\u2192\u62a0\u56fe\u6362\u80cc\u666f\uff0c\u9644\u52a8\u6f2b\u90e8\u4f4d\u68c0\u6d4b\u6a21\u578b\u4e0e\u53ef\u590d\u73b0\u8bc4\u6d4b\u8bb0\u5f55\u3002Local-first ComfyUI anime image skill suite for agents.",
+    "id": "42cc-hub/comfyui-agent-suite",
+    "language": "Python",
+    "name": "42cc-hub/comfyui-agent-suite",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:41:37Z",
+    "url": "https://github.com/42cc-hub/comfyui-agent-suite"
+  },
+  {
+    "description": "200+ production-ready AI prompts using the RTFC framework. Marketing, sales, content, freelance & more. Works with ChatG",
+    "id": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:41:29Z",
+    "url": "https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit"
+  },
+  {
+    "description": "PHP 8.4 web app that runs a council of LLMs over a BotHub-compatible API, scores their answers with a structured consens",
+    "id": "paulmann/AI-Consensus",
+    "language": "PHP",
+    "name": "paulmann/AI-Consensus",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:41:17Z",
+    "url": "https://github.com/paulmann/AI-Consensus"
+  },
+  {
+    "description": "Write a full-length Chinese webnovel with AI \u2014 layered memory for long-form consistency, 37 genre templates reverse-engi",
+    "id": "XZ-LI/ai-webnovel-pipeline",
+    "language": "Python",
+    "name": "XZ-LI/ai-webnovel-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:40:08Z",
+    "url": "https://github.com/XZ-LI/ai-webnovel-pipeline"
+  },
+  {
+    "description": "Benchmarking AI agent skills, instructions & rules.",
+    "id": "MetaX5/DirectiveBench",
+    "language": "TypeScript",
+    "name": "MetaX5/DirectiveBench",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:37:40Z",
+    "url": "https://github.com/MetaX5/DirectiveBench"
+  },
+  {
+    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
+    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "language": "JavaScript",
+    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "stars": 6,
+    "updated_at": "2026-10-21T21:38:24Z",
+    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
+  },
+  {
+    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
+    "id": "Ghost7802/awesome-api-skills",
+    "language": "JavaScript",
+    "name": "Ghost7802/awesome-api-skills",
+    "stars": 13,
+    "updated_at": "2026-10-21T21:35:07Z",
+    "url": "https://github.com/Ghost7802/awesome-api-skills"
+  },
+  {
+    "description": "The Military-Grade Memory Hygiene, private, offline-first prompt manager for AI Agent power users. Features AES-256 encr",
+    "id": "SagarBiswas-MultiHAT/promptVault",
+    "language": "TypeScript",
+    "name": "SagarBiswas-MultiHAT/promptVault",
+    "stars": 31,
+    "updated_at": "2026-10-21T21:32:51Z",
+    "url": "https://github.com/SagarBiswas-MultiHAT/promptVault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T21:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -9,21 +126,12 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "The private, offline-first prompt manager for AI Agent power users. Features AES-256 encrypted local storage, a built-in",
-    "id": "SagarBiswas-MultiHAT/promptVault",
-    "language": "TypeScript",
-    "name": "SagarBiswas-MultiHAT/promptVault",
-    "stars": 31,
-    "updated_at": "2026-10-21T21:27:20Z",
-    "url": "https://github.com/SagarBiswas-MultiHAT/promptVault"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-21T21:29:16Z",
+    "updated_at": "2026-10-21T21:36:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -54,6 +162,15 @@
     "url": "https://github.com/markkirby125/kirby-aiseo-skill"
   },
   {
+    "description": "61 specialist workflows with executable local tools, evidence checks and an explainable task router. Free under MIT.",
+    "id": "Shaisolaris/solaris-dev-shop",
+    "language": "Python",
+    "name": "Shaisolaris/solaris-dev-shop",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:24:50Z",
+    "url": "https://github.com/Shaisolaris/solaris-dev-shop"
+  },
+  {
     "description": "Awesome Claude Opus 5.5: curated videos, prompts and examples made with Claude Opus 5.5 (Three.js, WebGL, SVG, games), p",
     "id": "sandbase-lab/awesome-opus-5.5",
     "language": "Python",
@@ -70,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T21:24:08Z",
     "url": "https://github.com/sandbase-lab/awesome-gemini4-argon"
-  },
-  {
-    "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
-    "id": "Coolhand-Labs/coolhand-ruby",
-    "language": "Ruby",
-    "name": "Coolhand-Labs/coolhand-ruby",
-    "stars": 10,
-    "updated_at": "2026-10-21T21:29:00Z",
-    "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
   },
   {
     "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
@@ -104,7 +212,7 @@
     "language": "Python",
     "name": "Coolhand-Labs/coolhand-python",
     "stars": 2,
-    "updated_at": "2026-10-21T21:23:30Z",
+    "updated_at": "2026-10-21T21:34:51Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-python"
   },
   {
@@ -113,7 +221,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 13,
-    "updated_at": "2026-10-21T21:23:28Z",
+    "updated_at": "2026-10-21T21:35:46Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -124,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:22:02Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
-    "id": "Ghost7802/awesome-api-skills",
-    "language": "JavaScript",
-    "name": "Ghost7802/awesome-api-skills",
-    "stars": 13,
-    "updated_at": "2026-10-21T21:19:06Z",
-    "url": "https://github.com/Ghost7802/awesome-api-skills"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 6,
-    "updated_at": "2026-10-21T21:22:30Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -167,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36145,
-    "updated_at": "2026-10-21T21:16:53Z",
+    "updated_at": "2026-10-21T21:34:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T21:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The layer between your idea and your build.",
     "id": "AtharvaK-XD/Bedrock",
     "language": "TypeScript",
@@ -212,17 +293,8 @@
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 387,
-    "updated_at": "2026-10-21T21:14:25Z",
+    "updated_at": "2026-10-21T21:42:31Z",
     "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "200+ production-ready AI prompts using the RTFC framework. Marketing, sales, content, freelance & more. Works with ChatG",
-    "id": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:11:59Z",
-    "url": "https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -232,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T21:11:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Benchmarking AI agent skills, instructions & rules.",
-    "id": "MetaX5/DirectiveBench",
-    "language": "TypeScript",
-    "name": "MetaX5/DirectiveBench",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:27:12Z",
-    "url": "https://github.com/MetaX5/DirectiveBench"
   },
   {
     "description": "21 Lessons, Get Started Building with Generative AI ",
@@ -275,7 +338,7 @@
     "language": "C#",
     "name": "hazeliscoding/prompuff",
     "stars": 0,
-    "updated_at": "2026-10-21T21:30:20Z",
+    "updated_at": "2026-10-21T21:43:19Z",
     "url": "https://github.com/hazeliscoding/prompuff"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:00:30Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Repositories"
-  },
-  {
-    "description": "Streamlit chat app with three prompt-engineered LLM personas (wellbeing, cooking, document-grounded health Q&A) built wi",
-    "id": "arslanahmedbhutto/llm-persona-chatbot",
-    "language": "Python",
-    "name": "arslanahmedbhutto/llm-persona-chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:00:11Z",
-    "url": "https://github.com/arslanahmedbhutto/llm-persona-chatbot"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:30:04Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "AI coding agent rules made portable: rules, skills (slash commands), role agents, a spec lifecycle, persistent memory, a",
-    "id": "SerZhyAle/universal-agent-kit",
-    "language": "HTML",
-    "name": "SerZhyAle/universal-agent-kit",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:56:42Z",
-    "url": "https://github.com/SerZhyAle/universal-agent-kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26245,
-    "updated_at": "2026-10-21T21:17:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Shell",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:54:23Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:54:02Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-21T20:53:49Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
   }
 ]
