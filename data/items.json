@@ -1,5 +1,68 @@
 [
   {
+    "description": "Animated React components for sites that sell, each with a prompt that teaches your AI agent to rebuild it.",
+    "id": "JouberthAlves/motionshelf",
+    "language": "TypeScript",
+    "name": "JouberthAlves/motionshelf",
+    "stars": 2,
+    "updated_at": "2026-10-21T15:20:17Z",
+    "url": "https://github.com/JouberthAlves/motionshelf"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:19:11Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Kling 4.0 series video prompts with original text, video previews, creator credits and input references. Current example",
+    "id": "BravoNeo/awesome-kling-4-0-prompts",
+    "language": "Python",
+    "name": "BravoNeo/awesome-kling-4-0-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:18:40Z",
+    "url": "https://github.com/BravoNeo/awesome-kling-4-0-prompts"
+  },
+  {
+    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-21T15:21:12Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "Composable ::name prompt snippets for omp (oh-my-pi) \u2014 live picker, pin mechanism, exclusivity groups",
+    "id": "open-frontier/omp-snippets",
+    "language": "TypeScript",
+    "name": "open-frontier/omp-snippets",
+    "stars": 3,
+    "updated_at": "2026-10-21T15:17:00Z",
+    "url": "https://github.com/open-frontier/omp-snippets"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-21T15:16:29Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T15:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "sananthanarayan/skilldrop",
     "stars": 2,
-    "updated_at": "2026-10-21T15:14:47Z",
+    "updated_at": "2026-10-21T15:20:51Z",
     "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
@@ -59,7 +122,7 @@
     "language": "\u2014",
     "name": "ishandutta2007/Awesome-Prompt-Engineering-Workflows",
     "stars": 0,
-    "updated_at": "2026-10-21T15:09:09Z",
+    "updated_at": "2026-10-21T15:17:41Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Engineering-Workflows"
   },
   {
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36136,
-    "updated_at": "2026-10-21T15:12:50Z",
+    "updated_at": "2026-10-21T15:22:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -106,6 +169,15 @@
     "stars": 22799,
     "updated_at": "2026-10-21T15:06:18Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent look",
+    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "language": "HTML",
+    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "stars": 797,
+    "updated_at": "2026-10-21T15:06:07Z",
+    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-21T15:02:17Z",
+    "updated_at": "2026-10-21T15:21:36Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T15:01:17Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T15:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local Windows AI prompt enhancer (Tauri 2 + Rust). 100% offline: prompts, history, API key stay on disk (SQLCipher). Qua",
@@ -355,7 +418,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17708,
+    "stars": 17709,
     "updated_at": "2026-10-21T14:56:03Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T14:55:33Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:55:32Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-21T14:55:31Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:55:29Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-10-21T14:55:23Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:55:19Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Compare what Codex CLI, Claude Code, Cursor IDE, and GitHub Copilot CLI can see for one file. Local, read-only, no LLM.",
-    "id": "ashishkaloge/agent-policy-map",
-    "language": "TypeScript",
-    "name": "ashishkaloge/agent-policy-map",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:02:00Z",
-    "url": "https://github.com/ashishkaloge/agent-policy-map"
-  },
-  {
-    "description": "Top Prompt Repositories (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Prompt-Repositories",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Prompt-Repositories",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:54:46Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Repositories"
   }
 ]
