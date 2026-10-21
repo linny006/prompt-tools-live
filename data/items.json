@@ -1,12 +1,165 @@
 [
   {
+    "description": "Agent harness for AI coding agents: 57 skills + mechanical enforcement (TDD/commit gates). OpenCode, Claude Code, Cursor",
+    "id": "juandelossantos/another-agent-skills",
+    "language": "Shell",
+    "name": "juandelossantos/another-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T02:44:22Z",
+    "url": "https://github.com/juandelossantos/another-agent-skills"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-21T02:43:02Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "AI \u5b66\u4e60\u8def\u7ebf\uff1a\u5e94\u7528\u6784\u5efa\u8005 \u00d7 \u7ba1\u7406\u8005\u4e24\u6761\u8def\u7ebf\uff0c\u80fd\u529b\u6a21\u578b\u3001\u5206\u6a21\u5757\u5b66\u4e60\u8ba1\u5212\u3001\u6a21\u677f\u4e0e\u7cbe\u9009\u4e00\u624b\u8d44\u6599",
+    "id": "luckliu2007/ai-ml-data-roadmap",
+    "language": "\u2014",
+    "name": "luckliu2007/ai-ml-data-roadmap",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:41:55Z",
+    "url": "https://github.com/luckliu2007/ai-ml-data-roadmap"
+  },
+  {
+    "description": "Git-native regression guardrails and failure memory for AI coding agents and developers. Deterministic recall, token-bud",
+    "id": "Pavanspoojary/scars",
+    "language": "Go",
+    "name": "Pavanspoojary/scars",
+    "stars": 1,
+    "updated_at": "2026-10-21T02:40:14Z",
+    "url": "https://github.com/Pavanspoojary/scars"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 16,
+    "updated_at": "2026-10-21T02:39:37Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10359,
+    "updated_at": "2026-10-21T02:39:18Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11597,
+    "updated_at": "2026-10-21T02:37:19Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T02:36:04Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\u4e00\u53e5\u8bdd\u5230\u4e00\u5957\u80fd\u76f4\u63a5\u7c98\u8fdb\u89c6\u9891\u6a21\u578b\u7684\u63d0\u793a\u8bcd\uff1a\u5b9a\u5986\u7167\u3001\u9996\u5e27\u3001\u5c3e\u5e27\u3001\u8fd0\u955c\u3001\u8d1f\u5411\u8bcd",
+    "id": "ramaji114514/ai-drama",
+    "language": "Python",
+    "name": "ramaji114514/ai-drama",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:35:58Z",
+    "url": "https://github.com/ramaji114514/ai-drama"
+  },
+  {
+    "description": "A field guide and toolchain for keeping AI-assisted writing from reading like a machine wrote it. Drop-in rules + instal",
+    "id": "daharmattan1/anti-slop",
+    "language": "Python",
+    "name": "daharmattan1/anti-slop",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:35:14Z",
+    "url": "https://github.com/daharmattan1/anti-slop"
+  },
+  {
+    "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
+    "id": "hhuang91/tuningfork",
+    "language": "Python",
+    "name": "hhuang91/tuningfork",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:34:42Z",
+    "url": "https://github.com/hhuang91/tuningfork"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 13,
+    "updated_at": "2026-10-21T02:34:31Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 53189,
+    "updated_at": "2026-10-21T02:33:55Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Contract-governed OpenCode config that amplifies constrained LLMs (Sonnet 4.5, GPT-5.1, cheap corp models) into near-fro",
+    "id": "stevenfackley/opencode-amplifier",
+    "language": "JavaScript",
+    "name": "stevenfackley/opencode-amplifier",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:33:15Z",
+    "url": "https://github.com/stevenfackley/opencode-amplifier"
+  },
+  {
+    "description": "Autonomous multi-agent engineering sentinel & bootstrapper. Synchronizes specialized agent personas, curated skills, and",
+    "id": "bepaldes/heimdall-agent",
+    "language": "JavaScript",
+    "name": "bepaldes/heimdall-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:31:20Z",
+    "url": "https://github.com/bepaldes/heimdall-agent"
+  },
+  {
     "description": "18 portable Agent Skills for voice-native AI, human judgment, microbets, social tact, writing, life systems, and safe de",
     "id": "FAIRY123456789/human-edge-agent-skills",
     "language": "Python",
     "name": "FAIRY123456789/human-edge-agent-skills",
     "stars": 109,
-    "updated_at": "2026-10-21T02:30:24Z",
+    "updated_at": "2026-10-21T02:31:08Z",
     "url": "https://github.com/FAIRY123456789/human-edge-agent-skills"
+  },
+  {
+    "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
+    "id": "ADC1920/AI-short-play-video-creation",
+    "language": "Python",
+    "name": "ADC1920/AI-short-play-video-creation",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:30:50Z",
+    "url": "https://github.com/ADC1920/AI-short-play-video-creation"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T02:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Deterministic developer & data reliability MCP utilities: malformed JSON syntax healer, linear-time O(n) ReDoS-safe rege",
@@ -16,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T02:29:25Z",
     "url": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp"
-  },
-  {
-    "description": "\u4e00\u53e5\u8bdd\u5230\u4e00\u5957\u80fd\u76f4\u63a5\u7c98\u8fdb\u89c6\u9891\u6a21\u578b\u7684\u63d0\u793a\u8bcd\uff1a\u5b9a\u5986\u7167\u3001\u9996\u5e27\u3001\u5c3e\u5e27\u3001\u8fd0\u955c\u3001\u8d1f\u5411\u8bcd",
-    "id": "ramaji114514/ai-drama",
-    "language": "Python",
-    "name": "ramaji114514/ai-drama",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:28:31Z",
-    "url": "https://github.com/ramaji114514/ai-drama"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -144,21 +288,12 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-21T02:28:59Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
     "id": "novanoticia/email-triage-plugin",
     "language": "Python",
     "name": "novanoticia/email-triage-plugin",
     "stars": 1,
-    "updated_at": "2026-10-21T02:20:14Z",
+    "updated_at": "2026-10-21T02:40:54Z",
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
@@ -167,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-21T02:24:50Z",
+    "updated_at": "2026-10-21T02:44:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -196,24 +331,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T02:15:31Z",
     "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T02:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 13,
-    "updated_at": "2026-10-21T02:13:44Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Free copy-paste brain files for AI coding tools: CLAUDE.md, AGENTS.md, GEMINI.md, Cursor rules (.mdc), Copilot instructi",
@@ -248,7 +365,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26206,
-    "updated_at": "2026-10-21T02:11:57Z",
+    "updated_at": "2026-10-21T02:30:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -270,15 +387,6 @@
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
   {
-    "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
-    "id": "hhuang91/tuningfork",
-    "language": "Python",
-    "name": "hhuang91/tuningfork",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:10:36Z",
-    "url": "https://github.com/hhuang91/tuningfork"
-  },
-  {
     "description": "An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d",
     "id": "MetcalfSolutions/Satori",
     "language": "Python",
@@ -286,15 +394,6 @@
     "stars": 86,
     "updated_at": "2026-10-21T02:05:49Z",
     "url": "https://github.com/MetcalfSolutions/Satori"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 53188,
-    "updated_at": "2026-10-21T02:04:59Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "A collection of reusable AI Agent Skills for development, DevOps, and content automation.",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T01:59:42Z",
     "url": "https://github.com/beatra-ai/awesome-wan-3-video"
-  },
-  {
-    "description": "Autonomous, modular knowledge lifecycle agent built on the Antigravity 2.0 SDK and Model Context Protocol (MCP) for dete",
-    "id": "c-ibarra/ObsidianKnowledgeCurator",
-    "language": "Python",
-    "name": "c-ibarra/ObsidianKnowledgeCurator",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:59:13Z",
-    "url": "https://github.com/c-ibarra/ObsidianKnowledgeCurator"
-  },
-  {
-    "description": "Qwen Image 3.0 cases with the prompts copied in full. Reproduce any of them in Claude Code. Qwen Image 3.0 \u7684\u771f\u5b9e\u6848\u4f8b\uff0c\u63d0\u793a\u8bcd\u5168\u6587\u7167\u5f55",
-    "id": "beatra-ai/awesome-qwen-image-3",
-    "language": "\u2014",
-    "name": "beatra-ai/awesome-qwen-image-3",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:58:05Z",
-    "url": "https://github.com/beatra-ai/awesome-qwen-image-3"
-  },
-  {
-    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
-    "id": "apoapostolov/humanizer",
-    "language": "JavaScript",
-    "name": "apoapostolov/humanizer",
-    "stars": 9,
-    "updated_at": "2026-10-21T01:56:48Z",
-    "url": "https://github.com/apoapostolov/humanizer"
-  },
-  {
-    "description": "Free AGENTS.md, CLAUDE.md and Cursor rules that keep AI coding agents on track: Next.js + Supabase, Godot game jams, gam",
-    "id": "eli-alvarado/agentkit-drawer",
-    "language": "\u2014",
-    "name": "eli-alvarado/agentkit-drawer",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:55:46Z",
-    "url": "https://github.com/eli-alvarado/agentkit-drawer"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:54:43Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:52:49Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:51:40Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\u4e00\u5957\u7528\u4e8e\u89c4\u8303 ChatGPT \u4e2d\u6587\u8868\u8fbe\u3001\u6392\u7248\u3001\u6587\u6863\u5199\u4f5c\u4e0e\u884c\u4e3a\u65b9\u5f0f\u7684\u4e2a\u4eba\u63d0\u793a\u8bcd\u4f53\u7cfb\u3002",
-    "id": "montricwang/gpt-finishing-school",
-    "language": "JavaScript",
-    "name": "montricwang/gpt-finishing-school",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:50:26Z",
-    "url": "https://github.com/montricwang/gpt-finishing-school"
-  },
-  {
-    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-10-21T01:46:54Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-21T01:45:21Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 19,
-    "updated_at": "2026-10-21T01:46:54Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   }
 ]
