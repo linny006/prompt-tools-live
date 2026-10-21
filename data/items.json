@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-10-21T19:28:23Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "AI apps development in LangChain & LangGraph - tutorial notebooks",
+    "id": "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph",
+    "language": "Jupyter Notebook",
+    "name": "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph",
+    "stars": 12,
+    "updated_at": "2026-10-21T19:27:38Z",
+    "url": "https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph"
+  },
+  {
+    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
+    "id": "giladbarnea/soft-skills",
+    "language": "\u2014",
+    "name": "giladbarnea/soft-skills",
+    "stars": 6,
+    "updated_at": "2026-10-21T19:25:56Z",
+    "url": "https://github.com/giladbarnea/soft-skills"
+  },
+  {
+    "description": "A lightweight Codex skill for practicing American English through everyday prompts with concise Chinese support.",
+    "id": "aolongsun/bilingual-prompt-coach",
+    "language": "\u2014",
+    "name": "aolongsun/bilingual-prompt-coach",
+    "stars": 1,
+    "updated_at": "2026-10-21T19:25:48Z",
+    "url": "https://github.com/aolongsun/bilingual-prompt-coach"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 4105,
+    "updated_at": "2026-10-21T19:24:29Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:30:00Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Benchmarking AI agent skills, instructions & rules.",
+    "id": "MetaX5/DirectiveBench",
+    "language": "TypeScript",
+    "name": "MetaX5/DirectiveBench",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:26:24Z",
+    "url": "https://github.com/MetaX5/DirectiveBench"
+  },
+  {
+    "description": "Save Money and Usage Credit When Using AI Models",
+    "id": "coreymcd37/smart-efficiency-optimizer",
+    "language": "\u2014",
+    "name": "coreymcd37/smart-efficiency-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:23:17Z",
+    "url": "https://github.com/coreymcd37/smart-efficiency-optimizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T19:23:03Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
     "id": "MikeMoore1337/ai-development-toolkit",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 23,
-    "updated_at": "2026-10-21T19:21:57Z",
+    "updated_at": "2026-10-21T19:23:02Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-10-21T19:19:28Z",
+    "updated_at": "2026-10-21T19:28:02Z",
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
@@ -81,21 +162,12 @@
     "url": "https://github.com/zorcec/vibeflow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T19:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 387,
-    "updated_at": "2026-10-21T19:14:28Z",
+    "updated_at": "2026-10-21T19:25:51Z",
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22807,
-    "updated_at": "2026-10-21T19:15:14Z",
+    "updated_at": "2026-10-21T19:27:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 4105,
-    "updated_at": "2026-10-21T19:00:46Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -259,15 +322,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T19:01:17Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-21T19:21:48Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "Herrscher Orchestrator plugin: the default conversation-policy port \u2014 primes each turn from Memory and records a bounded",
@@ -283,8 +337,8 @@
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 121835,
-    "updated_at": "2026-10-21T18:56:35Z",
+    "stars": 121836,
+    "updated_at": "2026-10-21T19:29:07Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
@@ -355,7 +409,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28479,
+    "stars": 28480,
     "updated_at": "2026-10-21T18:48:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T18:42:00Z",
     "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Curated GPT Image 2.5 prompts with example images. Try them free on cinel.ai",
-    "id": "dokibbu/awesome-gpt-image-2.5-prompts",
-    "language": "JavaScript",
-    "name": "dokibbu/awesome-gpt-image-2.5-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:41:07Z",
-    "url": "https://github.com/dokibbu/awesome-gpt-image-2.5-prompts"
-  },
-  {
-    "description": "Senior Prompt Engineer & AI Agent Developer. Architecting autonomous workforces with Python, n8n, and Reverse Context En",
-    "id": "jacquesbelmont/jacquesbelmont",
-    "language": "\u2014",
-    "name": "jacquesbelmont/jacquesbelmont",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:40:58Z",
-    "url": "https://github.com/jacquesbelmont/jacquesbelmont"
-  },
-  {
-    "description": "Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c",
-    "id": "elanthus/news-briefing",
-    "language": "Python",
-    "name": "elanthus/news-briefing",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:40:52Z",
-    "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Local-first algorithmic trading research and automation app with multi-strategy backtesting, input optimization, LLM-ass",
-    "id": "ygyzys83/Turtle_Trading_Simulator",
-    "language": "Python",
-    "name": "ygyzys83/Turtle_Trading_Simulator",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:39:28Z",
-    "url": "https://github.com/ygyzys83/Turtle_Trading_Simulator"
-  },
-  {
-    "description": "Write a full-length Chinese webnovel with AI \u2014 layered memory for long-form consistency, 37 genre templates reverse-engi",
-    "id": "XZ-LI/ai-webnovel-pipeline",
-    "language": "Python",
-    "name": "XZ-LI/ai-webnovel-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:39:23Z",
-    "url": "https://github.com/XZ-LI/ai-webnovel-pipeline"
-  },
-  {
-    "description": "The standalone cognitive shield for AI pair-programming: constructive adversarial dialectics (Method B+) to bust sycopha",
-    "id": "codygratner/PCDACore",
-    "language": "\u2014",
-    "name": "codygratner/PCDACore",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:38:56Z",
-    "url": "https://github.com/codygratner/PCDACore"
   }
 ]
