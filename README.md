@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 22:29 UTC
+> ⏰ Last updated: 2026-10-21 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-10-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 2 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-10-21 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
-| 3 | [ishandutta2007/Awesome-LLM-Programming-Frameworks](https://github.com/ishandutta2007/Awesome-LLM-Programming-Frameworks) | 0 | — | 2026-10-21 | Top LLM Programming Frameworks (Opensource)  Star if you like it!  |
-| 4 | [ic3bl3u-bit/ai-prompt-engineering-toolkit](https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit) | 1 | HTML | 2026-10-21 | 200+ production-ready AI prompts using the RTFC framework. Marketing, sales, content, freelance & more. Works with ChatG |
-| 5 | [giienew/exsala-hermes-mod](https://github.com/giienew/exsala-hermes-mod) | 0 | Python | 2026-10-21 | EXSALA HERMES MOD - streamlined execution profile + skill pack for Hermes Agent |
-| 6 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2389 | JavaScript | 2026-10-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 7 | [hazeliscoding/prompuff](https://github.com/hazeliscoding/prompuff) | 0 | C# | 2026-10-21 | A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}, then reach th |
-| 8 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-10-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 10 | [AN0099/toothpaste-kit](https://github.com/AN0099/toothpaste-kit) | 1 | Shell | 2026-10-21 | This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay  |
-| 11 | [smabedi/ArchiveLens](https://github.com/smabedi/ArchiveLens) | 0 | PowerShell | 2026-10-21 | A secure command-line utility that safely extracts archives (ZIP, RAR, 7z, Tar) and consolidates readable text files, fi |
-| 12 | [AtharvaK-XD/Bedrock](https://github.com/AtharvaK-XD/Bedrock) | 2 | TypeScript | 2026-10-21 | The layer between your idea and your build. |
-| 13 | [lachyy262/mythopraxis](https://github.com/lachyy262/mythopraxis) | 0 | Python | 2026-10-21 | Stories, archetypes, and pressure tests for agents that need more than instructions. |
-| 14 | [kreftamarcio/kreftamarcio](https://github.com/kreftamarcio/kreftamarcio) | 0 | TypeScript | 2026-10-21 | Marcio Krefta — Perfil Técnico & Hub de Inteligência Artificial |
-| 15 | [elanthus/news-briefing](https://github.com/elanthus/news-briefing) | 3 | Python | 2026-10-21 | Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c |
-| 16 | [workingmodel/agent-evals](https://github.com/workingmodel/agent-evals) | 0 | Python | 2026-10-21 | Unit tests for Claude Code agents: golden tasks, rule checks, LLM-judge rubrics, baselines and a regression gate. |
-| 17 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-10-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 3 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-10-21 | The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded |
+| 4 | [ishandutta2007/Awesome-LLM-Programming-Frameworks](https://github.com/ishandutta2007/Awesome-LLM-Programming-Frameworks) | 0 | — | 2026-10-21 | Top LLM Programming Frameworks (Opensource)  Star if you like it!  |
+| 5 | [ic3bl3u-bit/ai-prompt-engineering-toolkit](https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit) | 1 | HTML | 2026-10-21 | 200+ production-ready AI prompts using the RTFC framework. Marketing, sales, content, freelance & more. Works with ChatG |
+| 6 | [giienew/exsala-hermes-mod](https://github.com/giienew/exsala-hermes-mod) | 0 | Python | 2026-10-21 | EXSALA HERMES MOD - streamlined execution profile + skill pack for Hermes Agent |
+| 7 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2389 | JavaScript | 2026-10-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 8 | [hazeliscoding/prompuff](https://github.com/hazeliscoding/prompuff) | 0 | C# | 2026-10-21 | A local-first home for prompts worth keeping. Save, tag, version and render AI prompts with {{variables}}, then reach th |
+| 9 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-10-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 10 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-10-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 11 | [AN0099/toothpaste-kit](https://github.com/AN0099/toothpaste-kit) | 1 | Shell | 2026-10-21 | This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay  |
+| 12 | [smabedi/ArchiveLens](https://github.com/smabedi/ArchiveLens) | 0 | PowerShell | 2026-10-21 | A secure command-line utility that safely extracts archives (ZIP, RAR, 7z, Tar) and consolidates readable text files, fi |
+| 13 | [AtharvaK-XD/Bedrock](https://github.com/AtharvaK-XD/Bedrock) | 2 | TypeScript | 2026-10-21 | The layer between your idea and your build. |
+| 14 | [lachyy262/mythopraxis](https://github.com/lachyy262/mythopraxis) | 0 | Python | 2026-10-21 | Stories, archetypes, and pressure tests for agents that need more than instructions. |
+| 15 | [kreftamarcio/kreftamarcio](https://github.com/kreftamarcio/kreftamarcio) | 0 | TypeScript | 2026-10-21 | Marcio Krefta — Perfil Técnico & Hub de Inteligência Artificial |
+| 16 | [elanthus/news-briefing](https://github.com/elanthus/news-briefing) | 3 | Python | 2026-10-21 | Exploring deterministic controls for LLM output through a daily news briefing. Models select and summarize, while code c |
+| 17 | [workingmodel/agent-evals](https://github.com/workingmodel/agent-evals) | 0 | Python | 2026-10-21 | Unit tests for Claude Code agents: golden tasks, rule checks, LLM-judge rubrics, baselines and a regression gate. |
 | 18 | [ProcontextMax/latam-ecommerce-customer-service-ai](https://github.com/ProcontextMax/latam-ecommerce-customer-service-ai) | 0 | — | 2026-10-21 | Capa de contexto para configurar agentes y chatbots de IA de atención al cliente en e-Commerce (Shopify, WooCommerce) en |
 | 19 | [promptise-com/Foundry](https://github.com/promptise-com/Foundry) | 874 | Python | 2026-10-21 | The foundation layer for agentic intelligence. |
 | 20 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26245 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
