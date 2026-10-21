@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
-    "id": "Antarsoft/morphness",
-    "language": "Shell",
-    "name": "Antarsoft/morphness",
-    "stars": 7,
-    "updated_at": "2026-10-21T05:13:48Z",
-    "url": "https://github.com/Antarsoft/morphness"
+    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
+    "id": "AhmedMerza/agent-skills",
+    "language": "Python",
+    "name": "AhmedMerza/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-21T05:23:51Z",
+    "url": "https://github.com/AhmedMerza/agent-skills"
   },
   {
     "description": "OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, a",
@@ -14,8 +14,107 @@
     "language": "TypeScript",
     "name": "GurinderRawala/OmniKey-AI",
     "stars": 15,
-    "updated_at": "2026-10-21T05:12:57Z",
+    "updated_at": "2026-10-21T05:23:40Z",
     "url": "https://github.com/GurinderRawala/OmniKey-AI"
+  },
+  {
+    "description": "A lightweight Chrome extension powered by modern LLMs (API & Ollama integration) for single click prompt engineering",
+    "id": "colingalbraith/PromptCraft",
+    "language": "JavaScript",
+    "name": "colingalbraith/PromptCraft",
+    "stars": 2,
+    "updated_at": "2026-10-21T05:23:43Z",
+    "url": "https://github.com/colingalbraith/PromptCraft"
+  },
+  {
+    "description": "Code and datasets for \"Comparative Analysis of Prompt Strategies for Large Language Models: Single-Task vs. Multitask Pr",
+    "id": "gozus19p/Comparative-Analysis-of-Prompt-Strategies-for-LLMs",
+    "language": "Jupyter Notebook",
+    "name": "gozus19p/Comparative-Analysis-of-Prompt-Strategies-for-LLMs",
+    "stars": 2,
+    "updated_at": "2026-10-21T05:20:32Z",
+    "url": "https://github.com/gozus19p/Comparative-Analysis-of-Prompt-Strategies-for-LLMs"
+  },
+  {
+    "description": "\u8ba9 DSH \u667a\u80fd\u4f53\u7528\u4f60\u9009\u5b9a\u7684\u8bed\u8a00\u601d\u8003\u4e0e\u56de\u590d\uff1a\u4e09\u6863\u5f3a\u5ea6\u3001\u8bbe\u7f6e\u9762\u677f\u3001\u4fa7\u680f\u5feb\u901f\u5207\u6362\u3002\u96f6\u4f9d\u8d56\u3001\u96f6\u6784\u5efa\u3002",
+    "id": "58fly/dsh-language-guard",
+    "language": "JavaScript",
+    "name": "58fly/dsh-language-guard",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:19:46Z",
+    "url": "https://github.com/58fly/dsh-language-guard"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:19:09Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Marcio Krefta \u2014 Perfil T\u00e9cnico & Hub de Intelig\u00eancia Artificial",
+    "id": "kreftamarcio/kreftamarcio",
+    "language": "TypeScript",
+    "name": "kreftamarcio/kreftamarcio",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:18:18Z",
+    "url": "https://github.com/kreftamarcio/kreftamarcio"
+  },
+  {
+    "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
+    "id": "api-evangelist/compresr",
+    "language": "\u2014",
+    "name": "api-evangelist/compresr",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:17:31Z",
+    "url": "https://github.com/api-evangelist/compresr"
+  },
+  {
+    "description": "14 data extraction, schema healing & workflow orchestration tools: malformed JSON healer, JSON Schema type enforcer, uns",
+    "id": "stand-out-of-my-sun/diogenes-dev-utilities-mcp",
+    "language": "JavaScript",
+    "name": "stand-out-of-my-sun/diogenes-dev-utilities-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:17:00Z",
+    "url": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp"
+  },
+  {
+    "description": "Git-native regression guardrails and failure memory for AI coding agents and developers. Deterministic recall, token-bud",
+    "id": "Pavanspoojary/scars",
+    "language": "Go",
+    "name": "Pavanspoojary/scars",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:16:03Z",
+    "url": "https://github.com/Pavanspoojary/scars"
+  },
+  {
+    "description": "Structured summaries of the askFinz guides and fair comparisons with other AI tools, each linking to the full article on",
+    "id": "askFinz/askfinz-guides",
+    "language": "\u2014",
+    "name": "askFinz/askfinz-guides",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:15:52Z",
+    "url": "https://github.com/askFinz/askfinz-guides"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T05:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Self-improving multi-agent harness for Claude Code. A Technical Lead plans, Full-stack builds, QA verifies, and retros t",
+    "id": "Antarsoft/morphness",
+    "language": "Shell",
+    "name": "Antarsoft/morphness",
+    "stars": 7,
+    "updated_at": "2026-10-21T05:13:48Z",
+    "url": "https://github.com/Antarsoft/morphness"
   },
   {
     "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-21T05:11:07Z",
+    "updated_at": "2026-10-21T05:23:54Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -117,24 +216,6 @@
     "url": "https://github.com/nachollorca/promptuna"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T05:03:50Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\u8ba9 DSH \u667a\u80fd\u4f53\u7528\u4f60\u9009\u5b9a\u7684\u8bed\u8a00\u601d\u8003\u4e0e\u56de\u590d\uff1a\u4e09\u6863\u5f3a\u5ea6\u3001\u8bbe\u7f6e\u9762\u677f\u3001\u4fa7\u680f\u5feb\u901f\u5207\u6362\u3002\u96f6\u4f9d\u8d56\u3001\u96f6\u6784\u5efa\u3002",
-    "id": "58fly/dsh-language-guard",
-    "language": "JavaScript",
-    "name": "58fly/dsh-language-guard",
-    "stars": 1,
-    "updated_at": "2026-10-21T05:03:28Z",
-    "url": "https://github.com/58fly/dsh-language-guard"
-  },
-  {
     "description": "Systematic understanding, visual learning and iterative planning with AI. Skills-only plugin for ChatGPT, MIT licensed.",
     "id": "aikuozone/lucid-reason",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T05:01:13Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T05:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -356,7 +428,7 @@
     "language": "Shell",
     "name": "5dive-ai/skills",
     "stars": 1,
-    "updated_at": "2026-10-21T04:46:55Z",
+    "updated_at": "2026-10-21T05:17:16Z",
     "url": "https://github.com/5dive-ai/skills"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T04:45:33Z",
     "url": "https://github.com/alivirgo/Major-AI-Skills"
-  },
-  {
-    "description": "Personal collection of agent skills, synced across machines. Works with Claude Code (skills + slash commands) and Kimi C",
-    "id": "AhmedMerza/agent-skills",
-    "language": "Python",
-    "name": "AhmedMerza/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-10-21T04:44:57Z",
-    "url": "https://github.com/AhmedMerza/agent-skills"
-  },
-  {
-    "description": "\u4f60\u8bf4\u611f\u89c9\uff0c\u6211\u5e2e\u4f60\u7ffb\u8bd1\u6210\u4e13\u4e1a\u672f\u8bed\uff0c\u5e76\u6309\u9700\u8865\u5168\u4e3a\u53ef\u6267\u884c\u7684 AI \u63d0\u793a\u8bcd\u3002",
-    "id": "konglong87/feeling-to-jargon",
-    "language": "Python",
-    "name": "konglong87/feeling-to-jargon",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:44:44Z",
-    "url": "https://github.com/konglong87/feeling-to-jargon"
-  },
-  {
-    "description": "Evidence-first process skills for coding agents: codebase analysis, solution design, minimal implementation plans",
-    "id": "tony-adamson/groundwork",
-    "language": "JavaScript",
-    "name": "tony-adamson/groundwork",
-    "stars": 4,
-    "updated_at": "2026-10-21T04:42:01Z",
-    "url": "https://github.com/tony-adamson/groundwork"
-  },
-  {
-    "description": "AI \uc791\uc5c5 \uc9c0\uc2dc\ub97c \uc704\ud55c \uc2e4\ubb34 \uc6a9\uc5b4 240\uac1c | \ub514\uc790\uc778\u00b7\uc601\uc0c1\u00b7\uac1c\ubc1c | \ud55c\uad6d\uc5b4 PDF\u00b7\uc6f9 \ubb38\uc11c",
-    "id": "jisub-lee-0906/ai-integrated-prompt-glossary",
-    "language": "\u2014",
-    "name": "jisub-lee-0906/ai-integrated-prompt-glossary",
-    "stars": 10,
-    "updated_at": "2026-10-21T04:41:12Z",
-    "url": "https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary"
-  },
-  {
-    "description": "Universal Agent Prompt Deck \u2014 static HTML/CSS/JS deck of 107 agent prompts.",
-    "id": "nicolas-found42/prompt-pack",
-    "language": "JavaScript",
-    "name": "nicolas-found42/prompt-pack",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:40:47Z",
-    "url": "https://github.com/nicolas-found42/prompt-pack"
-  },
-  {
-    "description": "Audit and clean Codex-style pollution (over-hedged reporting, invented rules, task-log memories, over-defensive code) in",
-    "id": "Natsuki-Kaede/purify-codex",
-    "language": "JavaScript",
-    "name": "Natsuki-Kaede/purify-codex",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:39:17Z",
-    "url": "https://github.com/Natsuki-Kaede/purify-codex"
-  },
-  {
-    "description": "A Codex skill for evidence-based work: separate facts from assumptions, ask focused questions, and stop before unsupport",
-    "id": "qimomoli/evidence-discipline",
-    "language": "Python",
-    "name": "qimomoli/evidence-discipline",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:37:14Z",
-    "url": "https://github.com/qimomoli/evidence-discipline"
-  },
-  {
-    "description": "",
-    "id": "kreftamarcio/kreftamarcio",
-    "language": "TypeScript",
-    "name": "kreftamarcio/kreftamarcio",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:36:33Z",
-    "url": "https://github.com/kreftamarcio/kreftamarcio"
   }
 ]
