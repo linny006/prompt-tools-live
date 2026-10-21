@@ -1,5 +1,131 @@
 [
   {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:28:54Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Context window hygiene analyzer for LLM conversations",
+    "id": "AreteDriver/context-hygiene",
+    "language": "Python",
+    "name": "AreteDriver/context-hygiene",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:30:14Z",
+    "url": "https://github.com/AreteDriver/context-hygiene"
+  },
+  {
+    "description": "CLI toolchain for compiling, validating, packaging, and publishing Prompd prompts",
+    "id": "Prompd/prompd-cli",
+    "language": "TypeScript",
+    "name": "Prompd/prompd-cli",
+    "stars": 3,
+    "updated_at": "2026-10-21T23:26:07Z",
+    "url": "https://github.com/Prompd/prompd-cli"
+  },
+  {
+    "description": "Open-source desktop IDE for building, composing, and deploying AI workflows",
+    "id": "Prompd/prompd-app",
+    "language": "TypeScript",
+    "name": "Prompd/prompd-app",
+    "stars": 6,
+    "updated_at": "2026-10-21T23:26:04Z",
+    "url": "https://github.com/Prompd/prompd-app"
+  },
+  {
+    "description": "A simple copy-and-paste prompt that interviews you and writes a system prompt for your own AI digital twin. No coding ne",
+    "id": "mike7seven/digital-twin-prompt",
+    "language": "\u2014",
+    "name": "mike7seven/digital-twin-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:25:03Z",
+    "url": "https://github.com/mike7seven/digital-twin-prompt"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 271,
+    "updated_at": "2026-10-21T23:23:57Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
+    "id": "hmoses/poly-glot-ai-workspace",
+    "language": "JavaScript",
+    "name": "hmoses/poly-glot-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:23:10Z",
+    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
+  },
+  {
+    "description": "GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets \u2014 runs inside",
+    "id": "Guille512/motor-evolutivo",
+    "language": "JavaScript",
+    "name": "Guille512/motor-evolutivo",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:21:20Z",
+    "url": "https://github.com/Guille512/motor-evolutivo"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 14,
+    "updated_at": "2026-10-21T23:25:17Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2165,
+    "updated_at": "2026-10-21T23:18:20Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 3,
+    "updated_at": "2026-10-21T23:18:16Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 4,
+    "updated_at": "2026-10-21T23:16:19Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
+  },
+  {
+    "description": "Find the step where your agent's skill goes wrong, test rewordings right there, and measure which fix works \u2014 on local L",
+    "id": "hhuang91/tuningfork",
+    "language": "Python",
+    "name": "hhuang91/tuningfork",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:17:28Z",
+    "url": "https://github.com/hhuang91/tuningfork"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T23:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
     "id": "jaypetez/ideaforge",
     "language": "JavaScript",
@@ -18,13 +144,13 @@
     "url": "https://github.com/lowmason/agent-skills"
   },
   {
-    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
-    "id": "minirr890112-byte/HermesMade",
-    "language": "Shell",
-    "name": "minirr890112-byte/HermesMade",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:14:01Z",
-    "url": "https://github.com/minirr890112-byte/HermesMade"
+    "description": "Meta context layer that forces LLMs to detect, mask and tokenize PII before processing any text, with country-specific r",
+    "id": "ProcontextMax/latam-ai-pii-redaction",
+    "language": "\u2014",
+    "name": "ProcontextMax/latam-ai-pii-redaction",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:13:34Z",
+    "url": "https://github.com/ProcontextMax/latam-ai-pii-redaction"
   },
   {
     "description": "Free AGENTS.md, CLAUDE.md and Cursor rules that keep AI coding agents on track: Next.js + Supabase, Godot game jams, gam",
@@ -135,15 +261,6 @@
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   },
   {
-    "description": "A simple copy-and-paste prompt that interviews you and writes a system prompt for your own AI digital twin. No coding ne",
-    "id": "mike7seven/digital-twin-prompt",
-    "language": "\u2014",
-    "name": "mike7seven/digital-twin-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:05:50Z",
-    "url": "https://github.com/mike7seven/digital-twin-prompt"
-  },
-  {
     "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
     "id": "lowqualityloey/promptkit-os",
     "language": "PowerShell",
@@ -151,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T23:05:28Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Context window hygiene analyzer for LLM conversations",
-    "id": "AreteDriver/context-hygiene",
-    "language": "Python",
-    "name": "AreteDriver/context-hygiene",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:07:58Z",
-    "url": "https://github.com/AreteDriver/context-hygiene"
   },
   {
     "description": "Production-backed 6-layer memory architecture for AI coding agents. Model-agnostic \u2014 works with Claude Code, Cursor, Aid",
@@ -207,15 +315,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 271,
-    "updated_at": "2026-10-21T23:15:25Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -223,15 +322,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T23:01:06Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T23:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Personal Claude Code configuration \u2014 instructions, skills, commands, and subagents, version-controlled and symlinked int",
@@ -358,95 +448,5 @@
     "stars": 17710,
     "updated_at": "2026-10-21T22:54:32Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:53:58Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Stop AI character drift: compile-time name tokens and one character registry for long-form AI stories, graphic novels an",
-    "id": "enclave402/narrative-token-ssot",
-    "language": "JavaScript",
-    "name": "enclave402/narrative-token-ssot",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:52:21Z",
-    "url": "https://github.com/enclave402/narrative-token-ssot"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 62,
-    "updated_at": "2026-10-21T22:51:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26245,
-    "updated_at": "2026-10-21T22:55:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-21T22:51:35Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Regression tests for LLM prompts, built for local models. Think Playwright, but for evals.",
-    "id": "blashkar/evalwright",
-    "language": "Go",
-    "name": "blashkar/evalwright",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:03:22Z",
-    "url": "https://github.com/blashkar/evalwright"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:50:34Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 26,
-    "updated_at": "2026-10-21T22:50:18Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-21T22:49:49Z",
-    "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40284,
-    "updated_at": "2026-10-21T22:49:43Z",
-    "url": "https://github.com/github/awesome-copilot"
   }
 ]
