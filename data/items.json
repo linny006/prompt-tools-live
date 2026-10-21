@@ -1,12 +1,84 @@
 [
   {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 13,
+    "updated_at": "2026-10-21T14:23:52Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Regression tests for AI receptionists: 15 caller scenarios, code checks plus an LLM judge, and a CI gate that blocks a p",
+    "id": "ruan-grobler/voice-agent-evals",
+    "language": "Python",
+    "name": "ruan-grobler/voice-agent-evals",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:22:09Z",
+    "url": "https://github.com/ruan-grobler/voice-agent-evals"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22798,
-    "updated_at": "2026-10-21T14:15:27Z",
+    "updated_at": "2026-10-21T14:25:43Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11936,
+    "updated_at": "2026-10-21T14:20:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36135,
+    "updated_at": "2026-10-21T14:27:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn rough requests into useful AI assignments. Ambition helps you clarify the outcome, choose evidence and methods, and",
+    "id": "MontySinger/ambition",
+    "language": "Python",
+    "name": "MontySinger/ambition",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:16:19Z",
+    "url": "https://github.com/MontySinger/ambition"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 3,
+    "updated_at": "2026-10-21T14:16:13Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 18,
+    "updated_at": "2026-10-21T14:15:55Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-21T14:15:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u9762\u5411\u4ea7\u54c1\u3001\u7814\u53d1\u3001\u6d4b\u8bd5\u4e09\u8f68\u7684 AI \u5de5\u4f5c\u6d41\u89c4\u8303\uff1a\u58f0\u660e\u5f0f YAML\u3001\u591a Agent \u534f\u4f5c\u3001HITL \u786e\u8ba4\u95e8\u3001\u5185\u7f6e\u6280\u80fd\u4e0e\u6587\u6863\u6cbb\u7406\u3002",
@@ -23,8 +95,17 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-21T14:13:43Z",
+    "updated_at": "2026-10-21T14:29:55Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:13:18Z",
+    "url": "https://github.com/lowmason/agent-skills"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -34,6 +115,15 @@
     "stars": 3,
     "updated_at": "2026-10-21T14:13:10Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-21T14:10:50Z",
+    "url": "https://github.com/hivecommons/promptargs"
   },
   {
     "description": "A pre-code crucible for Claude Code: refuses to write code, interrogates your plan against your vault, and hands back a ",
@@ -131,7 +221,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-21T14:03:05Z",
+    "updated_at": "2026-10-21T14:30:03Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -139,7 +229,7 @@
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 121821,
+    "stars": 121823,
     "updated_at": "2026-10-21T14:01:11Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -158,35 +248,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28478,
-    "updated_at": "2026-10-21T14:08:04Z",
+    "updated_at": "2026-10-21T14:24:07Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-21T14:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26237,
-    "updated_at": "2026-10-21T13:59:02Z",
+    "stars": 26238,
+    "updated_at": "2026-10-21T14:19:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36134,
-    "updated_at": "2026-10-21T14:13:56Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A curated collection of 15 personal Claude Code / Codex skills: Chinese tech writing, WeChat publishing, weekly & monthl",
@@ -205,15 +277,6 @@
     "stars": 8,
     "updated_at": "2026-10-21T13:58:34Z",
     "url": "https://github.com/krishsharma-code/krishsharma-code"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 13,
-    "updated_at": "2026-10-21T13:57:58Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -378,15 +441,6 @@
     "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
-    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
-    "id": "lowmason/agent-skills",
-    "language": "Python",
-    "name": "lowmason/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:13:18Z",
-    "url": "https://github.com/lowmason/agent-skills"
-  },
-  {
     "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
     "id": "sergvss/agents-best-teams",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T13:34:27Z",
     "url": "https://github.com/sergvss/agents-best-teams"
-  },
-  {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-21T14:12:06Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:33:30Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4986,
-    "updated_at": "2026-10-21T14:13:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "DeepSeek Harness \u672c\u673a\u5b89\u5168\u8bc4\u6d4b\u4e0e\u63d0\u793a\u8bcd\u6e05\u6d17\u63d2\u4ef6\uff1a\u4fa7\u680f\u9762\u677f\u7ba1\u7406\u63d0\u793a\u8bcd\u5206\u5c42\u3001\u8865\u4e01\u3001\u89c4\u5219\u96c6\u4e0e\u6280\u80fd\uff1b\u5e26\u6388\u6743\u6f14\u7ec3\u53f0\u3002Local security-eval & prompt-cleaning plugin for DeepSeek H",
-    "id": "chs-1108/dsh-purge",
-    "language": "JavaScript",
-    "name": "chs-1108/dsh-purge",
-    "stars": 2,
-    "updated_at": "2026-10-21T13:33:00Z",
-    "url": "https://github.com/chs-1108/dsh-purge"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-21T13:32:30Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-21T13:30:55Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
