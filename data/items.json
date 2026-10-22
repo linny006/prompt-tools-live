@@ -1,5 +1,59 @@
 [
   {
+    "description": "Generic Medicare Part D plan comparison and analysis prompt for AI",
+    "id": "edwest19/SecretPlan",
+    "language": "\u2014",
+    "name": "edwest19/SecretPlan",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:29:11Z",
+    "url": "https://github.com/edwest19/SecretPlan"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11952,
+    "updated_at": "2026-10-22T19:30:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:30:08Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "Your coding agents, kitted out and kept in check. A workbench for coding agents.",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 3,
+    "updated_at": "2026-10-22T19:27:09Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-22T19:26:57Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Versioned prompts, offline evals, a RAG support bot and agent configs, in strict TypeScript. Consumes mcp-tool-server.",
+    "id": "dc-tech-inc/ai-agent-workflows",
+    "language": "TypeScript",
+    "name": "dc-tech-inc/ai-agent-workflows",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:26:55Z",
+    "url": "https://github.com/dc-tech-inc/ai-agent-workflows"
+  },
+  {
     "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
@@ -52,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-10-22T19:23:28Z",
     "url": "https://github.com/hrabanazviking/Mythic-Engineering"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:25:38Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
@@ -162,15 +207,6 @@
     "url": "https://github.com/triton2030/agentic-research"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-22T19:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T19:12:08Z",
     "url": "https://github.com/butageek/archetype"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11952,
-    "updated_at": "2026-10-22T19:10:58Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5c06\u7cfb\u7edf\u63d0\u793a\u8bcd\u672c\u5730\u5316\u4e3a\u7b80\u4f53\u4e2d\u6587\uff0c\u5e76\u6309\u4f1a\u8bdd\u5f53\u524d\u53ef\u89c1\u5de5\u5177\u88c1\u526a\u76f8\u5173\u6307\u5f15\uff1b\u4fdd\u7559\u82f1\u6587\u5de5\u5177 schema\u3002",
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T19:07:08Z",
     "url": "https://github.com/dhaupin/gistory"
-  },
-  {
-    "description": "Your coding agents, kitted out and kept in check. A workbench for coding agents.",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:07:01Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T18:46:28Z",
     "url": "https://github.com/yunaremaia/context-bridge"
-  },
-  {
-    "description": "Save, organize and share your secret AI prompts \u2014 a bilingual prompt library with reference images, one-click copy, priv",
-    "id": "nRn-World/SecretPromts",
-    "language": "TypeScript",
-    "name": "nRn-World/SecretPromts",
-    "stars": 1,
-    "updated_at": "2026-10-22T18:46:00Z",
-    "url": "https://github.com/nRn-World/SecretPromts"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22836,
-    "updated_at": "2026-10-22T19:26:19Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
