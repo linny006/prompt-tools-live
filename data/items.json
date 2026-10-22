@@ -1,5 +1,176 @@
 [
   {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:45:08Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:41:54Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Gistory: A secure, privacy-first prompt keeper for AI workflows. Features secure multi-device sync, while data stays on ",
+    "id": "dhaupin/gistory",
+    "language": "TypeScript",
+    "name": "dhaupin/gistory",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:40:59Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "DSH composer plugin: turn a one-line seed into an executable prompt behind a semantic fidelity gate; signals infer, dire",
+    "id": "Zian-anson/dsh-prompt-seed",
+    "language": "JavaScript",
+    "name": "Zian-anson/dsh-prompt-seed",
+    "stars": 2,
+    "updated_at": "2026-10-22T02:40:06Z",
+    "url": "https://github.com/Zian-anson/dsh-prompt-seed"
+  },
+  {
+    "description": "CSE v1.0: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
+    "id": "limabravoecho-collab/canonical-substrate-engine",
+    "language": "Python",
+    "name": "limabravoecho-collab/canonical-substrate-engine",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:40:01Z",
+    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u4e00\u53e5\u8bdd\u53d8\u6210\u53ef\u7528\u7684\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\uff1b\u6253\u5f00\u751f\u6210\u5f00\u5173\u540e\u76f4\u63a5\u8c03\u7528\u4f60\u81ea\u5df1\u7684\u6a21\u578b\u6216 API \u51fa\u56fe\u51fa\u7247\u3002",
+    "id": "Kaitox326/dsh-auto-prompt",
+    "language": "JavaScript",
+    "name": "Kaitox326/dsh-auto-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:39:57Z",
+    "url": "https://github.com/Kaitox326/dsh-auto-prompt"
+  },
+  {
+    "description": "AI \u5b66\u4e60\u8def\u7ebf\uff1a\u5e94\u7528\u6784\u5efa\u8005 \u00d7 \u7ba1\u7406\u8005\u4e24\u6761\u8def\u7ebf\uff0c\u80fd\u529b\u6a21\u578b\u3001\u5206\u6a21\u5757\u5b66\u4e60\u8ba1\u5212\u3001\u6a21\u677f\u4e0e\u7cbe\u9009\u4e00\u624b\u8d44\u6599",
+    "id": "luckliu2007/ai-ml-data-roadmap",
+    "language": "\u2014",
+    "name": "luckliu2007/ai-ml-data-roadmap",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:39:11Z",
+    "url": "https://github.com/luckliu2007/ai-ml-data-roadmap"
+  },
+  {
+    "description": "Turn fragile AI coding prompts into robust workflows using battle-tested Unix primitives.",
+    "id": "john20xdoe/unix-primitives",
+    "language": "Python",
+    "name": "john20xdoe/unix-primitives",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:37:48Z",
+    "url": "https://github.com/john20xdoe/unix-primitives"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 16,
+    "updated_at": "2026-10-22T02:37:27Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10360,
+    "updated_at": "2026-10-22T02:37:09Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Inspectable, reversible instruction profiles for Codex CLI. Preview, switch, verify and roll back.",
+    "id": "apixly-ai/codex-purge",
+    "language": "Python",
+    "name": "apixly-ai/codex-purge",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:36:04Z",
+    "url": "https://github.com/apixly-ai/codex-purge"
+  },
+  {
+    "description": "Curated, measurement-driven collection of token-saving MCPs for Claude Code, Codex, Cursor & Windsurf. Each MCP shipped ",
+    "id": "g-shevchenko/mcp-token-savers",
+    "language": "TypeScript",
+    "name": "g-shevchenko/mcp-token-savers",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:35:40Z",
+    "url": "https://github.com/g-shevchenko/mcp-token-savers"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:34:30Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, a",
+    "id": "GurinderRawala/OmniKey-AI",
+    "language": "TypeScript",
+    "name": "GurinderRawala/OmniKey-AI",
+    "stars": 15,
+    "updated_at": "2026-10-22T02:38:45Z",
+    "url": "https://github.com/GurinderRawala/OmniKey-AI"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f RICK \u2014 Productor Creativo & Estudio de Marca Personal. Storytelling, quiebres cognitivos y guiones sin teleprompter (",
+    "id": "Mgomezpo/rick-marca-personal",
+    "language": "Python",
+    "name": "Mgomezpo/rick-marca-personal",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:33:35Z",
+    "url": "https://github.com/Mgomezpo/rick-marca-personal"
+  },
+  {
+    "description": "Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt",
+    "id": "koydas/ai-dev-tools",
+    "language": "JavaScript",
+    "name": "koydas/ai-dev-tools",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:31:29Z",
+    "url": "https://github.com/koydas/ai-dev-tools"
+  },
+  {
+    "description": "\u4e91\u95f4 Cloudmere\uff1a\u4e00\u7ec4\u80fd\u76f4\u63a5\u88c5\u8fdb Bot \u7684\u6210\u5458\uff0c\u6bcf\u4f4d\u53ea\u628a\u4e00\u4ef6\u4e8b\u505a\u597d\u3002\u7b2c\u4e00\u4f4d\uff1a\u9752\u9e1f Bluebird\uff0c\u63d0\u793a\u8bcd\u52a9\u624b\u3002",
+    "id": "yunjian-ai/yunjian",
+    "language": "Python",
+    "name": "yunjian-ai/yunjian",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:31:18Z",
+    "url": "https://github.com/yunjian-ai/yunjian"
+  },
+  {
+    "description": "Write your AI agent knowledge once. Compile it to every agent config format - CLAUDE.md, AGENTS.md, .cursor/rules and mo",
+    "id": "wondping0/wondev",
+    "language": "TypeScript",
+    "name": "wondping0/wondev",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:31:52Z",
+    "url": "https://github.com/wondping0/wondev"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-22T02:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Top Prompt Engineering Templates (Opensource)  Star if you like it! ",
     "id": "ishandutta2007/Awesome-Prompt-Engineering-Templates",
     "language": "\u2014",
@@ -16,24 +187,6 @@
     "stars": 28482,
     "updated_at": "2026-10-22T02:28:01Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Gistory: A secure, privacy-first prompt keeper for AI workflows. Features secure multi-device sync, while data stays on ",
-    "id": "dhaupin/gistory",
-    "language": "TypeScript",
-    "name": "dhaupin/gistory",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:27:28Z",
-    "url": "https://github.com/dhaupin/gistory"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:27:35Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "\u9762\u5411 AI Agent \u7684\u5168\u6d41\u7a0b\u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u6280\u80fd\u3002\u4ece\u4e66\u540d\u751f\u6210\u5230\u5343\u7ae0\u5b8c\u7a3f\uff0c\u914d\u5907\u4e09\u5927\u81ea\u52a8\u7cfb\u7edf\uff08\u8bb0\u5fc6\u7cfb\u7edf/\u5f3a\u7ea6\u675f/\u53d9\u4e8b\u8d28\u91cf\u7ba1\u7406\uff09\u786e\u4fdd\u957f\u7bc7\u8fde\u8d2f\u6027\u3002\u652f\u6301 AI \u5168\u81ea\u52a8\u548c\u5206\u6b65\u5f15\u5bfc\u53cc\u6a21\u5f0f\u3002",
@@ -76,7 +229,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 10146,
+    "stars": 10147,
     "updated_at": "2026-10-22T02:20:19Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -144,15 +297,6 @@
     "url": "https://github.com/Dr-Hutchinson/What-Do-AIs-Know-About-History"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-22T02:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude\uc758 \uc7a5\uae30 \uae30\uc5b5 \uc800\uc7a5\uc18c \u2014 \ud504\ub85c\uc81d\ud2b8 \ud559\uc2b5, \uc2a4\ud0ac, \ud589\ub3d9 \uaddc\uce59\uc744 \ucd95\uc801\ud558\ub294 \uac1c\uc778 Claude \uba54\ubaa8\ub9ac",
     "id": "kangraemin/ai-knowledge",
     "language": "Python",
@@ -180,15 +324,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": "OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, a",
-    "id": "GurinderRawala/OmniKey-AI",
-    "language": "TypeScript",
-    "name": "GurinderRawala/OmniKey-AI",
-    "stars": 15,
-    "updated_at": "2026-10-22T02:12:07Z",
-    "url": "https://github.com/GurinderRawala/OmniKey-AI"
-  },
-  {
     "description": "Claude Code skill that teaches a technical concept as a tree: one node per message, at most five sentences plus a visual",
     "id": "Siriko404/explain-it",
     "language": "\u2014",
@@ -207,15 +342,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:10:29Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
     "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
     "id": "StephenQiu30/glowloom-server",
     "language": "Go",
@@ -232,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T02:06:12Z",
     "url": "https://github.com/794249481-droid/prompt-workflows"
-  },
-  {
-    "description": "\u4e91\u95f4 Cloudmere\uff1a\u4e00\u7ec4\u80fd\u76f4\u63a5\u88c5\u8fdb Bot \u7684\u6210\u5458\uff0c\u6bcf\u4f4d\u53ea\u628a\u4e00\u4ef6\u4e8b\u505a\u597d\u3002\u7b2c\u4e00\u4f4d\uff1a\u9752\u9e1f Bluebird\uff0c\u63d0\u793a\u8bcd\u52a9\u624b\u3002",
-    "id": "yunjian-ai/yunjian",
-    "language": "Python",
-    "name": "yunjian-ai/yunjian",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:05:30Z",
-    "url": "https://github.com/yunjian-ai/yunjian"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T01:55:53Z",
     "url": "https://github.com/Coli3/cyber-profile"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:55:18Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f RICK \u2014 Productor Creativo & Estudio de Marca Personal. Storytelling, quiebres cognitivos y guiones sin teleprompter (",
-    "id": "Mgomezpo/rick-marca-personal",
-    "language": "Python",
-    "name": "Mgomezpo/rick-marca-personal",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:53:56Z",
-    "url": "https://github.com/Mgomezpo/rick-marca-personal"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:53:54Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26248,
-    "updated_at": "2026-10-22T01:52:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Unrestricted local execution delivery contract, ported verbatim from yexi-by/dsh-unrestricted as a runtime-agnostic Agen",
-    "id": "lsk5201314/dsh-unrestricted-skill",
-    "language": "Shell",
-    "name": "lsk5201314/dsh-unrestricted-skill",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:50:43Z",
-    "url": "https://github.com/lsk5201314/dsh-unrestricted-skill"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:50:34Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
-  },
-  {
-    "description": "Stop AI hallucinations, Yes-Man sycophancy, robotic AI slop prose, and cheap UI clutter in 30 seconds. Pre-packaged .mdc",
-    "id": "nguyenlong5238-art/anti-slop-ai-harness",
-    "language": "\u2014",
-    "name": "nguyenlong5238-art/anti-slop-ai-harness",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:50:11Z",
-    "url": "https://github.com/nguyenlong5238-art/anti-slop-ai-harness"
-  },
-  {
-    "description": "An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d",
-    "id": "MetcalfSolutions/Satori",
-    "language": "Python",
-    "name": "MetcalfSolutions/Satori",
-    "stars": 94,
-    "updated_at": "2026-10-22T01:49:37Z",
-    "url": "https://github.com/MetcalfSolutions/Satori"
-  },
-  {
-    "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
-    "id": "tradecatlabs/vibe-coding-cn",
-    "language": "Makefile",
-    "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17712,
-    "updated_at": "2026-10-22T01:48:25Z",
-    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "Universal AI agent skills for LinkedIn. Write viral posts, strip AI tells, draft comments, and plan content. Compatible ",
-    "id": "07001ec010shnk-svg/linkedin-agent-skills",
-    "language": "Python",
-    "name": "07001ec010shnk-svg/linkedin-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:46:16Z",
-    "url": "https://github.com/07001ec010shnk-svg/linkedin-agent-skills"
-  },
-  {
-    "description": "Inspectable, reversible instruction profiles for Codex CLI. Preview, switch, verify and roll back.",
-    "id": "apixly-ai/codex-purge",
-    "language": "Python",
-    "name": "apixly-ai/codex-purge",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:45:23Z",
-    "url": "https://github.com/apixly-ai/codex-purge"
-  },
-  {
-    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-10-22T01:43:34Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Context compression for LLM pipelines that proves nothing protected was lost before it emits, and refuses when it cannot",
-    "id": "laconiq-ai/tekmyra",
-    "language": "Python",
-    "name": "laconiq-ai/tekmyra",
-    "stars": 4,
-    "updated_at": "2026-10-22T01:50:58Z",
-    "url": "https://github.com/laconiq-ai/tekmyra"
   }
 ]
