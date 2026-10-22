@@ -1,5 +1,176 @@
 [
   {
+    "description": "CSE v1.0: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
+    "id": "limabravoecho-collab/canonical-substrate-engine",
+    "language": "Python",
+    "name": "limabravoecho-collab/canonical-substrate-engine",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:28:25Z",
+    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 2,
+    "updated_at": "2026-10-22T03:26:47Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 11600,
+    "updated_at": "2026-10-22T03:26:08Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Experimental, inspectable and reversible instruction profiles for Codex CLI. Preview, switch, verify and roll back.",
+    "id": "apixly-ai/codex-purge",
+    "language": "Python",
+    "name": "apixly-ai/codex-purge",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:24:45Z",
+    "url": "https://github.com/apixly-ai/codex-purge"
+  },
+  {
+    "description": "The skills I use to build software with coding agents.",
+    "id": "bostonaholic/skills",
+    "language": "JavaScript",
+    "name": "bostonaholic/skills",
+    "stars": 2,
+    "updated_at": "2026-10-22T03:24:49Z",
+    "url": "https://github.com/bostonaholic/skills"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "TypeScript",
+    "name": "terrylica/cc-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:27:47Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Gistory: A secure, privacy-first prompt keeper for AI workflows. Features secure multi-device sync, while data stays on ",
+    "id": "dhaupin/gistory",
+    "language": "TypeScript",
+    "name": "dhaupin/gistory",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:23:43Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 42,
+    "updated_at": "2026-10-22T03:23:32Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:21:29Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3927,
+    "updated_at": "2026-10-22T03:20:21Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 77322,
+    "updated_at": "2026-10-22T03:19:52Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:19:28Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 173839,
+    "updated_at": "2026-10-22T03:18:17Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-22T03:18:03Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
+    "id": "lizliz404/agent-skills",
+    "language": "Python",
+    "name": "lizliz404/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:17:57Z",
+    "url": "https://github.com/lizliz404/agent-skills"
+  },
+  {
+    "description": "\u7206\u6b3e\u6362\u7acb\u573a\u6539\u5199 Skill\uff1a\u62c6\u89c2\u70b9\u3001\u67e5\u524d\u63d0\uff0c\u751f\u6210\u76f8\u53cd\u3001\u53cd\u5e38\u8bc6\u3001\u51b2\u7a81\u4e09\u4e2a\u89d2\u5ea6\uff0c\u4f9d\u636e\u8bc1\u636e\u9009\u62e9\u65b0\u7acb\u573a\u5e76\u91cd\u5efa\u8bba\u8bc1\u3002Evidence-grounded perspective rewriting for Chinese copywriting.",
+    "id": "ktao732084-arch/viral-angle-rewriter",
+    "language": "\u2014",
+    "name": "ktao732084-arch/viral-angle-rewriter",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:17:48Z",
+    "url": "https://github.com/ktao732084-arch/viral-angle-rewriter"
+  },
+  {
+    "description": "You say it. AutoCode ships it. 48 skills. Code to deployment in one session. iLang v5.0 judgment + secret-safe deploys. ",
+    "id": "ilang-ai/autocode",
+    "language": "Python",
+    "name": "ilang-ai/autocode",
+    "stars": 104,
+    "updated_at": "2026-10-22T03:15:58Z",
+    "url": "https://github.com/ilang-ai/autocode"
+  },
+  {
+    "description": "PromptDrifter \u2013 one\u2011command CI guardrail that catches prompt drift and fails the build when your LLM answers change.",
+    "id": "Code-and-Sorts/PromptDrifter",
+    "language": "Python",
+    "name": "Code-and-Sorts/PromptDrifter",
+    "stars": 9,
+    "updated_at": "2026-10-22T03:16:26Z",
+    "url": "https://github.com/Code-and-Sorts/PromptDrifter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-22T03:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
     "id": "jason3e7/ai-101",
     "language": "C++",
@@ -25,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T03:13:11Z",
     "url": "https://github.com/dss-time/repo-doctor-skills"
-  },
-  {
-    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
-    "id": "hampshirecottage-ai/ootk-thoth-engine",
-    "language": "Python",
-    "name": "hampshirecottage-ai/ootk-thoth-engine",
-    "stars": 1,
-    "updated_at": "2026-10-22T03:11:12Z",
-    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
   },
   {
     "description": "Prompts for GPT Image 2.5, written against the capability areas in OpenAI's announcement \u2014 each shipped with the image i",
@@ -68,7 +230,7 @@
     "language": "C#",
     "name": "hazeliscoding/prompuff",
     "stars": 0,
-    "updated_at": "2026-10-22T03:10:23Z",
+    "updated_at": "2026-10-22T03:23:21Z",
     "url": "https://github.com/hazeliscoding/prompuff"
   },
   {
@@ -140,35 +302,8 @@
     "language": "Python",
     "name": "delphisecurity/xaidr",
     "stars": 29,
-    "updated_at": "2026-10-22T03:06:01Z",
+    "updated_at": "2026-10-22T03:17:42Z",
     "url": "https://github.com/delphisecurity/xaidr"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "TypeScript",
-    "name": "terrylica/cc-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:10:13Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "CSE v1.0: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
-    "id": "limabravoecho-collab/canonical-substrate-engine",
-    "language": "Python",
-    "name": "limabravoecho-collab/canonical-substrate-engine",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:04:08Z",
-    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 77321,
-    "updated_at": "2026-10-22T03:04:06Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Stop AI hallucinations, Yes-Man sycophancy, robotic AI slop prose, and cheap UI clutter in 30 seconds. Pre-packaged .mdc",
@@ -189,15 +324,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-22T03:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -205,6 +331,15 @@
     "stars": 3,
     "updated_at": "2026-10-22T03:00:22Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22813,
+    "updated_at": "2026-10-22T02:59:47Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Fabric \u5168\u90e8\u63d0\u793a\u8bcd\u4e2d\u6587\u76ee\u5f55\uff1a266 \u4e2a Pattern \u7684\u4e2d\u6587\u7b80\u4ecb\u4e0e\u6e90\u4ed3\u5e93\u76f4\u8fbe\u94fe\u63a5\uff0c\u6bcf\u65e5\u81ea\u52a8\u540c\u6b65\u4e0a\u6e38 danielmiessler/Fabric",
@@ -216,21 +351,12 @@
     "url": "https://github.com/Yu-Xiao-Sheng/fabric-patterns-zh"
   },
   {
-    "description": "Experimental, inspectable and reversible instruction profiles for Codex CLI. Preview, switch, verify and roll back.",
-    "id": "apixly-ai/codex-purge",
-    "language": "Python",
-    "name": "apixly-ai/codex-purge",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:59:28Z",
-    "url": "https://github.com/apixly-ai/codex-purge"
-  },
-  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 387,
-    "updated_at": "2026-10-22T02:59:08Z",
+    "updated_at": "2026-10-22T03:20:55Z",
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T02:47:01Z",
     "url": "https://github.com/Dr-Hutchinson/What-Do-AIs-Know-About-History"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:45:52Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36155,
-    "updated_at": "2026-10-22T02:44:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Gistory: A secure, privacy-first prompt keeper for AI workflows. Features secure multi-device sync, while data stays on ",
-    "id": "dhaupin/gistory",
-    "language": "TypeScript",
-    "name": "dhaupin/gistory",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:40:59Z",
-    "url": "https://github.com/dhaupin/gistory"
-  },
-  {
-    "description": "DSH composer plugin: turn a one-line seed into an executable prompt behind a semantic fidelity gate; signals infer, dire",
-    "id": "Zian-anson/dsh-prompt-seed",
-    "language": "JavaScript",
-    "name": "Zian-anson/dsh-prompt-seed",
-    "stars": 2,
-    "updated_at": "2026-10-22T02:40:06Z",
-    "url": "https://github.com/Zian-anson/dsh-prompt-seed"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u4e00\u53e5\u8bdd\u53d8\u6210\u53ef\u7528\u7684\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\uff1b\u6253\u5f00\u751f\u6210\u5f00\u5173\u540e\u76f4\u63a5\u8c03\u7528\u4f60\u81ea\u5df1\u7684\u6a21\u578b\u6216 API \u51fa\u56fe\u51fa\u7247\u3002",
-    "id": "Kaitox326/dsh-auto-prompt",
-    "language": "JavaScript",
-    "name": "Kaitox326/dsh-auto-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:39:57Z",
-    "url": "https://github.com/Kaitox326/dsh-auto-prompt"
-  },
-  {
-    "description": "AI \u5b66\u4e60\u8def\u7ebf\uff1a\u5e94\u7528\u6784\u5efa\u8005 \u00d7 \u7ba1\u7406\u8005\u4e24\u6761\u8def\u7ebf\uff0c\u80fd\u529b\u6a21\u578b\u3001\u5206\u6a21\u5757\u5b66\u4e60\u8ba1\u5212\u3001\u6a21\u677f\u4e0e\u7cbe\u9009\u4e00\u624b\u8d44\u6599",
-    "id": "luckliu2007/ai-ml-data-roadmap",
-    "language": "\u2014",
-    "name": "luckliu2007/ai-ml-data-roadmap",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:39:11Z",
-    "url": "https://github.com/luckliu2007/ai-ml-data-roadmap"
-  },
-  {
-    "description": "Turn fragile AI coding prompts into robust workflows using battle-tested Unix primitives.",
-    "id": "john20xdoe/unix-primitives",
-    "language": "Python",
-    "name": "john20xdoe/unix-primitives",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:37:48Z",
-    "url": "https://github.com/john20xdoe/unix-primitives"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 16,
-    "updated_at": "2026-10-22T02:37:27Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
-    "id": "ZeroLu/awesome-nanobanana-pro",
-    "language": "\u2014",
-    "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10360,
-    "updated_at": "2026-10-22T02:37:09Z",
-    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
-  },
-  {
-    "description": "Curated, measurement-driven collection of token-saving MCPs for Claude Code, Codex, Cursor & Windsurf. Each MCP shipped ",
-    "id": "g-shevchenko/mcp-token-savers",
-    "language": "TypeScript",
-    "name": "g-shevchenko/mcp-token-savers",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:35:40Z",
-    "url": "https://github.com/g-shevchenko/mcp-token-savers"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:53:58Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, a",
-    "id": "GurinderRawala/OmniKey-AI",
-    "language": "TypeScript",
-    "name": "GurinderRawala/OmniKey-AI",
-    "stars": 15,
-    "updated_at": "2026-10-22T02:38:45Z",
-    "url": "https://github.com/GurinderRawala/OmniKey-AI"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f RICK \u2014 Productor Creativo & Estudio de Marca Personal. Storytelling, quiebres cognitivos y guiones sin teleprompter (",
-    "id": "Mgomezpo/rick-marca-personal",
-    "language": "Python",
-    "name": "Mgomezpo/rick-marca-personal",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:33:35Z",
-    "url": "https://github.com/Mgomezpo/rick-marca-personal"
-  },
-  {
-    "description": "Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt",
-    "id": "koydas/ai-dev-tools",
-    "language": "JavaScript",
-    "name": "koydas/ai-dev-tools",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:31:29Z",
-    "url": "https://github.com/koydas/ai-dev-tools"
   }
 ]
