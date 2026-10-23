@@ -1,12 +1,75 @@
 [
   {
-    "description": "Aura Frog \u2014 Claude Code plugin \u2014 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping",
-    "id": "nguyenthienthanh/aura-frog",
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
     "language": "JavaScript",
-    "name": "nguyenthienthanh/aura-frog",
-    "stars": 25,
-    "updated_at": "2026-10-23T03:29:41Z",
-    "url": "https://github.com/nguyenthienthanh/aura-frog"
+    "name": "ericrisco/rsc-harness",
+    "stars": 239,
+    "updated_at": "2026-10-23T03:44:42Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 13,
+    "updated_at": "2026-10-23T03:43:45Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T03:42:51Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "\u9632\u6b62 AI Agent \u5728\u603b\u7ed3\u4efb\u52a1\u4e2d\u7f16\u9020\u5185\u5bb9 | Anti-hallucination guardrail for AI agent summaries",
+    "id": "mowenQWQ/grounded-summaries-skill",
+    "language": "\u2014",
+    "name": "mowenQWQ/grounded-summaries-skill",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:42:36Z",
+    "url": "https://github.com/mowenQWQ/grounded-summaries-skill"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "Go",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-10-23T03:40:48Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11957,
+    "updated_at": "2026-10-23T03:44:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "PromptDrifter \u2013 one\u2011command CI guardrail that catches prompt drift and fails the build when your LLM answers change.",
+    "id": "Code-and-Sorts/PromptDrifter",
+    "language": "Python",
+    "name": "Code-and-Sorts/PromptDrifter",
+    "stars": 9,
+    "updated_at": "2026-10-23T03:39:54Z",
+    "url": "https://github.com/Code-and-Sorts/PromptDrifter"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 3,
+    "updated_at": "2026-10-23T03:39:38Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
   },
   {
     "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
@@ -14,8 +77,44 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-23T03:29:19Z",
+    "updated_at": "2026-10-23T03:38:40Z",
     "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
+    "id": "m4bwav/cinewright",
+    "language": "Python",
+    "name": "m4bwav/cinewright",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:35:43Z",
+    "url": "https://github.com/m4bwav/cinewright"
+  },
+  {
+    "description": "Tune agent skills to your own model.",
+    "id": "hhuang91/tuningfork",
+    "language": "Python",
+    "name": "hhuang91/tuningfork",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:32:28Z",
+    "url": "https://github.com/hhuang91/tuningfork"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T03:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Aura Frog \u2014 Claude Code plugin \u2014 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping",
+    "id": "nguyenthienthanh/aura-frog",
+    "language": "JavaScript",
+    "name": "nguyenthienthanh/aura-frog",
+    "stars": 25,
+    "updated_at": "2026-10-23T03:29:41Z",
+    "url": "https://github.com/nguyenthienthanh/aura-frog"
   },
   {
     "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
@@ -40,7 +139,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "Python",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 70065,
+    "stars": 70067,
     "updated_at": "2026-10-23T03:26:00Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -85,7 +184,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 174040,
+    "stars": 174043,
     "updated_at": "2026-10-23T03:17:31Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -99,15 +198,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11956,
-    "updated_at": "2026-10-23T03:24:00Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
     "id": "google/mantis",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 2515,
     "updated_at": "2026-10-23T03:15:53Z",
     "url": "https://github.com/google/mantis"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T03:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The skills I use to build software with coding agents.",
@@ -360,93 +441,12 @@
     "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
   },
   {
-    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
-    "id": "billyhetech/awesome-viral-ai-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-viral-ai-videos",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:58:08Z",
-    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28504,
-    "updated_at": "2026-10-23T02:57:47Z",
+    "updated_at": "2026-10-23T03:39:01Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:56:06Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "Python",
-    "name": "simota/agent-skills",
-    "stars": 95,
-    "updated_at": "2026-10-23T02:54:28Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Prompt Refining Engine 1.5.1",
-    "id": "8ry8/PRE1.5.1",
-    "language": "TypeScript",
-    "name": "8ry8/PRE1.5.1",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:53:25Z",
-    "url": "https://github.com/8ry8/PRE1.5.1"
-  },
-  {
-    "description": "An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d",
-    "id": "MetcalfSolutions/Satori",
-    "language": "Python",
-    "name": "MetcalfSolutions/Satori",
-    "stars": 103,
-    "updated_at": "2026-10-23T02:51:43Z",
-    "url": "https://github.com/MetcalfSolutions/Satori"
-  },
-  {
-    "description": "CSE v1.8: a deterministic closed-loop logic model with a 2^32 cycle and an executable Python engine. A model for study, ",
-    "id": "limabravoecho-collab/canonical-substrate-engine",
-    "language": "Python",
-    "name": "limabravoecho-collab/canonical-substrate-engine",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:51:36Z",
-    "url": "https://github.com/limabravoecho-collab/canonical-substrate-engine"
-  },
-  {
-    "description": "Hook into every step of your AI coding agent: Claude Code, Codex, Gemini or any other. A programmable local proxy: rewri",
-    "id": "torana-edge/torana-edge",
-    "language": "Go",
-    "name": "torana-edge/torana-edge",
-    "stars": 2,
-    "updated_at": "2026-10-23T02:50:30Z",
-    "url": "https://github.com/torana-edge/torana-edge"
-  },
-  {
-    "description": "27 Skills that diagnose, build, and optimize every architectural layer of your Claude environment",
-    "id": "drayline/rootnode-skills",
-    "language": "Python",
-    "name": "drayline/rootnode-skills",
-    "stars": 40,
-    "updated_at": "2026-10-23T03:00:56Z",
-    "url": "https://github.com/drayline/rootnode-skills"
-  },
-  {
-    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
-    "id": "m4bwav/cinewright",
-    "language": "Python",
-    "name": "m4bwav/cinewright",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:48:52Z",
-    "url": "https://github.com/m4bwav/cinewright"
   }
 ]
