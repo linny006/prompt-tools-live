@@ -1,5 +1,86 @@
 [
   {
+    "description": "Professional profile & portfolio of Anderson Margalho - IT Security Specialist & Python Developer",
+    "id": "AndersonMargalho/AndersonMargalho-AndersonMargalho",
+    "language": "\u2014",
+    "name": "AndersonMargalho/AndersonMargalho-AndersonMargalho",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:58:49Z",
+    "url": "https://github.com/AndersonMargalho/AndersonMargalho-AndersonMargalho"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 165,
+    "updated_at": "2026-10-23T00:58:09Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
+    "id": "firaen22/claude-rulebook",
+    "language": "Shell",
+    "name": "firaen22/claude-rulebook",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:58:05Z",
+    "url": "https://github.com/firaen22/claude-rulebook"
+  },
+  {
+    "description": "Your coding agents, kitted out and kept in check. A workbench for coding agents.",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:00:03Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4988,
+    "updated_at": "2026-10-23T00:57:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Claude Code AI agents and a cited knowledge library for makers: 3D printing (Bambu Lab), CAD and organic modeling, elect",
+    "id": "mementomori-co/maker-mastery",
+    "language": "Python",
+    "name": "mementomori-co/maker-mastery",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:56:12Z",
+    "url": "https://github.com/mementomori-co/maker-mastery"
+  },
+  {
+    "description": "Context window hygiene analyzer for LLM conversations",
+    "id": "AreteDriver/context-hygiene",
+    "language": "Python",
+    "name": "AreteDriver/context-hygiene",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:55:57Z",
+    "url": "https://github.com/AreteDriver/context-hygiene"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:55:44Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T00:54:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -41,17 +122,8 @@
     "language": "Python",
     "name": "HUBTECH-DEV/hubicg-community",
     "stars": 2,
-    "updated_at": "2026-10-23T00:47:11Z",
+    "updated_at": "2026-10-23T00:58:38Z",
     "url": "https://github.com/HUBTECH-DEV/hubicg-community"
-  },
-  {
-    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-    "id": "google/elephant-goldfish-model",
-    "language": "Python",
-    "name": "google/elephant-goldfish-model",
-    "stars": 165,
-    "updated_at": "2026-10-23T00:53:51Z",
-    "url": "https://github.com/google/elephant-goldfish-model"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T00:45:34Z",
     "url": "https://github.com/jie955/AI-Engineering-Atlas"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T00:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -207,15 +270,6 @@
     "url": "https://github.com/fujc683/awesome-hy-image-prompts"
   },
   {
-    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
-    "id": "firaen22/claude-rulebook",
-    "language": "Shell",
-    "name": "firaen22/claude-rulebook",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:34:08Z",
-    "url": "https://github.com/firaen22/claude-rulebook"
-  },
-  {
     "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
     "id": "OpenScribbler/Katharsis",
     "language": "TypeScript",
@@ -306,15 +360,6 @@
     "url": "https://github.com/fujc683/awesome-z-image-prompts"
   },
   {
-    "description": "Claude Code AI agents and a cited knowledge library for makers: 3D printing (Bambu Lab), CAD and organic modeling, elect",
-    "id": "mementomori-co/maker-mastery",
-    "language": "Python",
-    "name": "mementomori-co/maker-mastery",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:39:17Z",
-    "url": "https://github.com/mementomori-co/maker-mastery"
-  },
-  {
     "description": "252 curated FLUX 3 Image Klein prompts with preview images, grouped by use case.",
     "id": "fujc683/awesome-flux-3-klein-prompts",
     "language": "\u2014",
@@ -322,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:25:55Z",
     "url": "https://github.com/fujc683/awesome-flux-3-klein-prompts"
-  },
-  {
-    "description": "Your coding agents, kitted out and kept in check. A workbench for coding agents.",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:48:03Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "252 curated Qwen-Image 2.1 prompts with preview images, grouped by use case.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:16:42Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:16:39Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u56fe\u5e93\uff1a\u7cbe\u9009 X \u4e0a\u7684\u771f\u5b9e\u4f5c\u54c1\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u652f\u6301\u641c\u7d22\u3001\u7b5b\u9009\u3001\u4e00\u952e\u590d\u5236\uff0c\u6570\u636e\u53ef\u4e0b\u8f7d\uff08JSON/CSV\uff09\u3002\u975e\u5b98\u65b9\u5f00\u6e90\u9879\u76ee\u3002",
-    "id": "Bin0754/gpt-image-gallery",
-    "language": "HTML",
-    "name": "Bin0754/gpt-image-gallery",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:14:19Z",
-    "url": "https://github.com/Bin0754/gpt-image-gallery"
-  },
-  {
-    "description": "Reusable skills (SKILL.md playbooks) for Grok Bot and Cursor AI agents: routines, workflows, and agent best practices.",
-    "id": "bostonaholic/grokbot-skills",
-    "language": "Shell",
-    "name": "bostonaholic/grokbot-skills",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:14:09Z",
-    "url": "https://github.com/bostonaholic/grokbot-skills"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-23T00:14:13Z",
-    "url": "https://github.com/jmagly/aiwg"
   }
 ]
