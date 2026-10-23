@@ -1,12 +1,138 @@
 [
   {
+    "description": "Auditable context capsules for LLM handoffs, coding agents, and OpenCode MCP workflows.",
+    "id": "RainCherb/context-diamond",
+    "language": "Python",
+    "name": "RainCherb/context-diamond",
+    "stars": 20,
+    "updated_at": "2026-10-23T22:29:21Z",
+    "url": "https://github.com/RainCherb/context-diamond"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 225,
+    "updated_at": "2026-10-23T22:26:48Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-23T22:25:16Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "A Claude Code plugin that gives Claude a working method and a crew of subagents: evidence before action, cheaper models ",
+    "id": "290990-collab/CLAW",
+    "language": "Python",
+    "name": "290990-collab/CLAW",
+    "stars": 2,
+    "updated_at": "2026-10-23T22:25:11Z",
+    "url": "https://github.com/290990-collab/CLAW"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:22:52Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-10-23T22:22:27Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 892,
+    "updated_at": "2026-10-23T22:21:16Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 295,
+    "updated_at": "2026-10-23T22:20:29Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "Reusable prompts, agent skills, and Copilot instructions for AI-assisted cloud development. Drop the .github folder into",
+    "id": "rajvirtual/copilot-workspace-kit",
+    "language": "\u2014",
+    "name": "rajvirtual/copilot-workspace-kit",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:20:05Z",
+    "url": "https://github.com/rajvirtual/copilot-workspace-kit"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:19:43Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
     "id": "kzndotsh/companion",
     "language": "Python",
     "name": "kzndotsh/companion",
     "stars": 2,
-    "updated_at": "2026-10-23T22:14:47Z",
+    "updated_at": "2026-10-23T22:17:56Z",
     "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:17:06Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:16:55Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-23T22:16:03Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T22:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -104,7 +230,7 @@
     "language": "Python",
     "name": "davidtaylor6130/My-AI-Skills",
     "stars": 1,
-    "updated_at": "2026-10-23T22:06:19Z",
+    "updated_at": "2026-10-23T22:23:41Z",
     "url": "https://github.com/davidtaylor6130/My-AI-Skills"
   },
   {
@@ -126,15 +252,6 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T22:04:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Marcio Krefta \u2014 Perfil T\u00e9cnico & Hub de Intelig\u00eancia Artificial",
     "id": "kreftamarcio/kreftamarcio",
     "language": "TypeScript",
@@ -142,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T22:03:52Z",
     "url": "https://github.com/kreftamarcio/kreftamarcio"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-23T22:01:54Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Detect and rebut rationalization patterns in AI agent output",
-    "id": "hivecommons/rationguard",
-    "language": "TypeScript",
-    "name": "hivecommons/rationguard",
-    "stars": 3,
-    "updated_at": "2026-10-23T22:01:16Z",
-    "url": "https://github.com/hivecommons/rationguard"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -319,7 +418,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11971,
+    "stars": 11972,
     "updated_at": "2026-10-23T21:49:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:45:35Z",
     "url": "https://github.com/AnThophicous/parede-da-ia"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:38:37Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Prompts i genuinely would test and possibly use myself. it would get updated soon. im gonna test my first optimization p",
-    "id": "PurpleXPurple/Awesome-Prompts",
-    "language": "\u2014",
-    "name": "PurpleXPurple/Awesome-Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:37:50Z",
-    "url": "https://github.com/PurpleXPurple/Awesome-Prompts"
-  },
-  {
-    "description": "Token-saving template for Claude Code & Claude.ai. One-command install, slash commands, safe permissions. EN/TR.",
-    "id": "yaldizemre/claude-token-saver",
-    "language": "Shell",
-    "name": "yaldizemre/claude-token-saver",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:36:28Z",
-    "url": "https://github.com/yaldizemre/claude-token-saver"
-  },
-  {
-    "description": "Autonomous multi-agent engineering sentinel & bootstrapper. Synchronizes specialized agent personas, curated skills, and",
-    "id": "bepaldes/heimdall-agent",
-    "language": "JavaScript",
-    "name": "bepaldes/heimdall-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:36:00Z",
-    "url": "https://github.com/bepaldes/heimdall-agent"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:35:44Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Free, open-source marketing skills (SKILL.md) for Claude, Claude Code, Codex and other AI agents \u2014 172 skills across SEO",
-    "id": "afeezadebayo/marketing-skills",
-    "language": "\u2014",
-    "name": "afeezadebayo/marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:34:31Z",
-    "url": "https://github.com/afeezadebayo/marketing-skills"
-  },
-  {
-    "description": "Interactive walkthrough of GEPA-style prompt optimization with real Claude calls: a prompt, a score, five characters, an",
-    "id": "ProjectAJ14/gepa-prompt-optimization",
-    "language": "HTML",
-    "name": "ProjectAJ14/gepa-prompt-optimization",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:33:28Z",
-    "url": "https://github.com/ProjectAJ14/gepa-prompt-optimization"
-  },
-  {
-    "description": "Awesome Gemini 4 Argon: curated videos, prompts and examples made with Google Gemini 4 Argon (Three.js, WebGL, SVG, game",
-    "id": "sandbase-lab/awesome-gemini4-argon",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-gemini4-argon",
-    "stars": 4,
-    "updated_at": "2026-10-23T21:31:29Z",
-    "url": "https://github.com/sandbase-lab/awesome-gemini4-argon"
-  },
-  {
-    "description": "Awesome MiniMax M3.1 Flash: curated videos, prompts and examples made with MiniMax M3.1 Flash (Three.js, WebGL, SVG, gam",
-    "id": "sandbase-lab/awesome-minimax-m3-1-flash",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-minimax-m3-1-flash",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:31:06Z",
-    "url": "https://github.com/sandbase-lab/awesome-minimax-m3-1-flash"
-  },
-  {
-    "description": "An interviewer that forges a half-formed idea into a usable LLM prompt. Zero-dependency PWA, bring your own API key.",
-    "id": "jaypetez/ideaforge",
-    "language": "JavaScript",
-    "name": "jaypetez/ideaforge",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:30:35Z",
-    "url": "https://github.com/jaypetez/ideaforge"
-  },
-  {
-    "description": "Awesome DeepSeek V4.1 Flash 1017: curated videos, prompts and examples made with DeepSeek V4.1 Flash 1017 (Three.js, Web",
-    "id": "sandbase-lab/awesome-deepseek-v4.1-flash",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-deepseek-v4.1-flash",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:30:33Z",
-    "url": "https://github.com/sandbase-lab/awesome-deepseek-v4.1-flash"
   }
 ]
