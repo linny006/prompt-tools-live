@@ -1,5 +1,167 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:59:49Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 225,
+    "updated_at": "2026-10-23T17:59:08Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 141,
+    "updated_at": "2026-10-23T17:58:46Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Your coding agents, kitted out and kept in check. A workbench for coding agents.",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 3,
+    "updated_at": "2026-10-23T17:59:41Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 instructions, skills, commands, and subagents, version-controlled and symlinked int",
+    "id": "coreydaley/agent-config",
+    "language": "Python",
+    "name": "coreydaley/agent-config",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:56:04Z",
+    "url": "https://github.com/coreydaley/agent-config"
+  },
+  {
+    "description": "Recursive reasoning skills for LLM harnesses, including Multipath Reasoning and recursive confidence-loop scoring.",
+    "id": "gellsmore-svg/recursive-reasoning-skills",
+    "language": "Python",
+    "name": "gellsmore-svg/recursive-reasoning-skills",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:55:46Z",
+    "url": "https://github.com/gellsmore-svg/recursive-reasoning-skills"
+  },
+  {
+    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
+    "id": "Igor-lx/claudeHarness",
+    "language": "JavaScript",
+    "name": "Igor-lx/claudeHarness",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:55:32Z",
+    "url": "https://github.com/Igor-lx/claudeHarness"
+  },
+  {
+    "description": "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
+    "id": "3641397194-wq/gpt6-Astra",
+    "language": "JavaScript",
+    "name": "3641397194-wq/gpt6-Astra",
+    "stars": 1365,
+    "updated_at": "2026-10-23T17:55:26Z",
+    "url": "https://github.com/3641397194-wq/gpt6-Astra"
+  },
+  {
+    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
+    "id": "api-evangelist/klu-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/klu-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:53:39Z",
+    "url": "https://github.com/api-evangelist/klu-ai"
+  },
+  {
+    "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
+    "id": "triton2030/agentic-research",
+    "language": "Python",
+    "name": "triton2030/agentic-research",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:51:56Z",
+    "url": "https://github.com/triton2030/agentic-research"
+  },
+  {
+    "description": "Curated software engineering prompts and best practices for building production software with AI \u2014 Python, C#, Java, web",
+    "id": "drgtwilliams/knowledge-skills",
+    "language": "\u2014",
+    "name": "drgtwilliams/knowledge-skills",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:51:34Z",
+    "url": "https://github.com/drgtwilliams/knowledge-skills"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-23T17:49:09Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:48:58Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "whispererdeck",
+    "id": "verishimoto/whisperdeck-mobile-morph",
+    "language": "TypeScript",
+    "name": "verishimoto/whisperdeck-mobile-morph",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:48:42Z",
+    "url": "https://github.com/verishimoto/whisperdeck-mobile-morph"
+  },
+  {
+    "description": "Deterministic guardrails for LLM context compaction: detect lost paths, hashes, issue numbers and versions, plus a contr",
+    "id": "Caelos-Palacio/rosetta-guards",
+    "language": "JavaScript",
+    "name": "Caelos-Palacio/rosetta-guards",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:47:28Z",
+    "url": "https://github.com/Caelos-Palacio/rosetta-guards"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 9,
+    "updated_at": "2026-10-23T17:46:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "German B1 writing tutor built entirely by directing a coding agent. Spec-driven, self-verifying, zero hand-written code",
+    "id": "ampaduchris/german-b1-tutor",
+    "language": "Python",
+    "name": "ampaduchris/german-b1-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:45:34Z",
+    "url": "https://github.com/ampaduchris/german-b1-tutor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T17:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
     "id": "kalinichenko88/agent-skills",
     "language": "Shell",
@@ -18,15 +180,6 @@
     "url": "https://github.com/Vivek-27/generative-ai-langchain-toolkit"
   },
   {
-    "description": "Personal Claude Code configuration \u2014 instructions, skills, commands, and subagents, version-controlled and symlinked int",
-    "id": "coreydaley/agent-config",
-    "language": "Python",
-    "name": "coreydaley/agent-config",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:41:37Z",
-    "url": "https://github.com/coreydaley/agent-config"
-  },
-  {
     "description": "FlowGPT \u2014 independent third-party profile of a public API surface, by API Evangelist. FlowGPT is a community platform fo",
     "id": "api-evangelist/flowgpt",
     "language": "\u2014",
@@ -34,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T17:41:36Z",
     "url": "https://github.com/api-evangelist/flowgpt"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-23T17:41:28Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -68,7 +212,7 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-10-23T17:41:01Z",
+    "updated_at": "2026-10-23T17:59:50Z",
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
@@ -99,15 +243,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:38:11Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
     "id": "sergvss/agents-best-teams",
     "language": "Python",
@@ -124,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T17:36:26Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Deterministic guardrails for LLM context compaction: detect lost paths, hashes, issue numbers and versions, plus a contr",
-    "id": "Caelos-Palacio/rosetta-guards",
-    "language": "JavaScript",
-    "name": "Caelos-Palacio/rosetta-guards",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:39:10Z",
-    "url": "https://github.com/Caelos-Palacio/rosetta-guards"
   },
   {
     "description": "Production-grade AI coding-agent skill pipeline: brainstorm, deep research, plan, human approval gate, strict TDD, subag",
@@ -216,15 +342,6 @@
     "url": "https://github.com/api-evangelist/compresr"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T17:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": ".clinerules \u2014 independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c",
     "id": "api-evangelist/clinerules",
     "language": "\u2014",
@@ -239,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11969,
-    "updated_at": "2026-10-23T17:40:34Z",
+    "updated_at": "2026-10-23T17:54:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -297,15 +414,6 @@
     "url": "https://github.com/mdesalvo/Morgana"
   },
   {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:23:18Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
     "description": "Awesome list of viral videos made with Grok Imagine: cinematic shorts, ads, anime and music videos, each linked to the c",
     "id": "billyhetech/awesome-grok-imagine-videos",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-23T17:22:09Z",
     "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
-  },
-  {
-    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
-    "id": "billyhetech/awesome-fable5-5-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-fable5-5-videos",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:22:07Z",
-    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
-  },
-  {
-    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
-    "id": "billyhetech/awesome-viral-ai-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-viral-ai-videos",
-    "stars": 3,
-    "updated_at": "2026-10-23T17:22:04Z",
-    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
-  },
-  {
-    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
-    "id": "hmoses/poly-glot-ai-workspace",
-    "language": "JavaScript",
-    "name": "hmoses/poly-glot-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:21:35Z",
-    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
-  },
-  {
-    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
-    "id": "StephenQiu30/glowloom-server",
-    "language": "Go",
-    "name": "StephenQiu30/glowloom-server",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:19:15Z",
-    "url": "https://github.com/StephenQiu30/glowloom-server"
-  },
-  {
-    "description": "Free open-source Generative AI foundations ebooks (2026) covering Claude, Grok, Gemini, Cursor, OpenAI and more \u2014 from a",
-    "id": "Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS",
-    "language": "HTML",
-    "name": "Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:18:57Z",
-    "url": "https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7924,
-    "updated_at": "2026-10-23T17:15:23Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "An AI-powered gift idea generator using system prompts and Groq to turn recipient details, interests, and constraints in",
-    "id": "aetshutse/gift-genie",
-    "language": "JavaScript",
-    "name": "aetshutse/gift-genie",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:14:34Z",
-    "url": "https://github.com/aetshutse/gift-genie"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2168,
-    "updated_at": "2026-10-23T17:12:45Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 121997,
-    "updated_at": "2026-10-23T17:10:38Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:45:24Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-23T17:43:49Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
-    "id": "alivirgo/Major-AI-Skills",
-    "language": "HTML",
-    "name": "alivirgo/Major-AI-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:06:14Z",
-    "url": "https://github.com/alivirgo/Major-AI-Skills"
   }
 ]
