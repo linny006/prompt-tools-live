@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source hub, 7-criteria HR rubrics, Divide-and-Conquer prompt playbook, and 30 GitHub-backed cases for AI-Enabled SW",
+    "id": "xirothedev/ai-coding-interviews",
+    "language": "Shell",
+    "name": "xirothedev/ai-coding-interviews",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:14:05Z",
+    "url": "https://github.com/xirothedev/ai-coding-interviews"
+  },
+  {
+    "description": "Claude Code mod that rewrites rough prompts into clear ones before you send them. Reads your prompt and the conversation",
+    "id": "ondrhn/sharpprompt",
+    "language": "TypeScript",
+    "name": "ondrhn/sharpprompt",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:13:13Z",
+    "url": "https://github.com/ondrhn/sharpprompt"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:12:34Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "Spec-Driven Development framework that enables humans and AI agents to build better software by giving them small, local",
+    "id": "specdd/specdd",
+    "language": "HTML",
+    "name": "specdd/specdd",
+    "stars": 41,
+    "updated_at": "2026-10-23T19:12:06Z",
+    "url": "https://github.com/specdd/specdd"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:11:46Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "",
+    "id": "aaravrai2006-svg/prompt-evaluation-harness",
+    "language": "Python",
+    "name": "aaravrai2006-svg/prompt-evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:11:46Z",
+    "url": "https://github.com/aaravrai2006-svg/prompt-evaluation-harness"
+  },
+  {
+    "description": "Commercial Art Direction, Creative Direction, and Design Neural Mesh with 21 modular skills, dramaturgy-first AI video d",
+    "id": "imMamdouhaboammar/designly",
+    "language": "HTML",
+    "name": "imMamdouhaboammar/designly",
+    "stars": 7,
+    "updated_at": "2026-10-23T19:11:22Z",
+    "url": "https://github.com/imMamdouhaboammar/designly"
+  },
+  {
+    "description": "HanaAgent v2 App\uff1a\u884c\u4e3a\u89c4\u5219\u6ce8\u5165\u7cfb\u7edf\u63d0\u793a\u800c\u975e\u4f1a\u8bdd\u6d88\u606f\uff0c\u6a21\u578b\u6309\u8bbe\u5b9a\u6267\u884c\u3002\u9644\u89c4\u5219\u7ba1\u7406\u754c\u9762\u4e0e CLI\u3002",
+    "id": "gkd2323c/hana-rule-system",
+    "language": "JavaScript",
+    "name": "gkd2323c/hana-rule-system",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:11:28Z",
+    "url": "https://github.com/gkd2323c/hana-rule-system"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:10:35Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T19:10:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent skill for building, review & validation of other agent skills, SKILL.md drafting, trigger descriptions & frontmatt",
+    "id": "LevyBytes/AI-skill-drafting",
+    "language": "Python",
+    "name": "LevyBytes/AI-skill-drafting",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:10:34Z",
+    "url": "https://github.com/LevyBytes/AI-skill-drafting"
+  },
+  {
     "description": "WorkBuddy \u5e73\u53f0\u7684\u4e13\u5bb6\u56e2/\u4e13\u5bb6/\u6280\u80fd\u5408\u96c6 \u00b7 Expert teams, agents & skills for the WorkBuddy platform (OB&HRM \u00b7 \u6559\u5b66 \u00b7 \u6548\u7387)",
     "id": "Lucewalk/WorkBuddy-Experts",
     "language": "Python",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11969,
-    "updated_at": "2026-10-23T19:09:19Z",
+    "updated_at": "2026-10-23T19:14:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -144,15 +243,6 @@
     "url": "https://github.com/Mullassery/PyContextFold"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T19:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, prompts, to",
     "id": "mdesalvo/Morgana",
     "language": "C#",
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-10-23T19:08:28Z",
+    "updated_at": "2026-10-23T19:15:09Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
@@ -279,12 +369,21 @@
     "url": "https://github.com/Gaby-projects/YouTube_Watchlist_Organizer_Skill"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22853,
+    "updated_at": "2026-10-23T19:12:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 7927,
-    "updated_at": "2026-10-23T19:02:00Z",
+    "updated_at": "2026-10-23T19:11:34Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -315,15 +414,6 @@
     "url": "https://github.com/Jak29/semantext-app"
   },
   {
-    "description": "Open-source hub, 7-criteria HR rubrics, Divide-and-Conquer prompt playbook, and 30 GitHub-backed cases for AI-Enabled SW",
-    "id": "xirothedev/ai-coding-interviews",
-    "language": "\u2014",
-    "name": "xirothedev/ai-coding-interviews",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:47:37Z",
-    "url": "https://github.com/xirothedev/ai-coding-interviews"
-  },
-  {
     "description": "Evidence-aware visual prompt compiler and experimentation lab for GPT Image 2, with historical/cultural reasoning, refer",
     "id": "PaladinKnightMaster/ai-image-prompt-factory",
     "language": "Python",
@@ -331,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T18:47:24Z",
     "url": "https://github.com/PaladinKnightMaster/ai-image-prompt-factory"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22852,
-    "updated_at": "2026-10-23T18:51:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u803f\u60f3 \u00b7 AI \u4ea7\u54c1/\u7528\u6237\u7814\u7a76\u4f5c\u54c1\u96c6 | \u5eb7\u5948\u5c14\u57ce\u5e02\u8bbe\u8ba1\u7855\u58eb\u5728\u8bfb\uff0cAI \u4ea7\u54c1\u65b9\u5411\u3002\u542b AI \u4f5c\u54c1\u96c6\u70b9\u8bc4\u52a9\u624b\u539f\u578b\uff08\u7eaf\u524d\u7aef+DeepSeek\uff09\u4e0e\u7528\u6237\u7814\u7a76\u6848\u4f8b\u3002",
@@ -367,86 +448,5 @@
     "stars": 318,
     "updated_at": "2026-10-23T18:59:02Z",
     "url": "https://github.com/udaysharmadev/Gravitas"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-23T18:41:14Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 13,
-    "updated_at": "2026-10-23T18:41:13Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "AI coding agent \u5de5\u7a0b\u6280\u80fd\u5305\uff1a25 \u500b skill\u30019 \u500b slash command\uff0c\u6db5\u84cb spec\u2192plan\u2192build\u2192verify\u2192review\u2192ship\uff5cProduction-grade engineering sk",
-    "id": "SanHsien/agent-skills",
-    "language": "JavaScript",
-    "name": "SanHsien/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-23T18:41:05Z",
-    "url": "https://github.com/SanHsien/agent-skills"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:40:00Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:35:44Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-10-23T18:36:03Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b",
-    "id": "Igor-lx/claudeHarness",
-    "language": "JavaScript",
-    "name": "Igor-lx/claudeHarness",
-    "stars": 2,
-    "updated_at": "2026-10-23T18:35:23Z",
-    "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "Commercial Art Direction, Creative Direction, and Design Neural Mesh with 21 modular skills, dramaturgy-first AI video d",
-    "id": "imMamdouhaboammar/designly",
-    "language": "HTML",
-    "name": "imMamdouhaboammar/designly",
-    "stars": 7,
-    "updated_at": "2026-10-23T19:08:50Z",
-    "url": "https://github.com/imMamdouhaboammar/designly"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5226,
-    "updated_at": "2026-10-23T18:47:05Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
   }
 ]
