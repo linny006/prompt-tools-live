@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude\uc758 \uc7a5\uae30 \uae30\uc5b5 \uc800\uc7a5\uc18c \u2014 \ud504\ub85c\uc81d\ud2b8 \ud559\uc2b5, \uc2a4\ud0ac, \ud589\ub3d9 \uaddc\uce59\uc744 \ucd95\uc801\ud558\ub294 \uac1c\uc778 Claude \uba54\ubaa8\ub9ac",
+    "id": "kangraemin/ai-knowledge",
+    "language": "Python",
+    "name": "kangraemin/ai-knowledge",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:15:05Z",
+    "url": "https://github.com/kangraemin/ai-knowledge"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:14:28Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Claude Code Prompt Mechanism Visualizer \u2014 Electron desktop app",
+    "id": "kangraemin/claude-inspector",
+    "language": "HTML",
+    "name": "kangraemin/claude-inspector",
+    "stars": 132,
+    "updated_at": "2026-10-23T15:14:15Z",
+    "url": "https://github.com/kangraemin/claude-inspector"
+  },
+  {
+    "description": "Disciplined AI coding mode. Understand deeply, write minimally, never hallucinate, stay consistent. Based on Ponytail & ",
+    "id": "savadks95/LLM_Tails",
+    "language": "JavaScript",
+    "name": "savadks95/LLM_Tails",
+    "stars": 5,
+    "updated_at": "2026-10-23T15:14:22Z",
+    "url": "https://github.com/savadks95/LLM_Tails"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T15:13:16Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:11:42Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
     "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
     "id": "fomativeh/RAG-Chatbot",
     "language": "Python",
@@ -108,15 +144,6 @@
     "url": "https://github.com/fomativeh/prompt-eval-harness"
   },
   {
-    "description": "Claude\uc758 \uc7a5\uae30 \uae30\uc5b5 \uc800\uc7a5\uc18c \u2014 \ud504\ub85c\uc81d\ud2b8 \ud559\uc2b5, \uc2a4\ud0ac, \ud589\ub3d9 \uaddc\uce59\uc744 \ucd95\uc801\ud558\ub294 \uac1c\uc778 Claude \uba54\ubaa8\ub9ac",
-    "id": "kangraemin/ai-knowledge",
-    "language": "Python",
-    "name": "kangraemin/ai-knowledge",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:11:02Z",
-    "url": "https://github.com/kangraemin/ai-knowledge"
-  },
-  {
     "description": "A lightweight RAG tutor that answers prompt engineering questions from course notes using local BM25 retrieval and free ",
     "id": "himani-2-git/Prompt-Engineering-Tutor",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T15:10:59Z",
     "url": "https://github.com/himani-2-git/Prompt-Engineering-Tutor"
-  },
-  {
-    "description": "Claude Code Prompt Mechanism Visualizer \u2014 Electron desktop app",
-    "id": "kangraemin/claude-inspector",
-    "language": "HTML",
-    "name": "kangraemin/claude-inspector",
-    "stars": 132,
-    "updated_at": "2026-10-23T15:10:03Z",
-    "url": "https://github.com/kangraemin/claude-inspector"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -202,7 +220,7 @@
     "id": "linshenkx/prompt-optimizer",
     "language": "TypeScript",
     "name": "linshenkx/prompt-optimizer",
-    "stars": 39051,
+    "stars": 39052,
     "updated_at": "2026-10-23T15:08:16Z",
     "url": "https://github.com/linshenkx/prompt-optimizer"
   },
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4989,
-    "updated_at": "2026-10-23T15:11:39Z",
+    "updated_at": "2026-10-23T15:14:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22849,
-    "updated_at": "2026-10-23T15:12:14Z",
+    "updated_at": "2026-10-23T15:15:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T15:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A Claude Code output style that classifies each message you send and shapes the reply to fit it.",
     "id": "OpenScribbler/Katharsis",
     "language": "TypeScript",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "ayase0307/ai-comic-drama",
     "stars": 0,
-    "updated_at": "2026-10-23T15:11:49Z",
+    "updated_at": "2026-10-23T15:13:49Z",
     "url": "https://github.com/ayase0307/ai-comic-drama"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36256,
-    "updated_at": "2026-10-23T15:12:49Z",
+    "updated_at": "2026-10-23T15:15:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 225,
     "updated_at": "2026-10-23T14:53:30Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "\u4e3a AI bot \u6ce8\u5165\u6301\u4e45\u8ba4\u77e5\u4e0e\u65e0\u7f1d\u6c89\u6d78\u7684\u901a\u7528\u589e\u5f3a\u6846\u67b6 \u2014\u2014 \u6cbb\u91d1\u9c7c\u8bb0\u5fc6\u3001\u6587\u5b57\u673a\u5668\u3001\u673a\u68b0\u51fa\u620f",
-    "id": "Illusory-moon/bot-mindscape",
-    "language": "Python",
-    "name": "Illusory-moon/bot-mindscape",
-    "stars": 7,
-    "updated_at": "2026-10-23T14:53:29Z",
-    "url": "https://github.com/Illusory-moon/bot-mindscape"
   }
 ]
