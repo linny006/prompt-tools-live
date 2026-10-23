@@ -1,5 +1,77 @@
 [
   {
+    "description": "Reposit\u00f3rio Dedicado a uma Simula\u00e7\u00e3o de uma opera\u00e7\u00e3o em Customer Experience de banco, utilizando o Copilot para simular ",
+    "id": "gustavfreitas/feedback-bancario",
+    "language": "Python",
+    "name": "gustavfreitas/feedback-bancario",
+    "stars": 0,
+    "updated_at": "2026-10-23T20:44:11Z",
+    "url": "https://github.com/gustavfreitas/feedback-bancario"
+  },
+  {
+    "description": "An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d",
+    "id": "MetcalfSolutions/Satori",
+    "language": "Python",
+    "name": "MetcalfSolutions/Satori",
+    "stars": 104,
+    "updated_at": "2026-10-23T20:43:31Z",
+    "url": "https://github.com/MetcalfSolutions/Satori"
+  },
+  {
+    "description": "Qwen 2.1 Director - single-node visual panel for Qwen-Image-2.1 with built-in prompt rewrite and acceleration",
+    "id": "gaospony-stack/ComfyUI_Qwen21Director",
+    "language": "JavaScript",
+    "name": "gaospony-stack/ComfyUI_Qwen21Director",
+    "stars": 0,
+    "updated_at": "2026-10-23T20:34:59Z",
+    "url": "https://github.com/gaospony-stack/ComfyUI_Qwen21Director"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 7927,
+    "updated_at": "2026-10-23T20:41:42Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Opinionated agent skills and workflows for pair programming with coding assistants.",
+    "id": "kiskaadee/skills",
+    "language": "Shell",
+    "name": "kiskaadee/skills",
+    "stars": 0,
+    "updated_at": "2026-10-23T20:33:15Z",
+    "url": "https://github.com/kiskaadee/skills"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 57,
+    "updated_at": "2026-10-23T20:33:09Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T20:32:21Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T20:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent Skill (SKILL.md) for Claude Code, Codex, Cursor & Antigravity that builds premium SaaS landing pages: sculpted glo",
     "id": "MiddleSugar7000/premium-saas-web-skill",
     "language": "HTML",
@@ -27,31 +99,13 @@
     "url": "https://github.com/StephenQiu30/glowloom-server"
   },
   {
-    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
-    "id": "kalinichenko88/agent-skills",
-    "language": "Shell",
-    "name": "kalinichenko88/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-23T20:28:33Z",
-    "url": "https://github.com/kalinichenko88/agent-skills"
-  },
-  {
     "description": "61 specialist workflows with executable local tools, evidence checks and an explainable task router. Free under MIT.",
     "id": "Shaisolaris/solaris-dev-shop",
     "language": "Python",
     "name": "Shaisolaris/solaris-dev-shop",
     "stars": 1,
-    "updated_at": "2026-10-23T20:27:55Z",
+    "updated_at": "2026-10-23T20:42:29Z",
     "url": "https://github.com/Shaisolaris/solaris-dev-shop"
-  },
-  {
-    "description": "Reposit\u00f3rio Dedicado a uma Simula\u00e7\u00e3o de uma opera\u00e7\u00e3o em Customer Experience de banco, utilizando o Copilot para simular ",
-    "id": "gustavfreitas/feedback-bancario",
-    "language": "Python",
-    "name": "gustavfreitas/feedback-bancario",
-    "stars": 0,
-    "updated_at": "2026-10-23T20:27:27Z",
-    "url": "https://github.com/gustavfreitas/feedback-bancario"
   },
   {
     "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "KM-it-ops/Proofhouse",
     "stars": 0,
-    "updated_at": "2026-10-23T20:29:21Z",
+    "updated_at": "2026-10-23T20:40:39Z",
     "url": "https://github.com/KM-it-ops/Proofhouse"
   },
   {
@@ -77,7 +131,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-23T20:23:41Z",
+    "updated_at": "2026-10-23T20:34:09Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/gthgomez/Babel"
   },
   {
-    "description": "Qwen 2.1 Director - single-node visual panel for Qwen-Image-2.1 with built-in prompt rewrite and acceleration",
-    "id": "gaospony-stack/ComfyUI_Qwen21Director",
-    "language": "JavaScript",
-    "name": "gaospony-stack/ComfyUI_Qwen21Director",
-    "stars": 0,
-    "updated_at": "2026-10-23T20:18:42Z",
-    "url": "https://github.com/gaospony-stack/ComfyUI_Qwen21Director"
-  },
-  {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
     "id": "bitranox/bitranox-skills",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T20:18:40Z",
     "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T20:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "DSH \u8f93\u5165\u6846\u52a9\u624b\uff1a\u9884\u6d4b\u4e0b\u4e00\u53e5\u3001\u8865\u5168\u8349\u7a3f\u3001\u6309\u9700\u6da6\u8272\u3002\u5efa\u8bae\u6309\u4f1a\u8bdd\u4fdd\u7559\uff0cTab \u53ea\u586b\u5165\u8349\u7a3f\u3001\u4e0d\u81ea\u52a8\u53d1\u9001\u3002\u6e90\u7801\u53ef\u89c1\uff0c\u4fee\u6539\u987b\u4e8b\u5148\u4e66\u9762\u8bb8\u53ef\u3002",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22853,
-    "updated_at": "2026-10-23T20:19:08Z",
+    "updated_at": "2026-10-23T20:32:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -266,17 +302,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11971,
-    "updated_at": "2026-10-23T20:26:44Z",
+    "updated_at": "2026-10-23T20:44:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Animated UI blocks for React, Tailwind CSS & Framer Motion \u2014 each with a ready AI prompt and the real code. Live playgro",
-    "id": "reyad-dev/blocks-code",
-    "language": "TypeScript",
-    "name": "reyad-dev/blocks-code",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:59:09Z",
-    "url": "https://github.com/reyad-dev/blocks-code"
   },
   {
     "description": " Claude Skill that lists the latest videos from your choosen YouTube channels and playlists flagging new uploads. Skill ",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "JouberthAlves/motionshelf",
     "stars": 2,
-    "updated_at": "2026-10-23T20:28:55Z",
+    "updated_at": "2026-10-23T20:42:29Z",
     "url": "https://github.com/JouberthAlves/motionshelf"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T19:42:31Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:41:10Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:40:16Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:40:14Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
