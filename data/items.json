@@ -1,12 +1,102 @@
 [
   {
-    "description": "MoralStack is a governance and safety layer for LLM applications. It analyzes user requests before generation, evaluates",
-    "id": "fdidonato/moralstack",
+    "description": "AI\u958b\u767a\u521d\u5fc3\u8005\u306e\u304a\u56f0\u308a\u3054\u3068\u9006\u5f15\u304d\u30ca\u30d3\u30b2\u30fc\u30b7\u30e7\u30f3\u3002\u65e5\u5e38\u306e\u8a00\u8449\u304b\u3089\u30a8\u30e9\u30fc\u89e3\u6c7a\u30fb\u5b89\u5168\u78ba\u8a8d\u30fbAI\u8cea\u554f\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u5c0e\u304fWeb\u30c4\u30fc\u30eb\uff08\u516850\u30d7\u30e9\u30b0\u30a4\u30f3\u53ce\u9332\uff09",
+    "id": "tk030-lotto/ai-dev-beginner-navigator",
+    "language": "TypeScript",
+    "name": "tk030-lotto/ai-dev-beginner-navigator",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:30:12Z",
+    "url": "https://github.com/tk030-lotto/ai-dev-beginner-navigator"
+  },
+  {
+    "description": "Vendor-agnostic recursive agent harnessing (Harness2 method): pure method core + substrate adapters. Canonical evidence ",
+    "id": "20genesis14-sys/perfect-harness",
+    "language": "JavaScript",
+    "name": "20genesis14-sys/perfect-harness",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:28:05Z",
+    "url": "https://github.com/20genesis14-sys/perfect-harness"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
     "language": "Python",
-    "name": "fdidonato/moralstack",
+    "name": "Zipstack/unstract",
+    "stars": 7296,
+    "updated_at": "2026-10-23T07:27:45Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "SOTA Zero-Daemon Autonomous Multi-Agent Orchestrator for Gemini 2.0 & Antigravity. 311+ Skills with 0.4ms FTS5 Indexing ",
+    "id": "Abdulazizenter/agent-conductor",
+    "language": "Python",
+    "name": "Abdulazizenter/agent-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:26:38Z",
+    "url": "https://github.com/Abdulazizenter/agent-conductor"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-23T07:14:47Z",
-    "url": "https://github.com/fdidonato/moralstack"
+    "updated_at": "2026-10-23T07:25:57Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Claude Code skill that turns a one-line idea into a complete AI video production plan: storyboard, shot design and copy-",
+    "id": "ottolsq/vigen",
+    "language": "\u2014",
+    "name": "ottolsq/vigen",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:22:01Z",
+    "url": "https://github.com/ottolsq/vigen"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 114475,
+    "updated_at": "2026-10-23T07:21:57Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-23T07:28:30Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "\u672c\u5730 AI \u56fe\u7247\u521b\u4f5c\u5de5\u4f5c\u53f0\uff1a\u7edf\u4e00\u63a5\u5165\u591a\u79cd\u514d\u8d39\u3001\u4ed8\u8d39\u4e0e\u5546\u7528 AI \u751f\u56fe\u670d\u52a1\uff0c\u652f\u6301\u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u3001\u667a\u80fd\u8def\u7531\u3001Prompt \u4f18\u5316\u3001\u6279\u91cf\u53d8\u4f53\u4e0e\u4efb\u52a1\u961f\u5217\uff0c\u8ba9\u4e0d\u540c AI \u56fe\u50cf\u6a21\u578b\u5728\u4e00\u4e2a\u684c\u9762\u5de5\u5177\u91cc\u534f\u540c\u521b\u4f5c\u3002",
+    "id": "Aswellle/2image",
+    "language": "Python",
+    "name": "Aswellle/2image",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:20:36Z",
+    "url": "https://github.com/Aswellle/2image"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36237,
+    "updated_at": "2026-10-23T07:29:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI senior software engineer for non-technical builders & vibe coders. Plans, structures, builds, tests, ships & document",
+    "id": "bilawalbaig8/hire-an-engineer",
+    "language": "Python",
+    "name": "bilawalbaig8/hire-an-engineer",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:23:59Z",
+    "url": "https://github.com/bilawalbaig8/hire-an-engineer"
   },
   {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "danh121097/squad-skills",
     "stars": 0,
-    "updated_at": "2026-10-23T07:14:39Z",
+    "updated_at": "2026-10-23T07:18:16Z",
     "url": "https://github.com/danh121097/squad-skills"
   },
   {
@@ -23,8 +113,44 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 23,
-    "updated_at": "2026-10-23T07:14:29Z",
+    "updated_at": "2026-10-23T07:16:23Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:15:32Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-23T07:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
+    "id": "konradre/video-production-skills",
+    "language": "Python",
+    "name": "konradre/video-production-skills",
+    "stars": 7,
+    "updated_at": "2026-10-23T07:15:27Z",
+    "url": "https://github.com/konradre/video-production-skills"
+  },
+  {
+    "description": "MoralStack is a governance and safety layer for LLM applications. It analyzes user requests before generation, evaluates",
+    "id": "fdidonato/moralstack",
+    "language": "Python",
+    "name": "fdidonato/moralstack",
+    "stars": 9,
+    "updated_at": "2026-10-23T07:14:47Z",
+    "url": "https://github.com/fdidonato/moralstack"
   },
   {
     "description": "The Universal AI Development Operating System (AI-OS) for Cursor, Claude Code, Windsurf, Copilot & Antigravity. Stop AI ",
@@ -36,12 +162,21 @@
     "url": "https://github.com/vantu1998/universal-ai-starter"
   },
   {
+    "description": "LLM Excel/Sheets formula diagnosis with an evaluation harness: golden + held-out sets, 3-run noise control, LLM judge au",
+    "id": "Ragebeat/formulafix-llm-eval",
+    "language": "Python",
+    "name": "Ragebeat/formulafix-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:13:54Z",
+    "url": "https://github.com/Ragebeat/formulafix-llm-eval"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T07:14:55Z",
+    "updated_at": "2026-10-23T07:28:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +194,7 @@
     "language": "Python",
     "name": "AreteDriver/context-hygiene",
     "stars": 0,
-    "updated_at": "2026-10-23T07:12:41Z",
+    "updated_at": "2026-10-23T07:18:11Z",
     "url": "https://github.com/AreteDriver/context-hygiene"
   },
   {
@@ -126,15 +261,6 @@
     "url": "https://github.com/fuchao2pku/awesome-dsh-experts"
   },
   {
-    "description": "Vendor-agnostic recursive agent harnessing (Harness2 method): pure method core + substrate adapters. Canonical evidence ",
-    "id": "20genesis14-sys/perfect-harness",
-    "language": "JavaScript",
-    "name": "20genesis14-sys/perfect-harness",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:07:00Z",
-    "url": "https://github.com/20genesis14-sys/perfect-harness"
-  },
-  {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
@@ -153,22 +279,13 @@
     "url": "https://github.com/Trilldog13/ai-recruitment-frameworks"
   },
   {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
+    "description": "AI Workplace Productivity Assistant ",
+    "id": "Mmathabo-Podile/workwise-ai",
     "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-23T07:11:55Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36236,
-    "updated_at": "2026-10-23T07:11:51Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "Mmathabo-Podile/workwise-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:05:18Z",
+    "url": "https://github.com/Mmathabo-Podile/workwise-ai"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -261,15 +378,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-23T07:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator ",
     "id": "toranalytics/off-the-wall",
     "language": "JavaScript",
@@ -324,13 +432,13 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "\u672c\u5730 AI \u56fe\u7247\u521b\u4f5c\u5de5\u4f5c\u53f0\uff1a\u7edf\u4e00\u63a5\u5165\u591a\u79cd\u514d\u8d39\u3001\u4ed8\u8d39\u4e0e\u5546\u7528 AI \u751f\u56fe\u670d\u52a1\uff0c\u652f\u6301\u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u3001\u667a\u80fd\u8def\u7531\u3001Prompt \u4f18\u5316\u3001\u6279\u91cf\u53d8\u4f53\u4e0e\u4efb\u52a1\u961f\u5217\uff0c\u8ba9\u4e0d\u540c AI \u56fe\u50cf\u6a21\u578b\u5728\u4e00\u4e2a\u684c\u9762\u5de5\u5177\u91cc\u534f\u540c\u521b\u4f5c\u3002",
-    "id": "Aswellle/2image",
+    "description": "The foundation layer for agentic intelligence.",
+    "id": "promptise-com/Foundry",
     "language": "Python",
-    "name": "Aswellle/2image",
-    "stars": 3,
-    "updated_at": "2026-10-23T06:52:24Z",
-    "url": "https://github.com/Aswellle/2image"
+    "name": "promptise-com/Foundry",
+    "stars": 893,
+    "updated_at": "2026-10-23T06:53:17Z",
+    "url": "https://github.com/promptise-com/Foundry"
   },
   {
     "description": "Detect and rebut rationalization patterns in AI agent output",
@@ -340,113 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T06:51:31Z",
     "url": "https://github.com/hivecommons/rationguard"
-  },
-  {
-    "description": "Visual text, object and character layouts for MOSS-Image-Base, compiled to exact prompt JSON in your browser.",
-    "id": "alphabell-research/moss-layout-studio",
-    "language": "JavaScript",
-    "name": "alphabell-research/moss-layout-studio",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:51:29Z",
-    "url": "https://github.com/alphabell-research/moss-layout-studio"
-  },
-  {
-    "description": "\u6d77\u5927\u53d4 AI \u4f53\u7cfb\uff1a\u4e00\u4eba\u516c\u53f8\uff08OPC\uff09+ AI \u5185\u5bb9\u751f\u4ea7\u7ebf\u7684\u5b8c\u6574\u6253\u6cd5\uff5c\u56db\u5c42\u67b6\u6784 \u00b7 7 \u5927\u6280\u80fd\u4f53\u7cfb \u00b7 \u53ef\u843d\u5730\u7684\u786c\u89c4\u683c\u4e0e\u6d41\u6c34\u7ebf",
-    "id": "haidashu79-prog/haidashu-ai-system",
-    "language": "Python",
-    "name": "haidashu79-prog/haidashu-ai-system",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:52:08Z",
-    "url": "https://github.com/haidashu79-prog/haidashu-ai-system"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-23T06:50:39Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "TypeScript",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:50:37Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:50:16Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "Find out whether a text was AI-touched, then restore the author's own voice - three forensic tells, a personal baseline ",
-    "id": "CatsMansion/voice-restore",
-    "language": "Python",
-    "name": "CatsMansion/voice-restore",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:49:30Z",
-    "url": "https://github.com/CatsMansion/voice-restore"
-  },
-  {
-    "description": "AI\u958b\u767a\u521d\u5fc3\u8005\u306e\u304a\u56f0\u308a\u3054\u3068\u9006\u5f15\u304d\u30ca\u30d3\u30b2\u30fc\u30b7\u30e7\u30f3\u3002\u65e5\u5e38\u306e\u8a00\u8449\u304b\u3089\u30a8\u30e9\u30fc\u89e3\u6c7a\u30fb\u5b89\u5168\u78ba\u8a8d\u30fbAI\u8cea\u554f\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u5c0e\u304fWeb\u30c4\u30fc\u30eb\uff08\u516850\u30d7\u30e9\u30b0\u30a4\u30f3\u53ce\u9332\uff09",
-    "id": "tk030-lotto/ai-dev-beginner-navigator",
-    "language": "TypeScript",
-    "name": "tk030-lotto/ai-dev-beginner-navigator",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:48:23Z",
-    "url": "https://github.com/tk030-lotto/ai-dev-beginner-navigator"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28507,
-    "updated_at": "2026-10-23T06:48:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI-augmented software and product engineer \u2014 agent pipelines run under a written harness, and the Next.js / TypeScript p",
-    "id": "brandonperfetti/brandonperfetti",
-    "language": "JavaScript",
-    "name": "brandonperfetti/brandonperfetti",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:46:01Z",
-    "url": "https://github.com/brandonperfetti/brandonperfetti"
-  },
-  {
-    "description": "My Roadmap to learn about AI Engineering",
-    "id": "Yuvraj960/AI-Engineering",
-    "language": "\u2014",
-    "name": "Yuvraj960/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:45:40Z",
-    "url": "https://github.com/Yuvraj960/AI-Engineering"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-23T07:13:23Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:44:48Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   }
 ]
