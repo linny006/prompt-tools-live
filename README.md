@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 02:30 UTC
+> ⏰ Last updated: 2026-10-23 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fujc683/awesome-hy-image-prompts](https://github.com/fujc683/awesome-hy-image-prompts) | 0 | — | 2026-10-23 | 252 curated HY Image 3.5 prompts with preview images, grouped by use case. |
-| 2 | [doodersrage/castcut](https://github.com/doodersrage/castcut) | 13 | TypeScript | 2026-10-23 | Local AI character filmmaking with ComfyUI — create consistent characters, scenes, images, and short films. |
-| 3 | [LashawnFofung/BeReal-RealProcess](https://github.com/LashawnFofung/BeReal-RealProcess) | 0 | HTML | 2026-10-23 | Product Management case study & feature proposal for BeReal. Features RealProcess—an unfiltered goal-tracking concept de |
-| 4 | [fujc683/awesome-seedream-5-flash-prompts](https://github.com/fujc683/awesome-seedream-5-flash-prompts) | 0 | — | 2026-10-23 | 252 curated Seedream 5.0 Flash prompts with preview images, grouped by use case. |
-| 5 | [fujc683/awesome-flux-2-max-prompts](https://github.com/fujc683/awesome-flux-2-max-prompts) | 0 | — | 2026-10-23 | 252 curated FLUX 2 Max prompts with preview images, grouped by use case. |
-| 6 | [fujc683/awesome-z-image-prompts](https://github.com/fujc683/awesome-z-image-prompts) | 0 | — | 2026-10-23 | 252 curated Z-Image Turbo prompts with preview images, grouped by use case. |
-| 7 | [fujc683/awesome-seedream-5-prompts](https://github.com/fujc683/awesome-seedream-5-prompts) | 0 | — | 2026-10-23 | 252 curated Seedream 5.0 prompts with preview images, grouped by use case. |
-| 8 | [fujc683/awesome-qwen-image-prompts](https://github.com/fujc683/awesome-qwen-image-prompts) | 0 | — | 2026-10-23 | 252 curated Qwen-Image 2.1 prompts with preview images, grouped by use case. |
-| 9 | [fujc683/awesome-grok-imagine-prompts](https://github.com/fujc683/awesome-grok-imagine-prompts) | 0 | — | 2026-10-23 | 252 curated Grok Imagine prompts with preview images, grouped by use case. |
-| 10 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 6 | JavaScript | 2026-10-23 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
-| 11 | [fujc683/awesome-flux-2-prompts](https://github.com/fujc683/awesome-flux-2-prompts) | 0 | — | 2026-10-23 | 252 curated FLUX 2 prompts with preview images, grouped by use case. |
-| 12 | [carpentry-liu/awesome-astra-3d](https://github.com/carpentry-liu/awesome-astra-3d) | 18 | TypeScript | 2026-10-23 | Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. 中英文案例库 |
-| 13 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 10154 | TypeScript | 2026-10-23 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
-| 14 | [Nano-Collective/prompt-scrubber](https://github.com/Nano-Collective/prompt-scrubber) | 23 | TypeScript | 2026-10-23 | Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach |
-| 15 | [blashkar/evalwright](https://github.com/blashkar/evalwright) | 0 | Go | 2026-10-23 | Regression tests for LLM prompts, built for local models. Think Playwright, but for evals. |
-| 16 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7287 | Python | 2026-10-23 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
-| 17 | [baros4294/system_prompt](https://github.com/baros4294/system_prompt) | 2 | — | 2026-10-23 | Creative Writing and General Conversation System Prompt for LLM |
-| 18 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11956 | Python | 2026-10-23 | AI Observability & Evaluation |
-| 19 | [DSeaStar/awesome-kling](https://github.com/DSeaStar/awesome-kling) | 5 | Python | 2026-10-23 | The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources |
-| 20 | [javabytm/gestalt-ui](https://github.com/javabytm/gestalt-ui) | 0 | HTML | 2026-10-23 | Nine laws of perceptual grouping, turned into numbers an agent can compute — score any UI, then fix it. One file, zero d |
-| 21 | [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) | 103 | Python | 2026-10-23 | An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d |
-| 22 | [Furox-Art/eq-layer](https://github.com/Furox-Art/eq-layer) | 0 | Python | 2026-10-23 | A control layer that decides how an LLM should speak before it speaks |
-| 23 | [Furox-Art/quantum-reasoning-skill](https://github.com/Furox-Art/quantum-reasoning-skill) | 3 | Python | 2026-10-23 | Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to |
-| 24 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4988 | TypeScript | 2026-10-23 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
-| 25 | [whimzyLive/nightshift-ai](https://github.com/whimzyLive/nightshift-ai) | 3 | Shell | 2026-10-23 | nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team — it reads a ticket a |
-| 26 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 63 | TypeScript | 2026-10-23 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
-| 27 | [agoradynamics/wick](https://github.com/agoradynamics/wick) | 3 | JavaScript | 2026-10-23 | Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext.  |
-| 28 | [parthchandak02/peer-review-assistant](https://github.com/parthchandak02/peer-review-assistant) | 0 | — | 2026-10-23 | Prompt template and Cursor rules that turn a pasted paper into a scored journal-style peer review report. |
-| 29 | [flux-art-ai/flux-art-ecom-image-workflow](https://github.com/flux-art-ai/flux-art-ecom-image-workflow) | 6 | Python | 2026-10-23 | 电商 AI 出图工作流:白底图/促销主图/场景融合/系列一致性/详情页全流程 + 中英提示词库 + OpenAPI 可运行示例。E-commerce AI image workflows, bilingual prompts and run |
-| 30 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-10-23 | npm for generative video. Runnable creative formats for image, video, and audio. |
-| 31 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-23 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 32 | [KodekaTeam/superior-skills](https://github.com/KodekaTeam/superior-skills) | 8 | PowerShell | 2026-10-23 | Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con |
-| 33 | [ReSerendipity/ComfyUI-BatchPromptLoader](https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader) | 2 | Python | 2026-10-23 | ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes |
-| 34 | [lmh2925850363-cyber/adprompt-studio](https://github.com/lmh2925850363-cyber/adprompt-studio) | 0 | Python | 2026-10-23 | 出海电商广告全流程智能体：选品→制作→投放→素材库｜FastAPI + 本地 RAG + LLM-as-judge｜含 A/B 实验与数据看板 |
-| 35 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 26 | TypeScript | 2026-10-23 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
-| 36 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2393 | JavaScript | 2026-10-23 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 37 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-23 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 38 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 141 | HTML | 2026-10-23 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
-| 39 | [OpenScribbler/Katharsis](https://github.com/OpenScribbler/Katharsis) | 5 | TypeScript | 2026-10-23 | A Claude Code output style that classifies each message you send and shapes the reply to fit it. |
-| 40 | [apoapostolov/humanizer](https://github.com/apoapostolov/humanizer) | 9 | JavaScript | 2026-10-23 | Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve  |
-| 41 | [promptise-com/Foundry](https://github.com/promptise-com/Foundry) | 892 | Python | 2026-10-23 | The foundation layer for agentic intelligence. |
-| 42 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28502 | Python | 2026-10-23 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 43 | [Quantum-L9/l9-cognitive-runtime](https://github.com/Quantum-L9/l9-cognitive-runtime) | 0 | Python | 2026-10-23 | Governed intent-to-execution compiler/runtime for L9 kernels, activation plans, execution contracts, execution graphs, v |
-| 44 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 9 | JavaScript | 2026-10-23 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 45 | [hivecommons/rationguard](https://github.com/hivecommons/rationguard) | 3 | TypeScript | 2026-10-23 | Detect and rebut rationalization patterns in AI agent output |
-| 46 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26310 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 47 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-23 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 48 | [Yu-Xiao-Sheng/fabric-patterns-zh](https://github.com/Yu-Xiao-Sheng/fabric-patterns-zh) | 1 | Python | 2026-10-23 | Fabric 全部提示词中文目录：266 个 Pattern 的中文简介与源仓库直达链接，每日自动同步上游 danielmiessler/Fabric |
-| 49 | [derob98/ailmanac](https://github.com/derob98/ailmanac) | 8 | MDX | 2026-10-23 | Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse |
-| 50 | [billyhetech/awesome-viral-ai-videos](https://github.com/billyhetech/awesome-viral-ai-videos) | 3 | Python | 2026-10-23 | Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render |
+| 1 | [agent-kit-startup/agent-kit](https://github.com/agent-kit-startup/agent-kit) | 22 | TypeScript | 2026-10-23 | Plan, build, review, and ship to the real world. Full opinionated harness with built-in Project Management and DevSecOps |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11956 | Python | 2026-10-23 | AI Observability & Evaluation |
+| 3 | [koydas/ai-dev-tools](https://github.com/koydas/ai-dev-tools) | 1 | JavaScript | 2026-10-23 | Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt |
+| 4 | [LashawnFofung/BeReal-RealProcess](https://github.com/LashawnFofung/BeReal-RealProcess) | 0 | HTML | 2026-10-23 | Product Management case study & feature proposal for BeReal. Features RealProcess—an unfiltered goal-tracking concept de |
+| 5 | [alicexixi85/women-decision-intelligence](https://github.com/alicexixi85/women-decision-intelligence) | 4 | Python | 2026-10-23 | 女性高成就者决策智库 \| Women High-Achievers Decision Intelligence — AI Skill for real-world decision support based on 22 real wome |
+| 6 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 16 | Shell | 2026-10-23 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
+| 7 | [Spoon94/skill-vault](https://github.com/Spoon94/skill-vault) | 5 | Python | 2026-10-23 | Curated Agent Skills for AI coding agents — Claude Code, Codex CLI, Copilot CLI, Gemini CLI and OpenCode. Each skill is  |
+| 8 | [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10363 | — | 2026-10-23 | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering  |
+| 9 | [billyhetech/awesome-viral-ai-videos](https://github.com/billyhetech/awesome-viral-ai-videos) | 3 | Python | 2026-10-23 | Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render |
+| 10 | [luckliu2007/ai-ml-data-roadmap](https://github.com/luckliu2007/ai-ml-data-roadmap) | 0 | — | 2026-10-23 | AI 学习路线：应用构建者 × 管理者两条路线，能力模型、分模块学习计划、模板与精选一手资料 |
+| 11 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11613 | TypeScript | 2026-10-23 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
+| 12 | [jingmingliu01/To-be-a-better-PM](https://github.com/jingmingliu01/To-be-a-better-PM) | 0 | — | 2026-10-23 | Review-first PM knowledge base for AI product thinking, commercialization frameworks, project retrospectives, and macro  |
+| 13 | [Faudzan10/outline-driven-starter-kit](https://github.com/Faudzan10/outline-driven-starter-kit) | 0 | HTML | 2026-10-23 | One-Click AI Dev Environment Setup 2026 – Outline-Driven CLI Instant Init |
+| 14 | [wornoxgames/awesome-3d-prompts](https://github.com/wornoxgames/awesome-3d-prompts) | 0 | — | 2026-10-23 | Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by Wandy3D |
+| 15 | [SenjuWoo/Ultimate-AI-Starter-Bundle](https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle) | 6 | JavaScript | 2026-10-23 | Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim  |
+| 16 | [carpentry-liu/awesome-astra-3d](https://github.com/carpentry-liu/awesome-astra-3d) | 18 | TypeScript | 2026-10-23 | Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. 中英文案例库 |
+| 17 | [badhope/xiaoman](https://github.com/badhope/xiaoman) | 83 | Python | 2026-10-23 | Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI + LangGraph + React · data 100% loc |
+| 18 | [fujc683/awesome-mai-image-prompts](https://github.com/fujc683/awesome-mai-image-prompts) | 0 | — | 2026-10-23 | 252 curated MAI-Image 2.6 prompts with preview images, grouped by use case. |
+| 19 | [mikessslx/mathtec](https://github.com/mikessslx/mathtec) | 1 | Python | 2026-10-23 | Multi-agent framework for mathematical text error correction, with the MathTEC-Bench dataset (ICCCS 2026) |
+| 20 | [fujc683/awesome-flux-3-klein-prompts](https://github.com/fujc683/awesome-flux-3-klein-prompts) | 0 | — | 2026-10-23 | 252 curated FLUX 3 Image Klein prompts with preview images, grouped by use case. |
+| 21 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-23 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 22 | [fujc683/awesome-hy-image-prompts](https://github.com/fujc683/awesome-hy-image-prompts) | 0 | — | 2026-10-23 | 252 curated HY Image 3.5 prompts with preview images, grouped by use case. |
+| 23 | [doodersrage/castcut](https://github.com/doodersrage/castcut) | 13 | TypeScript | 2026-10-23 | Local AI character filmmaking with ComfyUI — create consistent characters, scenes, images, and short films. |
+| 24 | [fujc683/awesome-seedream-5-flash-prompts](https://github.com/fujc683/awesome-seedream-5-flash-prompts) | 0 | — | 2026-10-23 | 252 curated Seedream 5.0 Flash prompts with preview images, grouped by use case. |
+| 25 | [fujc683/awesome-flux-2-max-prompts](https://github.com/fujc683/awesome-flux-2-max-prompts) | 0 | — | 2026-10-23 | 252 curated FLUX 2 Max prompts with preview images, grouped by use case. |
+| 26 | [fujc683/awesome-z-image-prompts](https://github.com/fujc683/awesome-z-image-prompts) | 0 | — | 2026-10-23 | 252 curated Z-Image Turbo prompts with preview images, grouped by use case. |
+| 27 | [fujc683/awesome-seedream-5-prompts](https://github.com/fujc683/awesome-seedream-5-prompts) | 0 | — | 2026-10-23 | 252 curated Seedream 5.0 prompts with preview images, grouped by use case. |
+| 28 | [fujc683/awesome-qwen-image-prompts](https://github.com/fujc683/awesome-qwen-image-prompts) | 0 | — | 2026-10-23 | 252 curated Qwen-Image 2.1 prompts with preview images, grouped by use case. |
+| 29 | [fujc683/awesome-grok-imagine-prompts](https://github.com/fujc683/awesome-grok-imagine-prompts) | 0 | — | 2026-10-23 | 252 curated Grok Imagine prompts with preview images, grouped by use case. |
+| 30 | [fujc683/awesome-flux-2-prompts](https://github.com/fujc683/awesome-flux-2-prompts) | 0 | — | 2026-10-23 | 252 curated FLUX 2 prompts with preview images, grouped by use case. |
+| 31 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 10154 | TypeScript | 2026-10-23 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
+| 32 | [Nano-Collective/prompt-scrubber](https://github.com/Nano-Collective/prompt-scrubber) | 23 | TypeScript | 2026-10-23 | Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach |
+| 33 | [blashkar/evalwright](https://github.com/blashkar/evalwright) | 0 | Go | 2026-10-23 | Regression tests for LLM prompts, built for local models. Think Playwright, but for evals. |
+| 34 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7287 | Python | 2026-10-23 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
+| 35 | [baros4294/system_prompt](https://github.com/baros4294/system_prompt) | 2 | — | 2026-10-23 | Creative Writing and General Conversation System Prompt for LLM |
+| 36 | [DSeaStar/awesome-kling](https://github.com/DSeaStar/awesome-kling) | 5 | Python | 2026-10-23 | The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources |
+| 37 | [javabytm/gestalt-ui](https://github.com/javabytm/gestalt-ui) | 0 | HTML | 2026-10-23 | Nine laws of perceptual grouping, turned into numbers an agent can compute — score any UI, then fix it. One file, zero d |
+| 38 | [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) | 103 | Python | 2026-10-23 | An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d |
+| 39 | [Furox-Art/eq-layer](https://github.com/Furox-Art/eq-layer) | 0 | Python | 2026-10-23 | A control layer that decides how an LLM should speak before it speaks |
+| 40 | [Furox-Art/quantum-reasoning-skill](https://github.com/Furox-Art/quantum-reasoning-skill) | 3 | Python | 2026-10-23 | Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to |
+| 41 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4988 | TypeScript | 2026-10-23 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 42 | [whimzyLive/nightshift-ai](https://github.com/whimzyLive/nightshift-ai) | 3 | Shell | 2026-10-23 | nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team — it reads a ticket a |
+| 43 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 63 | TypeScript | 2026-10-23 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
+| 44 | [agoradynamics/wick](https://github.com/agoradynamics/wick) | 3 | JavaScript | 2026-10-23 | Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext.  |
+| 45 | [parthchandak02/peer-review-assistant](https://github.com/parthchandak02/peer-review-assistant) | 0 | — | 2026-10-23 | Prompt template and Cursor rules that turn a pasted paper into a scored journal-style peer review report. |
+| 46 | [flux-art-ai/flux-art-ecom-image-workflow](https://github.com/flux-art-ai/flux-art-ecom-image-workflow) | 6 | Python | 2026-10-23 | 电商 AI 出图工作流:白底图/促销主图/场景融合/系列一致性/详情页全流程 + 中英提示词库 + OpenAPI 可运行示例。E-commerce AI image workflows, bilingual prompts and run |
+| 47 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-10-23 | npm for generative video. Runnable creative formats for image, video, and audio. |
+| 48 | [KodekaTeam/superior-skills](https://github.com/KodekaTeam/superior-skills) | 9 | PowerShell | 2026-10-23 | Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con |
+| 49 | [ReSerendipity/ComfyUI-BatchPromptLoader](https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader) | 2 | Python | 2026-10-23 | ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes |
+| 50 | [lmh2925850363-cyber/adprompt-studio](https://github.com/lmh2925850363-cyber/adprompt-studio) | 0 | Python | 2026-10-23 | 出海电商广告全流程智能体：选品→制作→投放→素材库｜FastAPI + 本地 RAG + LLM-as-judge｜含 A/B 实验与数据看板 |
 <!-- TRACKER_TABLE_END -->
 
 ---
