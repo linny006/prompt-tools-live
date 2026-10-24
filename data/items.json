@@ -1,5 +1,41 @@
 [
   {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-10-24T19:00:08Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Prompt de sistema para um agente de IA de suporte \u00e0 portaria/recep\u00e7\u00e3o: orienta sobre o sistema de portaria, procedimento",
+    "id": "2robinson2/bootcamp_Agentes_IA",
+    "language": "\u2014",
+    "name": "2robinson2/bootcamp_Agentes_IA",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:00:06Z",
+    "url": "https://github.com/2robinson2/bootcamp_Agentes_IA"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T19:00:03Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T19:00:03Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
     "description": "Communication toolkit for burnt-out humans and collaborative AI's",
     "id": "giladbarnea/soft-skills",
     "language": "\u2014",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T18:58:16Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Prompt de sistema para um agente de IA de suporte \u00e0 portaria/recep\u00e7\u00e3o: orienta sobre o sistema de portaria, procedimento",
-    "id": "2robinson2/bootcamp_Agentes_IA",
-    "language": "\u2014",
-    "name": "2robinson2/bootcamp_Agentes_IA",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:58:08Z",
-    "url": "https://github.com/2robinson2/bootcamp_Agentes_IA"
   },
   {
     "description": "Preserve Claude Code session context across compactions. Zero-dependency plugin with pre/post hooks and scoped rules.",
@@ -234,31 +261,13 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T18:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A Codex and Claude Code plugin with focused skills for turning requests into clear, actionable work: intent clarificatio",
     "id": "wheakerd/axiom",
     "language": "Python",
     "name": "wheakerd/axiom",
     "stars": 1,
-    "updated_at": "2026-10-24T18:44:40Z",
+    "updated_at": "2026-10-24T19:00:14Z",
     "url": "https://github.com/wheakerd/axiom"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-24T18:55:18Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-24T18:28:42Z",
     "url": "https://github.com/gotonote/awesome-agent-boom"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:28:35Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
