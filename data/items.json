@@ -1,21 +1,57 @@
 [
   {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
+    "description": "A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.",
+    "id": "lalipa2003-arch/JailbreakHub",
+    "language": "\u2014",
+    "name": "lalipa2003-arch/JailbreakHub",
+    "stars": 10,
+    "updated_at": "2026-10-24T23:29:08Z",
+    "url": "https://github.com/lalipa2003-arch/JailbreakHub"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-10-24T23:25:09Z",
-    "url": "https://github.com/grimaldost/craft-collection"
+    "updated_at": "2026-10-24T23:30:12Z",
+    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 174400,
-    "updated_at": "2026-10-24T23:24:00Z",
+    "stars": 174401,
+    "updated_at": "2026-10-24T23:27:34Z",
     "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:28:16Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T23:25:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
+    "language": "Python",
+    "name": "grimaldost/craft-collection",
+    "stars": 2,
+    "updated_at": "2026-10-24T23:25:35Z",
+    "url": "https://github.com/grimaldost/craft-collection"
   },
   {
     "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
@@ -99,15 +135,6 @@
     "url": "https://github.com/jack-reson8/skill-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T23:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
@@ -115,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-10-24T23:11:20Z",
     "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-10-24T23:16:29Z",
-    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:02:45Z",
     "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:21:05Z",
-    "url": "https://github.com/joshuafolkken/kit"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -439,14 +448,5 @@
     "stars": 2173,
     "updated_at": "2026-10-24T22:35:27Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:34:46Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
