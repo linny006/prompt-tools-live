@@ -1,5 +1,86 @@
 [
   {
+    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
+    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "language": "JavaScript",
+    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "stars": 6,
+    "updated_at": "2026-10-24T03:30:14Z",
+    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11975,
+    "updated_at": "2026-10-24T03:30:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
+    "language": "Python",
+    "name": "kzndotsh/companion",
+    "stars": 2,
+    "updated_at": "2026-10-24T03:27:20Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
+    "id": "Lucewalk/lucewalk-lumen",
+    "language": "\u2014",
+    "name": "Lucewalk/lucewalk-lumen",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:25:26Z",
+    "url": "https://github.com/Lucewalk/lucewalk-lumen"
+  },
+  {
+    "description": "Regression tests for LLM prompts, built for local models. Think Playwright, but for evals.",
+    "id": "blashkar/evalwright",
+    "language": "Go",
+    "name": "blashkar/evalwright",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:22:21Z",
+    "url": "https://github.com/blashkar/evalwright"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-24T03:18:38Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "The context layer for production AI agents: local-first context planning, compression and runtime for LLM apps.",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 21,
+    "updated_at": "2026-10-24T03:18:26Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 174270,
+    "updated_at": "2026-10-24T03:16:19Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T03:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:10:44Z",
     "url": "https://github.com/radhika-verma06/prompt-gym"
-  },
-  {
-    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
-    "id": "Lucewalk/lucewalk-lumen",
-    "language": "\u2014",
-    "name": "Lucewalk/lucewalk-lumen",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:09:21Z",
-    "url": "https://github.com/Lucewalk/lucewalk-lumen"
   },
   {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
@@ -171,15 +243,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T03:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -196,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T02:59:54Z",
     "url": "https://github.com/api-evangelist/vellum"
-  },
-  {
-    "description": "Regression tests for LLM prompts, built for local models. Think Playwright, but for evals.",
-    "id": "blashkar/evalwright",
-    "language": "Go",
-    "name": "blashkar/evalwright",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:09:14Z",
-    "url": "https://github.com/blashkar/evalwright"
   },
   {
     "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:38:06Z",
     "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Free 3D prompts for Claude, GPT and Kimi \u2014 games, scenes, assets and animation, each with its result. Curated by Wandy3D",
-    "id": "wornoxgames/awesome-3d-prompts",
-    "language": "\u2014",
-    "name": "wornoxgames/awesome-3d-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:36:07Z",
-    "url": "https://github.com/wornoxgames/awesome-3d-prompts"
-  },
-  {
-    "description": "Open-source visual style library for AI-generated UI \u2014 148 curated styles with design tokens, prompts and MCP. | \u9762\u5411 AI \u751f",
-    "id": "AnxForever/stylekit",
-    "language": "TypeScript",
-    "name": "AnxForever/stylekit",
-    "stars": 660,
-    "updated_at": "2026-10-24T02:34:49Z",
-    "url": "https://github.com/AnxForever/stylekit"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "TypeScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 11618,
-    "updated_at": "2026-10-24T02:34:23Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "TypeScript",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:34:14Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-24T02:33:36Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Structured prompt engineering workbench for authoring deterministic LLM system instructions, constraints, and output sch",
-    "id": "Alfredo-ctrl/promptframe",
-    "language": "JavaScript",
-    "name": "Alfredo-ctrl/promptframe",
-    "stars": 1,
-    "updated_at": "2026-10-24T02:32:36Z",
-    "url": "https://github.com/Alfredo-ctrl/promptframe"
   }
 ]
