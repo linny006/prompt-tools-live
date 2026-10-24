@@ -1,12 +1,75 @@
 [
   {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
+    "description": "Protocol-first, Markdown-first framework for generating academically bounded fictional personas on demand for multi-agen",
+    "id": "focaxisdev/persona-generator",
     "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-24T06:14:34Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+    "name": "focaxisdev/persona-generator",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:29:54Z",
+    "url": "https://github.com/focaxisdev/persona-generator"
+  },
+  {
+    "description": "\ud83d\udca1DSH \u7684 Prompt\u63d0\u793a\u8bcd\u5de5\u5177\u7bb1\uff1a\u5e38\u7528prompt\u4fdd\u5b58\u540e\u70b9\u51fb\u5373\u53ef\u6ce8\u5165\u5230\u5bf9\u8bdd\u6846\u2014\u2014\u7701\u65f6\u7701\u529b\uff0c/prompt \u81ea\u52a8\u63d0\u793a\u5df2\u6709Prompt\u3002 \ud83d\udca1The Prompt toolbox for DeepSeek Harness: stop cop",
+    "id": "FeatherHunter/dsh-prompt",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-prompt",
+    "stars": 55,
+    "updated_at": "2026-10-24T06:29:37Z",
+    "url": "https://github.com/FeatherHunter/dsh-prompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36276,
+    "updated_at": "2026-10-24T06:28:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source hub, 7-criteria HR rubrics, Divide-and-Conquer prompt playbook, and 30 GitHub-backed cases for AI-Enabled SW",
+    "id": "xirothedev/ai-coding-interviews",
+    "language": "TypeScript",
+    "name": "xirothedev/ai-coding-interviews",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:26:25Z",
+    "url": "https://github.com/xirothedev/ai-coding-interviews"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T06:21:47Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-24T06:21:00Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "Curated copy-paste AI prompts for developers - disciplined workflows for AI coding agents that verify, don't guess",
+    "id": "shauryagangrade/awesome-ai-prompts",
+    "language": "HTML",
+    "name": "shauryagangrade/awesome-ai-prompts",
+    "stars": 76,
+    "updated_at": "2026-10-24T06:19:22Z",
+    "url": "https://github.com/shauryagangrade/awesome-ai-prompts"
+  },
+  {
+    "description": "Prompt-driven development for your coding agent. Describe behavior in prompts, Stories and test cases; your agent builds",
+    "id": "promptdriven/pdd_alpha",
+    "language": "JavaScript",
+    "name": "promptdriven/pdd_alpha",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:25:34Z",
+    "url": "https://github.com/promptdriven/pdd_alpha"
   },
   {
     "description": "Per-turn prompt panel for Hermes Agent, built on the official pre_llm_call shell hook (unofficial).",
@@ -14,17 +77,71 @@
     "language": "Python",
     "name": "yechang1450/hermes-hook-prompt",
     "stars": 0,
-    "updated_at": "2026-10-24T06:12:34Z",
+    "updated_at": "2026-10-24T06:19:06Z",
     "url": "https://github.com/yechang1450/hermes-hook-prompt"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-24T06:18:59Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
+    "id": "triton2030/agentic-research",
+    "language": "Python",
+    "name": "triton2030/agentic-research",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:17:49Z",
+    "url": "https://github.com/triton2030/agentic-research"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 77677,
-    "updated_at": "2026-10-24T06:15:23Z",
+    "stars": 77676,
+    "updated_at": "2026-10-24T06:30:05Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A best practice for universal prompts that comply with the AGENTS.md open specification.",
+    "id": "JularDepick/AGENTS.md-Best-Practices",
+    "language": "\u2014",
+    "name": "JularDepick/AGENTS.md-Best-Practices",
+    "stars": 7,
+    "updated_at": "2026-10-24T06:16:14Z",
+    "url": "https://github.com/JularDepick/AGENTS.md-Best-Practices"
+  },
+  {
+    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
+    "id": "Lucewalk-Lumen/about-me",
+    "language": "\u2014",
+    "name": "Lucewalk-Lumen/about-me",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:15:49Z",
+    "url": "https://github.com/Lucewalk-Lumen/about-me"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T06:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-24T06:14:34Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
   },
   {
     "description": "Refine reproducible one-shot prompts from your terminal, then paste them into the LLM UI you already use.",
@@ -63,15 +180,6 @@
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
-    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
-    "id": "Lucewalk-Lumen/about-me",
-    "language": "\u2014",
-    "name": "Lucewalk-Lumen/about-me",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:10:12Z",
-    "url": "https://github.com/Lucewalk-Lumen/about-me"
-  },
-  {
     "description": "Catch the known pitfalls before your agent starts \u2014 100+ evidence-backed cards, six domains, three-zone honest reports. ",
     "id": "jungenius-stack/pitfall-expert",
     "language": "JavaScript",
@@ -86,17 +194,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 13,
-    "updated_at": "2026-10-24T06:08:32Z",
+    "updated_at": "2026-10-24T06:21:04Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-24T06:08:21Z",
-    "url": "https://github.com/hivecommons/promptargs"
   },
   {
     "description": "\ud83c\udfac Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 ",
@@ -153,15 +252,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T06:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -203,7 +293,7 @@
     "language": "Shell",
     "name": "sscodeai/agency-agents-ja",
     "stars": 10,
-    "updated_at": "2026-10-24T05:56:40Z",
+    "updated_at": "2026-10-24T06:19:47Z",
     "url": "https://github.com/sscodeai/agency-agents-ja"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T05:34:05Z",
     "url": "https://github.com/ntphuong130487-wq/ai-team-app"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-10-24T05:33:49Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
-    "id": "zahiruddin586-cpu/ai-web-forge",
-    "language": "HTML",
-    "name": "zahiruddin586-cpu/ai-web-forge",
-    "stars": 68,
-    "updated_at": "2026-10-24T05:33:29Z",
-    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-10-24T06:14:22Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-24T05:31:33Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-24T05:30:18Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:29:43Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Quality and topic-coverage radar for every DeepSeek Harness answer: evidence-backed reports plus copy-ready prompt fixes",
-    "id": "lishinho/dsh-quality-lens",
-    "language": "HTML",
-    "name": "lishinho/dsh-quality-lens",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:29:30Z",
-    "url": "https://github.com/lishinho/dsh-quality-lens"
-  },
-  {
-    "description": "Agent Skill: turn novels/stories into character-consistent AI comic dramas \u2014 script, storyboard, prompts, image & video ",
-    "id": "ayase0307/ai-comic-drama",
-    "language": "Python",
-    "name": "ayase0307/ai-comic-drama",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:29:23Z",
-    "url": "https://github.com/ayase0307/ai-comic-drama"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-10-24T05:29:08Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:27:12Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
