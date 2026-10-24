@@ -1,12 +1,120 @@
 [
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
+    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
+    "id": "Lucewalk-Lumen/about-me",
+    "language": "\u2014",
+    "name": "Lucewalk-Lumen/about-me",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:28:30Z",
+    "url": "https://github.com/Lucewalk-Lumen/about-me"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
     "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-24T04:14:42Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+    "name": "jmagly/aiwg",
+    "stars": 225,
+    "updated_at": "2026-10-24T04:27:57Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Prompt chain for the TikTok 'I'm so sorry, I lied' trend: one photo in, every slide undoes one lie. Templates, model not",
+    "id": "Rajeshzheng/im-sorry-i-lied-prompt-chain",
+    "language": "Python",
+    "name": "Rajeshzheng/im-sorry-i-lied-prompt-chain",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:27:11Z",
+    "url": "https://github.com/Rajeshzheng/im-sorry-i-lied-prompt-chain"
+  },
+  {
+    "description": "Stop AI hallucinations, Yes-Man sycophancy, robotic AI slop prose, and cheap UI clutter in 30 seconds. Pre-packaged .mdc",
+    "id": "longwave-ai-lab/anti-slop-ai-harness",
+    "language": "\u2014",
+    "name": "longwave-ai-lab/anti-slop-ai-harness",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:26:21Z",
+    "url": "https://github.com/longwave-ai-lab/anti-slop-ai-harness"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:25:39Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:25:29Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Diagnostic plugins for Claude Code and Codex: why a session went wrong, and whether a proposed change is too much or too",
+    "id": "shinpr/agent-clinic",
+    "language": "Python",
+    "name": "shinpr/agent-clinic",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:22:54Z",
+    "url": "https://github.com/shinpr/agent-clinic"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:21:20Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:20:32Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Agentic Workflow OS: Deterministic /boost Context-Bloat Pruner, /teamwork-preview Git Worktree Sandbox, /goal Anti-Rewar",
+    "id": "longwave-ai-lab/agentic-workflow-os",
+    "language": "JavaScript",
+    "name": "longwave-ai-lab/agentic-workflow-os",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:20:29Z",
+    "url": "https://github.com/longwave-ai-lab/agentic-workflow-os"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 77672,
+    "updated_at": "2026-10-24T04:29:15Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 966,
+    "updated_at": "2026-10-24T04:17:20Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T04:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +122,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28512,
-    "updated_at": "2026-10-24T04:15:23Z",
+    "updated_at": "2026-10-24T04:16:37Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "updated_at": "2026-10-24T04:14:42Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
@@ -45,15 +162,6 @@
     "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 966,
-    "updated_at": "2026-10-24T04:07:51Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "Open-source hub, 7-criteria HR rubrics, Divide-and-Conquer prompt playbook, and 30 GitHub-backed cases for AI-Enabled SW",
     "id": "xirothedev/ai-coding-interviews",
     "language": "TypeScript",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T04:06:33Z",
     "url": "https://github.com/xirothedev/ai-coding-interviews"
-  },
-  {
-    "description": "Expert teams, agents & skills for the WorkBuddy AI assistant platform \u2014 OB & HRM research, teaching assistants & product",
-    "id": "Lucewalk-Lumen/about-me",
-    "language": "\u2014",
-    "name": "Lucewalk-Lumen/about-me",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:04:45Z",
-    "url": "https://github.com/Lucewalk-Lumen/about-me"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -108,15 +207,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T04:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -142,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-10-24T03:57:03Z",
     "url": "https://github.com/terminus-labs-ai/sr2"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 77670,
-    "updated_at": "2026-10-24T03:54:57Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -193,7 +274,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 53631,
+    "stars": 53633,
     "updated_at": "2026-10-24T03:44:17Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:39:13Z",
     "url": "https://github.com/openclawzhangchong/zhishiku"
-  },
-  {
-    "description": "AI-assisted real estate website project for Urban Nest Estates, created through prompt-driven development for a live bus",
-    "id": "DadoCode/urban-nest-estates",
-    "language": "HTML",
-    "name": "DadoCode/urban-nest-estates",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:38:51Z",
-    "url": "https://github.com/DadoCode/urban-nest-estates"
   },
   {
     "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
@@ -328,7 +400,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7963,
+    "stars": 7965,
     "updated_at": "2026-10-24T03:24:25Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -364,7 +436,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 174275,
+    "stars": 174276,
     "updated_at": "2026-10-24T03:16:19Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -376,77 +448,5 @@
     "stars": 123,
     "updated_at": "2026-10-24T03:14:29Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-24T03:13:09Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "AI-assisted game UI and 2D asset workbench for icons, buttons, sprites, prompt recipes, and canvas utilities. \u4e2d\u6587\uff1a\u6e38\u620fUI\u7d20\u6750\u5de5",
-    "id": "Kala9527/GameUISmith",
-    "language": "TypeScript",
-    "name": "Kala9527/GameUISmith",
-    "stars": 5,
-    "updated_at": "2026-10-24T03:12:53Z",
-    "url": "https://github.com/Kala9527/GameUISmith"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:12:45Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:11:49Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Write one prompt, run it against six hidden cases, and see exactly what broke \u2014 and what your fix breaks next.",
-    "id": "radhika-verma06/prompt-gym",
-    "language": "TypeScript",
-    "name": "radhika-verma06/prompt-gym",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:10:44Z",
-    "url": "https://github.com/radhika-verma06/prompt-gym"
-  },
-  {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "Python",
-    "name": "coco-research/coco",
-    "stars": 963,
-    "updated_at": "2026-10-24T03:08:01Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 1,
-    "updated_at": "2026-10-24T03:06:57Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Prompts for GPT Image 2.5, written against the capability areas in OpenAI's announcement \u2014 each shipped with the image i",
-    "id": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2.5-prompts",
-    "stars": 29,
-    "updated_at": "2026-10-24T03:05:21Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts"
   }
 ]
