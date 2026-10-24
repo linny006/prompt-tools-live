@@ -1,5 +1,68 @@
 [
   {
+    "description": "Hands-on AI engineering lab in ASP.NET Core: weekly LLM experiments, real evals (Haiku vs Sonnet, keyword vs embedding R",
+    "id": "Franksmallz/AiEngineeringLab",
+    "language": "C#",
+    "name": "Franksmallz/AiEngineeringLab",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:45:23Z",
+    "url": "https://github.com/Franksmallz/AiEngineeringLab"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:44:47Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-24T16:44:44Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:44:31Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 460,
+    "updated_at": "2026-10-24T16:45:09Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u4f5c\u4e3a\u7f16\u7a0b\u52a9\u624b\u7684\u6280\u80fd\u5b89\u88c5\uff0c\u4e5f\u53ef\u4ee5\u76f4\u63a5\u5728\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:43:42Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T16:43:20Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -171,15 +234,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-    "id": "google/elephant-goldfish-model",
-    "language": "Python",
-    "name": "google/elephant-goldfish-model",
-    "stars": 459,
-    "updated_at": "2026-10-24T16:33:41Z",
-    "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
     "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
     "id": "jack-reson8/skill-skill",
     "language": "Python",
@@ -202,7 +256,7 @@
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 6237,
+    "stars": 6238,
     "updated_at": "2026-10-24T16:30:47Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T16:39:42Z",
     "url": "https://github.com/wheakerd/axiom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T16:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "DSH plugin Prompt Forge: rewrite the composer draft by the AI-usage doctrine (AI\u4f7f\u7528\u5fc3\u6cd5) and toggle between original and op",
@@ -387,15 +432,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:39:47Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 839,
     "updated_at": "2026-10-24T16:17:19Z",
     "url": "https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness"
-  },
-  {
-    "description": "Tune agent skills to your own model.",
-    "id": "hhuang91/tuningfork",
-    "language": "Python",
-    "name": "hhuang91/tuningfork",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:16:52Z",
-    "url": "https://github.com/hhuang91/tuningfork"
-  },
-  {
-    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, prompts, to",
-    "id": "mdesalvo/Morgana",
-    "language": "C#",
-    "name": "mdesalvo/Morgana",
-    "stars": 10,
-    "updated_at": "2026-10-24T16:16:11Z",
-    "url": "https://github.com/mdesalvo/Morgana"
-  },
-  {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-24T16:12:08Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
-    "description": "Drop-in alignment rules for any AI agent (Claude Code, Cursor, GitHub Copilot, OpenClaw, Hermes or a plain LLM system pr",
-    "id": "shimo4228/contemplative-agent-rules",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent-rules",
-    "stars": 2,
-    "updated_at": "2026-10-24T16:11:05Z",
-    "url": "https://github.com/shimo4228/contemplative-agent-rules"
   }
 ]
