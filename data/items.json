@@ -1,11 +1,38 @@
 [
   {
+    "description": "FS-Prompt Studio - \u4e2d\u6587\u4f18\u5148\u7684 AI \u751f\u56fe\u63d0\u793a\u8bcd\u7f16\u8f91\u5668\uff08\u8349\u7a3f/\u4e2d\u82f1\u53cc\u6846\u7ffb\u8bd1/\u52a0\u6743\u7247\u6bb5/LoRA \u8bb0\u4e8b\u672c/ComfyUI\uff09",
+    "id": "FSYL001/FS-Prompt-Studio",
+    "language": "TypeScript",
+    "name": "FSYL001/FS-Prompt-Studio",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:16:13Z",
+    "url": "https://github.com/FSYL001/FS-Prompt-Studio"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:15:31Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T09:15:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
     "id": "yegor256/prompt",
     "language": "\u2014",
     "name": "yegor256/prompt",
     "stars": 166,
-    "updated_at": "2026-10-24T09:15:11Z",
+    "updated_at": "2026-10-24T09:15:34Z",
     "url": "https://github.com/yegor256/prompt"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T09:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-24T08:34:48Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
-    "id": "novanoticia/email-triage-plugin",
-    "language": "Python",
-    "name": "novanoticia/email-triage-plugin",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:34:57Z",
-    "url": "https://github.com/novanoticia/email-triage-plugin"
-  },
-  {
-    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 13,
-    "updated_at": "2026-10-24T09:15:18Z",
-    "url": "https://github.com/event4u-app/agent-config"
   }
 ]
