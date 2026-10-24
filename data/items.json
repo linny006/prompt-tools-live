@@ -1,30 +1,30 @@
 [
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-24T23:14:29Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
+    "language": "Python",
+    "name": "grimaldost/craft-collection",
+    "stars": 2,
+    "updated_at": "2026-10-24T23:25:09Z",
+    "url": "https://github.com/grimaldost/craft-collection"
   },
   {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 174399,
-    "updated_at": "2026-10-24T23:14:28Z",
+    "stars": 174400,
+    "updated_at": "2026-10-24T23:24:00Z",
     "url": "https://github.com/f/prompts.chat"
   },
   {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
-    "stars": 2,
-    "updated_at": "2026-10-24T23:12:40Z",
-    "url": "https://github.com/grimaldost/craft-collection"
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:23:46Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
   },
   {
     "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
@@ -32,8 +32,80 @@
     "language": "Python",
     "name": "kzndotsh/companion",
     "stars": 2,
-    "updated_at": "2026-10-24T23:12:07Z",
+    "updated_at": "2026-10-24T23:22:50Z",
     "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:21:40Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 225,
+    "updated_at": "2026-10-24T23:20:22Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:20:19Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-24T23:18:52Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 277,
+    "updated_at": "2026-10-24T23:17:33Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Agent skills honed on real work \u2014 standalone, sanitized, CC BY 4.0.",
+    "id": "iamakbarsha1/whetstone",
+    "language": "Python",
+    "name": "iamakbarsha1/whetstone",
+    "stars": 4,
+    "updated_at": "2026-10-24T23:16:39Z",
+    "url": "https://github.com/iamakbarsha1/whetstone"
+  },
+  {
+    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
+    "id": "jack-reson8/skill-skill",
+    "language": "Python",
+    "name": "jack-reson8/skill-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T23:15:45Z",
+    "url": "https://github.com/jack-reson8/skill-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-24T23:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -50,7 +122,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-10-24T23:14:44Z",
+    "updated_at": "2026-10-24T23:16:29Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
-    "description": "Agent skills honed on real work \u2014 standalone, sanitized, CC BY 4.0.",
-    "id": "iamakbarsha1/whetstone",
-    "language": "Python",
-    "name": "iamakbarsha1/whetstone",
-    "stars": 4,
-    "updated_at": "2026-10-24T23:04:11Z",
-    "url": "https://github.com/iamakbarsha1/whetstone"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-24T23:01:56Z",
+    "updated_at": "2026-10-24T23:21:05Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 68,
     "updated_at": "2026-10-24T23:00:38Z",
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-24T23:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T22:34:46Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "A lightweight RAG tutor that answers prompt engineering questions from course notes using local BM25 retrieval and free ",
-    "id": "himani-2-git/Prompt-Engineering-Tutor",
-    "language": "Python",
-    "name": "himani-2-git/Prompt-Engineering-Tutor",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:33:37Z",
-    "url": "https://github.com/himani-2-git/Prompt-Engineering-Tutor"
-  },
-  {
-    "description": "Agent skills for spec-driven development. An automated agentic delivery loop coordinates planning, implementation, and c",
-    "id": "valzav/valcraft",
-    "language": "Python",
-    "name": "valzav/valcraft",
-    "stars": 22,
-    "updated_at": "2026-10-24T22:31:34Z",
-    "url": "https://github.com/valzav/valcraft"
-  },
-  {
-    "description": "Can an LLM review pull requests better than a trained model? 1,494 PRs mined from 5 large OSS repos, a Random Forest vs ",
-    "id": "MarlenMM/code-review-ai",
-    "language": "Python",
-    "name": "MarlenMM/code-review-ai",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:30:51Z",
-    "url": "https://github.com/MarlenMM/code-review-ai"
-  },
-  {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 709,
-    "updated_at": "2026-10-24T22:26:52Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-24T22:23:31Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Structured context for AI agents \u2014 layered knowledge grid with vector indexing, domain inference, intent-driven retrieva",
-    "id": "Opafex/knowledge-grid",
-    "language": "TypeScript",
-    "name": "Opafex/knowledge-grid",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:23:03Z",
-    "url": "https://github.com/Opafex/knowledge-grid"
   }
 ]
