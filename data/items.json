@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1522,
+    "updated_at": "2026-10-25T15:03:30Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A Codex and Claude Code plugin with focused skills for turning requests into clear, actionable work: intent clarificatio",
+    "id": "wheakerd/axiom",
+    "language": "Python",
+    "name": "wheakerd/axiom",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:03:21Z",
+    "url": "https://github.com/wheakerd/axiom"
+  },
+  {
+    "description": "Five-layer experience memory for long-lived agents: budgets, write safety, grep retrieval, incident ledger, fail-closed ",
+    "id": "SquareXRay/longmem",
+    "language": "Python",
+    "name": "SquareXRay/longmem",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:03:07Z",
+    "url": "https://github.com/SquareXRay/longmem"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:02:38Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-25T15:01:13Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T15:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
+    "id": "joshuafolkken/kit",
+    "language": "TypeScript",
+    "name": "joshuafolkken/kit",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:02:44Z",
+    "url": "https://github.com/joshuafolkken/kit"
+  },
+  {
     "description": "MaxLoop \u00b7 \u5e26\u5239\u8f66\u7684 AI \u81ea\u6211\u8fed\u4ee3\u5f15\u64ce\uff08\u5916\u90e8\u5224\u636e\u5239\u8f66\uff0c\u675c\u7edd\u5047\u7eff\u7a7a\u8f6c\uff1b\u4ea7\u54c1\u8fed\u4ee3+\u65b9\u6848\u5347\u7ea7\u53cc\u6a21\u5f0f\uff1bWorkBuddy/Claude Code/Cursor \u901a\u7528\uff1bMIT\uff09",
     "id": "huanweide/maxloop-overlord",
     "language": "HTML",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-25T14:59:57Z",
+    "updated_at": "2026-10-25T15:04:23Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -135,6 +198,15 @@
     "url": "https://github.com/ayase0307/ai-comic-drama"
   },
   {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "Python",
+    "name": "coco-research/coco",
+    "stars": 787,
+    "updated_at": "2026-10-25T14:50:53Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
     "description": "A private, local-first AI chat interface supporting Ollama and cloud models.",
     "id": "LukaG712/Neo",
     "language": "HTML",
@@ -166,7 +238,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22904,
+    "stars": 22907,
     "updated_at": "2026-10-25T14:48:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -198,15 +270,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-25T14:46:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "DSH plugin: turn a composer draft into an executable prompt. Code mode reads the workspace and audits security; creative",
     "id": "EasonQuantico/dsh-prompt-enhance",
     "language": "JavaScript",
@@ -214,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T14:45:32Z",
     "url": "https://github.com/EasonQuantico/dsh-prompt-enhance"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T14:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Continuity Bible \u2014 the living record that stops a long-form series drifting out of its own facts: compile-time name toke",
@@ -342,15 +396,6 @@
     "url": "https://github.com/MartinCastroAlvarez/langsmith-agent-evals"
   },
   {
-    "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
-    "id": "joshuafolkken/kit",
-    "language": "TypeScript",
-    "name": "joshuafolkken/kit",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:56:47Z",
-    "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
     "description": "MindSpark - Mind Map for Everyone",
     "id": "prasadpatil25/MindSpark",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T14:30:14Z",
     "url": "https://github.com/Igor-lx/claudeHarness"
-  },
-  {
-    "description": "DSH \u7834\u7532\u63d2\u4ef6\uff1a1,597 tok \u8584\u5185\u6838 + \u8bf7\u6c42\u4f53\u7ea7 prefill/many-shot + \u62d2\u7b54\u4fee\u8865\u4e0e\u6362\u7ebf + \u53cd\u64a4\u56de\u955c\u50cf + \u56de\u6eda\u3002\u96f6\u5bbf\u4e3b\u8865\u4e01\uff0c\u5bbf\u4e3b\u5347\u7ea7\u4e0d\u5931\u6548\u3002151 \u9879\u6d4b\u8bd5 / 56 \u6761\u63a2\u9488 / 12 \u7c7b\u3002",
-    "id": "jadezane6634-ops/dsh-purge-flash",
-    "language": "JavaScript",
-    "name": "jadezane6634-ops/dsh-purge-flash",
-    "stars": 4,
-    "updated_at": "2026-10-25T14:29:51Z",
-    "url": "https://github.com/jadezane6634-ops/dsh-purge-flash"
-  },
-  {
-    "description": "Rewrite prompts in one click inside ChatGPT, Gemini, and Claude \u2014 and rephrase any text on the web. Bring your own Gemin",
-    "id": "piyushdoorwar/ask-better",
-    "language": "JavaScript",
-    "name": "piyushdoorwar/ask-better",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:28:56Z",
-    "url": "https://github.com/piyushdoorwar/ask-better"
-  },
-  {
-    "description": "Bilingual professional portfolio and searchable library of reusable AI assistant prompts across marketing, research, cre",
-    "id": "mahmoudabdelnaby1/mahmoudabdelnaby1.github.io",
-    "language": "HTML",
-    "name": "mahmoudabdelnaby1/mahmoudabdelnaby1.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:28:50Z",
-    "url": "https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io"
-  },
-  {
-    "description": "Multi-Language Chrome/Edge Extension that Enables Selecting Local Files and Sending them as Text Prompts to Artificial I",
-    "id": "fernandodilland/file-to-prompt",
-    "language": "HTML",
-    "name": "fernandodilland/file-to-prompt",
-    "stars": 18,
-    "updated_at": "2026-10-25T14:28:33Z",
-    "url": "https://github.com/fernandodilland/file-to-prompt"
-  },
-  {
-    "description": "ComfyUI custom nodes that randomly sample artists and characters from CSV data and assign random weights, generating rea",
-    "id": "StarAsh042/ComfyUI_RollingArtist",
-    "language": "Python",
-    "name": "StarAsh042/ComfyUI_RollingArtist",
-    "stars": 3,
-    "updated_at": "2026-10-25T14:31:06Z",
-    "url": "https://github.com/StarAsh042/ComfyUI_RollingArtist"
   }
 ]
