@@ -1,5 +1,68 @@
 [
   {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-25T06:17:46Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
+    "id": "solid-ai-dev/solid-ai-templates",
+    "language": "Python",
+    "name": "solid-ai-dev/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-10-25T06:17:46Z",
+    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-25T06:17:38Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Prompt optimizer for the DSH composer: one star button, two sliders, model switching, 11 toggleable rules. \u661f\u8292 \u00b7 DSH \u63d0\u793a\u8bcd\u4e00",
+    "id": "Starlit-Sky-code/dsh-prompt-starlight",
+    "language": "JavaScript",
+    "name": "Starlit-Sky-code/dsh-prompt-starlight",
+    "stars": 0,
+    "updated_at": "2026-10-25T06:17:32Z",
+    "url": "https://github.com/Starlit-Sky-code/dsh-prompt-starlight"
+  },
+  {
+    "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
+    "id": "AKzar1el/god-prompt",
+    "language": "Python",
+    "name": "AKzar1el/god-prompt",
+    "stars": 9,
+    "updated_at": "2026-10-25T06:17:30Z",
+    "url": "https://github.com/AKzar1el/god-prompt"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 225,
+    "updated_at": "2026-10-25T06:15:48Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T06:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u4ece\u96f6\u624b\u5199\u7684 AI Agent \u7cfb\u7edf\uff08Python / asyncio / Pydantic\uff09\uff0c\u4e0d\u4f9d\u8d56 LangChain\u3002\u542b Function Calling \u4e0e ReAct \u4e24\u6761\u5b9e\u73b0\u8def\u7ebf\u3001\u5de5\u5177\u6ce8\u518c\u8868\u3001SSE \u6d41\u5f0f\u89e3\u6790\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5e76\u53d1\u6267\u884c",
     "id": "Icelemon77/agent-playground",
     "language": "Python",
@@ -171,21 +234,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T06:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
     "id": "MikeMoore1337/ai-development-toolkit",
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-25T06:10:21Z",
+    "updated_at": "2026-10-25T06:18:15Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
   },
   {
@@ -265,7 +319,7 @@
     "id": "tradecatlabs/vibe-coding-cn",
     "language": "Makefile",
     "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17749,
+    "stars": 17750,
     "updated_at": "2026-10-25T05:49:29Z",
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
@@ -286,24 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:48:04Z",
     "url": "https://github.com/BearMett/mind-your-tone"
-  },
-  {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-25T06:11:56Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
-  },
-  {
-    "description": "Prompt optimizer for the DSH composer: one star button, two sliders, model switching, 11 toggleable rules. \u661f\u8292 \u00b7 DSH \u63d0\u793a\u8bcd\u4e00",
-    "id": "Starlit-Sky-code/dsh-prompt-starlight",
-    "language": "JavaScript",
-    "name": "Starlit-Sky-code/dsh-prompt-starlight",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:48:02Z",
-    "url": "https://github.com/Starlit-Sky-code/dsh-prompt-starlight"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:37:58Z",
     "url": "https://github.com/xuyewild/ai-video-skills"
-  },
-  {
-    "description": "Two skills I use when several AIs work on one long project: hand off through files, get a second AI to check, log paid g",
-    "id": "xuyewild/multi-ai-skills",
-    "language": "Python",
-    "name": "xuyewild/multi-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:37:56Z",
-    "url": "https://github.com/xuyewild/multi-ai-skills"
-  },
-  {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 2,
-    "updated_at": "2026-10-25T05:36:10Z",
-    "url": "https://github.com/kzndotsh/companion"
-  },
-  {
-    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
-    "id": "fernando-bertholdo/nbstack",
-    "language": "Python",
-    "name": "fernando-bertholdo/nbstack",
-    "stars": 2,
-    "updated_at": "2026-10-25T05:35:47Z",
-    "url": "https://github.com/fernando-bertholdo/nbstack"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 10,
-    "updated_at": "2026-10-25T05:34:35Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
   }
 ]
