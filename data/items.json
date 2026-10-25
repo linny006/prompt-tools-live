@@ -1,5 +1,185 @@
 [
   {
+    "description": "VS Code marketplace UI for grim \u2014 the OCI package manager for AI artifacts (skills, rules, agents, MCP servers, bundles)",
+    "id": "grimoire-rs/grimoire-vscode",
+    "language": "TypeScript",
+    "name": "grimoire-rs/grimoire-vscode",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:44:59Z",
+    "url": "https://github.com/grimoire-rs/grimoire-vscode"
+  },
+  {
+    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
+    "id": "nexorahai-svg/claude-knowledge-library",
+    "language": "Python",
+    "name": "nexorahai-svg/claude-knowledge-library",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:44:43Z",
+    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
+  },
+  {
+    "description": "A portable AI skill that acts as a business consultant for owners and founders, adapted to business type. Covers strateg",
+    "id": "gelowie/business-advisor",
+    "language": "\u2014",
+    "name": "gelowie/business-advisor",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:44:37Z",
+    "url": "https://github.com/gelowie/business-advisor"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2403,
+    "updated_at": "2026-10-25T13:43:46Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 966,
+    "updated_at": "2026-10-25T13:43:20Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\u628a\u9009\u5b9a\u7684\u63d0\u793a\u8bcd\u6539\u5199\u6210\u53ef\u76f4\u63a5\u6267\u884c\u7684\u4ea7\u7269\uff1agoal \u6a21\u5f0f\u51fa\u5b8c\u6210\u6761\u4ef6\u4e32\uff0cflow \u6a21\u5f0f\u51fa Workflow \u4efb\u52a1\u89c4\u683c",
+    "id": "lidaye910416/prompt-polish",
+    "language": "Python",
+    "name": "lidaye910416/prompt-polish",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:43:10Z",
+    "url": "https://github.com/lidaye910416/prompt-polish"
+  },
+  {
+    "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
+    "id": "snowkiss13/ja-writing-norms",
+    "language": "Python",
+    "name": "snowkiss13/ja-writing-norms",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:44:49Z",
+    "url": "https://github.com/snowkiss13/ja-writing-norms"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:42:08Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "\u9019\u662f\u4e00\u500b\u6574\u7406 Codex\u3001Claude Code\u3001Prompt\u3001\u5de5\u4f5c\u81ea\u52d5\u5316\u8207\u5de5\u7a0b\u5de5\u5177\u7684\u4e00\u9801\u5f0f\u5c0e\u822a\u7db2\u7ad9\u3002",
+    "id": "rita112025-cpu/rita-ai-workbench",
+    "language": "Python",
+    "name": "rita112025-cpu/rita-ai-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:41:51Z",
+    "url": "https://github.com/rita112025-cpu/rita-ai-workbench"
+  },
+  {
+    "description": "Claude Code plugin: spawns a subagent that grounds expert-level answers in real retrieved primary sources (specs, docs, ",
+    "id": "pko89403/grounded-expert",
+    "language": "Python",
+    "name": "pko89403/grounded-expert",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:41:41Z",
+    "url": "https://github.com/pko89403/grounded-expert"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T13:45:17Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:44:23Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "A personal visual prompt creator for infographics, narrative illustrations, processes, and system diagrams, with example",
+    "id": "culturelight/vizswitch",
+    "language": "\u2014",
+    "name": "culturelight/vizswitch",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:38:59Z",
+    "url": "https://github.com/culturelight/vizswitch"
+  },
+  {
+    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
+    "id": "Czerror/dsh-plugin-prompt-tool",
+    "language": "JavaScript",
+    "name": "Czerror/dsh-plugin-prompt-tool",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:36:53Z",
+    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
+  },
+  {
+    "description": "A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.",
+    "id": "lalipa2003-arch/JailbreakHub",
+    "language": "\u2014",
+    "name": "lalipa2003-arch/JailbreakHub",
+    "stars": 10,
+    "updated_at": "2026-10-25T13:36:45Z",
+    "url": "https://github.com/lalipa2003-arch/JailbreakHub"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3964,
+    "updated_at": "2026-10-25T13:35:16Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 519,
+    "updated_at": "2026-10-25T13:38:27Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
+    "id": "AKzar1el/god-prompt",
+    "language": "Python",
+    "name": "AKzar1el/god-prompt",
+    "stars": 9,
+    "updated_at": "2026-10-25T13:33:32Z",
+    "url": "https://github.com/AKzar1el/god-prompt"
+  },
+  {
+    "description": "\uac70\uce5c \ud504\ub86c\ud504\ud2b8\ub97c \uac80\uc99d\ub41c \ud328\ud134 \uae30\ubc18 GOOD \ud504\ub86c\ud504\ud2b8\ub85c \uc7ac\uc791\uc131\ud558\ub294 Claude Code \uc2a4\ud0ac 4\uc885 + \ud328\ud134 \ub77c\uc774\ube0c\ub7ec\ub9ac",
+    "id": "inpilot-dev/prompt-forge",
+    "language": "Python",
+    "name": "inpilot-dev/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:32:54Z",
+    "url": "https://github.com/inpilot-dev/prompt-forge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T13:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -32,7 +212,7 @@
     "language": "TypeScript",
     "name": "zorcec/vibeflow",
     "stars": 2,
-    "updated_at": "2026-10-25T13:27:51Z",
+    "updated_at": "2026-10-25T13:30:42Z",
     "url": "https://github.com/zorcec/vibeflow"
   },
   {
@@ -90,15 +270,6 @@
     "url": "https://github.com/doodersrage/castcut"
   },
   {
-    "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
-    "id": "snowkiss13/ja-writing-norms",
-    "language": "Python",
-    "name": "snowkiss13/ja-writing-norms",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:25:20Z",
-    "url": "https://github.com/snowkiss13/ja-writing-norms"
-  },
-  {
     "description": "\u7ed9\u753b\u5e08\u7528\u7684 AI \u751f\u56fe\u52a9\u624b\uff1a\u659c\u6760 Skill \u95ed\u73af\uff08\u22659.60\uff09+ \u9879\u76ee\u7f8e\u672f\u8bb0\u5fc6\u3002Cursor / Claude Code / Codex",
     "id": "mry-ship/pmem-art",
     "language": "Python",
@@ -106,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:22:18Z",
     "url": "https://github.com/mry-ship/pmem-art"
-  },
-  {
-    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-    "id": "google/elephant-goldfish-model",
-    "language": "Python",
-    "name": "google/elephant-goldfish-model",
-    "stars": 518,
-    "updated_at": "2026-10-25T13:30:23Z",
-    "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
-    "description": "Claude Code plugin: spawns a subagent that grounds expert-level answers in real retrieved primary sources (specs, docs, ",
-    "id": "pko89403/grounded-expert",
-    "language": "Python",
-    "name": "pko89403/grounded-expert",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:29:51Z",
-    "url": "https://github.com/pko89403/grounded-expert"
   },
   {
     "description": "Six Claude Code skills + an unattended build loop, each measured with and without the plugin. 19/19 evals passing.",
@@ -151,33 +304,6 @@
     "stars": 13,
     "updated_at": "2026-10-25T13:15:56Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T13:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\uac70\uce5c \ud504\ub86c\ud504\ud2b8\ub97c \uac80\uc99d\ub41c \ud328\ud134 \uae30\ubc18 GOOD \ud504\ub86c\ud504\ud2b8\ub85c \uc7ac\uc791\uc131\ud558\ub294 Claude Code \uc2a4\ud0ac 4\uc885 + \ud328\ud134 \ub77c\uc774\ube0c\ub7ec\ub9ac",
-    "id": "inpilot-dev/prompt-forge",
-    "language": "Python",
-    "name": "inpilot-dev/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:14:37Z",
-    "url": "https://github.com/inpilot-dev/prompt-forge"
-  },
-  {
-    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
-    "id": "nexorahai-svg/claude-knowledge-library",
-    "language": "Python",
-    "name": "nexorahai-svg/claude-knowledge-library",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:14:01Z",
-    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
   },
   {
     "description": "Local-first AI diary with traceable insights, human-controlled tasks, version-safe analysis and SQLite recovery. \u62fe\u5149\uff1a\u539f\u6587\u53ef\u8ffd",
@@ -243,15 +369,6 @@
     "url": "https://github.com/ariffazil/arifOS"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 966,
-    "updated_at": "2026-10-25T13:28:20Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes",
     "id": "ReSerendipity/ComfyUI-BatchPromptLoader",
     "language": "Python",
@@ -266,7 +383,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-10-25T13:17:44Z",
+    "updated_at": "2026-10-25T13:35:11Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -293,7 +410,7 @@
     "language": "JavaScript",
     "name": "pero3dev/ai-agent-library",
     "stars": 2,
-    "updated_at": "2026-10-25T13:08:37Z",
+    "updated_at": "2026-10-25T13:36:16Z",
     "url": "https://github.com/pero3dev/ai-agent-library"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T13:02:10Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-25T13:01:45Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-25T13:01:18Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:59:25Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
-    "id": "1arry1iu/archetype",
-    "language": "Python",
-    "name": "1arry1iu/archetype",
-    "stars": 57,
-    "updated_at": "2026-10-25T12:58:49Z",
-    "url": "https://github.com/1arry1iu/archetype"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-25T12:58:45Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:57:23Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:57:17Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\u53ef\u80fd\u662f\u4f60\u89c1\u8fc7\u7684\u6700\u5f3a AI Coding \u6559\u7a0b\uff5c\u4ece\u4e00\u53e5\u8bdd\u8ba9 AI \u5199\u4ee3\u7801\uff0c\u5230\u4e00\u5957\u53ef\u9a8c\u8bc1\u7684\u5de5\u7a0b\u6d41\u7a0b\uff1a\u56fe\u6587\u6559\u7a0b + \u901f\u67e5\u624b\u518c + 14 \u4e2a\u53ef\u5b89\u88c5 skill",
-    "id": "DJtx001/ai-coding-playbook",
-    "language": "HTML",
-    "name": "DJtx001/ai-coding-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T12:56:44Z",
-    "url": "https://github.com/DJtx001/ai-coding-playbook"
-  },
-  {
-    "description": "AI-powered goal planning and progress tracking system built with Node.js, OpenAI-compatible APIs, and agentic AI concept",
-    "id": "mrshanshuvo/goalpilot-ai",
-    "language": "JavaScript",
-    "name": "mrshanshuvo/goalpilot-ai",
-    "stars": 1,
-    "updated_at": "2026-10-25T12:55:49Z",
-    "url": "https://github.com/mrshanshuvo/goalpilot-ai"
-  },
-  {
-    "description": "MOVED: legacy skill collection kept for old links. Maintained skills now ship as standalone repositories under github.co",
-    "id": "m1nga/skill-builder",
-    "language": "Python",
-    "name": "m1nga/skill-builder",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:55:04Z",
-    "url": "https://github.com/m1nga/skill-builder"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 1,
-    "updated_at": "2026-10-25T12:54:46Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files",
-    "id": "solid-ai-dev/solid-ai-templates",
-    "language": "Python",
-    "name": "solid-ai-dev/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-10-25T13:30:23Z",
-    "url": "https://github.com/solid-ai-dev/solid-ai-templates"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T13:04:47Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   }
 ]
