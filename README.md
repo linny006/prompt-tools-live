@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 20:59 UTC
+> ⏰ Last updated: 2026-10-25 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,22 +43,22 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [solid-ai-dev/solid-ai-templates](https://github.com/solid-ai-dev/solid-ai-templates) | 4 | Python | 2026-10-25 | Shared engine and policy for composable CLAUDE.md and AGENTS.md templates; forks add the stacks and generate the files |
-| 2 | [coreymcd37/ai-efficiency-optimizer-prompt](https://github.com/coreymcd37/ai-efficiency-optimizer-prompt) | 0 | Python | 2026-10-25 | Save Money and Usage Credit When Using AI Models |
-| 3 | [Pavanspoojary/scars](https://github.com/Pavanspoojary/scars) | 1 | Go | 2026-10-25 | Git-native regression guardrails and failure memory for AI coding agents and developers. Deterministic recall, token-bud |
-| 4 | [MikeMoore1337/ai-development-toolkit](https://github.com/MikeMoore1337/ai-development-toolkit) | 1 | Python | 2026-10-25 | Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development |
-| 5 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-25 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 6 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 14 | TypeScript | 2026-10-25 | Every claim machine-checked, including the artifact counts in these badges — governed skills, rules and replayable state |
-| 7 | [mry-ship/pmem-art](https://github.com/mry-ship/pmem-art) | 0 | Python | 2026-10-25 | 给画师用的 AI 生图助手：斜杠 Skill 闭环（≥9.60）+ 项目美术记忆。Cursor / Claude Code / Codex |
-| 8 | [Novaprior/token-coach](https://github.com/Novaprior/token-coach) | 0 | TypeScript | 2026-10-25 | Token-Coach for Claude Code: live context, costs and usage limits, compact-or-new-chat advice, and inline prompt help. F |
-| 9 | [hivecommons/promptargs](https://github.com/hivecommons/promptargs) | 3 | TypeScript | 2026-10-25 | Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more |
-| 10 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 225 | TypeScript | 2026-10-25 | Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools  |
-| 11 | [promptstyles/promptstyles](https://github.com/promptstyles/promptstyles) | 0 | Astro | 2026-10-25 | An open manifesto, taxonomy and rubric for building software with AI, and for evaluating the people who do it. |
-| 12 | [xiaomao8090/toothpick-skill](https://github.com/xiaomao8090/toothpick-skill) | 2 | — | 2026-10-25 | A skill that helps AI spot the "AI flavor" and avoid common flaws when building interfaces. Works with Claude, Codex and |
-| 13 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 1 | TypeScript | 2026-10-25 | The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done. |
-| 14 | [ayase0307/ai-comic-drama](https://github.com/ayase0307/ai-comic-drama) | 1 | Python | 2026-10-25 | Agent Skill: turn novels/stories into character-consistent AI comic dramas — script, storyboard, prompts, image & video  |
-| 15 | [kesslernity/awesome-copilot-office-skills](https://github.com/kesslernity/awesome-copilot-office-skills) | 3 | Python | 2026-10-25 | Draw, tidy and check decks and workbooks inside Copilot in PowerPoint and Excel. 27 skills: build diagrams from your con |
-| 16 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 11 | JavaScript | 2026-10-25 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 17 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [coreymcd37/ai-efficiency-optimizer-prompt](https://github.com/coreymcd37/ai-efficiency-optimizer-prompt) | 0 | Python | 2026-10-25 | Save Money and Usage Credit When Using AI Models |
+| 4 | [Pavanspoojary/scars](https://github.com/Pavanspoojary/scars) | 1 | Go | 2026-10-25 | Git-native regression guardrails and failure memory for AI coding agents and developers. Deterministic recall, token-bud |
+| 5 | [MikeMoore1337/ai-development-toolkit](https://github.com/MikeMoore1337/ai-development-toolkit) | 1 | Python | 2026-10-25 | Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development |
+| 6 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-25 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 7 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 14 | TypeScript | 2026-10-25 | Every claim machine-checked, including the artifact counts in these badges — governed skills, rules and replayable state |
+| 8 | [mry-ship/pmem-art](https://github.com/mry-ship/pmem-art) | 0 | Python | 2026-10-25 | 给画师用的 AI 生图助手：斜杠 Skill 闭环（≥9.60）+ 项目美术记忆。Cursor / Claude Code / Codex |
+| 9 | [Novaprior/token-coach](https://github.com/Novaprior/token-coach) | 0 | TypeScript | 2026-10-25 | Token-Coach for Claude Code: live context, costs and usage limits, compact-or-new-chat advice, and inline prompt help. F |
+| 10 | [hivecommons/promptargs](https://github.com/hivecommons/promptargs) | 3 | TypeScript | 2026-10-25 | Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more |
+| 11 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 225 | TypeScript | 2026-10-25 | Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools  |
+| 12 | [promptstyles/promptstyles](https://github.com/promptstyles/promptstyles) | 0 | Astro | 2026-10-25 | An open manifesto, taxonomy and rubric for building software with AI, and for evaluating the people who do it. |
+| 13 | [xiaomao8090/toothpick-skill](https://github.com/xiaomao8090/toothpick-skill) | 2 | — | 2026-10-25 | A skill that helps AI spot the "AI flavor" and avoid common flaws when building interfaces. Works with Claude, Codex and |
+| 14 | [joshuafolkken/kit](https://github.com/joshuafolkken/kit) | 1 | TypeScript | 2026-10-25 | The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done. |
+| 15 | [ayase0307/ai-comic-drama](https://github.com/ayase0307/ai-comic-drama) | 1 | Python | 2026-10-25 | Agent Skill: turn novels/stories into character-consistent AI comic dramas — script, storyboard, prompts, image & video  |
+| 16 | [kesslernity/awesome-copilot-office-skills](https://github.com/kesslernity/awesome-copilot-office-skills) | 3 | Python | 2026-10-25 | Draw, tidy and check decks and workbooks inside Copilot in PowerPoint and Excel. 27 skills: build diagrams from your con |
+| 17 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 11 | JavaScript | 2026-10-25 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
 | 18 | [poyfather/gemsAPI](https://github.com/poyfather/gemsAPI) | 0 | Python | 2026-10-25 | Lapidary: self-hosted prompt library and agent harness, served over REST, a web UI and MCP. |
 | 19 | [ameedanxari/ai-prompt-library](https://github.com/ameedanxari/ai-prompt-library) | 2 | TypeScript | 2026-10-25 | Modular agentic prompt library — turn a brief into production-ready software specs. Built for small context windows. By  |
 | 20 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-25 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
