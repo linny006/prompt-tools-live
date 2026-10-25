@@ -1,12 +1,237 @@
 [
   {
+    "description": "\u53cd\u63a8\u51faAI\u89c6\u9891\u7684\u63d0\u793a\u8bcd\uff0c\u5e76\u914d\u6709\u97f3\u9891\u5206\u6790\u529f\u80fd\uff0c\u53ef\u63d0\u53d6\u89c6\u9891\u4e2d\u7684\u53f0\u8bcd\u6587\u6848\uff0c\u5e76\u4e14\u4e00\u53e5\u8bdd\u5c31\u53ef\u526a\u8f91\u51fa\u4f60\u8981\u7684\u89c6\u9891",
+    "id": "raojiacui/prompt-lens",
+    "language": "TypeScript",
+    "name": "raojiacui/prompt-lens",
+    "stars": 644,
+    "updated_at": "2026-10-25T14:00:16Z",
+    "url": "https://github.com/raojiacui/prompt-lens"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:59:42Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "DSH composer plugin + Windows global hotkey + $p skill: four-tier prompt enhancement with a directional iterate panel \u2014 ",
+    "id": "maimaiqwe/prompt-enhancer",
+    "language": "TypeScript",
+    "name": "maimaiqwe/prompt-enhancer",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:59:34Z",
+    "url": "https://github.com/maimaiqwe/prompt-enhancer"
+  },
+  {
+    "description": "MaxLoop \u00b7 \u5e26\u5239\u8f66\u7684 AI \u81ea\u6211\u8fed\u4ee3\u5f15\u64ce\uff08\u5916\u90e8\u5224\u636e\u5239\u8f66\uff0c\u675c\u7edd\u5047\u7eff\u7a7a\u8f6c\uff1b\u4ea7\u54c1\u8fed\u4ee3+\u65b9\u6848\u5347\u7ea7\u53cc\u6a21\u5f0f\uff1bWorkBuddy/Claude Code/Cursor \u901a\u7528\uff1bMIT\uff09",
+    "id": "huanweide/maxloop-overlord",
+    "language": "HTML",
+    "name": "huanweide/maxloop-overlord",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:59:19Z",
+    "url": "https://github.com/huanweide/maxloop-overlord"
+  },
+  {
+    "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
+    "id": "joeblackwaslike/lessons-learned",
+    "language": "JavaScript",
+    "name": "joeblackwaslike/lessons-learned",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:59:26Z",
+    "url": "https://github.com/joeblackwaslike/lessons-learned"
+  },
+  {
+    "description": "A portable AI skill that acts as a business consultant for owners and founders, adapted to business type. Covers strateg",
+    "id": "gelowie/business-advisor",
+    "language": "\u2014",
+    "name": "gelowie/business-advisor",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:58:28Z",
+    "url": "https://github.com/gelowie/business-advisor"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-25T13:58:01Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Seven reasoning-and-review skills in one plugin (dia): Socratic dialogue, reductio ad absurdum, internal critique, revie",
+    "id": "ajitta/dialectic-skills",
+    "language": "HTML",
+    "name": "ajitta/dialectic-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:57:53Z",
+    "url": "https://github.com/ajitta/dialectic-skills"
+  },
+  {
     "description": "VS Code marketplace UI for grim \u2014 the OCI package manager for AI artifacts (skills, rules, agents, MCP servers, bundles)",
     "id": "grimoire-rs/grimoire-vscode",
     "language": "TypeScript",
     "name": "grimoire-rs/grimoire-vscode",
     "stars": 0,
-    "updated_at": "2026-10-25T13:44:59Z",
+    "updated_at": "2026-10-25T13:57:38Z",
     "url": "https://github.com/grimoire-rs/grimoire-vscode"
+  },
+  {
+    "description": "ComfyUI custom nodes that randomly sample artists and characters from CSV data and assign random weights, generating rea",
+    "id": "StarAsh042/ComfyUI_RollingArtist",
+    "language": "Python",
+    "name": "StarAsh042/ComfyUI_RollingArtist",
+    "stars": 3,
+    "updated_at": "2026-10-25T13:58:14Z",
+    "url": "https://github.com/StarAsh042/ComfyUI_RollingArtist"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:56:30Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:55:34Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "A universal, native-Rust governance layer for AI coding agents. Enforces Subagent-Driven Development (SDD) to stop hallu",
+    "id": "Harmitx7/tribunal-kit",
+    "language": "JavaScript",
+    "name": "Harmitx7/tribunal-kit",
+    "stars": 5,
+    "updated_at": "2026-10-25T13:55:25Z",
+    "url": "https://github.com/Harmitx7/tribunal-kit"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T13:54:16Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "A personal visual prompt creator for infographics, narrative illustrations, processes, and system diagrams, with example",
+    "id": "culturelight/vizswitch",
+    "language": "\u2014",
+    "name": "culturelight/vizswitch",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:53:37Z",
+    "url": "https://github.com/culturelight/vizswitch"
+  },
+  {
+    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
+    "id": "pero3dev/ai-agent-library",
+    "language": "JavaScript",
+    "name": "pero3dev/ai-agent-library",
+    "stars": 2,
+    "updated_at": "2026-10-25T13:54:28Z",
+    "url": "https://github.com/pero3dev/ai-agent-library"
+  },
+  {
+    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
+    "id": "zorcec/vibeflow",
+    "language": "TypeScript",
+    "name": "zorcec/vibeflow",
+    "stars": 2,
+    "updated_at": "2026-10-25T13:51:48Z",
+    "url": "https://github.com/zorcec/vibeflow"
+  },
+  {
+    "description": "Your AI keeps repeating mistakes. Log corrections, promote only recurring root causes into falsifiable rules. Local-firs",
+    "id": "phantomMillie/ai-criteria",
+    "language": "Python",
+    "name": "phantomMillie/ai-criteria",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:51:23Z",
+    "url": "https://github.com/phantomMillie/ai-criteria"
+  },
+  {
+    "description": "Local workspace for revising prompts with evidence you can trace: constraints that survive rewrites, recorded outputs, d",
+    "id": "KM-it-ops/Proofhouse",
+    "language": "Python",
+    "name": "KM-it-ops/Proofhouse",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:58:50Z",
+    "url": "https://github.com/KM-it-ops/Proofhouse"
+  },
+  {
+    "description": "Claude skill that writes human-sounding English, Russian and Ukrainian, plus a zero-dependency detector for AI writing p",
+    "id": "git-voitenko/anti-ai-slop-writing",
+    "language": "JavaScript",
+    "name": "git-voitenko/anti-ai-slop-writing",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:51:01Z",
+    "url": "https://github.com/git-voitenko/anti-ai-slop-writing"
+  },
+  {
+    "description": "Make your .docx self-describing for AI agents. One prompt bootstraps the document \u2014 the agent maps it, contracts it, nav",
+    "id": "xronocode/grace-docx",
+    "language": "\u2014",
+    "name": "xronocode/grace-docx",
+    "stars": 38,
+    "updated_at": "2026-10-25T13:50:18Z",
+    "url": "https://github.com/xronocode/grace-docx"
+  },
+  {
+    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
+    "id": "AI4Finance-Foundation/FinGPT",
+    "language": "Jupyter Notebook",
+    "name": "AI4Finance-Foundation/FinGPT",
+    "stars": 21465,
+    "updated_at": "2026-10-25T13:49:15Z",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT"
+  },
+  {
+    "description": "A universal AI tool & skill navigator for your project. Analyze your job and find the best skills/MCP tools.",
+    "id": "Lainholic/ai-skill-navigator",
+    "language": "\u2014",
+    "name": "Lainholic/ai-skill-navigator",
+    "stars": 2,
+    "updated_at": "2026-10-25T13:46:48Z",
+    "url": "https://github.com/Lainholic/ai-skill-navigator"
+  },
+  {
+    "description": "\u628a\u9009\u5b9a\u7684\u63d0\u793a\u8bcd\u6539\u5199\u6210\u53ef\u76f4\u63a5\u6267\u884c\u7684\u4ea7\u7269\uff1agoal \u6a21\u5f0f\u51fa\u5b8c\u6210\u6761\u4ef6\u4e32\uff0cflow \u6a21\u5f0f\u51fa Workflow \u4efb\u52a1\u89c4\u683c",
+    "id": "lidaye910416/prompt-polish",
+    "language": "Python",
+    "name": "lidaye910416/prompt-polish",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:46:38Z",
+    "url": "https://github.com/lidaye910416/prompt-polish"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-25T13:46:14Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T13:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
@@ -16,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:44:43Z",
     "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
-  },
-  {
-    "description": "A portable AI skill that acts as a business consultant for owners and founders, adapted to business type. Covers strateg",
-    "id": "gelowie/business-advisor",
-    "language": "\u2014",
-    "name": "gelowie/business-advisor",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:44:37Z",
-    "url": "https://github.com/gelowie/business-advisor"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -41,17 +257,8 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 966,
-    "updated_at": "2026-10-25T13:43:20Z",
+    "updated_at": "2026-10-25T13:46:40Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "\u628a\u9009\u5b9a\u7684\u63d0\u793a\u8bcd\u6539\u5199\u6210\u53ef\u76f4\u63a5\u6267\u884c\u7684\u4ea7\u7269\uff1agoal \u6a21\u5f0f\u51fa\u5b8c\u6210\u6761\u4ef6\u4e32\uff0cflow \u6a21\u5f0f\u51fa Workflow \u4efb\u52a1\u89c4\u683c",
-    "id": "lidaye910416/prompt-polish",
-    "language": "Python",
-    "name": "lidaye910416/prompt-polish",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:43:10Z",
-    "url": "https://github.com/lidaye910416/prompt-polish"
   },
   {
     "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
@@ -90,33 +297,6 @@
     "url": "https://github.com/pko89403/grounded-expert"
   },
   {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T13:45:17Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:44:23Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "A personal visual prompt creator for infographics, narrative illustrations, processes, and system diagrams, with example",
-    "id": "culturelight/vizswitch",
-    "language": "\u2014",
-    "name": "culturelight/vizswitch",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:38:59Z",
-    "url": "https://github.com/culturelight/vizswitch"
-  },
-  {
     "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
     "id": "Czerror/dsh-plugin-prompt-tool",
     "language": "JavaScript",
@@ -149,7 +329,7 @@
     "language": "Python",
     "name": "google/elephant-goldfish-model",
     "stars": 519,
-    "updated_at": "2026-10-25T13:38:27Z",
+    "updated_at": "2026-10-25T13:54:55Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
   {
@@ -169,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:32:54Z",
     "url": "https://github.com/inpilot-dev/prompt-forge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T13:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -207,15 +378,6 @@
     "url": "https://github.com/Denissvgn/autoresearch-agent"
   },
   {
-    "description": "AI-powered task tracker: annotate elements in a running web page, capture screenshots, and export structured prompts for",
-    "id": "zorcec/vibeflow",
-    "language": "TypeScript",
-    "name": "zorcec/vibeflow",
-    "stars": 2,
-    "updated_at": "2026-10-25T13:30:42Z",
-    "url": "https://github.com/zorcec/vibeflow"
-  },
-  {
     "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
@@ -241,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T13:25:57Z",
     "url": "https://github.com/jadezane6634-ops/dsh-purge-flash"
-  },
-  {
-    "description": "ComfyUI custom nodes that randomly sample artists and characters from CSV data and assign random weights, generating rea",
-    "id": "StarAsh042/ComfyUI_RollingArtist",
-    "language": "Python",
-    "name": "StarAsh042/ComfyUI_RollingArtist",
-    "stars": 3,
-    "updated_at": "2026-10-25T13:28:00Z",
-    "url": "https://github.com/StarAsh042/ComfyUI_RollingArtist"
   },
   {
     "description": "Production-grade RAG system for multilingual question answering over YouTube video content. Final project Ironhack AI Bo",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:19:27Z",
     "url": "https://github.com/diegoballarin-reason/frictions"
-  },
-  {
-    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 13,
-    "updated_at": "2026-10-25T13:15:56Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Local-first AI diary with traceable insights, human-controlled tasks, version-safe analysis and SQLite recovery. \u62fe\u5149\uff1a\u539f\u6587\u53ef\u8ffd",
-    "id": "Ernest177/shiguang-diary",
-    "language": "Python",
-    "name": "Ernest177/shiguang-diary",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:13:36Z",
-    "url": "https://github.com/Ernest177/shiguang-diary"
-  },
-  {
-    "description": "Your AI keeps repeating mistakes. Log corrections, promote only recurring root causes into falsifiable rules. Local-firs",
-    "id": "phantomMillie/ai-criteria",
-    "language": "Python",
-    "name": "phantomMillie/ai-criteria",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:11:47Z",
-    "url": "https://github.com/phantomMillie/ai-criteria"
-  },
-  {
-    "description": "Agent skill that turns a character idea, production brief or approved recurring-character state into an image-generation",
-    "id": "livingghost/character-prompt-builder",
-    "language": "Python",
-    "name": "livingghost/character-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:13:48Z",
-    "url": "https://github.com/livingghost/character-prompt-builder"
-  },
-  {
-    "description": "    Resk is a robust Python library designed to enhance security and manage context when interacting with LLMs. It provi",
-    "id": "Resk-Security/Resk-LLM",
-    "language": "Python",
-    "name": "Resk-Security/Resk-LLM",
-    "stars": 21,
-    "updated_at": "2026-10-25T13:13:47Z",
-    "url": "https://github.com/Resk-Security/Resk-LLM"
-  },
-  {
-    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
-    "id": "carpentry-liu/awesome-astra-3d",
-    "language": "TypeScript",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "stars": 18,
-    "updated_at": "2026-10-25T13:09:58Z",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
-  },
-  {
-    "description": "A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activ",
-    "id": "LLM-Coding/Semantic-Anchors",
-    "language": "HTML",
-    "name": "LLM-Coding/Semantic-Anchors",
-    "stars": 524,
-    "updated_at": "2026-10-25T13:09:36Z",
-    "url": "https://github.com/LLM-Coding/Semantic-Anchors"
-  },
-  {
-    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 54,
-    "updated_at": "2026-10-25T13:09:22Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "ComfyUI custom node: load and encode prompts from TXT files with fixed/increment/decrement/random modes",
-    "id": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "language": "Python",
-    "name": "ReSerendipity/ComfyUI-BatchPromptLoader",
-    "stars": 2,
-    "updated_at": "2026-10-25T13:06:16Z",
-    "url": "https://github.com/ReSerendipity/ComfyUI-BatchPromptLoader"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-10-25T13:35:11Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\u4e3a DeepSeek Harness \u8bbe\u8ba1\u7684\u7834\u9650\u63d2\u4ef6\uff1a\u5378\u6389\u5bbf\u4e3b\u7684\u63d0\u793a\u8bcd\u9650\u5236\u548c\u5ba1\u6279\u62e6\u622a\uff0c\u8ba9\u52a9\u624b\u7167\u4f60\u8bf4\u7684\u505a\uff0c\u4e0d\u534a\u8def\u62d2\u7edd\u3001\u4e0d\u53cd\u590d\u8bf7\u793a\u3002\u8865\u4e01\u9010\u6761\u53ef\u9009\uff0c\u968f\u65f6\u8fd8\u539f\u539f\u7248\u3002 A jailbreak plugin for DeepSeek Harness: ",
-    "id": "rumoii/dsh-breaklimit",
-    "language": "JavaScript",
-    "name": "rumoii/dsh-breaklimit",
-    "stars": 17,
-    "updated_at": "2026-10-25T13:05:10Z",
-    "url": "https://github.com/rumoii/dsh-breaklimit"
-  },
-  {
-    "description": "\u8bfb\u4f60\u7684\u5386\u53f2\u5bf9\u8bdd\u627e\u51fa\u63d0\u95ee\u4e0a\u7684\u95ee\u9898\u5e76\u7ed9\u6539\u5199\u8349\u7a3f\uff0c\u8f93\u5165\u6846\u4e00\u952e\u51fa\u4e09\u6863\u4f18\u5316\u7a3f\uff0c\u91c7\u7eb3\u7684\u95ee\u6cd5\u81ea\u52a8\u5f52\u6863\u6210\u6a21\u677f",
-    "id": "LIN-F1SH/dsh-conversation-digest",
-    "language": "JavaScript",
-    "name": "LIN-F1SH/dsh-conversation-digest",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:04:51Z",
-    "url": "https://github.com/LIN-F1SH/dsh-conversation-digest"
-  },
-  {
-    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
-    "id": "pero3dev/ai-agent-library",
-    "language": "JavaScript",
-    "name": "pero3dev/ai-agent-library",
-    "stars": 2,
-    "updated_at": "2026-10-25T13:36:16Z",
-    "url": "https://github.com/pero3dev/ai-agent-library"
-  },
-  {
-    "description": "\u628aB\u7ad9\u89c6\u9891\u53d8\u6210\u6559\u5b66\u5f0f\u91cd\u5199\u7684HTML\u5b66\u4e60\u6750\u6599\uff1a\u53d6\u5b57\u5e55\uff08\u6709CC\u4e0bCC\uff0c\u65e0\u5b57\u5e55\u8d70ASR\uff09\u2192 \u6e05\u6d17\u6210\u7eaf\u6587\u672c \u2192 \u6559\u5b66\u65b9\u6cd5\u8bba\u603b\u7ed3 \u2192 \u5355\u6587\u4ef6HTML\u3002\u957f\u89c6\u9891\u81ea\u52a8\u5206\u6bb5\u505a\u4e24\u9636\u6bb5\u63d0\u53d6\u3002",
-    "id": "huanweide/video-brief",
-    "language": "Python",
-    "name": "huanweide/video-brief",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:04:08Z",
-    "url": "https://github.com/huanweide/video-brief"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5c06\u7cfb\u7edf\u63d0\u793a\u8bcd\u672c\u5730\u5316\u4e3a\u7b80\u4f53\u4e2d\u6587\uff0c\u5e76\u6309\u4f1a\u8bdd\u5f53\u524d\u53ef\u89c1\u5de5\u5177\u88c1\u526a\u76f8\u5173\u6307\u5f15\uff1b\u4fdd\u7559\u82f1\u6587\u5de5\u5177 schema\u3002",
-    "id": "KouzakiUmi/dsh-prompt-zh",
-    "language": "JavaScript",
-    "name": "KouzakiUmi/dsh-prompt-zh",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:03:11Z",
-    "url": "https://github.com/KouzakiUmi/dsh-prompt-zh"
-  },
-  {
-    "description": "FALSIFY \u00b7 \u8bc1\u4f2a \u2014 \u5148\u8bc1\u4f2a\uff0c\u518d\u51b3\u5b9a\u3002A portable reasoning kernel: evidence layering, falsifiers, and a tamper-evident forecast ledger ",
-    "id": "angeliefu396-oss/falsify",
-    "language": "Python",
-    "name": "angeliefu396-oss/falsify",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:02:21Z",
-    "url": "https://github.com/angeliefu396-oss/falsify"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:02:10Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
