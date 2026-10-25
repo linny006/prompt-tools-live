@@ -1,5 +1,68 @@
 [
   {
+    "description": "DSH composer plugin + Windows global hotkey + $p skill: four-tier prompt enhancement with a directional iterate panel \u2014 ",
+    "id": "maimaiqwe/prompt-enhancer",
+    "language": "TypeScript",
+    "name": "maimaiqwe/prompt-enhancer",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:47:48Z",
+    "url": "https://github.com/maimaiqwe/prompt-enhancer"
+  },
+  {
+    "description": "AI Agent search and filter instructional to find value stocks and crypto using my gated Fair Value Equations ",
+    "id": "KingofNothing07/Market-Scout-Agent",
+    "language": "\u2014",
+    "name": "KingofNothing07/Market-Scout-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:47:20Z",
+    "url": "https://github.com/KingofNothing07/Market-Scout-Agent"
+  },
+  {
+    "description": "Local-first AI diary with traceable insights, human-controlled tasks, version-safe analysis and SQLite recovery. \u62fe\u5149\uff1a\u539f\u6587\u53ef\u8ffd",
+    "id": "Ernest177/shiguang-diary",
+    "language": "Python",
+    "name": "Ernest177/shiguang-diary",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:47:05Z",
+    "url": "https://github.com/Ernest177/shiguang-diary"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:46:38Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "A collection of reusable Agent Skills for OpenCode / Claude Code\u2013style agents.",
+    "id": "mrchipset/zskills",
+    "language": "\u2014",
+    "name": "mrchipset/zskills",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:46:10Z",
+    "url": "https://github.com/mrchipset/zskills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-25T11:46:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T11:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
     "id": "hivecommons/promptargs",
     "language": "TypeScript",
@@ -45,22 +108,22 @@
     "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
   },
   {
+    "description": "Ground your agents so they can actually do things",
+    "id": "ndrewchen/do-things",
+    "language": "\u2014",
+    "name": "ndrewchen/do-things",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:43:20Z",
+    "url": "https://github.com/ndrewchen/do-things"
+  },
+  {
     "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
     "id": "MikeMoore1337/ai-development-toolkit",
     "language": "Python",
     "name": "MikeMoore1337/ai-development-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-25T11:44:56Z",
+    "updated_at": "2026-10-25T11:48:03Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "DSH composer plugin + Windows global hotkey + $p skill: four-tier prompt enhancement with a directional iterate panel \u2014 ",
-    "id": "maimaiqwe/prompt-enhancer",
-    "language": "TypeScript",
-    "name": "maimaiqwe/prompt-enhancer",
-    "stars": 1,
-    "updated_at": "2026-10-25T11:42:36Z",
-    "url": "https://github.com/maimaiqwe/prompt-enhancer"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -112,7 +175,7 @@
     "id": "yexi-by/dsh-unrestricted",
     "language": "JavaScript",
     "name": "yexi-by/dsh-unrestricted",
-    "stars": 644,
+    "stars": 645,
     "updated_at": "2026-10-25T11:36:21Z",
     "url": "https://github.com/yexi-by/dsh-unrestricted"
   },
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T11:31:33Z",
     "url": "https://github.com/kazoya/rctc-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T11:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -241,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T11:21:33Z",
     "url": "https://github.com/arsenyajurist-sudo/devils-advocate-claude-skill"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-25T11:20:45Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Local-first prompt regression testing and evals for LLM apps.",
@@ -383,7 +428,7 @@
     "language": "JavaScript",
     "name": "pero3dev/ai-agent-library",
     "stars": 2,
-    "updated_at": "2026-10-25T11:26:41Z",
+    "updated_at": "2026-10-25T11:47:57Z",
     "url": "https://github.com/pero3dev/ai-agent-library"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-25T11:02:56Z",
     "url": "https://github.com/rootcastleco/rei-skills"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T11:02:29Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "MoralStack is a governance and safety layer for LLM applications. It analyzes user requests before generation, evaluates",
-    "id": "fdidonato/moralstack",
-    "language": "Python",
-    "name": "fdidonato/moralstack",
-    "stars": 9,
-    "updated_at": "2026-10-25T11:02:23Z",
-    "url": "https://github.com/fdidonato/moralstack"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-25T11:01:13Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Prompt specification skill for Codex / Claude Code / DeepSeek / WorkBuddy - stops the model from guessing instead of mak",
-    "id": "EgoFakeFantasy/prompt-forge",
-    "language": "Python",
-    "name": "EgoFakeFantasy/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:59:19Z",
-    "url": "https://github.com/EgoFakeFantasy/prompt-forge"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:59:02Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
   }
 ]
