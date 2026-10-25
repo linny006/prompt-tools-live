@@ -1,5 +1,122 @@
 [
   {
+    "description": "GodPrompt MCP server + portable Agent Skill for Codex, Claude Code, Cursor and other coding agents \u2014 TDD, debugging, ver",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:29:30Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "Portable, vendor-neutral agent foundation for Claude Code, Copilot, Cursor, and Antigravity \u2014 one command restores your ",
+    "id": "jthiruveedula/agentkit",
+    "language": "Python",
+    "name": "jthiruveedula/agentkit",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:29:09Z",
+    "url": "https://github.com/jthiruveedula/agentkit"
+  },
+  {
+    "description": "Reposit\u00f3rio Dedicado a uma Simula\u00e7\u00e3o de uma opera\u00e7\u00e3o em Customer Experience de banco, utilizando o Copilot para simular ",
+    "id": "gustavfreitas/feedback-bancario",
+    "language": "Python",
+    "name": "gustavfreitas/feedback-bancario",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:27:19Z",
+    "url": "https://github.com/gustavfreitas/feedback-bancario"
+  },
+  {
+    "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Makefile",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 17748,
+    "updated_at": "2026-10-25T03:29:17Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "GodPrompt \u2014 a universal AI coding system prompt and Agent Skill for Codex, Claude Code, ChatGPT, Cursor and coding agent",
+    "id": "AKzar1el/god-prompt",
+    "language": "Python",
+    "name": "AKzar1el/god-prompt",
+    "stars": 9,
+    "updated_at": "2026-10-25T03:24:42Z",
+    "url": "https://github.com/AKzar1el/god-prompt"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+    "id": "google/mantis",
+    "language": "Python",
+    "name": "google/mantis",
+    "stars": 2525,
+    "updated_at": "2026-10-25T03:24:17Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26392,
+    "updated_at": "2026-10-25T03:27:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
+    "id": "nexorahai-svg/claude-knowledge-library",
+    "language": "HTML",
+    "name": "nexorahai-svg/claude-knowledge-library",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:23:44Z",
+    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "Python",
+    "name": "coco-research/coco",
+    "stars": 785,
+    "updated_at": "2026-10-25T03:23:51Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 174416,
+    "updated_at": "2026-10-25T03:20:07Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:21:09Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 13,
+    "updated_at": "2026-10-25T03:18:04Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-25T03:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A 120-token output-compression agent skill that keeps task precision - benchmarked against caveman, introvert and a plai",
     "id": "294962silent/dense-skill",
     "language": "Python",
@@ -36,21 +153,12 @@
     "url": "https://github.com/hivecommons/rationguard"
   },
   {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:13:21Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
     "description": "Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt",
     "id": "koydas/ai-dev-tools",
     "language": "JavaScript",
     "name": "koydas/ai-dev-tools",
     "stars": 1,
-    "updated_at": "2026-10-25T03:12:56Z",
+    "updated_at": "2026-10-25T03:23:57Z",
     "url": "https://github.com/koydas/ai-dev-tools"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T03:11:38Z",
     "url": "https://github.com/jie955/AI-Engineering-Atlas"
-  },
-  {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "Python",
-    "name": "coco-research/coco",
-    "stars": 785,
-    "updated_at": "2026-10-25T03:12:08Z",
-    "url": "https://github.com/coco-research/coco"
   },
   {
     "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
@@ -171,6 +270,15 @@
     "url": "https://github.com/hazeliscoding/prompuff"
   },
   {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-25T03:01:19Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
     "description": "Universal project extractor for LLMs \u2014 turn any local codebase into clean, structured, AI-ready data.",
     "id": "AMRITO-KUNDU/llmscribe",
     "language": "Python",
@@ -178,24 +286,6 @@
     "stars": 18,
     "updated_at": "2026-10-25T03:01:35Z",
     "url": "https://github.com/AMRITO-KUNDU/llmscribe"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 10,
-    "updated_at": "2026-10-25T03:01:19Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T03:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-SDLC Pro \u2014 Biblioteca de Prompts de Ingenier\u00eda de Software",
@@ -216,31 +306,13 @@
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26392,
-    "updated_at": "2026-10-25T03:03:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36386,
+    "stars": 36389,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Vibe Coding \u975e\u4e25\u8083\u5f00\u53d1\u7684\u4ece\u5165\u95e8\u5230\u95e8\u5165\u7684\u5de5\u5177\u7bb1",
-    "id": "tradecatlabs/vibe-coding-cn",
-    "language": "Makefile",
-    "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 17748,
-    "updated_at": "2026-10-25T02:56:14Z",
-    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -284,7 +356,7 @@
     "language": "JavaScript",
     "name": "pero3dev/ai-agent-library",
     "stars": 2,
-    "updated_at": "2026-10-25T02:59:08Z",
+    "updated_at": "2026-10-25T03:29:59Z",
     "url": "https://github.com/pero3dev/ai-agent-library"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 966,
     "updated_at": "2026-10-25T03:07:12Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Prompt optimizer for the DSH composer: one star button, two sliders, model switching, 11 toggleable rules. \u661f\u8292 \u00b7 DSH \u63d0\u793a\u8bcd\u4e00",
-    "id": "Starlit-Sky-code/dsh-prompt-starlight",
-    "language": "JavaScript",
-    "name": "Starlit-Sky-code/dsh-prompt-starlight",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:34:10Z",
-    "url": "https://github.com/Starlit-Sky-code/dsh-prompt-starlight"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:33:58Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:33:51Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "A universal AI tool & skill navigator for your project. Analyze your job and find the best skills/MCP tools.",
-    "id": "Lainholic/ai-skill-navigator",
-    "language": "\u2014",
-    "name": "Lainholic/ai-skill-navigator",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:33:13Z",
-    "url": "https://github.com/Lainholic/ai-skill-navigator"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:31:49Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:31:29Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Position your B2B product, write your core message and pick the right go-to-market motion: product-led, sales-led, partn",
-    "id": "shashwatgtm/gtm-claude-skills",
-    "language": "\u2014",
-    "name": "shashwatgtm/gtm-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:28:29Z",
-    "url": "https://github.com/shashwatgtm/gtm-claude-skills"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 17,
-    "updated_at": "2026-10-25T02:28:24Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
   }
 ]
