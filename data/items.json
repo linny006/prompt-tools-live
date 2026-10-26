@@ -1,5 +1,194 @@
 [
   {
+    "description": "Guardrails for AI in Australian tax and BAS work: APES 110, TPB Code and AML/CTF controls, refusal rules and evaluation ",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Rust",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:29:42Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "130+ reusable SKILL.md agent skills for AI-assisted software delivery, organised by project phase and use case with a gl",
+    "id": "imawais-engineer/Skills",
+    "language": "\u2014",
+    "name": "imawais-engineer/Skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:29:32Z",
+    "url": "https://github.com/imawais-engineer/Skills"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:28:45Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 52,
+    "updated_at": "2026-10-26T08:26:38Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Portable engineering workflows for AI coding agents \u2014 35 playbooks for bug fixing, feature development, code review, tes",
+    "id": "chiragmangaldev3112/agent-playbooks",
+    "language": "Shell",
+    "name": "chiragmangaldev3112/agent-playbooks",
+    "stars": 9,
+    "updated_at": "2026-10-26T08:26:25Z",
+    "url": "https://github.com/chiragmangaldev3112/agent-playbooks"
+  },
+  {
+    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "stars": 3,
+    "updated_at": "2026-10-26T08:24:55Z",
+    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
+  },
+  {
+    "description": "Prompt workbench for DeepSeek Harness: drafts, full-log sent history, and grill-based prompt elicitation.",
+    "id": "msciu/dsh-prompt-enricher",
+    "language": "JavaScript",
+    "name": "msciu/dsh-prompt-enricher",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:24:31Z",
+    "url": "https://github.com/msciu/dsh-prompt-enricher"
+  },
+  {
+    "description": "AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and ad",
+    "id": "CollieAi/llm-firewall",
+    "language": "\u2014",
+    "name": "CollieAi/llm-firewall",
+    "stars": 47,
+    "updated_at": "2026-10-26T08:24:20Z",
+    "url": "https://github.com/CollieAi/llm-firewall"
+  },
+  {
+    "description": "Bilingual Agent Skills for software testing and QA workflows from requirements through release. Independently installabl",
+    "id": "naodeng/awesome-qa-skills",
+    "language": "Python",
+    "name": "naodeng/awesome-qa-skills",
+    "stars": 282,
+    "updated_at": "2026-10-26T08:23:59Z",
+    "url": "https://github.com/naodeng/awesome-qa-skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28537,
+    "updated_at": "2026-10-26T08:23:54Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-10-26T08:23:14Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Curated Seedance 2.5 fashion video prompts with visual examples for product commercials, campaign films, fashion lookboo",
+    "id": "KoozeeAI/awesome-seedance-2-5-fashion-prompts",
+    "language": "\u2014",
+    "name": "KoozeeAI/awesome-seedance-2-5-fashion-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:23:12Z",
+    "url": "https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts"
+  },
+  {
+    "description": "Curated GPT Image 2 fashion prompts with visual examples for e-commerce product photography, apparel campaigns, AI fashi",
+    "id": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
+    "language": "\u2014",
+    "name": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:23:09Z",
+    "url": "https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts"
+  },
+  {
+    "description": "Pin it, prompt it, paste it",
+    "id": "terminalkitten/tackline",
+    "language": "Rust",
+    "name": "terminalkitten/tackline",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:19:55Z",
+    "url": "https://github.com/terminalkitten/tackline"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "Go",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-10-26T08:18:06Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 6,
+    "updated_at": "2026-10-26T08:18:24Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "An adversarial red-teaming framework that forces LLMs into deep reasoning via Socratic logic. Proves current RLHF alignm",
+    "id": "Piggy-Hero/LLM-Cognitive-Stress-Test",
+    "language": "\u2014",
+    "name": "Piggy-Hero/LLM-Cognitive-Stress-Test",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:17:42Z",
+    "url": "https://github.com/Piggy-Hero/LLM-Cognitive-Stress-Test"
+  },
+  {
+    "description": "\u84dd\u7d2b\u51b7\u5f71\u3001\u6696\u5149\u5e72\u5237\u4e0e\u8fd1\u5b9e\u8fdc\u865a\u7684\u7ed8\u753b\u98ce\u683c Skill\uff0c\u652f\u6301\u4e00\u53e5\u8bdd\u751f\u56fe\u548c\u53c2\u8003\u56fe\u91cd\u7ed8\uff0c\u4fdd\u7559\u539f\u6784\u56fe\u3001\u5185\u5bb9\u4e0e\u5149\u7ebf\u65b9\u5411\uff0c\u6210\u54c1\u65e0\u5b57\u65e0\u6c34\u5370\u3002",
+    "id": "qixitt/sunlit-blue-violet-painter",
+    "language": "\u2014",
+    "name": "qixitt/sunlit-blue-violet-painter",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:16:46Z",
+    "url": "https://github.com/qixitt/sunlit-blue-violet-painter"
+  },
+  {
+    "description": "Count every try, cap how often you look at a holdout, and score the final test once. For ML sweeps, prompt tuning and RA",
+    "id": "prashant7799/lookbudget",
+    "language": "Python",
+    "name": "prashant7799/lookbudget",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:15:51Z",
+    "url": "https://github.com/prashant7799/lookbudget"
+  },
+  {
+    "description": "macOS menu bar utility that turns an idea into a structured prompt for Claude, ChatGPT, Gemini, Perplexity and other AI ",
+    "id": "msyuge/PromptPolish",
+    "language": "Swift",
+    "name": "msyuge/PromptPolish",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:15:30Z",
+    "url": "https://github.com/msyuge/PromptPolish"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-26T08:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Universal rules for AI coding agents like Claude Code, Codex, Copilot and Cursor: written once, tested by evals, synced ",
     "id": "tannergolden/intelligence",
     "language": "Python",
@@ -14,7 +203,7 @@
     "language": "JavaScript",
     "name": "SunflowersLwtech/sunkit",
     "stars": 13,
-    "updated_at": "2026-10-26T08:13:50Z",
+    "updated_at": "2026-10-26T08:18:20Z",
     "url": "https://github.com/SunflowersLwtech/sunkit"
   },
   {
@@ -108,15 +297,6 @@
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28536,
-    "updated_at": "2026-10-26T08:13:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Turn AI coding agents (Antigravity, Cursor, Claude Code) into senior engineers: 30+ battle-tested skills, 11 determinist",
     "id": "mustafa-omeri/goku-dev-skills",
     "language": "Python",
@@ -124,33 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T08:05:52Z",
     "url": "https://github.com/mustafa-omeri/goku-dev-skills"
-  },
-  {
-    "description": "Curated Seedance 2.5 fashion video prompts with visual examples for product commercials, campaign films, fashion lookboo",
-    "id": "KoozeeAI/awesome-seedance-2-5-fashion-prompts",
-    "language": "\u2014",
-    "name": "KoozeeAI/awesome-seedance-2-5-fashion-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:05:00Z",
-    "url": "https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts"
-  },
-  {
-    "description": "Curated GPT Image 2 fashion prompts with visual examples for e-commerce product photography, apparel campaigns, AI fashi",
-    "id": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
-    "language": "\u2014",
-    "name": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-26T08:04:57Z",
-    "url": "https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "Go",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-10-26T08:04:26Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -167,7 +320,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 225,
-    "updated_at": "2026-10-26T08:03:52Z",
+    "updated_at": "2026-10-26T08:16:32Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -189,15 +342,6 @@
     "url": "https://github.com/Double668899/ai-xinfa-10"
   },
   {
-    "description": "Pin it, prompt it, paste it",
-    "id": "terminalkitten/tackline",
-    "language": "Rust",
-    "name": "terminalkitten/tackline",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:01:16Z",
-    "url": "https://github.com/terminalkitten/tackline"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -205,15 +349,6 @@
     "stars": 11,
     "updated_at": "2026-10-26T08:01:20Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-26T08:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -238,7 +373,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 115116,
+    "stars": 115123,
     "updated_at": "2026-10-26T07:59:57Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T07:51:38Z",
     "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-26T07:51:35Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Full pipeline for AI-assisted academic writing: contribution framing, IMRaD drafting, AI-trace repair, verification chai",
-    "id": "crce-ux/ai-academic-writing",
-    "language": "Python",
-    "name": "crce-ux/ai-academic-writing",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:51:10Z",
-    "url": "https://github.com/crce-ux/ai-academic-writing"
-  },
-  {
-    "description": "Experimental intent-preserving prompt optimization with reference-guided rewriting, held-out evaluation, and GEPA search",
-    "id": "ItsUkrainianCat/intentopt",
-    "language": "Python",
-    "name": "ItsUkrainianCat/intentopt",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:51:08Z",
-    "url": "https://github.com/ItsUkrainianCat/intentopt"
-  },
-  {
-    "description": "A research workflow from literature search to deliverable",
-    "id": "crce-ux/research-workflow",
-    "language": "Python",
-    "name": "crce-ux/research-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:51:04Z",
-    "url": "https://github.com/crce-ux/research-workflow"
-  },
-  {
-    "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
-    "id": "heronbo111/HeronBo-AIGC-Prompt",
-    "language": "Tcl",
-    "name": "heronbo111/HeronBo-AIGC-Prompt",
-    "stars": 1,
-    "updated_at": "2026-10-26T07:50:44Z",
-    "url": "https://github.com/heronbo111/HeronBo-AIGC-Prompt"
-  },
-  {
-    "description": "Flight recorder for LLM agents: record once (REC), replay forever offline for free (PLAY), diff what drifted. Zero depen",
-    "id": "EAnge1o/tapedeck",
-    "language": "Python",
-    "name": "EAnge1o/tapedeck",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:48:58Z",
-    "url": "https://github.com/EAnge1o/tapedeck"
-  },
-  {
-    "description": "macOS menu bar utility that turns an idea into a structured prompt for Claude, ChatGPT, Gemini, Perplexity and other AI ",
-    "id": "msyuge/PromptPolish",
-    "language": "Swift",
-    "name": "msyuge/PromptPolish",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:48:17Z",
-    "url": "https://github.com/msyuge/PromptPolish"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7298,
-    "updated_at": "2026-10-26T08:13:44Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Awesome Gemini 4 Argon: curated videos, prompts and examples made with Google Gemini 4 Argon (Three.js, WebGL, SVG, game",
-    "id": "sandbase-lab/awesome-gemini4-argon",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-gemini4-argon",
-    "stars": 4,
-    "updated_at": "2026-10-26T07:47:54Z",
-    "url": "https://github.com/sandbase-lab/awesome-gemini4-argon"
-  },
-  {
-    "description": "/board: 5 $100M Strike Teams + a closed-door Board (Turing, Tesla, Jobs, Aurelius) torture-test plans, code, patents & G",
-    "id": "Kemerd/the_board",
-    "language": "Python",
-    "name": "Kemerd/the_board",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:47:21Z",
-    "url": "https://github.com/Kemerd/the_board"
-  },
-  {
-    "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
-    "id": "Nano-Collective/prompt-scrubber",
-    "language": "TypeScript",
-    "name": "Nano-Collective/prompt-scrubber",
-    "stars": 23,
-    "updated_at": "2026-10-26T07:46:13Z",
-    "url": "https://github.com/Nano-Collective/prompt-scrubber"
-  },
-  {
-    "description": "\ud83d\udca1DSH \u7684 Prompt\u63d0\u793a\u8bcd\u5de5\u5177\u7bb1\uff1a\u5e38\u7528prompt\u4fdd\u5b58\u540e\u70b9\u51fb\u5373\u53ef\u6ce8\u5165\u5230\u5bf9\u8bdd\u6846\u2014\u2014\u7701\u65f6\u7701\u529b\uff0c/prompt \u81ea\u52a8\u63d0\u793a\u5df2\u6709Prompt\u3002 \ud83d\udca1The Prompt toolbox for DSH: save frequently-used ",
-    "id": "FeatherHunter/dsh-prompt",
-    "language": "JavaScript",
-    "name": "FeatherHunter/dsh-prompt",
-    "stars": 65,
-    "updated_at": "2026-10-26T07:45:43Z",
-    "url": "https://github.com/FeatherHunter/dsh-prompt"
-  },
-  {
-    "description": "\u6211\u7684 AI \u534f\u4f5c\u4e0a\u4e0b\u6587\uff1a\u6362\u6a21\u578b\u4e0d\u7528\u91cd\u65b0\u4ecb\u7ecd\u81ea\u5df1",
-    "id": "lou646391952-gif/ai-context",
-    "language": "\u2014",
-    "name": "lou646391952-gif/ai-context",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:43:10Z",
-    "url": "https://github.com/lou646391952-gif/ai-context"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-26T07:40:19Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 174593,
-    "updated_at": "2026-10-26T07:40:01Z",
-    "url": "https://github.com/f/prompts.chat"
   }
 ]
