@@ -1,5 +1,167 @@
 [
   {
+    "description": "\u4ece\u96f6\u5b9e\u73b0\u7684\u4efb\u52a1\u9a71\u52a8\u81ea\u4e3b Agent\uff1a\u591a\u89d2\u8272\u534f\u4f5c+\u5de5\u5177\u8c03\u7528+\u8bb0\u5fc6\u7cfb\u7edf",
+    "id": "Whybeyou/babyagi-mini",
+    "language": "Python",
+    "name": "Whybeyou/babyagi-mini",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:15:25Z",
+    "url": "https://github.com/Whybeyou/babyagi-mini"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 15,
+    "updated_at": "2026-10-26T18:15:21Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Hassan Abbasi \u2014 AI Engineer building AI-powered products with excellent UX",
+    "id": "realhassanabbasi/realhassanabbasi",
+    "language": "\u2014",
+    "name": "realhassanabbasi/realhassanabbasi",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:12:57Z",
+    "url": "https://github.com/realhassanabbasi/realhassanabbasi"
+  },
+  {
+    "description": "Score any prompt 0-100, learn what's weak, and get it rewritten \u2014 with an intent classifier built from scratch. Zero dep",
+    "id": "realhassanabbasi/promptsmith",
+    "language": "Python",
+    "name": "realhassanabbasi/promptsmith",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:12:39Z",
+    "url": "https://github.com/realhassanabbasi/promptsmith"
+  },
+  {
+    "description": "A collection of practical AI use cases, ready-to-use prompts, and examples to help you work smarter, make better decisio",
+    "id": "wei-wei-hu/everyday-ai-playbook",
+    "language": "HTML",
+    "name": "wei-wei-hu/everyday-ai-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-26T18:12:05Z",
+    "url": "https://github.com/wei-wei-hu/everyday-ai-playbook"
+  },
+  {
+    "description": "Zero-shot image classification with frozen CLIP and SigLIP on Oxford-IIIT Pets and PathMNIST histology, compared against",
+    "id": "ynewt/zero_shot_image_classification",
+    "language": "Jupyter Notebook",
+    "name": "ynewt/zero_shot_image_classification",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:10:47Z",
+    "url": "https://github.com/ynewt/zero_shot_image_classification"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-26T18:10:36Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Start letters for any AI agent: paste one, and it adopts golden rules and a working harness, then asks who it is, who it",
+    "id": "otixe/agent-bible",
+    "language": "Python",
+    "name": "otixe/agent-bible",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:10:29Z",
+    "url": "https://github.com/otixe/agent-bible"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-26T18:08:05Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "\u4e3a AI bot \u6ce8\u5165\u6301\u4e45\u8ba4\u77e5\u4e0e\u65e0\u7f1d\u6c89\u6d78\u7684\u901a\u7528\u589e\u5f3a\u6846\u67b6 \u2014\u2014 \u6cbb\u91d1\u9c7c\u8bb0\u5fc6\u3001\u6587\u5b57\u673a\u5668\u3001\u673a\u68b0\u51fa\u620f",
+    "id": "Illusory-moon/bot-mindscape",
+    "language": "Python",
+    "name": "Illusory-moon/bot-mindscape",
+    "stars": 7,
+    "updated_at": "2026-10-26T18:07:21Z",
+    "url": "https://github.com/Illusory-moon/bot-mindscape"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-26T18:07:07Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 3,
+    "updated_at": "2026-10-26T18:07:04Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
+    "id": "hivecommons/promptargs",
+    "language": "TypeScript",
+    "name": "hivecommons/promptargs",
+    "stars": 3,
+    "updated_at": "2026-10-26T18:06:29Z",
+    "url": "https://github.com/hivecommons/promptargs"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26458,
+    "updated_at": "2026-10-26T18:05:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Bilingual professional portfolio and searchable library of reusable AI assistant prompts across marketing, research, cre",
+    "id": "mahmoudabdelnaby1/mahmoudabdelnaby1.github.io",
+    "language": "HTML",
+    "name": "mahmoudabdelnaby1/mahmoudabdelnaby1.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:05:11Z",
+    "url": "https://github.com/mahmoudabdelnaby1/mahmoudabdelnaby1.github.io"
+  },
+  {
+    "description": "Plain-English, evidence-grounded guides for using AI well at work. No technical background required.",
+    "id": "shaunmarsden/practical-ai-adoption",
+    "language": "JavaScript",
+    "name": "shaunmarsden/practical-ai-adoption",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:03:51Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-adoption"
+  },
+  {
+    "description": "Autonomous multi-agent engineering sentinel & bootstrapper. Synchronizes specialized agent personas, curated skills, and",
+    "id": "bepaldes/heimdall-agent",
+    "language": "JavaScript",
+    "name": "bepaldes/heimdall-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:01:10Z",
+    "url": "https://github.com/bepaldes/heimdall-agent"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-26T18:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Animated React components for sites that sell, each with a prompt that teaches your AI agent to rebuild it.",
     "id": "JouberthAlves/motionshelf",
     "language": "TypeScript",
@@ -9,15 +171,6 @@
     "url": "https://github.com/JouberthAlves/motionshelf"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26456,
-    "updated_at": "2026-10-26T17:59:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The hand-off kit for Claude Code and Codex.  Hand it off. Walk away. Come back to done.",
     "id": "joshuafolkken/kit",
     "language": "TypeScript",
@@ -25,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:59:26Z",
     "url": "https://github.com/joshuafolkken/kit"
-  },
-  {
-    "description": "A collection of practical AI use cases, ready-to-use prompts, and examples to help you work smarter, make better decisio",
-    "id": "wei-wei-hu/everyday-ai-playbook",
-    "language": "HTML",
-    "name": "wei-wei-hu/everyday-ai-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-26T17:58:56Z",
-    "url": "https://github.com/wei-wei-hu/everyday-ai-playbook"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -81,15 +225,6 @@
     "url": "https://github.com/PaladinKnightMaster/ai-image-prompt-factory"
   },
   {
-    "description": "\u4e3a AI bot \u6ce8\u5165\u6301\u4e45\u8ba4\u77e5\u4e0e\u65e0\u7f1d\u6c89\u6d78\u7684\u901a\u7528\u589e\u5f3a\u6846\u67b6 \u2014\u2014 \u6cbb\u91d1\u9c7c\u8bb0\u5fc6\u3001\u6587\u5b57\u673a\u5668\u3001\u673a\u68b0\u51fa\u620f",
-    "id": "Illusory-moon/bot-mindscape",
-    "language": "Python",
-    "name": "Illusory-moon/bot-mindscape",
-    "stars": 7,
-    "updated_at": "2026-10-26T17:57:21Z",
-    "url": "https://github.com/Illusory-moon/bot-mindscape"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -104,7 +239,7 @@
     "language": "Python",
     "name": "baz-scm/awesome-reviewers",
     "stars": 154,
-    "updated_at": "2026-10-26T17:56:14Z",
+    "updated_at": "2026-10-26T18:15:33Z",
     "url": "https://github.com/baz-scm/awesome-reviewers"
   },
   {
@@ -144,15 +279,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 15,
-    "updated_at": "2026-10-26T17:51:52Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "14 data extraction, schema healing & workflow orchestration tools: malformed JSON healer, JSON Schema type enforcer, uns",
     "id": "stand-out-of-my-sun/diogenes-dev-utilities-mcp",
     "language": "JavaScript",
@@ -160,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:51:33Z",
     "url": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp"
-  },
-  {
-    "description": "Autonomous multi-agent engineering sentinel & bootstrapper. Synchronizes specialized agent personas, curated skills, and",
-    "id": "bepaldes/heimdall-agent",
-    "language": "JavaScript",
-    "name": "bepaldes/heimdall-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:54:55Z",
-    "url": "https://github.com/bepaldes/heimdall-agent"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-26T17:50:59Z",
-    "url": "https://github.com/flashfrogluo/second-take"
   },
   {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
@@ -234,6 +342,15 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36530,
+    "updated_at": "2026-10-26T18:14:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -243,31 +360,13 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-26T17:46:11Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
     "id": "coco-research/coco",
     "language": "Python",
     "name": "coco-research/coco",
     "stars": 791,
-    "updated_at": "2026-10-26T17:55:31Z",
+    "updated_at": "2026-10-26T18:12:47Z",
     "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36529,
-    "updated_at": "2026-10-26T17:46:25Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:36:16Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\u7ed9\u753b\u5e08\u7528\u7684 AI \u751f\u56fe\u52a9\u624b\uff1a\u659c\u6760 Skill \u95ed\u73af\uff08\u22659.60\uff09+ \u9879\u76ee\u7f8e\u672f\u8bb0\u5fc6\u3002Cursor / Claude Code / Codex",
-    "id": "mry-ship/pmem-art",
-    "language": "Python",
-    "name": "mry-ship/pmem-art",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:35:17Z",
-    "url": "https://github.com/mry-ship/pmem-art"
-  },
-  {
-    "description": "One ruleset for every AI coding assistant \u2014 Claude / Codex / Cursor / Trae / OpenClaw / ChatGPT / Doubao. Write once in ",
-    "id": "Marlboro90/universal-agent-rules",
-    "language": "Python",
-    "name": "Marlboro90/universal-agent-rules",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:33:15Z",
-    "url": "https://github.com/Marlboro90/universal-agent-rules"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-10-26T17:58:11Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Universal operational rules, invariants, and safety standards for AI coding agents.",
-    "id": "Jabir-A-H/agents.md",
-    "language": "\u2014",
-    "name": "Jabir-A-H/agents.md",
-    "stars": 1,
-    "updated_at": "2026-10-26T17:27:16Z",
-    "url": "https://github.com/Jabir-A-H/agents.md"
-  },
-  {
-    "description": "\u521b\u610f\u6df1\u6f5c Deep Diving \u2014 AI \u9a71\u52a8\u7684\u89c6\u89c9\u8bbe\u8ba1\u5e08\u8ba4\u77e5\u5de5\u4f5c\u53f0\u3002\u65e0\u9650\u753b\u5e03 + \u771f\u5b9e LLM\uff0c\u8986\u76d6\u8c03\u7814\u3001\u53d1\u6563\u3001\u6536\u655b\u3001\u8f6c\u8bd1\u5168\u94fe\u8def\u3002",
-    "id": "injayxu-dotcom/deep-diving",
-    "language": "TypeScript",
-    "name": "injayxu-dotcom/deep-diving",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:27:18Z",
-    "url": "https://github.com/injayxu-dotcom/deep-diving"
-  },
-  {
-    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
-    "id": "CTOUT/Symdicate",
-    "language": "Shell",
-    "name": "CTOUT/Symdicate",
-    "stars": 2,
-    "updated_at": "2026-10-26T17:26:46Z",
-    "url": "https://github.com/CTOUT/Symdicate"
-  },
-  {
-    "description": "SillyTavern extension \u2014 world rules as switchable, composable prompt blocks: library, sets, per-chat overrides, AI rule ",
-    "id": "HakaiGod420/st-rulebook",
-    "language": "JavaScript",
-    "name": "HakaiGod420/st-rulebook",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:26:08Z",
-    "url": "https://github.com/HakaiGod420/st-rulebook"
-  },
-  {
-    "description": "An open manifesto, taxonomy and rubric for building software with AI, and for evaluating the people who do it.",
-    "id": "promptstyles/promptstyles",
-    "language": "Astro",
-    "name": "promptstyles/promptstyles",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:25:28Z",
-    "url": "https://github.com/promptstyles/promptstyles"
-  },
-  {
-    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
-    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "language": "HTML",
-    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:24:59Z",
-    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
-  },
-  {
-    "description": "Run two versions of an AI agent (Mastra, OpenAI Agents SDK, or any function) on the same tests and see what it does diff",
-    "id": "amishaba/agentdiff",
-    "language": "TypeScript",
-    "name": "amishaba/agentdiff",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:22:54Z",
-    "url": "https://github.com/amishaba/agentdiff"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 1,
-    "updated_at": "2026-10-26T17:18:10Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
   }
 ]
