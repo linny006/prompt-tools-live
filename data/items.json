@@ -1,5 +1,68 @@
 [
   {
+    "description": "A persona council for Claude: expert personas debate a claim under evidence rules, with cross-examination, a pre-mortem,",
+    "id": "prodagenx/px-council",
+    "language": "\u2014",
+    "name": "prodagenx/px-council",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:03:04Z",
+    "url": "https://github.com/prodagenx/px-council"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-10-26T06:01:12Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
+    "id": "api-evangelist/taste",
+    "language": "\u2014",
+    "name": "api-evangelist/taste",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:01:05Z",
+    "url": "https://github.com/api-evangelist/taste"
+  },
+  {
+    "description": "Behavioral testing for LLM applications. pytest plugin with semantic assertions, multi-turn conversation testing, and dr",
+    "id": "Swanand33/llm-behave",
+    "language": "Python",
+    "name": "Swanand33/llm-behave",
+    "stars": 1,
+    "updated_at": "2026-10-26T06:01:53Z",
+    "url": "https://github.com/Swanand33/llm-behave"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-26T06:01:07Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-26T06:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u7ade\u8d5b\u4f5c\u54c1\u96c6 \u00b7 \u8fb9\u7f18 AI \u7aef\u4fa7\u90e8\u7f72 / \u673a\u5668\u4eba\u89c6\u89c9",
+    "id": "cjy-robot/competition-portfolio",
+    "language": "Python",
+    "name": "cjy-robot/competition-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:01:27Z",
+    "url": "https://github.com/cjy-robot/competition-portfolio"
+  },
+  {
     "description": "AI \u89c6\u9891\u63d0\u793a\u8bcd\u751f\u6210 + \u6210\u7247\u516d\u7ef4\u8bc4\u4ef7 skill\uff08\u56fe\u751f\u89c6\u9891/\u6587\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u751f\u89c6\u9891/\u53c2\u8003\u89c6\u9891\u66ff\u6362\u751f\u89c6\u9891\uff09\uff1b\u672c\u5730\u5de5\u4f5c\u53f0 + \u591a agent \u534f\u4f5c",
     "id": "heronbo111/HeronBo-AIGC-Prompt",
     "language": "Tcl",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "cobusgreyling/loop-engineering",
     "stars": 11629,
-    "updated_at": "2026-10-26T06:00:07Z",
+    "updated_at": "2026-10-26T06:01:03Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "joshuafolkken/kit",
     "stars": 1,
-    "updated_at": "2026-10-26T05:51:53Z",
+    "updated_at": "2026-10-26T06:01:54Z",
     "url": "https://github.com/joshuafolkken/kit"
   },
   {
@@ -221,7 +284,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-10-26T05:48:16Z",
+    "updated_at": "2026-10-26T06:04:03Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -277,24 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T05:45:50Z",
     "url": "https://github.com/unhuman1146/es-memory-rag"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-26T05:46:25Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-26T05:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ready-to-use system prompts for Agentic Code Review.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:38:06Z",
     "url": "https://github.com/LashawnFofung/AI-Portfolio"
-  },
-  {
-    "description": "Curated GPT Image 2 fashion prompts with visual examples for e-commerce product photography, apparel campaigns, AI fashi",
-    "id": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
-    "language": "\u2014",
-    "name": "KoozeeAI/awesome-gpt-image-2-fashion-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-26T05:38:05Z",
-    "url": "https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts"
-  },
-  {
-    "description": "Awesome AI image generator prompts in 8 languages (EN/\u4e2d\u6587/\u65e5\u672c\u8a9e/\ud55c\uad6d\uc5b4/ES/FR/DE/PT), each with a real generated preview \u2014 Nano",
-    "id": "zenlee123/awesome-ai-image-prompts",
-    "language": "Python",
-    "name": "zenlee123/awesome-ai-image-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:37:22Z",
-    "url": "https://github.com/zenlee123/awesome-ai-image-prompts"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-10-26T05:36:03Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "A curated, cross-referenced encyclopedia of 1100+ open-source agent skills (native languages kept) and 1600+ indexed ski",
-    "id": "findscripter/everything-skills",
-    "language": "Python",
-    "name": "findscripter/everything-skills",
-    "stars": 5,
-    "updated_at": "2026-10-26T05:35:02Z",
-    "url": "https://github.com/findscripter/everything-skills"
-  },
-  {
-    "description": "AI \u7f16\u7a0b\u5de5\u5177\u5b9e\u6218\u6307\u5357 \u2014 66 \u4e2a Claude Code \u6280\u5de7 + 10 \u6b3e\u5de5\u5177\u6700\u4f73\u5b9e\u8df5 + \u53ef\u590d\u5236\u914d\u7f6e\u6a21\u677f | AI Coding Tools Guide with 66 Claude Code tips",
-    "id": "jnMetaCode/ai-coding-guide",
-    "language": "CSS",
-    "name": "jnMetaCode/ai-coding-guide",
-    "stars": 549,
-    "updated_at": "2026-10-26T05:32:39Z",
-    "url": "https://github.com/jnMetaCode/ai-coding-guide"
   }
 ]
