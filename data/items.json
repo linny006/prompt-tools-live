@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Code agents that can't call a patch done until the repo's own tests, lint and type-check pass. Issue to uncommitt",
+    "id": "koydas/ai-dev-tools",
+    "language": "JavaScript",
+    "name": "koydas/ai-dev-tools",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:59:36Z",
+    "url": "https://github.com/koydas/ai-dev-tools"
+  },
+  {
+    "description": "Master prompt that turns a high-level study idea into a structured Advanced Study Proposal (ASP) draft covering RWE, epi",
+    "id": "brunolopessalvadori-cpu/asp-builder-prompt",
+    "language": "\u2014",
+    "name": "brunolopessalvadori-cpu/asp-builder-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:58:21Z",
+    "url": "https://github.com/brunolopessalvadori-cpu/asp-builder-prompt"
+  },
+  {
+    "description": "Create Suno Prompts Using Gemini Flash, works with the Suno API. Create professional-looking timed word-for-word lyrics ",
+    "id": "Lumi-Script/Suno-Architect",
+    "language": "TypeScript",
+    "name": "Lumi-Script/Suno-Architect",
+    "stars": 44,
+    "updated_at": "2026-10-26T01:58:05Z",
+    "url": "https://github.com/Lumi-Script/Suno-Architect"
+  },
+  {
+    "description": "Structured LLM prompt template guiding Market Access teams through building a health technology dossier (e.g., CONITEC/A",
+    "id": "brunolopessalvadori-cpu/dossier-assistant-prompt",
+    "language": "\u2014",
+    "name": "brunolopessalvadori-cpu/dossier-assistant-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:57:53Z",
+    "url": "https://github.com/brunolopessalvadori-cpu/dossier-assistant-prompt"
+  },
+  {
+    "description": "Detect and rebut rationalization patterns in AI agent output",
+    "id": "hivecommons/rationguard",
+    "language": "TypeScript",
+    "name": "hivecommons/rationguard",
+    "stars": 3,
+    "updated_at": "2026-10-26T01:57:35Z",
+    "url": "https://github.com/hivecommons/rationguard"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 26,
+    "updated_at": "2026-10-26T01:56:50Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:56:56Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Fabric \u5168\u90e8\u63d0\u793a\u8bcd\u4e2d\u6587\u76ee\u5f55\uff1a266 \u4e2a Pattern \u7684\u4e2d\u6587\u7b80\u4ecb\u4e0e\u6e90\u4ed3\u5e93\u76f4\u8fbe\u94fe\u63a5\uff0c\u6bcf\u65e5\u81ea\u52a8\u540c\u6b65\u4e0a\u6e38 danielmiessler/Fabric",
+    "id": "Yu-Xiao-Sheng/fabric-patterns-zh",
+    "language": "Python",
+    "name": "Yu-Xiao-Sheng/fabric-patterns-zh",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:54:52Z",
+    "url": "https://github.com/Yu-Xiao-Sheng/fabric-patterns-zh"
+  },
+  {
+    "description": "A two-minute Markdown workflow for tracking what you eat and lift.",
+    "id": "adwilds/bodymd",
+    "language": "Python",
+    "name": "adwilds/bodymd",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:51:55Z",
+    "url": "https://github.com/adwilds/bodymd"
+  },
+  {
+    "description": "A portable library of reusable AI skills, prompts, workflows, schemas, and automation patterns designed for ChatGPT, Cla",
+    "id": "mickpletcher/AI-Skills",
+    "language": "Python",
+    "name": "mickpletcher/AI-Skills",
+    "stars": 20,
+    "updated_at": "2026-10-26T01:48:17Z",
+    "url": "https://github.com/mickpletcher/AI-Skills"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 10,
+    "updated_at": "2026-10-26T01:46:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-26T01:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -34,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:42:53Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40404,
+    "updated_at": "2026-10-26T01:42:37Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X \u2014 portraits, posters, photo r",
@@ -90,15 +207,6 @@
     "url": "https://github.com/dhaupin/gistory"
   },
   {
-    "description": "Structured LLM prompt template guiding Market Access teams through building a health technology dossier (e.g., CONITEC/A",
-    "id": "brunolopessalvadori-cpu/dossier-assistant-prompt",
-    "language": "\u2014",
-    "name": "brunolopessalvadori-cpu/dossier-assistant-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:39:25Z",
-    "url": "https://github.com/brunolopessalvadori-cpu/dossier-assistant-prompt"
-  },
-  {
     "description": "A library of installable AI agent plugins for Claude Code, ZCode, and compatible coding agents. Ships strict-hexagonal: ",
     "id": "voidlight-labs/voidlight-plugin-library",
     "language": "Python",
@@ -112,7 +220,7 @@
     "id": "linshenkx/prompt-optimizer",
     "language": "TypeScript",
     "name": "linshenkx/prompt-optimizer",
-    "stars": 39225,
+    "stars": 39226,
     "updated_at": "2026-10-26T01:37:54Z",
     "url": "https://github.com/linshenkx/prompt-optimizer"
   },
@@ -135,21 +243,12 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40403,
-    "updated_at": "2026-10-26T01:42:37Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "Lapidary: self-hosted prompt library and agent harness, served over REST, a web UI and MCP.",
     "id": "poyfather/lapidary",
     "language": "Python",
     "name": "poyfather/lapidary",
     "stars": 0,
-    "updated_at": "2026-10-26T01:35:39Z",
+    "updated_at": "2026-10-26T01:48:46Z",
     "url": "https://github.com/poyfather/lapidary"
   },
   {
@@ -198,15 +297,6 @@
     "url": "https://github.com/AKzar1el/god-prompt-mcp"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-26T01:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
     "id": "neomjs/neo-agent-skills",
     "language": "JavaScript",
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28531,
-    "updated_at": "2026-10-26T01:44:20Z",
+    "updated_at": "2026-10-26T01:56:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -346,18 +436,9 @@
     "id": "jadezane6634-ops/dsh-purge-flash",
     "language": "JavaScript",
     "name": "jadezane6634-ops/dsh-purge-flash",
-    "stars": 39,
+    "stars": 43,
     "updated_at": "2026-10-26T01:18:03Z",
     "url": "https://github.com/jadezane6634-ops/dsh-purge-flash"
-  },
-  {
-    "description": "A portable library of reusable AI skills, prompts, workflows, schemas, and automation patterns designed for ChatGPT, Cla",
-    "id": "mickpletcher/AI-Skills",
-    "language": "Python",
-    "name": "mickpletcher/AI-Skills",
-    "stars": 20,
-    "updated_at": "2026-10-26T01:36:00Z",
-    "url": "https://github.com/mickpletcher/AI-Skills"
   },
   {
     "description": "Awesome MiniMax M3.1 Flash: curated videos, prompts and examples made with MiniMax M3.1 Flash (Three.js, WebGL, SVG, gam",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:14:19Z",
     "url": "https://github.com/sandbase-lab/awesome-minimax-m3-1-flash"
-  },
-  {
-    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
-    "id": "carpentry-liu/awesome-astra-3d",
-    "language": "TypeScript",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "stars": 19,
-    "updated_at": "2026-10-26T01:14:17Z",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
-  },
-  {
-    "description": "Agent Skill: turn novels/stories into character-consistent AI comic dramas \u2014 script, storyboard, prompts, image & video ",
-    "id": "ayase0307/ai-comic-drama",
-    "language": "Python",
-    "name": "ayase0307/ai-comic-drama",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:12:12Z",
-    "url": "https://github.com/ayase0307/ai-comic-drama"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "TypeScript",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:11:50Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:11:25Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI Engineering Atlas \u2014 The interactive map for understanding modern AI systems, architectures, and engineering patterns.",
-    "id": "jie955/AI-Engineering-Atlas",
-    "language": "TypeScript",
-    "name": "jie955/AI-Engineering-Atlas",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:11:20Z",
-    "url": "https://github.com/jie955/AI-Engineering-Atlas"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22922,
-    "updated_at": "2026-10-26T01:10:57Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 53868,
-    "updated_at": "2026-10-26T01:10:38Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:10:20Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Awesome Claude Opus 5.5: curated videos, prompts and examples made with Claude Opus 5.5 (Three.js, WebGL, SVG, games), p",
-    "id": "sandbase-lab/awesome-opus-5.5",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-opus-5.5",
-    "stars": 4,
-    "updated_at": "2026-10-26T01:10:13Z",
-    "url": "https://github.com/sandbase-lab/awesome-opus-5.5"
   }
 ]
