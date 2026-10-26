@@ -1,12 +1,111 @@
 [
   {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
+    "id": "kzndotsh/companion",
+    "language": "Python",
+    "name": "kzndotsh/companion",
+    "stars": 2,
+    "updated_at": "2026-10-26T00:15:21Z",
+    "url": "https://github.com/kzndotsh/companion"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 0,
-    "updated_at": "2026-10-26T00:00:02Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+    "updated_at": "2026-10-26T00:15:13Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Product Management case study & feature proposal for BeReal. Features RealProcess\u2014an unfiltered goal-tracking concept de",
+    "id": "LashawnFofung/BeReal-RealProcess",
+    "language": "HTML",
+    "name": "LashawnFofung/BeReal-RealProcess",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:14:21Z",
+    "url": "https://github.com/LashawnFofung/BeReal-RealProcess"
+  },
+  {
+    "description": "Free AI tarot readings that respect the Golden Dawn system. OOTK calculates Thoth dignities, decans and Liber 777 corres",
+    "id": "hampshirecottage-ai/ootk-thoth-engine",
+    "language": "Python",
+    "name": "hampshirecottage-ai/ootk-thoth-engine",
+    "stars": 1,
+    "updated_at": "2026-10-26T00:12:56Z",
+    "url": "https://github.com/hampshirecottage-ai/ootk-thoth-engine"
+  },
+  {
+    "description": "Gistory: A prompt keeper that trusts you with the keys. On-device, encrypted prompt history for AI workflows; sync trave",
+    "id": "dhaupin/gistory",
+    "language": "TypeScript",
+    "name": "dhaupin/gistory",
+    "stars": 1,
+    "updated_at": "2026-10-26T00:12:02Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40399,
+    "updated_at": "2026-10-26T00:10:39Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22920,
+    "updated_at": "2026-10-26T00:08:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-10-26T00:08:31Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "JavaScript",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 174,
+    "updated_at": "2026-10-26T00:14:23Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "A group-chat character that knows when to stay quiet and learns from being corrected, with an evidence ledger, rollback ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 20,
+    "updated_at": "2026-10-26T00:08:10Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13685,
+    "updated_at": "2026-10-26T00:08:05Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 4,
+    "updated_at": "2026-10-26T00:08:03Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
     "description": "A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.",
@@ -14,8 +113,80 @@
     "language": "\u2014",
     "name": "lalipa2003-arch/JailbreakHub",
     "stars": 11,
-    "updated_at": "2026-10-25T23:59:47Z",
+    "updated_at": "2026-10-26T00:04:52Z",
     "url": "https://github.com/lalipa2003-arch/JailbreakHub"
+  },
+  {
+    "description": "CLI tool that finds files and folders by fuzzy name and recursively concatenates files to your clipboard as AI context f",
+    "id": "tigreau/catclip",
+    "language": "Go",
+    "name": "tigreau/catclip",
+    "stars": 7,
+    "updated_at": "2026-10-26T00:09:08Z",
+    "url": "https://github.com/tigreau/catclip"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:03:47Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T00:02:52Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 13,
+    "updated_at": "2026-10-26T00:02:21Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "Python",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 154,
+    "updated_at": "2026-10-26T00:01:27Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 10,
+    "updated_at": "2026-10-26T00:01:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-26T00:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:00:02Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "A desktop overlay that sits on top of everything, listens when you tap a hotkey, transcribes your voice locally, runs th",
@@ -63,15 +234,6 @@
     "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
   },
   {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 13,
-    "updated_at": "2026-10-25T23:57:07Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -86,7 +248,7 @@
     "language": "JavaScript",
     "name": "pero3dev/ai-agent-library",
     "stars": 2,
-    "updated_at": "2026-10-25T23:54:45Z",
+    "updated_at": "2026-10-26T00:02:48Z",
     "url": "https://github.com/pero3dev/ai-agent-library"
   },
   {
@@ -185,7 +347,7 @@
     "language": "Python",
     "name": "novanoticia/email-triage-plugin",
     "stars": 1,
-    "updated_at": "2026-10-25T23:48:50Z",
+    "updated_at": "2026-10-26T00:13:51Z",
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
@@ -225,15 +387,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 10,
-    "updated_at": "2026-10-25T23:46:15Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "Agent skills for people tired of AI slop. Skills, subagents, rules and hooks for Claude Code, Cursor, Codex and any agen",
     "id": "pahlevikun/levistack",
     "language": "Python",
@@ -243,15 +396,6 @@
     "url": "https://github.com/pahlevikun/levistack"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-25T23:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -259,15 +403,6 @@
     "stars": 968,
     "updated_at": "2026-10-25T23:45:24Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-10-25T23:58:54Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "The AI engine behind Farkad, built in the open to learn applied AI: say what you ate and did, in any language, and it be",
@@ -297,24 +432,6 @@
     "url": "https://github.com/PigeonAI-Yang/pigeonstack"
   },
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "Python",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 154,
-    "updated_at": "2026-10-25T23:40:25Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40398,
-    "updated_at": "2026-10-25T23:38:57Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -324,24 +441,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it.",
-    "id": "kzndotsh/companion",
-    "language": "Python",
-    "name": "kzndotsh/companion",
-    "stars": 2,
-    "updated_at": "2026-10-25T23:38:01Z",
-    "url": "https://github.com/kzndotsh/companion"
-  },
-  {
-    "description": "Gistory: A prompt keeper that trusts you with the keys. On-device, encrypted prompt history for AI workflows; sync trave",
-    "id": "dhaupin/gistory",
-    "language": "TypeScript",
-    "name": "dhaupin/gistory",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:34:00Z",
-    "url": "https://github.com/dhaupin/gistory"
-  },
-  {
     "description": "MOVED: legacy skill collection kept for old links. Maintained skills now ship as standalone repositories under github.co",
     "id": "m1nga/skill-builder",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:33:14Z",
     "url": "https://github.com/m1nga/skill-builder"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:32:05Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "One-click prompt buttons for Claude Code and Codex, floating over macOS Terminal. Auto-backgrounds long Claude Code comm",
-    "id": "krushr1/claude-code-prompt-rack",
-    "language": "HTML",
-    "name": "krushr1/claude-code-prompt-rack",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:33:31Z",
-    "url": "https://github.com/krushr1/claude-code-prompt-rack"
-  },
-  {
-    "description": "Template expansion for AI prompts - variable substitution for Claude Code, Copilot, Goose, Bob, and more",
-    "id": "hivecommons/promptargs",
-    "language": "TypeScript",
-    "name": "hivecommons/promptargs",
-    "stars": 3,
-    "updated_at": "2026-10-25T23:26:57Z",
-    "url": "https://github.com/hivecommons/promptargs"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-25T23:41:50Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:24:33Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-10-25T23:22:53Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-25T23:21:05Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
-    "id": "snowkiss13/ja-writing-norms",
-    "language": "Python",
-    "name": "snowkiss13/ja-writing-norms",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:20:37Z",
-    "url": "https://github.com/snowkiss13/ja-writing-norms"
-  },
-  {
-    "description": "Kotlin + K8s tool for improving LLM prompts and UIs through live user feedback.",
-    "id": "Eignex/combo",
-    "language": "Kotlin",
-    "name": "Eignex/combo",
-    "stars": 8,
-    "updated_at": "2026-10-25T23:19:37Z",
-    "url": "https://github.com/Eignex/combo"
-  },
-  {
-    "description": "The engineering control plane for AI coding agents. Risk-aware workflows, JIT context, persistent project state, bounded",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "PowerShell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:18:46Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "A terminal-native prompt composer for power users running multiple coding agents.",
-    "id": "oborchers/proqi",
-    "language": "Rust",
-    "name": "oborchers/proqi",
-    "stars": 43,
-    "updated_at": "2026-10-25T23:16:19Z",
-    "url": "https://github.com/oborchers/proqi"
   }
 ]
