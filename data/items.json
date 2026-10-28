@@ -1,48 +1,57 @@
 [
   {
-    "description": "One-click prompt rewriting in the DSH composer \u2014 keep going for up to 5 rounds, diff every change, and jump back to any ",
-    "id": "Nihao7-L/dsh-prompt-chain",
-    "language": "JavaScript",
-    "name": "Nihao7-L/dsh-prompt-chain",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:59:56Z",
-    "url": "https://github.com/Nihao7-L/dsh-prompt-chain"
-  },
-  {
-    "description": "Identity for AI agents: prompts that evolve from evidence-backed traits, with rollback. SQLite, zero deps, MCP server.",
-    "id": "GhostPawJS/souls",
-    "language": "TypeScript",
-    "name": "GhostPawJS/souls",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:59:24Z",
-    "url": "https://github.com/GhostPawJS/souls"
-  },
-  {
-    "description": "Write a full-length Chinese webnovel with AI \u2014 layered memory for long-form consistency, 37 genre templates reverse-engi",
-    "id": "XZ-LI/ai-webnovel-pipeline",
-    "language": "Python",
-    "name": "XZ-LI/ai-webnovel-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:59:23Z",
-    "url": "https://github.com/XZ-LI/ai-webnovel-pipeline"
-  },
-  {
     "description": "Agent skills for filing, writing, reviewing, and handing off the work around code. Install one or take them all.",
     "id": "kendrick/skills",
     "language": "Shell",
     "name": "kendrick/skills",
     "stars": 0,
-    "updated_at": "2026-10-27T23:59:48Z",
+    "updated_at": "2026-10-28T00:13:52Z",
     "url": "https://github.com/kendrick/skills"
   },
   {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
+    "description": "DSH agent preset for local ComfyUI: Anima / MiniMax H3 AI art & video \u2014 3 camera CLI skills (t2i/i2i images, t2v/i2v vid",
+    "id": "cxin21/dsh-comfyui-chenxin",
+    "language": "TypeScript",
+    "name": "cxin21/dsh-comfyui-chenxin",
     "stars": 3,
-    "updated_at": "2026-10-27T23:58:26Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+    "updated_at": "2026-10-28T00:13:38Z",
+    "url": "https://github.com/cxin21/dsh-comfyui-chenxin"
+  },
+  {
+    "description": "Reusable skills (SKILL.md playbooks) for Grok Bot and Cursor AI agents: routines, workflows, and agent best practices.",
+    "id": "bostonaholic/grokbot-skills",
+    "language": "Shell",
+    "name": "bostonaholic/grokbot-skills",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:13:19Z",
+    "url": "https://github.com/bostonaholic/grokbot-skills"
+  },
+  {
+    "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
+    "id": "pero3dev/ai-agent-library",
+    "language": "JavaScript",
+    "name": "pero3dev/ai-agent-library",
+    "stars": 2,
+    "updated_at": "2026-10-28T00:13:15Z",
+    "url": "https://github.com/pero3dev/ai-agent-library"
+  },
+  {
+    "description": "UI/UX + product case study: Real Passport & Community Boards, a re-engagement concept for casual BeReal users. Persona, ",
+    "id": "LashawnFofung/BeReal-RealProcess",
+    "language": "HTML",
+    "name": "LashawnFofung/BeReal-RealProcess",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:12:57Z",
+    "url": "https://github.com/LashawnFofung/BeReal-RealProcess"
+  },
+  {
+    "description": "Find the waste in your LLM prompts before your invoice does. Deterministic, local, MIT-licensed.",
+    "id": "atibbs/savedyouatoken",
+    "language": "TypeScript",
+    "name": "atibbs/savedyouatoken",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:12:21Z",
+    "url": "https://github.com/atibbs/savedyouatoken"
   },
   {
     "description": "An emergent spatial protocol for LLM latent spaces \u2014 replacing natural language redundancy with token-efficient cognitiv",
@@ -50,8 +59,35 @@
     "language": "\u2014",
     "name": "phi-protocol-lab/phi-lang",
     "stars": 0,
-    "updated_at": "2026-10-27T23:58:08Z",
+    "updated_at": "2026-10-28T00:11:20Z",
     "url": "https://github.com/phi-protocol-lab/phi-lang"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:10:33Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Identity for AI agents: prompts that evolve from evidence-backed traits, with rollback. SQLite, zero deps, MCP server.",
+    "id": "GhostPawJS/souls",
+    "language": "TypeScript",
+    "name": "GhostPawJS/souls",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:09:37Z",
+    "url": "https://github.com/GhostPawJS/souls"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 4,
+    "updated_at": "2026-10-28T00:09:07Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
     "description": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0439 \u0433\u0430\u0439\u0434 \u043f\u043e \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0430\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u0434\u043b\u044f LLM: SPINE \u2192 \u044f\u043a\u043e\u0440\u044f \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u2192 \u0433\u043e\u043b\u043e\u0441 \u2192 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u043f\u0440\u043e\u043c\u043f\u0442. \u041a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u0441\u0431\u043e\u0440\u043a\u0438 \u043a\u0430\u0440",
@@ -59,8 +95,107 @@
     "language": "HTML",
     "name": "vudirvp-sketch/live-char-guide",
     "stars": 2,
-    "updated_at": "2026-10-27T23:58:07Z",
+    "updated_at": "2026-10-28T00:09:44Z",
     "url": "https://github.com/vudirvp-sketch/live-char-guide"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13696,
+    "updated_at": "2026-10-28T00:07:45Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22975,
+    "updated_at": "2026-10-28T00:07:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u4e91\u95f4Bot \u00b7 \u8d77\u5143\uff1a\u4e91\u95f4\u5de5\u4f5c\u5ba4\u5f00\u53d1\u7684\u9996\u4e2a\u7ec4\u5408 Skill \u5de5\u5177\uff0c\u53ef\u76f4\u63a5\u88c5\u8fdb Grok Bot\u3002\u516d\u4f4d\u6210\u5458\uff1a\u9752\u9e1f\uff08\u63d0\u793a\u8bcd\uff09\u3001\u5343\u673a\uff08Skill\uff09\u3001\u51dd\u9732\uff08\u84b8\u998f\uff09\u3001\u7ecf\u7eac\uff08\u672c\u4f53\uff09\u3001\u8bd5\u91d1\uff08\u9a8c\u8bc1\uff09\u3001\u8d77\u5143\u64cd\u76d8\uff08\u7edf\u7b79\uff09\u3002",
+    "id": "yunjian-ai/yunjian",
+    "language": "Python",
+    "name": "yunjian-ai/yunjian",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:06:58Z",
+    "url": "https://github.com/yunjian-ai/yunjian"
+  },
+  {
+    "description": "Write a full-length Chinese webnovel with AI \u2014 layered memory for long-form consistency, 37 genre templates reverse-engi",
+    "id": "XZ-LI/ai-webnovel-pipeline",
+    "language": "Python",
+    "name": "XZ-LI/ai-webnovel-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:04:31Z",
+    "url": "https://github.com/XZ-LI/ai-webnovel-pipeline"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:03:06Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:01:26Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:01:10Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-28T00:01:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-28T00:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "One-click prompt rewriting in the DSH composer \u2014 keep going for up to 5 rounds, diff every change, and jump back to any ",
+    "id": "Nihao7-L/dsh-prompt-chain",
+    "language": "JavaScript",
+    "name": "Nihao7-L/dsh-prompt-chain",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:06:04Z",
+    "url": "https://github.com/Nihao7-L/dsh-prompt-chain"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:01:30Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
     "description": "How to design AI agents that work as one: nine parts of an agent and its team, checked against 85 sources. Free guide in",
@@ -77,7 +212,7 @@
     "language": "Jupyter Notebook",
     "name": "IBM/responsible-prompting-api",
     "stars": 50,
-    "updated_at": "2026-10-27T23:57:45Z",
+    "updated_at": "2026-10-28T00:00:42Z",
     "url": "https://github.com/IBM/responsible-prompting-api"
   },
   {
@@ -189,24 +324,6 @@
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-27T23:46:18Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-27T23:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u4e09\u4e2a\u6a21\u578b\u3001\u4e00\u6761\u4eba\u7c7b\u4fe1\u9053\uff1a\u4e00\u6b21\u9884\u5148\u4e0b\u6ce8\u3001\u6700\u540e\u8f93\u6389\u7684\u5bf9\u8d4c\u5b9e\u9a8c\uff08\u9644\u8131\u654f\u5bf9\u8bdd\u8bb0\u5f55\u4e0e\u590d\u73b0\u65b9\u6cd5\uff09\uff5cThree LLMs, one human relay: a pre-registered bet the model lost.",
     "id": "qi-luo652/three-models-one-channel",
     "language": "\u2014",
@@ -297,15 +414,6 @@
     "url": "https://github.com/promptdriven/pdd"
   },
   {
-    "description": "DSH agent preset for local ComfyUI: Anima / MiniMax H3 AI art & video \u2014 3 camera CLI skills (t2i/i2i images, t2v/i2v vid",
-    "id": "cxin21/dsh-comfyui-chenxin",
-    "language": "TypeScript",
-    "name": "cxin21/dsh-comfyui-chenxin",
-    "stars": 3,
-    "updated_at": "2026-10-27T23:36:06Z",
-    "url": "https://github.com/cxin21/dsh-comfyui-chenxin"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -324,15 +432,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "UI/UX + product case study: Real Passport & Community Boards, a re-engagement concept for casual BeReal users. Persona, ",
-    "id": "LashawnFofung/BeReal-RealProcess",
-    "language": "HTML",
-    "name": "LashawnFofung/BeReal-RealProcess",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:34:46Z",
-    "url": "https://github.com/LashawnFofung/BeReal-RealProcess"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 50,
     "updated_at": "2026-10-27T23:33:27Z",
     "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 13,
-    "updated_at": "2026-10-27T23:32:59Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:32:46Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-10-27T23:32:46Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:32:37Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Agent Skills and Codex tooling for work where probably correct is not evidence.",
-    "id": "benjaminstelzer/BenjaminStelzer",
-    "language": "\u2014",
-    "name": "benjaminstelzer/BenjaminStelzer",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:32:23Z",
-    "url": "https://github.com/benjaminstelzer/BenjaminStelzer"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 15,
-    "updated_at": "2026-10-27T23:30:31Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "AI-written articles on software engineering and life in the AI age, covering coding agents, software architecture, backe",
-    "id": "marcelomiyake/marcelomiyake.github.io",
-    "language": "HTML",
-    "name": "marcelomiyake/marcelomiyake.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:30:03Z",
-    "url": "https://github.com/marcelomiyake/marcelomiyake.github.io"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 122,
-    "updated_at": "2026-10-27T23:27:52Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:27:44Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:27:06Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
-    "id": "neomjs/neo-agent-skills",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-skills",
-    "stars": 11,
-    "updated_at": "2026-10-27T23:27:09Z",
-    "url": "https://github.com/neomjs/neo-agent-skills"
   }
 ]
