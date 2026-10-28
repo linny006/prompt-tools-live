@@ -1,12 +1,165 @@
 [
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2409,
+    "updated_at": "2026-10-28T01:15:09Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
+    "id": "Adilaw12/freebird-vscode",
+    "language": "TypeScript",
+    "name": "Adilaw12/freebird-vscode",
+    "stars": 3,
+    "updated_at": "2026-10-28T01:15:04Z",
+    "url": "https://github.com/Adilaw12/freebird-vscode"
+  },
+  {
+    "description": "Identity for AI agents: prompts that evolve from evidence-backed traits, with rollback. SQLite, zero deps, MCP server.",
+    "id": "GhostPawJS/souls",
+    "language": "TypeScript",
+    "name": "GhostPawJS/souls",
+    "stars": 1,
+    "updated_at": "2026-10-28T01:14:55Z",
+    "url": "https://github.com/GhostPawJS/souls"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "JavaScript",
+    "name": "promptdriven/pdd",
+    "stars": 920,
+    "updated_at": "2026-10-28T01:14:46Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 19,
+    "updated_at": "2026-10-28T01:12:53Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "Copy-ready prompts for the leading AI video models, each with its real output and source. Plus agent recipes for editing",
+    "id": "ai-boost/awesome-image-video-prompts",
+    "language": "Python",
+    "name": "ai-boost/awesome-image-video-prompts",
+    "stars": 3402,
+    "updated_at": "2026-10-28T01:12:01Z",
+    "url": "https://github.com/ai-boost/awesome-image-video-prompts"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:11:06Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "Portable AI agent skills and customization configs for Claude, Codex, and Gemini",
+    "id": "lowmason/agent-skills",
+    "language": "Python",
+    "name": "lowmason/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:07:32Z",
+    "url": "https://github.com/lowmason/agent-skills"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:07:32Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 15,
+    "updated_at": "2026-10-28T01:06:38Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-28T01:05:46Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
     "description": "Gistory: A prompt keeper that trusts you with the keys. On-device, encrypted prompt history for AI workflows; sync trave",
     "id": "dhaupin/gistory",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "name": "dhaupin/gistory",
     "stars": 2,
-    "updated_at": "2026-10-28T01:00:16Z",
+    "updated_at": "2026-10-28T01:05:36Z",
     "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "Agent Skills, honed against real work: the method plus the gotchas, not the happy path.",
+    "id": "Plexito-de/honed-skills",
+    "language": "Python",
+    "name": "Plexito-de/honed-skills",
+    "stars": 3,
+    "updated_at": "2026-10-28T01:02:18Z",
+    "url": "https://github.com/Plexito-de/honed-skills"
+  },
+  {
+    "description": "Human-graded behavior evaluations: the grader, for any consumer.",
+    "id": "coilyco/housecast",
+    "language": "Python",
+    "name": "coilyco/housecast",
+    "stars": 1,
+    "updated_at": "2026-10-28T01:06:48Z",
+    "url": "https://github.com/coilyco/housecast"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco/agent-compose",
+    "language": "Go",
+    "name": "coilyco/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-10-28T01:00:48Z",
+    "url": "https://github.com/coilyco/agent-compose"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-28T01:01:22Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-28T01:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-28T01:05:21Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
     "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5",
@@ -49,18 +202,9 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 3292,
+    "stars": 3306,
     "updated_at": "2026-10-28T00:57:32Z",
     "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2409,
-    "updated_at": "2026-10-28T00:56:54Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -117,24 +261,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-28T00:46:17Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-28T00:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Scheduled Claude agent that reads newsletters, researches the web, and delivers a long-form PDF briefing",
     "id": "davidaxie/newsletter-digest-agent",
     "language": "Python",
@@ -187,24 +313,6 @@
     "stars": 16,
     "updated_at": "2026-10-28T00:42:30Z",
     "url": "https://github.com/fujc683/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Human-graded behavior evaluations: the grader, for any consumer.",
-    "id": "coilyco/housecast",
-    "language": "Python",
-    "name": "coilyco/housecast",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:41:42Z",
-    "url": "https://github.com/coilyco/housecast"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 15,
-    "updated_at": "2026-10-28T00:41:39Z",
-    "url": "https://github.com/doodersrage/castcut"
   },
   {
     "description": "252 curated HY Image 3.5 prompts with preview images, grouped by use case.",
@@ -311,7 +419,7 @@
     "language": "Shell",
     "name": "psyb0t/go-latitude-llm",
     "stars": 0,
-    "updated_at": "2026-10-28T00:33:21Z",
+    "updated_at": "2026-10-28T01:00:43Z",
     "url": "https://github.com/psyb0t/go-latitude-llm"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 16,
     "updated_at": "2026-10-28T00:32:22Z",
     "url": "https://github.com/lalipa2003-arch/JailbreakHub"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Shell",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 2,
-    "updated_at": "2026-10-28T00:34:35Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-plugins",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-plugins",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:33:36Z",
-    "url": "https://github.com/inbrace-tech/claude-plugins"
-  },
-  {
-    "description": "252 curated FLUX 2 prompts with preview images, grouped by use case.",
-    "id": "fujc683/awesome-flux-2-prompts",
-    "language": "\u2014",
-    "name": "fujc683/awesome-flux-2-prompts",
-    "stars": 17,
-    "updated_at": "2026-10-28T00:30:06Z",
-    "url": "https://github.com/fujc683/awesome-flux-2-prompts"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 281,
-    "updated_at": "2026-10-28T00:29:25Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "Context engineering for AI Agents. Manage your LLM's context window with caching, compaction, summarization, and gracefu",
-    "id": "terminus-labs-ai/sr2",
-    "language": "Python",
-    "name": "terminus-labs-ai/sr2",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:27:19Z",
-    "url": "https://github.com/terminus-labs-ai/sr2"
-  },
-  {
-    "description": "One-click prompt rewriting in the DSH composer \u2014 keep going for up to 5 rounds, diff every change, and jump back to any ",
-    "id": "Nihao7-L/dsh-prompt-chain",
-    "language": "JavaScript",
-    "name": "Nihao7-L/dsh-prompt-chain",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:27:11Z",
-    "url": "https://github.com/Nihao7-L/dsh-prompt-chain"
-  },
-  {
-    "description": "252 curated Nano Banana 2 prompts with preview images, grouped by use case.",
-    "id": "fujc683/awesome-nano-banana-2-prompts",
-    "language": "\u2014",
-    "name": "fujc683/awesome-nano-banana-2-prompts",
-    "stars": 15,
-    "updated_at": "2026-10-28T00:26:55Z",
-    "url": "https://github.com/fujc683/awesome-nano-banana-2-prompts"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2792,
-    "updated_at": "2026-10-28T00:26:39Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "JavaScript",
-    "name": "promptdriven/pdd",
-    "stars": 919,
-    "updated_at": "2026-10-28T01:00:26Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Model-conformance layer for Claude Code: detects instruction patterns superseded by Anthropic's current model guidance a",
-    "id": "Nyx000/claude-conformance",
-    "language": "Python",
-    "name": "Nyx000/claude-conformance",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:25:58Z",
-    "url": "https://github.com/Nyx000/claude-conformance"
-  },
-  {
-    "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u56fe\u5e93\uff1a\u7cbe\u9009 X \u4e0a\u7684\u771f\u5b9e\u4f5c\u54c1\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u652f\u6301\u641c\u7d22\u3001\u7b5b\u9009\u3001\u4e00\u952e\u590d\u5236\uff0c\u6570\u636e\u53ef\u4e0b\u8f7d\uff08JSON/CSV\uff09\u3002\u975e\u5b98\u65b9\u5f00\u6e90\u9879\u76ee\u3002",
-    "id": "Bin0754/gpt-image-gallery",
-    "language": "HTML",
-    "name": "Bin0754/gpt-image-gallery",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:24:56Z",
-    "url": "https://github.com/Bin0754/gpt-image-gallery"
-  },
-  {
-    "description": "Identity for AI agents: prompts that evolve from evidence-backed traits, with rollback. SQLite, zero deps, MCP server.",
-    "id": "GhostPawJS/souls",
-    "language": "TypeScript",
-    "name": "GhostPawJS/souls",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:23:43Z",
-    "url": "https://github.com/GhostPawJS/souls"
   }
 ]
