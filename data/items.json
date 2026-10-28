@@ -1,5 +1,68 @@
 [
   {
+    "description": "Curated collection of system prompts, agent personas, and prompt engineering workflows",
+    "id": "MurderGnome/LLM_Prompts",
+    "language": "Shell",
+    "name": "MurderGnome/LLM_Prompts",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:59:59Z",
+    "url": "https://github.com/MurderGnome/LLM_Prompts"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 55,
+    "updated_at": "2026-10-28T13:59:51Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 6,
+    "updated_at": "2026-10-28T13:59:40Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T13:59:42Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "\u79ef\u6728\u5f0f\u51fa\u56fe\u5de5\u4f5c\u7ad9\uff1a\u628a\u63d0\u793a\u8bcd\u62c6\u6210\u673a\u4f4d\u3001\u6253\u5149\u3001\u59ff\u52bf\u3001\u670d\u88c5\u3001\u573a\u666f\u3001\u9053\u5177\u7b49\u53ef\u590d\u7528\u79ef\u6728\uff0c\u62fc\u88c5\u3001\u8c03\u6743\u91cd\u3001\u7ed3\u6784\u68c0\u67e5\u540e\u7ecf ComfyUI HTTP API \u51fa\u56fe\uff0c\u5e76\u81ea\u52a8\u8bb0\u5f55\u6bcf\u5f20\u56fe\u7684\u914d\u65b9\uff08\u79ef\u6728\u3001\u79cd\u5b50\u3001\u6b65\u6570\u3001CFG\u3001LoRA\uff09\u3002\u4e0d\u7ed1\u5b9a\u89d2\u8272/\u753b\u98ce/\u6a21\u578b\uff0c\u4e0d\u6253\u5305 ",
+    "id": "baiyue23333/sunloom",
+    "language": "CSS",
+    "name": "baiyue23333/sunloom",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:59:08Z",
+    "url": "https://github.com/baiyue23333/sunloom"
+  },
+  {
+    "description": "Tune agent skills to your own model.",
+    "id": "hhuang91/tuningfork",
+    "language": "Python",
+    "name": "hhuang91/tuningfork",
+    "stars": 2,
+    "updated_at": "2026-10-28T13:58:53Z",
+    "url": "https://github.com/hhuang91/tuningfork"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-28T13:58:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T13:54:22Z",
     "url": "https://github.com/commonrig/commonrig-sample"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 6,
-    "updated_at": "2026-10-28T13:54:42Z",
-    "url": "https://github.com/shortcuts/radin"
   },
   {
     "description": "CRISPE Prompt Forge Transform raw ideas into professional CRISPE-framework prompts using AI (Gemma 4 26B via Gemini API)",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22987,
-    "updated_at": "2026-10-28T13:58:08Z",
+    "updated_at": "2026-10-28T14:00:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-28T13:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A Codex and Claude Code plugin with focused skills for turning requests into clear, actionable work: intent clarificatio",
     "id": "wheakerd/axiom",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T13:41:27Z",
     "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "Curated collection of system prompts, agent personas, and prompt engineering workflows",
-    "id": "MurderGnome/LLM_Prompts",
-    "language": "\u2014",
-    "name": "MurderGnome/LLM_Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-28T13:38:35Z",
-    "url": "https://github.com/MurderGnome/LLM_Prompts"
   },
   {
     "description": "Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, 3D scenes and motion graphics (Canvas, ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T13:25:49Z",
     "url": "https://github.com/luizabgk/geraprompt"
-  },
-  {
-    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
-    "id": "5dive-ai/skills",
-    "language": "Shell",
-    "name": "5dive-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-10-28T13:24:43Z",
-    "url": "https://github.com/5dive-ai/skills"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4712,
-    "updated_at": "2026-10-28T13:51:20Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "   Deterministic LLM prompt security & quality gate (prompt's ESLint): zero LLM cost, byte-level reproducible verdicts, ",
-    "id": "wqbcs/ai-prompt-toolkit",
-    "language": "Python",
-    "name": "wqbcs/ai-prompt-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-28T13:21:55Z",
-    "url": "https://github.com/wqbcs/ai-prompt-toolkit"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 212,
-    "updated_at": "2026-10-28T13:36:49Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
   }
 ]
