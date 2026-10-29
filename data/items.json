@@ -1,5 +1,311 @@
 [
   {
+    "description": "AI text-effect prompts with a {{TEXT}} placeholder, each tested on a general image model, with style names and descripti",
+    "id": "Funovate-Technology/awesome-text-effect-prompts",
+    "language": "Python",
+    "name": "Funovate-Technology/awesome-text-effect-prompts",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:59:56Z",
+    "url": "https://github.com/Funovate-Technology/awesome-text-effect-prompts"
+  },
+  {
+    "description": "Agent skill that removes AI-writing tells from Brazilian Portuguese, with real before/after examples and an eval set.",
+    "id": "eurafaeldecarvalho/humanizer-pt-br",
+    "language": "Python",
+    "name": "eurafaeldecarvalho/humanizer-pt-br",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:59:46Z",
+    "url": "https://github.com/eurafaeldecarvalho/humanizer-pt-br"
+  },
+  {
+    "description": "Foundational, battle-tested skills for AI coding agents: /rc (rule & skill crafting) and /rca (targeted root cause analy",
+    "id": "SpIvanM/golden-skills",
+    "language": "\u2014",
+    "name": "SpIvanM/golden-skills",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:58:09Z",
+    "url": "https://github.com/SpIvanM/golden-skills"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:58:36Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
+    "id": "AzamatSafarov/hermes-optimizer",
+    "language": "\u2014",
+    "name": "AzamatSafarov/hermes-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:57:58Z",
+    "url": "https://github.com/AzamatSafarov/hermes-optimizer"
+  },
+  {
+    "description": "Agent skills for filing, writing, reviewing, and handing off the work around code. Install one or take them all.",
+    "id": "kendrick/skills",
+    "language": "Shell",
+    "name": "kendrick/skills",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:57:24Z",
+    "url": "https://github.com/kendrick/skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:57:00Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "The professional, local-first Integrated Development Environment (IDE) for AI. Build dynamic templates, chain logic, att",
+    "id": "IvicaV/LeanPrompts",
+    "language": "JavaScript",
+    "name": "IvicaV/LeanPrompts",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:55:33Z",
+    "url": "https://github.com/IvicaV/LeanPrompts"
+  },
+  {
+    "description": "Opinionated agent skills and workflows for pair programming with coding assistants.",
+    "id": "kiskaadee/skills",
+    "language": "Shell",
+    "name": "kiskaadee/skills",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:55:18Z",
+    "url": "https://github.com/kiskaadee/skills"
+  },
+  {
+    "description": "Like CodeRabbit, but for AI behavior. Runs a simulation against your AI app and tells you what your change did.",
+    "id": "cortad/cortad",
+    "language": "JavaScript",
+    "name": "cortad/cortad",
+    "stars": 49,
+    "updated_at": "2026-10-29T18:57:36Z",
+    "url": "https://github.com/cortad/cortad"
+  },
+  {
+    "description": "Homebrew tap for LynxPrompt CLI",
+    "id": "GeiserX/homebrew-lynxprompt",
+    "language": "Shell",
+    "name": "GeiserX/homebrew-lynxprompt",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:54:25Z",
+    "url": "https://github.com/GeiserX/homebrew-lynxprompt"
+  },
+  {
+    "description": "Open-source, provider-agnostic AI agent skills, rules and workflows with security reviews, behavioral evaluations and ev",
+    "id": "Borstwerk/KI-Regeln",
+    "language": "Python",
+    "name": "Borstwerk/KI-Regeln",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:54:10Z",
+    "url": "https://github.com/Borstwerk/KI-Regeln"
+  },
+  {
+    "description": "Free IT courses with documented official outcomes: certificates, badges, diplomas, awards and benefits. Reusable learnin",
+    "id": "effexorxruser/open-it-learning",
+    "language": "Python",
+    "name": "effexorxruser/open-it-learning",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:53:33Z",
+    "url": "https://github.com/effexorxruser/open-it-learning"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:52:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 125,
+    "updated_at": "2026-10-29T18:52:37Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "LLM-driven evolution of prompts and pipelines. Evolves the prompt and the pipeline's parameters together against your la",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 8,
+    "updated_at": "2026-10-29T18:52:23Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
+    "id": "zahiruddin586-cpu/ai-web-forge",
+    "language": "HTML",
+    "name": "zahiruddin586-cpu/ai-web-forge",
+    "stars": 68,
+    "updated_at": "2026-10-29T18:51:48Z",
+    "url": "https://github.com/zahiruddin586-cpu/ai-web-forge"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 122,
+    "updated_at": "2026-10-29T18:51:34Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7326,
+    "updated_at": "2026-10-29T18:51:25Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12060,
+    "updated_at": "2026-10-29T18:58:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 226,
+    "updated_at": "2026-10-29T18:48:40Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "ComfyUI \u63d2\u4ef6\uff1aMOSS-Image \u4e2d\u6587\u63d0\u793a\u8bcd\u53ef\u89c6\u5316\u7f16\u8f91\uff08bbox \u753b\u5e03\uff09\u3001LLM \u4e2d\u2192\u82f1\u7ffb\u8bd1\u3001\u5b98\u65b9\u53e3\u5f84\u7f16\u8bd1\u3002\u9ed8\u8ba4\u652f\u6301 MiMo Token Plan \u4e0e DeepSeek API\uff1bAGENT.md \u8ffd\u52a0\u6ce8\u5165 + LLM \u914d\u7f6e\u9884\u8bbe\u3002",
+    "id": "rabbitANDtank/comfyui-moss-prompt-studio",
+    "language": "Python",
+    "name": "rabbitANDtank/comfyui-moss-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:48:36Z",
+    "url": "https://github.com/rabbitANDtank/comfyui-moss-prompt-studio"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 54,
+    "updated_at": "2026-10-29T18:56:58Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "Python",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 155,
+    "updated_at": "2026-10-29T18:46:46Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36715,
+    "updated_at": "2026-10-29T18:46:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Awesome list of viral videos made with Kling 4.0: cinematic shorts, ads, anime and music videos, each linked to the crea",
+    "id": "billyhetech/awesome-kling4-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-kling4-videos",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:45:41Z",
+    "url": "https://github.com/billyhetech/awesome-kling4-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), ea",
+    "id": "billyhetech/awesome-gpt6-astra-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gpt6-astra-videos",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:45:38Z",
+    "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 8118,
+    "updated_at": "2026-10-29T19:00:22Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, 3D scenes and motion graphics (Canvas, ",
+    "id": "billyhetech/awesome-gemini4-argon-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gemini4-argon-videos",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:45:35Z",
+    "url": "https://github.com/billyhetech/awesome-gemini4-argon-videos"
+  },
+  {
+    "description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers",
+    "id": "billyhetech/awesome-opus5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-opus5-5-videos",
+    "stars": 11,
+    "updated_at": "2026-10-29T18:45:33Z",
+    "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
+    "id": "billyhetech/awesome-fable5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-fable5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:45:30Z",
+    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T18:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:45:26Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
+  },
+  {
+    "description": "A RAG-powered document chatbot - upload your files and ask questions about them using AI. Built with FastAPI, pgvector, ",
+    "id": "EmmanuelM-A/askdocumind-api",
+    "language": "Python",
+    "name": "EmmanuelM-A/askdocumind-api",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:45:25Z",
+    "url": "https://github.com/EmmanuelM-A/askdocumind-api"
+  },
+  {
     "description": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarit",
     "id": "LastSearch-HQ/lastsearch",
     "language": "TypeScript",
@@ -23,7 +329,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 24,
-    "updated_at": "2026-10-29T18:42:17Z",
+    "updated_at": "2026-10-29T18:55:45Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -34,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T18:41:33Z",
     "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 8117,
-    "updated_at": "2026-10-29T18:43:43Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
@@ -63,24 +360,6 @@
     "url": "https://github.com/mughalhere/prompt-protection"
   },
   {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 54,
-    "updated_at": "2026-10-29T18:40:05Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7326,
-    "updated_at": "2026-10-29T18:39:01Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -88,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T18:38:35Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "A RAG-powered document chatbot - upload your files and ask questions about them using AI. Built with FastAPI, pgvector, ",
-    "id": "EmmanuelM-A/askdocumind-api",
-    "language": "Python",
-    "name": "EmmanuelM-A/askdocumind-api",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:45:25Z",
-    "url": "https://github.com/EmmanuelM-A/askdocumind-api"
   },
   {
     "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
@@ -124,87 +394,6 @@
     "stars": 4,
     "updated_at": "2026-10-29T18:34:04Z",
     "url": "https://github.com/dhaupin/gistory"
-  },
-  {
-    "description": "Awesome list of viral videos made with Kling 4.0: cinematic shorts, ads, anime and music videos, each linked to the crea",
-    "id": "billyhetech/awesome-kling4-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-kling4-videos",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:32:24Z",
-    "url": "https://github.com/billyhetech/awesome-kling4-videos"
-  },
-  {
-    "description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), ea",
-    "id": "billyhetech/awesome-gpt6-astra-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-gpt6-astra-videos",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:32:22Z",
-    "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos"
-  },
-  {
-    "description": "Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, 3D scenes and motion graphics (Canvas, ",
-    "id": "billyhetech/awesome-gemini4-argon-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-gemini4-argon-videos",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:32:20Z",
-    "url": "https://github.com/billyhetech/awesome-gemini4-argon-videos"
-  },
-  {
-    "description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers",
-    "id": "billyhetech/awesome-opus5-5-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-opus5-5-videos",
-    "stars": 11,
-    "updated_at": "2026-10-29T18:32:17Z",
-    "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
-  },
-  {
-    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
-    "id": "billyhetech/awesome-fable5-5-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-fable5-5-videos",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:32:15Z",
-    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
-  },
-  {
-    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
-    "id": "billyhetech/awesome-viral-ai-videos",
-    "language": "Python",
-    "name": "billyhetech/awesome-viral-ai-videos",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:32:13Z",
-    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
-  },
-  {
-    "description": "Foundational, battle-tested skills for AI coding agents: /rc (rule & skill crafting) and /rca (targeted root cause analy",
-    "id": "SpIvanM/golden-skills",
-    "language": "\u2014",
-    "name": "SpIvanM/golden-skills",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:31:22Z",
-    "url": "https://github.com/SpIvanM/golden-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T18:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 226,
-    "updated_at": "2026-10-29T18:32:52Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strateg",
@@ -259,194 +448,5 @@
     "stars": 191,
     "updated_at": "2026-10-29T18:29:39Z",
     "url": "https://github.com/habedi/cogitator"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:25:50Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
-    "description": "OMK helps people and agents build, maintain, and reuse valuable knowledge from real work and collaboration, with readabl",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-29T18:25:27Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Open-source, provider-agnostic AI agent skills, rules and workflows with security reviews, behavioral evaluations and ev",
-    "id": "Borstwerk/KI-Regeln",
-    "language": "Python",
-    "name": "Borstwerk/KI-Regeln",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:37:15Z",
-    "url": "https://github.com/Borstwerk/KI-Regeln"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:24:10Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Count tokens across AI models and get concrete, priced suggestions to cut your prompt costs. Runs offline.",
-    "id": "behrouzbk/tokensaver",
-    "language": "Python",
-    "name": "behrouzbk/tokensaver",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:22:57Z",
-    "url": "https://github.com/behrouzbk/tokensaver"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:44:14Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "A collection of Claude skills organized by how I think, decide, research and build.",
-    "id": "kju4q/q-claude-skills",
-    "language": "Python",
-    "name": "kju4q/q-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-10-29T18:22:23Z",
-    "url": "https://github.com/kju4q/q-claude-skills"
-  },
-  {
-    "description": "Stop reintroducing yourself to AI. An open protocol for portable user preferences and context across Claude, Cursor, Win",
-    "id": "brainsparker/you.md",
-    "language": "TypeScript",
-    "name": "brainsparker/you.md",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:20:41Z",
-    "url": "https://github.com/brainsparker/you.md"
-  },
-  {
-    "description": "Estudo pr\u00e1tico de engenharia de Prompt aplicada \u00e0 l\u00f3gica de programa\u00e7\u00e3o e ao refinamento de respostas geradas por IA.",
-    "id": "ErenDEV-ctrl/engenharia-de-prompt-aplicada",
-    "language": "Python",
-    "name": "ErenDEV-ctrl/engenharia-de-prompt-aplicada",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:20:06Z",
-    "url": "https://github.com/ErenDEV-ctrl/engenharia-de-prompt-aplicada"
-  },
-  {
-    "description": "Reusable AI image prompt patterns with real results, for any image generator.",
-    "id": "pixexid/image-prompt-patterns",
-    "language": "JavaScript",
-    "name": "pixexid/image-prompt-patterns",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:20:00Z",
-    "url": "https://github.com/pixexid/image-prompt-patterns"
-  },
-  {
-    "description": "AI text-effect prompts with a {{TEXT}} placeholder, each tested on a general image model, with style names and descripti",
-    "id": "Funovate-Technology/awesome-text-effect-prompts",
-    "language": "Python",
-    "name": "Funovate-Technology/awesome-text-effect-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:19:05Z",
-    "url": "https://github.com/Funovate-Technology/awesome-text-effect-prompts"
-  },
-  {
-    "description": "\u9762\u5411\u4ea7\u54c1\u3001\u7814\u53d1\u3001\u6d4b\u8bd5\u4e09\u8f68\u7684 AI \u5de5\u4f5c\u6d41\u89c4\u8303\uff1a\u58f0\u660e\u5f0f YAML\u3001\u591a Agent \u534f\u4f5c\u3001HITL \u786e\u8ba4\u95e8\u3001\u5185\u7f6e\u6280\u80fd\u4e0e\u6587\u6863\u6cbb\u7406\u3002",
-    "id": "zhipenghhuang/AIWorkflow",
-    "language": "Python",
-    "name": "zhipenghhuang/AIWorkflow",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:18:24Z",
-    "url": "https://github.com/zhipenghhuang/AIWorkflow"
-  },
-  {
-    "description": "Portable context for AI coding agents and agentic harnesses.",
-    "id": "crilsen/ai-agent-relay",
-    "language": "Shell",
-    "name": "crilsen/ai-agent-relay",
-    "stars": 5,
-    "updated_at": "2026-10-29T18:18:00Z",
-    "url": "https://github.com/crilsen/ai-agent-relay"
-  },
-  {
-    "description": "Context engineering for AI Agents. Manage your LLM's context window with caching, compaction, summarization, and gracefu",
-    "id": "terminus-labs-ai/sr2",
-    "language": "Python",
-    "name": "terminus-labs-ai/sr2",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:17:35Z",
-    "url": "https://github.com/terminus-labs-ai/sr2"
-  },
-  {
-    "description": "Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude.",
-    "id": "triton2030/agentic-research",
-    "language": "Python",
-    "name": "triton2030/agentic-research",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:17:34Z",
-    "url": "https://github.com/triton2030/agentic-research"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1892,
-    "updated_at": "2026-10-29T18:17:11Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Benchmarking AI agent skills, instructions & rules.",
-    "id": "MetaX5/DirectiveBench",
-    "language": "TypeScript",
-    "name": "MetaX5/DirectiveBench",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:31:06Z",
-    "url": "https://github.com/MetaX5/DirectiveBench"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2282,
-    "updated_at": "2026-10-29T18:16:35Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 55,
-    "updated_at": "2026-10-29T18:16:10Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "Python",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 155,
-    "updated_at": "2026-10-29T18:13:27Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
-    "description": "Prompts i genuinely would test and possibly use myself. it would get updated soon. im gonna test my first optimization p",
-    "id": "PurpleXPurple/Awesome-Prompts",
-    "language": "\u2014",
-    "name": "PurpleXPurple/Awesome-Prompts",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:12:45Z",
-    "url": "https://github.com/PurpleXPurple/Awesome-Prompts"
   }
 ]
