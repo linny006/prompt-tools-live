@@ -1,5 +1,203 @@
 [
   {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 14,
+    "updated_at": "2026-10-29T00:45:23Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7315,
+    "updated_at": "2026-10-29T00:45:11Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "A centralized repository for AI prompt engineering, featuring a curated collection of viral AI image prompts, ranked by ",
+    "id": "automate-it0/ai-prompt-engineering-hub",
+    "language": "Python",
+    "name": "automate-it0/ai-prompt-engineering-hub",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:45:02Z",
+    "url": "https://github.com/automate-it0/ai-prompt-engineering-hub"
+  },
+  {
+    "description": "252 curated Grok Imagine prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-grok-imagine-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-grok-imagine-prompts",
+    "stars": 16,
+    "updated_at": "2026-10-29T00:43:45Z",
+    "url": "https://github.com/fujc683/awesome-grok-imagine-prompts"
+  },
+  {
+    "description": "Gistory: A factory and keeper that trusts you with the keys. On-device, encrypted prompt history and mounts for AI workf",
+    "id": "dhaupin/gistory",
+    "language": "JavaScript",
+    "name": "dhaupin/gistory",
+    "stars": 4,
+    "updated_at": "2026-10-29T00:42:29Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "252 curated prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-gpt-image-2-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-gpt-image-2-prompts",
+    "stars": 16,
+    "updated_at": "2026-10-29T00:42:20Z",
+    "url": "https://github.com/fujc683/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "252 curated HY Image 3.5 prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-hy-image-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-hy-image-prompts",
+    "stars": 18,
+    "updated_at": "2026-10-29T00:41:58Z",
+    "url": "https://github.com/fujc683/awesome-hy-image-prompts"
+  },
+  {
+    "description": "252 curated FLUX 2 Max prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-flux-2-max-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-flux-2-max-prompts",
+    "stars": 18,
+    "updated_at": "2026-10-29T00:39:10Z",
+    "url": "https://github.com/fujc683/awesome-flux-2-max-prompts"
+  },
+  {
+    "description": "\u7e41\u4e2d\u5c0d\u8a71\u5f0f SD\uff0fSDXL \u63d0\u793a\u8a5e\u52a9\u7406\uff1aLLM \u5de5\u5177\u547c\u53eb\uff0b\u6539\u52d5\u524d\u5148\u8ddf\u4f7f\u7528\u8005\u78ba\u8a8d\u3001pgvector \u5206\u7dad\u5ea6 RAG\u3001\u5b9a\u7a3f\u5f8c\u751f\u5716\u4e26\u4f9d\u4f7f\u7528\u8005\u60f3\u6cd5\u8a55\u5206 | Conversational SD/SDXL prompt assistant: LLM f",
+    "id": "zhengjielin2018-web/GenAIPromptCopilot",
+    "language": "C#",
+    "name": "zhengjielin2018-web/GenAIPromptCopilot",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:39:04Z",
+    "url": "https://github.com/zhengjielin2018-web/GenAIPromptCopilot"
+  },
+  {
+    "description": "Evidence-backed Codex workflow audits with reviewed proposals, scoped changes, and safe rollback.",
+    "id": "HarryBurd33/codex-improve-system",
+    "language": "Python",
+    "name": "HarryBurd33/codex-improve-system",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:38:25Z",
+    "url": "https://github.com/HarryBurd33/codex-improve-system"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:37:56Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "252 curated MAI-Image 2.6 prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-mai-image-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-mai-image-prompts",
+    "stars": 18,
+    "updated_at": "2026-10-29T00:37:44Z",
+    "url": "https://github.com/fujc683/awesome-mai-image-prompts"
+  },
+  {
+    "description": "AI Engineering Atlas \u2014 The interactive map for understanding modern AI systems, architectures, and engineering patterns.",
+    "id": "jie955/AI-Engineering-Atlas",
+    "language": "TypeScript",
+    "name": "jie955/AI-Engineering-Atlas",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:37:40Z",
+    "url": "https://github.com/jie955/AI-Engineering-Atlas"
+  },
+  {
+    "description": "252 curated Seedream 5.0 prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-seedream-5-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-seedream-5-prompts",
+    "stars": 16,
+    "updated_at": "2026-10-29T00:36:28Z",
+    "url": "https://github.com/fujc683/awesome-seedream-5-prompts"
+  },
+  {
+    "description": "252 curated prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-nano-banana-pro-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-nano-banana-pro-prompts",
+    "stars": 14,
+    "updated_at": "2026-10-29T00:35:47Z",
+    "url": "https://github.com/fujc683/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "AI agents, commands, and configurations for multiple platforms (Claude Code, Cursor, GitHub Copilot)",
+    "id": "jesusroncal94/ai-agents",
+    "language": "Shell",
+    "name": "jesusroncal94/ai-agents",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:35:38Z",
+    "url": "https://github.com/jesusroncal94/ai-agents"
+  },
+  {
+    "description": "252 curated Z-Image Turbo prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-z-image-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-z-image-prompts",
+    "stars": 19,
+    "updated_at": "2026-10-29T00:35:18Z",
+    "url": "https://github.com/fujc683/awesome-z-image-prompts"
+  },
+  {
+    "description": "Open-source skills for designing and reviewing software with AI agents",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 4761,
+    "updated_at": "2026-10-29T00:34:01Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "252 curated FLUX 3 Image Klein prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-flux-3-klein-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-flux-3-klein-prompts",
+    "stars": 19,
+    "updated_at": "2026-10-29T00:33:25Z",
+    "url": "https://github.com/fujc683/awesome-flux-3-klein-prompts"
+  },
+  {
+    "description": "252 curated Qwen-Image 2.1 prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-qwen-image-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-qwen-image-prompts",
+    "stars": 14,
+    "updated_at": "2026-10-29T00:32:35Z",
+    "url": "https://github.com/fujc683/awesome-qwen-image-prompts"
+  },
+  {
+    "description": "\u7528\u6237\u534f\u4f5c\u5baa\u7ae0 v3.2 \u7684\u53ef\u6267\u884c\u5185\u6838\uff1a90 \u6761\u6761\u6b3e \u00b7 8 \u7ad9\u7ba1\u7ebf \u00b7 14 \u4e2a MCP \u5de5\u5177 \u00b7 \u77e5\u8bc6\u5e93\u4e0e\u6f5c\u7a7a\u95f4\u8bed\u4e49\u573a \u00b7 \u7b26\u53f7\u951a\u5b9a | Executable kernel of the User Collaboration Charte",
+    "id": "LucasDevKid9/collab-charter",
+    "language": "Python",
+    "name": "LucasDevKid9/collab-charter",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:30:57Z",
+    "url": "https://github.com/LucasDevKid9/collab-charter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T00:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "252 curated FLUX 2 prompts with preview images, grouped by use case.",
     "id": "fujc683/awesome-flux-2-prompts",
     "language": "\u2014",
@@ -14,7 +212,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 223,
-    "updated_at": "2026-10-29T00:29:50Z",
+    "updated_at": "2026-10-29T00:31:27Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -45,15 +243,6 @@
     "url": "https://github.com/ZeroLu/awesome-seedance"
   },
   {
-    "description": "\u7528\u6237\u534f\u4f5c\u5baa\u7ae0 v3.2 \u7684\u53ef\u6267\u884c\u5185\u6838\uff1a90 \u6761\u6761\u6b3e \u00b7 8 \u7ad9\u7ba1\u7ebf \u00b7 14 \u4e2a MCP \u5de5\u5177 \u00b7 \u77e5\u8bc6\u5e93\u4e0e\u6f5c\u7a7a\u95f4\u8bed\u4e49\u573a \u00b7 \u7b26\u53f7\u951a\u5b9a | Executable kernel of the User Collaboration Charte",
-    "id": "LucasDevKid9/collab-charter",
-    "language": "Python",
-    "name": "LucasDevKid9/collab-charter",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:25:54Z",
-    "url": "https://github.com/LucasDevKid9/collab-charter"
-  },
-  {
     "description": "JQ AI SYSTEMS profile: AI automation systems, reusable skills, public case studies, demos, and client-safe proof.",
     "id": "jqaisystems/jqaisystems",
     "language": "\u2014",
@@ -81,7 +270,7 @@
     "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
-    "description": "Sanitized public case studies for AI automation systems built to run JQ AI SYSTEMS studio operations and client-style wo",
+    "description": "Public breakdowns of brand-led websites, SEO checkpoints and AI systems by Jo\u00e3o Queir\u00f3s.",
     "id": "jqaisystems/jqai-internal-systems",
     "language": "\u2014",
     "name": "jqaisystems/jqai-internal-systems",
@@ -106,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:19:54Z",
     "url": "https://github.com/jlandaa/Certificados"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:19:33Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "OMK helps people and agents build, maintain, and reuse valuable knowledge from real work and collaboration, with readabl",
@@ -171,24 +351,6 @@
     "url": "https://github.com/ko9ma7/promptflow-studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T00:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 14,
-    "updated_at": "2026-10-29T00:15:29Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
     "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u56fe\u5e93\uff1a\u7cbe\u9009 X \u4e0a\u7684\u771f\u5b9e\u4f5c\u54c1\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u652f\u6301\u641c\u7d22\u3001\u7b5b\u9009\u3001\u4e00\u952e\u590d\u5236\uff0c\u6570\u636e\u53ef\u4e0b\u8f7d\uff08JSON/CSV\uff09\u3002\u975e\u5b98\u65b9\u5f00\u6e90\u9879\u76ee\u3002",
     "id": "Bin0754/gpt-image-gallery",
     "language": "HTML",
@@ -214,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T00:14:21Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "A centralized repository for AI prompt engineering, featuring a curated collection of viral AI image prompts, ranked by ",
-    "id": "automate-it0/ai-prompt-engineering-hub",
-    "language": "Python",
-    "name": "automate-it0/ai-prompt-engineering-hub",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:13:14Z",
-    "url": "https://github.com/automate-it0/ai-prompt-engineering-hub"
   },
   {
     "description": "An IT helpdesk AI agent with a guardrailed tool layer: 17 typed tools behind one chokepoint, human approval bound to the",
@@ -295,158 +448,5 @@
     "stars": 13703,
     "updated_at": "2026-10-29T00:06:13Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 3,
-    "updated_at": "2026-10-29T00:04:39Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "Awesome DeepSeek V4.1 Flash 1017: curated videos, prompts and examples made with DeepSeek V4.1 Flash 1017 (Three.js, Web",
-    "id": "sandbase-lab/awesome-deepseek-v4.1-flash",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-deepseek-v4.1-flash",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:04:15Z",
-    "url": "https://github.com/sandbase-lab/awesome-deepseek-v4.1-flash"
-  },
-  {
-    "description": "Awesome MiniMax M3.1 Flash: curated videos, prompts and examples made with MiniMax M3.1 Flash (Three.js, WebGL, SVG, gam",
-    "id": "sandbase-lab/awesome-minimax-m3-1-flash",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-minimax-m3-1-flash",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:03:47Z",
-    "url": "https://github.com/sandbase-lab/awesome-minimax-m3-1-flash"
-  },
-  {
-    "description": "Awesome Claude Opus 5.5: curated videos, prompts and examples made with Claude Opus 5.5 (Three.js, WebGL, SVG, games), p",
-    "id": "sandbase-lab/awesome-opus-5.5",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-opus-5.5",
-    "stars": 4,
-    "updated_at": "2026-10-29T00:03:34Z",
-    "url": "https://github.com/sandbase-lab/awesome-opus-5.5"
-  },
-  {
-    "description": "A lightweight RAG tutor that answers prompt engineering questions from course notes using local BM25 retrieval and free ",
-    "id": "himani-2-git/Prompt-Engineering-Tutor",
-    "language": "Python",
-    "name": "himani-2-git/Prompt-Engineering-Tutor",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:03:31Z",
-    "url": "https://github.com/himani-2-git/Prompt-Engineering-Tutor"
-  },
-  {
-    "description": "Awesome Gemini 4 Argon: curated videos, prompts and examples made with Google Gemini 4 Argon (Three.js, WebGL, SVG, game",
-    "id": "sandbase-lab/awesome-gemini4-argon",
-    "language": "Python",
-    "name": "sandbase-lab/awesome-gemini4-argon",
-    "stars": 5,
-    "updated_at": "2026-10-29T00:03:23Z",
-    "url": "https://github.com/sandbase-lab/awesome-gemini4-argon"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:03:10Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "A multi-model AI image prompt generator and prompt gallery for GPT Image, Nano Banana Pro, Seedream, Grok, Gemini, and r",
-    "id": "xianyu110/image-prompt-generator",
-    "language": "HTML",
-    "name": "xianyu110/image-prompt-generator",
-    "stars": 11,
-    "updated_at": "2026-10-29T00:02:45Z",
-    "url": "https://github.com/xianyu110/image-prompt-generator"
-  },
-  {
-    "description": "dsh \u7834\u7532 \u00b7 DSH \u7834\u7532\u63d2\u4ef6 \u00b7 DeepSeek Harness \u7834\u7532/\u8d8a\u72f1\uff08jalibreak\uff09\uff1a\u8bf7\u6c42\u8fb9\u754c\u6ce8\u5165 + 9 \u7ef4 AE-CoT \u8fdb\u5316 + \u9600\u95e8\uff0c\u653e\u884c\u9006\u5411/CTF/\u9776\u573a\u3001\u62e6\u4f4f\u672a\u6388\u6743\u6e17\u900f \u00b7 20 \u76ee\u6807\u4e25\u683c\u57fa\u7ebf 17/20 ",
-    "id": "xqpsec/dsh-jalibreak",
-    "language": "JavaScript",
-    "name": "xqpsec/dsh-jalibreak",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:01:35Z",
-    "url": "https://github.com/xqpsec/dsh-jalibreak"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 179185,
-    "updated_at": "2026-10-29T00:00:56Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-10-28T23:59:56Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:58:30Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes) + optional full Skyrim ",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 6,
-    "updated_at": "2026-10-28T23:58:17Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
-  },
-  {
-    "description": "A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.",
-    "id": "lalipa2003-arch/JailbreakHub",
-    "language": "Roff",
-    "name": "lalipa2003-arch/JailbreakHub",
-    "stars": 22,
-    "updated_at": "2026-10-28T23:58:00Z",
-    "url": "https://github.com/lalipa2003-arch/JailbreakHub"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 78157,
-    "updated_at": "2026-10-28T23:56:57Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "JavaScript",
-    "name": "promptdriven/pdd",
-    "stars": 924,
-    "updated_at": "2026-10-29T00:29:18Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "40 curated launch-video references with playable MP4s, previews, performance stats, and copyable AI remake prompts.",
-    "id": "serenakeyitan/awesome-ai-clonable-launch-videos",
-    "language": "Python",
-    "name": "serenakeyitan/awesome-ai-clonable-launch-videos",
-    "stars": 1,
-    "updated_at": "2026-10-28T23:56:31Z",
-    "url": "https://github.com/serenakeyitan/awesome-ai-clonable-launch-videos"
   }
 ]
