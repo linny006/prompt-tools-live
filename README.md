@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 17:45 UTC
+> ⏰ Last updated: 2026-10-29 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sublimecoder/sublimecoding](https://github.com/sublimecoder/sublimecoding) | 0 | — | 2026-10-29 | 🛠️ Free Claude Code & Cursor prompts for senior engineers — plus AIOS, an open-source markdown memory system for coding  |
-| 2 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 10191 | TypeScript | 2026-10-29 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
-| 3 | [AegeanWorks/Muse](https://github.com/AegeanWorks/Muse) | 1 | Python | 2026-10-29 | Prompt-driven AI music creation with an automated listener that scores how well each track fits its theme, available as  |
-| 4 | [Aswellle/2image](https://github.com/Aswellle/2image) | 3 | Python | 2026-10-29 | 本地 AI 图片创作工作台：统一接入多种免费、付费与商用 AI 生图服务，支持文生图、图生图、智能路由、Prompt 优化、批量变体与任务队列，让不同 AI 图像模型在一个桌面工具里协同创作。 |
-| 5 | [DSeaStar/awesome-kling](https://github.com/DSeaStar/awesome-kling) | 5 | Python | 2026-10-29 | The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources |
-| 6 | [Irsyadmr354/KESTREL](https://github.com/Irsyadmr354/KESTREL) | 49 | — | 2026-10-29 | Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider. |
-| 7 | [SIGILIPELLI/llm-dev-mastery-path](https://github.com/SIGILIPELLI/llm-dev-mastery-path) | 1 | — | 2026-10-29 | Free, module-wise training for building applications with LLMs — prompt engineering, LLM APIs, tool calling, agents, and |
-| 8 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 63 | TypeScript | 2026-10-29 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
-| 9 | [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) | 3407 | Python | 2026-10-29 | Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes f |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12059 | Python | 2026-10-29 | AI Observability & Evaluation |
-| 11 | [SIGILIPELLI/claude-training-mastery-path](https://github.com/SIGILIPELLI/claude-training-mastery-path) | 0 | — | 2026-10-29 | Free, structured training on using Claude AI effectively — prompting, workflows and responsible use, entry level to mast |
-| 12 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 926 | JavaScript | 2026-10-29 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
-| 13 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 26 | TypeScript | 2026-10-29 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
-| 14 | [kzndotsh/companion](https://github.com/kzndotsh/companion) | 2 | Python | 2026-10-29 | An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it. |
-| 15 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-29 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 16 | [3265807971-cloud/voice-design-prompt-guide](https://github.com/3265807971-cloud/voice-design-prompt-guide) | 1 | — | 2026-10-29 | 中文 ElevenLabs Voice Design 提示词教程：格式模板、中英词表、常见坑，以及换模型后声音变年轻/变高的六步排查 |
-| 17 | [bostonaholic/skills](https://github.com/bostonaholic/skills) | 2 | JavaScript | 2026-10-29 | The skills I use to build software with coding agents. |
-| 18 | [comet-ml/opik](https://github.com/comet-ml/opik) | 23022 | Python | 2026-10-29 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 19 | [semitexa/semitexa-platform-ui](https://github.com/semitexa/semitexa-platform-ui) | 3 | PHP | 2026-10-29 | Semitexa Platform UI — LLM-friendly CSS grammar, design tokens, primitive components, and AI-assisted skin generation (S |
-| 20 | [akshay-diwadkar/first-four-hours](https://github.com/akshay-diwadkar/first-four-hours) | 0 | Python | 2026-10-29 | Your coding agent swings the axe, says "done," and the tree is still standing. These skills sharpen the axe first. |
-| 21 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-10-29 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 22 | [triton2030/agentic-research](https://github.com/triton2030/agentic-research) | 0 | Python | 2026-10-29 | Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude. |
-| 23 | [AndyShaman/senior-fable](https://github.com/AndyShaman/senior-fable) | 28 | — | 2026-10-29 | Tech-lead orchestration for Claude Code — the top-tier model (Fable) keeps architecture & decisions, cheap subagents (So |
-| 24 | [RonkTsang/gemini-chat-extension](https://github.com/RonkTsang/gemini-chat-extension) | 21 | TypeScript | 2026-10-29 | Open-source browser extension for Google Gemini with themes, chat navigation, shortcuts, and prompt automation. |
-| 25 | [EAnge1o/tapedeck](https://github.com/EAnge1o/tapedeck) | 1 | Python | 2026-10-29 | Flight recorder for LLM agents: record once (REC), replay forever offline for free (PLAY), diff what drifted. Zero depen |
-| 26 | [kushal98457-ctrl/CRISPE-AI](https://github.com/kushal98457-ctrl/CRISPE-AI) | 1 | Python | 2026-10-29 | CRISPE Prompt Forge Transform raw ideas into professional CRISPE-framework prompts using AI (Gemma 4 26B via Gemini API) |
-| 27 | [CaptainFatih61/smart-context-packer](https://github.com/CaptainFatih61/smart-context-packer) | 1 | TypeScript | 2026-10-29 | 📦 Ultra-polyglot AI context packer & 15 MCP tools for LLM coding assistants (Cursor, Claude, Copilot, Codex). Zero Pytho |
-| 28 | [baz-scm/awesome-reviewers](https://github.com/baz-scm/awesome-reviewers) | 155 | Python | 2026-10-29 | Ready-to-use system prompts for Agentic Code Review. |
-| 29 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 30 | [shaunmarsden/evidence-labelled-meeting-notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) | 0 | Python | 2026-10-29 | Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, no cod |
-| 31 | [Cure-Consulting-Group/ProductEngineeringSkills](https://github.com/Cure-Consulting-Group/ProductEngineeringSkills) | 3 | Python | 2026-10-29 | 80+ production-grade engineering skills, prompts, and frameworks for Claude Code, Gemini, and Agentic workflows |
-| 32 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 70409 | Python | 2026-10-29 | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT- |
-| 33 | [CevenJKnowles/io-iii-runtime](https://github.com/CevenJKnowles/io-iii-runtime) | 2 | Python | 2026-10-29 | Deterministic LLM control-plane runtime. Governance-first architecture with bounded execution, hard audit limits, and an |
-| 34 | [Team-Auralis/ACI-Architecture-Framework](https://github.com/Team-Auralis/ACI-Architecture-Framework) | 1 | Python | 2026-10-29 | Tiered memory for long-horizon LLM agents. Bounds active context so tool output stops crowding out the goal. Stdlib-only |
-| 35 | [christopherlouet/claude-base](https://github.com/christopherlouet/claude-base) | 5 | Shell | 2026-10-29 | Opinionated Claude Code foundation — Explore → TDD → Audit workflow, auto-detected stack presets (nextjs, fastapi, astro |
-| 36 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | 7353 | Python | 2026-10-29 | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows |
-| 37 | [cpitzi/music-curator](https://github.com/cpitzi/music-curator) | 0 | Python | 2026-10-29 | Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo |
-| 38 | [ql-link/drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts) | 0 | — | 2026-10-29 | 求职提示词库：简历诊断、JD 匹配、STAR 改写、面试准备与复盘，不编造事实，复制即用 · Resume & interview prompts |
-| 39 | [f9xr/yoprompts](https://github.com/f9xr/yoprompts) | 0 | HTML | 2026-10-29 | Ready-made prompts crafted to help you write better, create faster, and get more from ChatGPT, Claude, Gemini, and your  |
-| 40 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 78244 | Python | 2026-10-29 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
-| 41 | [digline/digline](https://github.com/digline/digline) | 9 | Python | 2026-10-29 | Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor |
-| 42 | [Maneet7805/PromptForge](https://github.com/Maneet7805/PromptForge) | 3 | C# | 2026-10-29 | Windows tray app that rewrites rough prompts into clear ones on a hotkey |
-| 43 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-10-29 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
-| 44 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28587 | Python | 2026-10-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 45 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 0 | HTML | 2026-10-29 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
-| 46 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 1 | HTML | 2026-10-29 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
-| 47 | [AltairaLabs/PromptKit](https://github.com/AltairaLabs/PromptKit) | 11 | Go | 2026-10-29 | Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int |
-| 48 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 54 | Python | 2026-10-29 | Independent policy kernel for AI agents: judge before execute. F1–F13 floors, VAULT999 receipts. Not a model. Not a chat |
-| 49 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | 52 | TypeScript | 2026-10-29 | 本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows |
-| 50 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-10-29 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
+| 1 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-29 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 2 | [AegeanWorks/Muse](https://github.com/AegeanWorks/Muse) | 1 | Python | 2026-10-29 | Prompt-driven AI music creation with an automated listener that scores how well each track fits its theme, available as  |
+| 3 | [m4bwav/cinewright](https://github.com/m4bwav/cinewright) | 0 | Python | 2026-10-29 | Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot |
+| 4 | [ErenDEV-ctrl/engenharia-de-prompt-aplicada](https://github.com/ErenDEV-ctrl/engenharia-de-prompt-aplicada) | 0 | Python | 2026-10-29 | Estudo prático de engenharia de Prompt aplicada à lógica de programação e ao refinamento de respostas geradas por IA. |
+| 5 | [Sunil-M02/curiosity-engine](https://github.com/Sunil-M02/curiosity-engine) | 2 | TypeScript | 2026-10-29 | AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot. |
+| 6 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 972 | Swift | 2026-10-29 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 7 | [EAnge1o/tapedeck](https://github.com/EAnge1o/tapedeck) | 1 | Python | 2026-10-29 | Flight recorder for LLM agents: record once (REC), replay forever offline for free (PLAY), diff what drifted. Zero depen |
+| 8 | [VincentiusBryanKwandou/loomstack](https://github.com/VincentiusBryanKwandou/loomstack) | 0 | PLpgSQL | 2026-10-29 | A spec compiler that weaves 5,001,816 addressable spec lines into context packs an agent can actually build from. |
+| 9 | [marciob/prompt-refiner](https://github.com/marciob/prompt-refiner) | 0 | Shell | 2026-10-29 | Claude Code hook: type ++ and a rough prompt, get a refined one in your clipboard from a fresh headless Claude, before t |
+| 10 | [Irsyadmr354/KESTREL](https://github.com/Irsyadmr354/KESTREL) | 49 | — | 2026-10-29 | Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider. |
+| 11 | [MetaX5/DirectiveBench](https://github.com/MetaX5/DirectiveBench) | 0 | TypeScript | 2026-10-29 | Benchmarking AI agent skills, instructions & rules. |
+| 12 | [ricardowendell/agent-skills](https://github.com/ricardowendell/agent-skills) | 0 | JavaScript | 2026-10-29 | Agent skills for a product-thinking pipeline: capture ideas, groom specs, implement from prompts, audit docs — plus a pr |
+| 13 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 8115 | Python | 2026-10-29 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 14 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 17 | Shell | 2026-10-29 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
+| 15 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 23 | TypeScript | 2026-10-29 | OMK helps people and agents build, maintain, and reuse valuable knowledge from real work and collaboration, with readabl |
+| 16 | [kzndotsh/companion](https://github.com/kzndotsh/companion) | 2 | Python | 2026-10-29 | An AI companion that tries to be as human-like as we can make it, and the memory engine underneath it. |
+| 17 | [doodersrage/castcut](https://github.com/doodersrage/castcut) | 16 | TypeScript | 2026-10-29 | Local AI character filmmaking with ComfyUI — create consistent characters, scenes, images, and short films. |
+| 18 | [mry-ship/pmem-art](https://github.com/mry-ship/pmem-art) | 0 | Python | 2026-10-29 | 给画师用的美术记忆：没点名走总控，点名走 9 个斜杠技能。闭环合格线 ≥9.60。Cursor / Claude Code / Codex |
+| 19 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-10-29 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
+| 20 | [habedi/cogitator](https://github.com/habedi/cogitator) | 191 | Python | 2026-10-29 | A Python toolkit for chain-of-thought prompting 🐍 |
+| 21 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 11 | Python | 2026-10-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 22 | [sublimecoder/sublimecoding](https://github.com/sublimecoder/sublimecoding) | 0 | — | 2026-10-29 | 🛠️ Free Claude Code & Cursor prompts for senior engineers — plus AIOS, an open-source markdown memory system for coding  |
+| 23 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 10191 | TypeScript | 2026-10-29 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
+| 24 | [Aswellle/2image](https://github.com/Aswellle/2image) | 3 | Python | 2026-10-29 | 本地 AI 图片创作工作台：统一接入多种免费、付费与商用 AI 生图服务，支持文生图、图生图、智能路由、Prompt 优化、批量变体与任务队列，让不同 AI 图像模型在一个桌面工具里协同创作。 |
+| 25 | [DSeaStar/awesome-kling](https://github.com/DSeaStar/awesome-kling) | 5 | Python | 2026-10-29 | The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources |
+| 26 | [SIGILIPELLI/llm-dev-mastery-path](https://github.com/SIGILIPELLI/llm-dev-mastery-path) | 1 | — | 2026-10-29 | Free, module-wise training for building applications with LLMs — prompt engineering, LLM APIs, tool calling, agents, and |
+| 27 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 63 | TypeScript | 2026-10-29 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
+| 28 | [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) | 3407 | Python | 2026-10-29 | Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes f |
+| 29 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12059 | Python | 2026-10-29 | AI Observability & Evaluation |
+| 30 | [SIGILIPELLI/claude-training-mastery-path](https://github.com/SIGILIPELLI/claude-training-mastery-path) | 0 | — | 2026-10-29 | Free, structured training on using Claude AI effectively — prompting, workflows and responsible use, entry level to mast |
+| 31 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 926 | JavaScript | 2026-10-29 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
+| 32 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 26 | TypeScript | 2026-10-29 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
+| 33 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-29 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 34 | [3265807971-cloud/voice-design-prompt-guide](https://github.com/3265807971-cloud/voice-design-prompt-guide) | 1 | — | 2026-10-29 | 中文 ElevenLabs Voice Design 提示词教程：格式模板、中英词表、常见坑，以及换模型后声音变年轻/变高的六步排查 |
+| 35 | [bostonaholic/skills](https://github.com/bostonaholic/skills) | 2 | JavaScript | 2026-10-29 | The skills I use to build software with coding agents. |
+| 36 | [comet-ml/opik](https://github.com/comet-ml/opik) | 23022 | Python | 2026-10-29 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 37 | [semitexa/semitexa-platform-ui](https://github.com/semitexa/semitexa-platform-ui) | 3 | PHP | 2026-10-29 | Semitexa Platform UI — LLM-friendly CSS grammar, design tokens, primitive components, and AI-assisted skin generation (S |
+| 38 | [akshay-diwadkar/first-four-hours](https://github.com/akshay-diwadkar/first-four-hours) | 0 | Python | 2026-10-29 | Your coding agent swings the axe, says "done," and the tree is still standing. These skills sharpen the axe first. |
+| 39 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-10-29 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 40 | [triton2030/agentic-research](https://github.com/triton2030/agentic-research) | 0 | Python | 2026-10-29 | Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude. |
+| 41 | [AndyShaman/senior-fable](https://github.com/AndyShaman/senior-fable) | 28 | — | 2026-10-29 | Tech-lead orchestration for Claude Code — the top-tier model (Fable) keeps architecture & decisions, cheap subagents (So |
+| 42 | [RonkTsang/gemini-chat-extension](https://github.com/RonkTsang/gemini-chat-extension) | 21 | TypeScript | 2026-10-29 | Open-source browser extension for Google Gemini with themes, chat navigation, shortcuts, and prompt automation. |
+| 43 | [kushal98457-ctrl/CRISPE-AI](https://github.com/kushal98457-ctrl/CRISPE-AI) | 1 | Python | 2026-10-29 | CRISPE Prompt Forge Transform raw ideas into professional CRISPE-framework prompts using AI (Gemma 4 26B via Gemini API) |
+| 44 | [CaptainFatih61/smart-context-packer](https://github.com/CaptainFatih61/smart-context-packer) | 1 | TypeScript | 2026-10-29 | 📦 Ultra-polyglot AI context packer & 15 MCP tools for LLM coding assistants (Cursor, Claude, Copilot, Codex). Zero Pytho |
+| 45 | [baz-scm/awesome-reviewers](https://github.com/baz-scm/awesome-reviewers) | 155 | Python | 2026-10-29 | Ready-to-use system prompts for Agentic Code Review. |
+| 46 | [shaunmarsden/evidence-labelled-meeting-notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) | 0 | Python | 2026-10-29 | Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, no cod |
+| 47 | [Cure-Consulting-Group/ProductEngineeringSkills](https://github.com/Cure-Consulting-Group/ProductEngineeringSkills) | 3 | Python | 2026-10-29 | 80+ production-grade engineering skills, prompts, and frameworks for Claude Code, Gemini, and Agentic workflows |
+| 48 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 70411 | Python | 2026-10-29 | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT- |
+| 49 | [CevenJKnowles/io-iii-runtime](https://github.com/CevenJKnowles/io-iii-runtime) | 2 | Python | 2026-10-29 | Deterministic LLM control-plane runtime. Governance-first architecture with bounded execution, hard audit limits, and an |
+| 50 | [Team-Auralis/ACI-Architecture-Framework](https://github.com/Team-Auralis/ACI-Architecture-Framework) | 1 | Python | 2026-10-29 | Tiered memory for long-horizon LLM agents. Bounds active context so tool output stops crowding out the goal. Stdlib-only |
 <!-- TRACKER_TABLE_END -->
 
 ---
