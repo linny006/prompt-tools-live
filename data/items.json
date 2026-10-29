@@ -1,12 +1,93 @@
 [
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 78172,
-    "updated_at": "2026-10-29T04:45:17Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
+    "name": "Arize-ai/phoenix",
+    "stars": 12050,
+    "updated_at": "2026-10-29T04:59:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 3,
+    "updated_at": "2026-10-29T04:58:13Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
+    "id": "novanoticia/email-triage-plugin",
+    "language": "Python",
+    "name": "novanoticia/email-triage-plugin",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:59:11Z",
+    "url": "https://github.com/novanoticia/email-triage-plugin"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:59:24Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "\u6309\u95ee\u9898\u6210\u5957\u5b89\u88c5\u7684 Agent Skills\uff1a27 \u4e2a\u81ea\u7814 + 224 \u4e2a\u6536\u5f55\uff0c\u8ba9 AI \u8f93\u51fa 30 \u79d2\u80fd\u770b\u61c2",
+    "id": "yht-4403/jc-agent-skills",
+    "language": "JavaScript",
+    "name": "yht-4403/jc-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:55:11Z",
+    "url": "https://github.com/yht-4403/jc-agent-skills"
+  },
+  {
+    "description": "Art style encyclopedia + AI prompt decision platform: discover, compare, decide, compose. \u827a\u672f\u98ce\u683c\u63a2\u7d22\u4e0e AI \u521b\u4f5c\u51b3\u7b56\u5e73\u53f0",
+    "id": "Exist-DireRaven/museum-of-choices",
+    "language": "JavaScript",
+    "name": "Exist-DireRaven/museum-of-choices",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:54:19Z",
+    "url": "https://github.com/Exist-DireRaven/museum-of-choices"
+  },
+  {
+    "description": "Dual-profile prompt-as-mental-model harness for LLM agents \u2014 advisory generator profile in the working agent, blocking v",
+    "id": "Xxx91n/jiahao",
+    "language": "JavaScript",
+    "name": "Xxx91n/jiahao",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:54:01Z",
+    "url": "https://github.com/Xxx91n/jiahao"
+  },
+  {
+    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
+    "id": "SRCarlo/genai-course",
+    "language": "JavaScript",
+    "name": "SRCarlo/genai-course",
+    "stars": 5,
+    "updated_at": "2026-10-29T04:50:40Z",
+    "url": "https://github.com/SRCarlo/genai-course"
+  },
+  {
+    "description": "dsh-purge fork (upstream YuJunZhiXue/dsh-purge) \u2014 DeepSeek Harness \u7834\u7532 + \u7f51\u7edc\u5b89\u5168\u7ea2\u961f\u8bc4\u6d4b\u63d2\u4ef6\u3002\u57fa\u5ea7\u5df2\u8ddf\u8fdb\u4e0a\u6e38 1.1.82\uff08Apache-2.0\uff09\uff0c\u5e76\u4fdd\u7559 fork \u589e",
+    "id": "cxkctrl24-lgtm/dsh-purge-021",
+    "language": "JavaScript",
+    "name": "cxkctrl24-lgtm/dsh-purge-021",
+    "stars": 2,
+    "updated_at": "2026-10-29T04:49:01Z",
+    "url": "https://github.com/cxkctrl24-lgtm/dsh-purge-021"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 2186,
+    "updated_at": "2026-10-29T04:48:47Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
     "description": "\u591a\u667a\u80fd\u4f53 \u9700\u6c42\u2192\u7f16\u7801\u2192\u6d4b\u8bd5\u2192\u8bc4\u5ba1 \u5168\u94fe\u8def Pipeline | Multi-agent dev pipeline with Harness+Model dual-layer eval, failure attribution and RAG",
@@ -14,8 +95,62 @@
     "language": "Python",
     "name": "fangyunok/devagent-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-29T04:45:07Z",
+    "updated_at": "2026-10-29T04:47:29Z",
     "url": "https://github.com/fangyunok/devagent-pipeline"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-29T04:47:17Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI \uac00 \uc4f4 \ud2f0 \uc5c6\uc774, \ubb38\uc11c\ub9c8\ub2e4 \uc637\uc744 \uac08\uc544\uc785\ud788\ub294 \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \ud14c\ub9c8 \uc5d4\uc9c4",
+    "id": "dodokim-lab/docs-suit",
+    "language": "Python",
+    "name": "dodokim-lab/docs-suit",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:47:12Z",
+    "url": "https://github.com/dodokim-lab/docs-suit"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 8,
+    "updated_at": "2026-10-29T04:47:04Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 11,
+    "updated_at": "2026-10-29T04:46:20Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 78172,
+    "updated_at": "2026-10-29T04:52:09Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T04:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
@@ -32,7 +167,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28580,
-    "updated_at": "2026-10-29T04:43:56Z",
+    "updated_at": "2026-10-29T04:53:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -54,15 +189,6 @@
     "url": "https://github.com/NovusGFX/retro-design-system"
   },
   {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:40:52Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
     "description": "\u7ed9\u753b\u5e08\u7528\u7684\u7f8e\u672f\u8bb0\u5fc6\uff1a\u6ca1\u70b9\u540d\u8d70\u603b\u63a7\uff0c\u70b9\u540d\u8d70 9 \u4e2a\u659c\u6760\u6280\u80fd\u3002\u95ed\u73af\u5408\u683c\u7ebf \u22659.60\u3002Cursor / Claude Code / Codex",
     "id": "mry-ship/pmem-art",
     "language": "Python",
@@ -81,15 +207,6 @@
     "url": "https://github.com/arvion-technology/promptops"
   },
   {
-    "description": "AI \uac00 \uc4f4 \ud2f0 \uc5c6\uc774, \ubb38\uc11c\ub9c8\ub2e4 \uc637\uc744 \uac08\uc544\uc785\ud788\ub294 \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \ud14c\ub9c8 \uc5d4\uc9c4",
-    "id": "dodokim-lab/docs-suit",
-    "language": "Python",
-    "name": "dodokim-lab/docs-suit",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:40:44Z",
-    "url": "https://github.com/dodokim-lab/docs-suit"
-  },
-  {
     "description": "Curated master collection of developer tools, skills, prompts, and tricks. Updated daily.",
     "id": "hussain-alsaibai/dev-masterkit",
     "language": "Python",
@@ -97,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T04:32:52Z",
     "url": "https://github.com/hussain-alsaibai/dev-masterkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T04:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Agent / LLM \u5e94\u7528\u5de5\u7a0b\u5e08\u9762\u8bd5\u4e0e\u5b66\u4e60\u624b\u518c | Prompt\u2192Context\u2192Agent\u2192Harness + real JD teardown + 92 interview Q&As (CN)",
@@ -234,24 +342,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "dsh-purge fork (upstream YuJunZhiXue/dsh-purge) \u2014 DeepSeek Harness \u7834\u7532 + \u7f51\u7edc\u5b89\u5168\u7ea2\u961f\u8bc4\u6d4b\u63d2\u4ef6\u3002\u57fa\u5ea7\u5df2\u8ddf\u8fdb\u4e0a\u6e38 1.1.82\uff08Apache-2.0\uff09\uff0c\u5e76\u4fdd\u7559 fork \u589e",
-    "id": "cxkctrl24-lgtm/dsh-purge-021",
-    "language": "JavaScript",
-    "name": "cxkctrl24-lgtm/dsh-purge-021",
-    "stars": 2,
-    "updated_at": "2026-10-29T04:13:40Z",
-    "url": "https://github.com/cxkctrl24-lgtm/dsh-purge-021"
-  },
-  {
-    "description": "Art style encyclopedia + AI prompt decision platform: discover, compare, decide, compose. \u827a\u672f\u98ce\u683c\u63a2\u7d22\u4e0e AI \u521b\u4f5c\u51b3\u7b56\u5e73\u53f0",
-    "id": "Exist-DireRaven/museum-of-choices",
-    "language": "JavaScript",
-    "name": "Exist-DireRaven/museum-of-choices",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:33:30Z",
-    "url": "https://github.com/Exist-DireRaven/museum-of-choices"
-  },
-  {
     "description": "\u2702\ufe0f Long-text splitter for AI prompts, doc editing & social posts \u2014 three modes, batch ZIP export \uff5c \u957f\u6587\u672c\u5206\u5272\u5668\uff0c\u4e09\u79cd\u6a21\u5f0f\uff08\u5b57\u7b26\u6570/\u5206\u9694\u7b26/\u4e2d",
     "id": "rockbenben/text-splitter",
     "language": "TypeScript",
@@ -270,24 +360,6 @@
     "url": "https://github.com/kreftamarcio/kreftamarcio"
   },
   {
-    "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
-    "id": "novanoticia/email-triage-plugin",
-    "language": "Python",
-    "name": "novanoticia/email-triage-plugin",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:43:50Z",
-    "url": "https://github.com/novanoticia/email-triage-plugin"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12049,
-    "updated_at": "2026-10-29T04:44:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u7684 Prompt \u6536\u85cf\u684c\u9762\u5de5\u5177 \u00b7 Tauri 2 + React 19 + TypeScript \u00b7 Local-first prompt vault for Windows",
     "id": "zklmiao/prompt-vault",
     "language": "TypeScript",
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "wheakerd/axiom",
     "stars": 3,
-    "updated_at": "2026-10-29T04:08:09Z",
+    "updated_at": "2026-10-29T04:55:11Z",
     "url": "https://github.com/wheakerd/axiom"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T04:45:12Z",
+    "updated_at": "2026-10-29T04:46:02Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-29T04:09:33Z",
+    "updated_at": "2026-10-29T05:00:14Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 11,
-    "updated_at": "2026-10-29T04:01:12Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "\u53cc\u4f1a\u8bdd\u6267\u884c\uff1a\u4e3b\u4f1a\u8bdd\u89c4\u5212\u4e0e\u72ec\u7acb\u9a8c\u6536\uff0c\u6267\u884c\u4f1a\u8bdd\u5b9e\u73b0\u4e0e\u81ea\u6d4b\uff0c\u4e24\u4fa7\u6a21\u578b\u81ea\u7531\u5206\u5de5\u3002Agent skill for Codex / WorkBuddy. MIT.",
     "id": "ChangyuZeng/dual-session-exec",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T03:59:44Z",
     "url": "https://github.com/ChangyuZeng/dual-session-exec"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "Go",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-10-29T03:58:40Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
-    "id": "ZeroLu/awesome-seedance-2.5",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance-2.5",
-    "stars": 146,
-    "updated_at": "2026-10-29T03:58:09Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-10-29T03:57:02Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4997,
-    "updated_at": "2026-10-29T04:33:32Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI\u4fee\u6b63\u306e\u4e8b\u5b9f\u78ba\u8a8d\u3068\u63a1\u7528\u7248\u306e\u8a18\u9332\u306b\u4f7f\u3048\u308b\u3001\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u306e\u30aa\u30fc\u30d7\u30f3\u30b9\u30ad\u30eb\u3068\u5b9f\u4f8b",
-    "id": "snowkiss13/ja-writing-norms",
-    "language": "Python",
-    "name": "snowkiss13/ja-writing-norms",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:56:07Z",
-    "url": "https://github.com/snowkiss13/ja-writing-norms"
-  },
-  {
-    "description": "Regression tests for LLM prompts, built for local models. Think Playwright, but for evals.",
-    "id": "blashkar/evalwright",
-    "language": "Go",
-    "name": "blashkar/evalwright",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:55:14Z",
-    "url": "https://github.com/blashkar/evalwright"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:53:58Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
