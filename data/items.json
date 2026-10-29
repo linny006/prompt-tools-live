@@ -1,21 +1,111 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 78172,
+    "updated_at": "2026-10-29T04:45:17Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "\u591a\u667a\u80fd\u4f53 \u9700\u6c42\u2192\u7f16\u7801\u2192\u6d4b\u8bd5\u2192\u8bc4\u5ba1 \u5168\u94fe\u8def Pipeline | Multi-agent dev pipeline with Harness+Model dual-layer eval, failure attribution and RAG",
     "id": "fangyunok/devagent-pipeline",
     "language": "Python",
     "name": "fangyunok/devagent-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-29T04:30:05Z",
+    "updated_at": "2026-10-29T04:45:07Z",
     "url": "https://github.com/fangyunok/devagent-pipeline"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 3,
+    "updated_at": "2026-10-29T04:44:13Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 78171,
-    "updated_at": "2026-10-29T04:30:05Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
+    "name": "mlflow/mlflow",
+    "stars": 28580,
+    "updated_at": "2026-10-29T04:43:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-10-29T04:43:04Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "53 retro HTML/CSS UI themes for AI-assisted frontend development. Windows 95, CRT, vaporwave, DOS, arcade, mainframe, an",
+    "id": "NovusGFX/retro-design-system",
+    "language": "HTML",
+    "name": "NovusGFX/retro-design-system",
+    "stars": 47,
+    "updated_at": "2026-10-29T04:41:33Z",
+    "url": "https://github.com/NovusGFX/retro-design-system"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:40:52Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "\u7ed9\u753b\u5e08\u7528\u7684\u7f8e\u672f\u8bb0\u5fc6\uff1a\u6ca1\u70b9\u540d\u8d70\u603b\u63a7\uff0c\u70b9\u540d\u8d70 9 \u4e2a\u659c\u6760\u6280\u80fd\u3002\u95ed\u73af\u5408\u683c\u7ebf \u22659.60\u3002Cursor / Claude Code / Codex",
+    "id": "mry-ship/pmem-art",
+    "language": "Python",
+    "name": "mry-ship/pmem-art",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:36:08Z",
+    "url": "https://github.com/mry-ship/pmem-art"
+  },
+  {
+    "description": "Prompt registry with versioning, A/B comparison and regression evals. Keep prompts in git-friendly files, run suites in ",
+    "id": "arvion-technology/promptops",
+    "language": "JavaScript",
+    "name": "arvion-technology/promptops",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:35:45Z",
+    "url": "https://github.com/arvion-technology/promptops"
+  },
+  {
+    "description": "AI \uac00 \uc4f4 \ud2f0 \uc5c6\uc774, \ubb38\uc11c\ub9c8\ub2e4 \uc637\uc744 \uac08\uc544\uc785\ud788\ub294 \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \ud14c\ub9c8 \uc5d4\uc9c4",
+    "id": "dodokim-lab/docs-suit",
+    "language": "Python",
+    "name": "dodokim-lab/docs-suit",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:40:44Z",
+    "url": "https://github.com/dodokim-lab/docs-suit"
+  },
+  {
+    "description": "Curated master collection of developer tools, skills, prompts, and tricks. Updated daily.",
+    "id": "hussain-alsaibai/dev-masterkit",
+    "language": "Python",
+    "name": "hussain-alsaibai/dev-masterkit",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:32:52Z",
+    "url": "https://github.com/hussain-alsaibai/dev-masterkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T04:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Agent / LLM \u5e94\u7528\u5de5\u7a0b\u5e08\u9762\u8bd5\u4e0e\u5b66\u4e60\u624b\u518c | Prompt\u2192Context\u2192Agent\u2192Harness + real JD teardown + 92 interview Q&As (CN)",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T04:29:22Z",
     "url": "https://github.com/tectivirus/cheng-yi-jing-skill"
-  },
-  {
-    "description": "\u7ed9\u753b\u5e08\u7528\u7684\u7f8e\u672f\u8bb0\u5fc6\uff1a\u6ca1\u70b9\u540d\u8d70\u603b\u63a7\uff0c\u70b9\u540d\u8d70 9 \u4e2a\u659c\u6760\u6280\u80fd\u3002\u95ed\u73af\u5408\u683c\u7ebf \u22659.60\u3002Cursor / Claude Code / Codex",
-    "id": "mry-ship/pmem-art",
-    "language": "Python",
-    "name": "mry-ship/pmem-art",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:26:24Z",
-    "url": "https://github.com/mry-ship/pmem-art"
   },
   {
     "description": "Ultimate AI Starter Bundle: multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes, Antigravity) + optiona",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "hanzhangzzz/agent-skills-zh",
     "stars": 2,
-    "updated_at": "2026-10-29T04:19:21Z",
+    "updated_at": "2026-10-29T04:41:59Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/Albisourous/prefixer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T04:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -176,7 +248,7 @@
     "language": "JavaScript",
     "name": "Exist-DireRaven/museum-of-choices",
     "stars": 0,
-    "updated_at": "2026-10-29T04:13:11Z",
+    "updated_at": "2026-10-29T04:33:30Z",
     "url": "https://github.com/Exist-DireRaven/museum-of-choices"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "novanoticia/email-triage-plugin",
     "stars": 1,
-    "updated_at": "2026-10-29T04:12:51Z",
+    "updated_at": "2026-10-29T04:43:50Z",
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12049,
-    "updated_at": "2026-10-29T04:11:43Z",
+    "updated_at": "2026-10-29T04:44:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T04:18:28Z",
+    "updated_at": "2026-10-29T04:45:12Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-29T04:25:53Z",
+    "updated_at": "2026-10-29T04:33:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T03:53:58Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command insta",
-    "id": "coco-research/coco",
-    "language": "Python",
-    "name": "coco-research/coco",
-    "stars": 794,
-    "updated_at": "2026-10-29T04:00:10Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:52:33Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes f",
-    "id": "ai-boost/awesome-image-video-prompts",
-    "language": "Python",
-    "name": "ai-boost/awesome-image-video-prompts",
-    "stars": 3404,
-    "updated_at": "2026-10-29T03:50:55Z",
-    "url": "https://github.com/ai-boost/awesome-image-video-prompts"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "JavaScript",
-    "name": "promptdriven/pdd",
-    "stars": 925,
-    "updated_at": "2026-10-29T03:50:43Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-10-29T03:48:04Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50% QQ\u7fa4: 801193315",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 431,
-    "updated_at": "2026-10-29T03:47:57Z",
-    "url": "https://github.com/Wholiver/metis"
-  },
-  {
-    "description": "\u4ee3\u7801\u8bc4\u5ba1 Agent \u53cc\u5c42\u8bc4\u6d4b\u6846\u67b6\uff1a\u8bc4\u6d4b\u96c6\u7ba1\u7ebf + Harness/Model \u53cc\u5c42\u5bf9\u9f50\u6253\u5206 + \u5f02\u6b65\u5e76\u53d1 + \u53ef\u590d\u73b0 run + \u8d28\u91cf\u95e8\u7981\uff0c20 \u4e2a\u6d4b\u8bd5\u901a\u8fc7 | Industrial-grade eval harness for AI c",
-    "id": "fangyunok/code-review-eval-harness",
-    "language": "Python",
-    "name": "fangyunok/code-review-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:47:28Z",
-    "url": "https://github.com/fangyunok/code-review-eval-harness"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 122369,
-    "updated_at": "2026-10-29T03:46:37Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
   }
 ]
