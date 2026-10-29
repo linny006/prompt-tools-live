@@ -1,5 +1,194 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-29T05:29:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-29T05:28:55Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "\u6d77\u5927\u53d4 AI \u4f53\u7cfb\uff1a\u4e00\u4eba\u516c\u53f8\uff08OPC\uff09+ AI \u5185\u5bb9\u751f\u4ea7\u7ebf\u7684\u5b8c\u6574\u6253\u6cd5\uff5c\u56db\u5c42\u67b6\u6784 \u00b7 \u516d\u5927\u6280\u80fd\u4f53\u7cfb \u00b7 \u53ef\u843d\u5730\u7684\u786c\u89c4\u683c\u4e0e\u6d41\u6c34\u7ebf",
+    "id": "haidashu79-prog/haidashu-ai-system",
+    "language": "HTML",
+    "name": "haidashu79-prog/haidashu-ai-system",
+    "stars": 1,
+    "updated_at": "2026-10-29T05:28:48Z",
+    "url": "https://github.com/haidashu79-prog/haidashu-ai-system"
+  },
+  {
+    "description": "Step-by-step guided AI development workflows, architectural decision tracking, and native MCP server for Cursor, Claude,",
+    "id": "PicadoLabs/build-with-ai",
+    "language": "JavaScript",
+    "name": "PicadoLabs/build-with-ai",
+    "stars": 5,
+    "updated_at": "2026-10-29T05:27:52Z",
+    "url": "https://github.com/PicadoLabs/build-with-ai"
+  },
+  {
+    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 16,
+    "updated_at": "2026-10-29T05:28:01Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator ",
+    "id": "toranalytics/off-the-wall",
+    "language": "JavaScript",
+    "name": "toranalytics/off-the-wall",
+    "stars": 2,
+    "updated_at": "2026-10-29T05:25:48Z",
+    "url": "https://github.com/toranalytics/off-the-wall"
+  },
+  {
+    "description": "Build smarter. Work superior. An opinionated rule set for AI coding agents to create original interfaces, compelling con",
+    "id": "KodekaTeam/superior-skills",
+    "language": "PowerShell",
+    "name": "KodekaTeam/superior-skills",
+    "stars": 22,
+    "updated_at": "2026-10-29T05:25:39Z",
+    "url": "https://github.com/KodekaTeam/superior-skills"
+  },
+  {
+    "description": "ChatGPT\u30fbGemini\u30fbClaude\u3067\u904a\u3079\u308b\u3001AI\u304cGM\u306eTRPG\u30a8\u30f3\u30b8\u30f3\u3002\u30ad\u30e3\u30e9\u4f5c\u6210\u306a\u3057\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u8cbc\u308c\u3070\u59cb\u307e\u308b\u3002LLM\u304c\u9577\u3044\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u8a2d\u5b9a\u3092\u5fd8\u308c\u308b\u554f\u984c\u3092\u3001\u6307\u793a\u3067\u306f\u306a\u304f\u4ed5\u7d44\u307f\uff08YAML\u306e\u4e8b\u5b9f\u7ba1\u7406\u3068\u4fdd\u5b58\u524d\u306e\u691c\u67fb\uff09\u3067\u9632\u3050\u3002\u76ee\u6307\u3059\u306e\u306f",
+    "id": "Nicopolics/llm-trpg-engine",
+    "language": "Python",
+    "name": "Nicopolics/llm-trpg-engine",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:23:34Z",
+    "url": "https://github.com/Nicopolics/llm-trpg-engine"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 1095,
+    "updated_at": "2026-10-29T05:22:00Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-29T05:20:58Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "Focused workflow skills for Codex and Claude Code that turn requests into clear, actionable work.",
+    "id": "wheakerd/axiom",
+    "language": "Python",
+    "name": "wheakerd/axiom",
+    "stars": 3,
+    "updated_at": "2026-10-29T05:25:50Z",
+    "url": "https://github.com/wheakerd/axiom"
+  },
+  {
+    "description": "Ultimate AI Starter Bundle: multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes, Antigravity) + optiona",
+    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "language": "JavaScript",
+    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
+    "stars": 6,
+    "updated_at": "2026-10-29T05:30:10Z",
+    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
+  },
+  {
+    "description": "Structured summaries of the askFinz guides and fair comparisons with other AI tools, each linking to the full article on",
+    "id": "askFinz/askfinz-guides",
+    "language": "\u2014",
+    "name": "askFinz/askfinz-guides",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:19:54Z",
+    "url": "https://github.com/askFinz/askfinz-guides"
+  },
+  {
+    "description": "\u79ef\u6728\u5f0f\u51fa\u56fe\u5de5\u4f5c\u7ad9\uff1a\u628a\u63d0\u793a\u8bcd\u62c6\u6210\u673a\u4f4d\u3001\u6253\u5149\u3001\u59ff\u52bf\u3001\u670d\u88c5\u3001\u573a\u666f\u3001\u9053\u5177\u7b49\u53ef\u590d\u7528\u79ef\u6728\uff0c\u62fc\u88c5\u3001\u8c03\u6743\u91cd\u3001\u7ed3\u6784\u68c0\u67e5\u540e\u7ecf ComfyUI HTTP API \u51fa\u56fe\uff0c\u5e76\u81ea\u52a8\u8bb0\u5f55\u6bcf\u5f20\u56fe\u7684\u914d\u65b9\uff08\u79ef\u6728\u3001\u79cd\u5b50\u3001\u6b65\u6570\u3001CFG\u3001LoRA\uff09\u3002\u4e0d\u7ed1\u5b9a\u89d2\u8272/\u753b\u98ce/\u6a21\u578b\uff0c\u4e0d\u6253\u5305 ",
+    "id": "baiyue23333/sunloom",
+    "language": "JavaScript",
+    "name": "baiyue23333/sunloom",
+    "stars": 4,
+    "updated_at": "2026-10-29T05:19:41Z",
+    "url": "https://github.com/baiyue23333/sunloom"
+  },
+  {
+    "description": "AI \uac00 \uc4f4 \ud2f0 \uc5c6\uc774, \ubb38\uc11c\ub9c8\ub2e4 \uc637\uc744 \uac08\uc544\uc785\ud788\ub294 \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \ud14c\ub9c8 \uc5d4\uc9c4",
+    "id": "dodokim-lab/docs-suit",
+    "language": "Python",
+    "name": "dodokim-lab/docs-suit",
+    "stars": 1,
+    "updated_at": "2026-10-29T05:18:35Z",
+    "url": "https://github.com/dodokim-lab/docs-suit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 23004,
+    "updated_at": "2026-10-29T05:23:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The personal website and blog of minorcell \u2014 things I build, and what I learn along the way.",
+    "id": "minorcell/minorcell",
+    "language": "TypeScript",
+    "name": "minorcell/minorcell",
+    "stars": 12,
+    "updated_at": "2026-10-29T05:17:48Z",
+    "url": "https://github.com/minorcell/minorcell"
+  },
+  {
+    "description": "Self-hosted visual prompt notebook with encrypted AI and image-host settings",
+    "id": "shynloc/prompt-notebook",
+    "language": "TypeScript",
+    "name": "shynloc/prompt-notebook",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:17:37Z",
+    "url": "https://github.com/shynloc/prompt-notebook"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 115867,
+    "updated_at": "2026-10-29T05:16:07Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1892,
+    "updated_at": "2026-10-29T05:15:53Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T05:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Adaptive project discovery and specification engine to solidify ideas before writing code.",
     "id": "Eyokurt/project-from-scratch",
     "language": "\u2014",
@@ -45,24 +234,6 @@
     "url": "https://github.com/BerkaySevinc/agent-toolkit"
   },
   {
-    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 16,
-    "updated_at": "2026-10-29T05:15:22Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\u6d77\u5927\u53d4 AI \u4f53\u7cfb\uff1a\u4e00\u4eba\u516c\u53f8\uff08OPC\uff09+ AI \u5185\u5bb9\u751f\u4ea7\u7ebf\u7684\u5b8c\u6574\u6253\u6cd5\uff5c\u56db\u5c42\u67b6\u6784 \u00b7 \u516d\u5927\u6280\u80fd\u4f53\u7cfb \u00b7 \u53ef\u843d\u5730\u7684\u786c\u89c4\u683c\u4e0e\u6d41\u6c34\u7ebf",
-    "id": "haidashu79-prog/haidashu-ai-system",
-    "language": "HTML",
-    "name": "haidashu79-prog/haidashu-ai-system",
-    "stars": 1,
-    "updated_at": "2026-10-29T05:12:37Z",
-    "url": "https://github.com/haidashu79-prog/haidashu-ai-system"
-  },
-  {
     "description": "Evalu\u0103ri LLM ca teste de regresie \u00een CI: suite JSON, aser\u021biuni (inclusiv LLM-as-judge), casete record/replay determinist",
     "id": "cs1lyuha/llm-eval-gate",
     "language": "Python",
@@ -94,7 +265,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2280,
+    "stars": 2281,
     "updated_at": "2026-10-29T05:10:21Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -157,8 +328,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12050,
-    "updated_at": "2026-10-29T05:05:38Z",
+    "stars": 12052,
+    "updated_at": "2026-10-29T05:29:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -180,20 +351,11 @@
     "url": "https://github.com/YourZara/Same-Prompt-Experiment"
   },
   {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 115867,
-    "updated_at": "2026-10-29T05:11:23Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "description": "Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes f",
     "id": "ai-boost/awesome-image-video-prompts",
     "language": "Python",
     "name": "ai-boost/awesome-image-video-prompts",
-    "stars": 3404,
+    "stars": 3405,
     "updated_at": "2026-10-29T05:04:12Z",
     "url": "https://github.com/ai-boost/awesome-image-video-prompts"
   },
@@ -243,24 +405,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T05:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Focused workflow skills for Codex and Claude Code that turn requests into clear, actionable work.",
-    "id": "wheakerd/axiom",
-    "language": "Python",
-    "name": "wheakerd/axiom",
-    "stars": 3,
-    "updated_at": "2026-10-29T04:55:11Z",
-    "url": "https://github.com/wheakerd/axiom"
-  },
-  {
     "description": "\u6309\u95ee\u9898\u6210\u5957\u5b89\u88c5\u7684 Agent Skills\uff1a27 \u4e2a\u81ea\u7814 + 224 \u4e2a\u6536\u5f55\uff0c\u8ba9 AI \u8f93\u51fa 30 \u79d2\u80fd\u770b\u61c2",
     "id": "yht-4403/jc-agent-skills",
     "language": "JavaScript",
@@ -279,6 +423,15 @@
     "url": "https://github.com/Xxx91n/jiahao"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 78173,
+    "updated_at": "2026-10-29T04:52:09Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
     "id": "SRCarlo/genai-course",
     "language": "JavaScript",
@@ -295,158 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T04:49:01Z",
     "url": "https://github.com/cxkctrl24-lgtm/dsh-purge-021"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 2186,
-    "updated_at": "2026-10-29T04:48:47Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53 \u9700\u6c42\u2192\u7f16\u7801\u2192\u6d4b\u8bd5\u2192\u8bc4\u5ba1 \u5168\u94fe\u8def Pipeline | Multi-agent dev pipeline with Harness+Model dual-layer eval, failure attribution and RAG",
-    "id": "fangyunok/devagent-pipeline",
-    "language": "Python",
-    "name": "fangyunok/devagent-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:47:29Z",
-    "url": "https://github.com/fangyunok/devagent-pipeline"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-10-29T04:47:17Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI \uac00 \uc4f4 \ud2f0 \uc5c6\uc774, \ubb38\uc11c\ub9c8\ub2e4 \uc637\uc744 \uac08\uc544\uc785\ud788\ub294 \ud55c\uad6d\uc5b4 \uae00\uc4f0\uae30 \ud14c\ub9c8 \uc5d4\uc9c4",
-    "id": "dodokim-lab/docs-suit",
-    "language": "Python",
-    "name": "dodokim-lab/docs-suit",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:47:12Z",
-    "url": "https://github.com/dodokim-lab/docs-suit"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 8,
-    "updated_at": "2026-10-29T04:47:04Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 78172,
-    "updated_at": "2026-10-29T04:52:09Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 3,
-    "updated_at": "2026-10-29T04:44:13Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-10-29T04:43:04Z",
-    "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "53 retro HTML/CSS UI themes for AI-assisted frontend development. Windows 95, CRT, vaporwave, DOS, arcade, mainframe, an",
-    "id": "NovusGFX/retro-design-system",
-    "language": "HTML",
-    "name": "NovusGFX/retro-design-system",
-    "stars": 47,
-    "updated_at": "2026-10-29T04:41:33Z",
-    "url": "https://github.com/NovusGFX/retro-design-system"
-  },
-  {
-    "description": "\u7ed9\u753b\u5e08\u7528\u7684\u7f8e\u672f\u8bb0\u5fc6\uff1a\u6ca1\u70b9\u540d\u8d70\u603b\u63a7\uff0c\u70b9\u540d\u8d70 9 \u4e2a\u659c\u6760\u6280\u80fd\u3002\u95ed\u73af\u5408\u683c\u7ebf \u22659.60\u3002Cursor / Claude Code / Codex",
-    "id": "mry-ship/pmem-art",
-    "language": "Python",
-    "name": "mry-ship/pmem-art",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:36:08Z",
-    "url": "https://github.com/mry-ship/pmem-art"
-  },
-  {
-    "description": "Prompt registry with versioning, A/B comparison and regression evals. Keep prompts in git-friendly files, run suites in ",
-    "id": "arvion-technology/promptops",
-    "language": "JavaScript",
-    "name": "arvion-technology/promptops",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:35:45Z",
-    "url": "https://github.com/arvion-technology/promptops"
-  },
-  {
-    "description": "Curated master collection of developer tools, skills, prompts, and tricks. Updated daily.",
-    "id": "hussain-alsaibai/dev-masterkit",
-    "language": "Python",
-    "name": "hussain-alsaibai/dev-masterkit",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:32:52Z",
-    "url": "https://github.com/hussain-alsaibai/dev-masterkit"
-  },
-  {
-    "description": "AI Agent / LLM \u5e94\u7528\u5de5\u7a0b\u5e08\u9762\u8bd5\u4e0e\u5b66\u4e60\u624b\u518c | Prompt\u2192Context\u2192Agent\u2192Harness + real JD teardown + 92 interview Q&As (CN)",
-    "id": "harrisliangsu/ai-agent-engineer-handbook",
-    "language": "HTML",
-    "name": "harrisliangsu/ai-agent-engineer-handbook",
-    "stars": 71,
-    "updated_at": "2026-10-29T04:29:26Z",
-    "url": "https://github.com/harrisliangsu/ai-agent-engineer-handbook"
-  },
-  {
-    "description": "\u7a0b\u4e00\u955c \u00b7 MiniMax H3 Ref2VA \u77ed\u5267\u5de5\u4e1a\u5316\u6280\u80fd\uff1a\u628a\u5267\u672c\u843d\u6210\u53ef\u751f\u6210\u3001\u53ef\u526a\u8f91\u3001\u53ef\u8ffd\u8e2a\u7684\u5355\u955c\u4efb\u52a1",
-    "id": "tectivirus/cheng-yi-jing-skill",
-    "language": "Python",
-    "name": "tectivirus/cheng-yi-jing-skill",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:29:22Z",
-    "url": "https://github.com/tectivirus/cheng-yi-jing-skill"
-  },
-  {
-    "description": "Ultimate AI Starter Bundle: multi-provider skills/MCP/plugins (Claude, Codex, Grok, Kimi, Hermes, Antigravity) + optiona",
-    "id": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "language": "JavaScript",
-    "name": "SenjuWoo/Ultimate-AI-Starter-Bundle",
-    "stars": 6,
-    "updated_at": "2026-10-29T04:25:58Z",
-    "url": "https://github.com/SenjuWoo/Ultimate-AI-Starter-Bundle"
-  },
-  {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:24:24Z",
-    "url": "https://github.com/Dhi13man/skivolve"
-  },
-  {
-    "description": "Hassan Abbasi \u2014 AI Engineer building AI-powered products with excellent UX",
-    "id": "realhassanabbasi/realhassanabbasi",
-    "language": "\u2014",
-    "name": "realhassanabbasi/realhassanabbasi",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:21:35Z",
-    "url": "https://github.com/realhassanabbasi/realhassanabbasi"
   }
 ]
