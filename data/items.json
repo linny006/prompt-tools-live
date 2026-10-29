@@ -1,12 +1,12 @@
 [
   {
-    "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5",
-    "id": "EgoAlpha/prompt-in-context-learning",
-    "language": "Jupyter Notebook",
-    "name": "EgoAlpha/prompt-in-context-learning",
-    "stars": 2250,
-    "updated_at": "2026-10-29T01:00:04Z",
-    "url": "https://github.com/EgoAlpha/prompt-in-context-learning"
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:14:11Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
@@ -14,8 +14,152 @@
     "language": "Go",
     "name": "StephenQiu30/glowloom-server",
     "stars": 1,
-    "updated_at": "2026-10-29T00:59:35Z",
+    "updated_at": "2026-10-29T01:13:39Z",
     "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator ",
+    "id": "toranalytics/off-the-wall",
+    "language": "JavaScript",
+    "name": "toranalytics/off-the-wall",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:12:22Z",
+    "url": "https://github.com/toranalytics/off-the-wall"
+  },
+  {
+    "description": "dsh \u7834\u7532 \u00b7 DSH \u7834\u7532\u63d2\u4ef6 \u00b7 DeepSeek Harness \u7834\u7532/\u8d8a\u72f1\uff08jailbreak\uff09\u00b7 \u8bf7\u6c42\u8fb9\u754c\u6ce8\u5165 + \u4e5d\u7ef4 AE-CoT + \u4e24\u7ea7\u81ea\u52a8\u91cd\u8bd5\uff0c0 \u5904\u5bbf\u4e3b\u8865\u4e01 \u00b7 \u9600\u95e8\uff1a\u653e\u884c\u9006\u5411/\u7834\u89e3/\u6837\u672c\u5206\u6790/CTF/\u6388\u6743\u6e17\u900f \u00b7 ",
+    "id": "xqpsec/dsh-jailbreak",
+    "language": "JavaScript",
+    "name": "xqpsec/dsh-jailbreak",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:11:23Z",
+    "url": "https://github.com/xqpsec/dsh-jailbreak"
+  },
+  {
+    "description": "Claude Code skill & open-source wisdom companion (v6.5.4, Apache 2.0) for CLI, IDE, and web chat. One lens per turn, loc",
+    "id": "MetcalfSolutions/Satori",
+    "language": "Python",
+    "name": "MetcalfSolutions/Satori",
+    "stars": 114,
+    "updated_at": "2026-10-29T01:11:17Z",
+    "url": "https://github.com/MetcalfSolutions/Satori"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28577,
+    "updated_at": "2026-10-29T01:14:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:08:53Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Homebrew tap for LynxPrompt CLI",
+    "id": "GeiserX/homebrew-lynxprompt",
+    "language": "Shell",
+    "name": "GeiserX/homebrew-lynxprompt",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:08:43Z",
+    "url": "https://github.com/GeiserX/homebrew-lynxprompt"
+  },
+  {
+    "description": "AI custom instructions from approved entries: a profile and rules for Claude Code, Codex, Cursor, Gemini CLI and ChatGPT",
+    "id": "aunysillyme/agent-personalizer",
+    "language": "JavaScript",
+    "name": "aunysillyme/agent-personalizer",
+    "stars": 10,
+    "updated_at": "2026-10-29T01:10:54Z",
+    "url": "https://github.com/aunysillyme/agent-personalizer"
+  },
+  {
+    "description": "An Orca best practice built around Matt Pocock's engineering skills. His chain stays: grill-with-docs, to-spec, to-ticke",
+    "id": "whutlichao/orchestra-auto",
+    "language": "Python",
+    "name": "whutlichao/orchestra-auto",
+    "stars": 8,
+    "updated_at": "2026-10-29T01:06:54Z",
+    "url": "https://github.com/whutlichao/orchestra-auto"
+  },
+  {
+    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 16,
+    "updated_at": "2026-10-29T01:12:49Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:03:32Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 179214,
+    "updated_at": "2026-10-29T01:02:48Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26564,
+    "updated_at": "2026-10-29T01:02:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 19,
+    "updated_at": "2026-10-29T01:01:03Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-29T01:00:54Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T01:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5",
+    "id": "EgoAlpha/prompt-in-context-learning",
+    "language": "Jupyter Notebook",
+    "name": "EgoAlpha/prompt-in-context-learning",
+    "stars": 2250,
+    "updated_at": "2026-10-29T01:00:04Z",
+    "url": "https://github.com/EgoAlpha/prompt-in-context-learning"
   },
   {
     "description": "Pre-send checkup for prompts: a zero-token lint tells you which of output format, constraints, acceptance criteria and c",
@@ -34,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-29T00:58:17Z",
     "url": "https://github.com/dhaupin/gistory"
-  },
-  {
-    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
-    "id": "carpentry-liu/awesome-astra-3d",
-    "language": "TypeScript",
-    "name": "carpentry-liu/awesome-astra-3d",
-    "stars": 19,
-    "updated_at": "2026-10-29T00:57:28Z",
-    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -68,17 +203,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4998,
-    "updated_at": "2026-10-29T00:59:12Z",
+    "updated_at": "2026-10-29T01:10:56Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "dsh \u7834\u7532 \u00b7 DSH \u7834\u7532\u63d2\u4ef6 \u00b7 DeepSeek Harness \u7834\u7532/\u8d8a\u72f1\uff08jailbreak\uff09\u00b7 \u8bf7\u6c42\u8fb9\u754c\u6ce8\u5165 + \u4e5d\u7ef4 AE-CoT + \u4e24\u7ea7\u81ea\u52a8\u91cd\u8bd5\uff0c0 \u5904\u5bbf\u4e3b\u8865\u4e01 \u00b7 \u9600\u95e8\uff1a\u653e\u884c\u9006\u5411/\u7834\u89e3/\u6837\u672c\u5206\u6790/CTF/\u6388\u6743\u6e17\u900f \u00b7 ",
-    "id": "xqpsec/dsh-jailbreak",
-    "language": "JavaScript",
-    "name": "xqpsec/dsh-jailbreak",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:50:28Z",
-    "url": "https://github.com/xqpsec/dsh-jailbreak"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -97,15 +223,6 @@
     "stars": 17,
     "updated_at": "2026-10-29T00:45:42Z",
     "url": "https://github.com/fujc683/awesome-seedream-5-flash-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T00:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -180,15 +297,6 @@
     "url": "https://github.com/HarryBurd33/codex-improve-system"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:58:28Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
     "description": "252 curated MAI-Image 2.6 prompts with preview images, grouped by use case.",
     "id": "fujc683/awesome-mai-image-prompts",
     "language": "\u2014",
@@ -247,7 +355,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 4772,
+    "stars": 4783,
     "updated_at": "2026-10-29T00:34:01Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:22:54Z",
     "url": "https://github.com/jqaisystems/jqai-public-demos"
-  },
-  {
-    "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "Python",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 3,
-    "updated_at": "2026-10-29T00:22:35Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
-    "description": "Public breakdowns of brand-led websites, SEO checkpoints and AI systems by Jo\u00e3o Queir\u00f3s.",
-    "id": "jqaisystems/jqai-internal-systems",
-    "language": "\u2014",
-    "name": "jqaisystems/jqai-internal-systems",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:22:26Z",
-    "url": "https://github.com/jqaisystems/jqai-internal-systems"
-  },
-  {
-    "description": "Aplicativo PWA, Offline-First e 100% Descentralizado (P2P) para padroniza\u00e7\u00e3o e gest\u00e3o de dimens\u00f5es de ve\u00edculos terrestre",
-    "id": "RafaelFacanha/dimensoes-veiculos-p2p",
-    "language": "HTML",
-    "name": "RafaelFacanha/dimensoes-veiculos-p2p",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:20:06Z",
-    "url": "https://github.com/RafaelFacanha/dimensoes-veiculos-p2p"
-  },
-  {
-    "description": "Enterprise Data & AI portfolio. Official certifications validating core capabilities in Data Engineering, Data Governanc",
-    "id": "jlandaa/Certificados",
-    "language": "\u2014",
-    "name": "jlandaa/Certificados",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:19:54Z",
-    "url": "https://github.com/jlandaa/Certificados"
-  },
-  {
-    "description": "OMK helps people and agents build, maintain, and reuse valuable knowledge from real work and collaboration, with readabl",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "updated_at": "2026-10-29T00:19:28Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Universal Tampermonkey prompt-button panel for ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity, and other AI chat si",
-    "id": "vacterro/AI-Chat-Buttons",
-    "language": "JavaScript",
-    "name": "vacterro/AI-Chat-Buttons",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:17:59Z",
-    "url": "https://github.com/vacterro/AI-Chat-Buttons"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 16,
-    "updated_at": "2026-10-29T00:17:24Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26563,
-    "updated_at": "2026-10-29T00:17:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 54,
-    "updated_at": "2026-10-29T00:58:23Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Guide AI content creation with real-time prompts, page planning and iterative revisions.",
-    "id": "ko9ma7/promptflow-studio",
-    "language": "Batchfile",
-    "name": "ko9ma7/promptflow-studio",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:16:33Z",
-    "url": "https://github.com/ko9ma7/promptflow-studio"
-  },
-  {
-    "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u56fe\u5e93\uff1a\u7cbe\u9009 X \u4e0a\u7684\u771f\u5b9e\u4f5c\u54c1\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u652f\u6301\u641c\u7d22\u3001\u7b5b\u9009\u3001\u4e00\u952e\u590d\u5236\uff0c\u6570\u636e\u53ef\u4e0b\u8f7d\uff08JSON/CSV\uff09\u3002\u975e\u5b98\u65b9\u5f00\u6e90\u9879\u76ee\u3002",
-    "id": "Bin0754/gpt-image-gallery",
-    "language": "HTML",
-    "name": "Bin0754/gpt-image-gallery",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:14:41Z",
-    "url": "https://github.com/Bin0754/gpt-image-gallery"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:14:38Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
