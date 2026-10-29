@@ -1,12 +1,201 @@
 [
   {
+    "description": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarit",
+    "id": "LastSearch-HQ/lastsearch",
+    "language": "TypeScript",
+    "name": "LastSearch-HQ/lastsearch",
+    "stars": 20,
+    "updated_at": "2026-10-29T18:44:16Z",
+    "url": "https://github.com/LastSearch-HQ/lastsearch"
+  },
+  {
+    "description": "Official multilingual book library of Faramarz Kowsari \u2014 books on artificial intelligence, prompt engineering, trading, ",
+    "id": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "language": "HTML",
+    "name": "FaramarzKowsari/FaramarzKowsari.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:42:41Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari.github.io"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 24,
+    "updated_at": "2026-10-29T18:42:17Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:41:33Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 8117,
+    "updated_at": "2026-10-29T18:43:43Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
+    "id": "sara-star-quant/presence",
+    "language": "Python",
+    "name": "sara-star-quant/presence",
+    "stars": 8,
+    "updated_at": "2026-10-29T18:42:28Z",
+    "url": "https://github.com/sara-star-quant/presence"
+  },
+  {
+    "description": "Tool-call guard for JavaScript agents: tainted tool results never reach a network, email, exec, file or payment sink. Pi",
+    "id": "mughalhere/prompt-protection",
+    "language": "TypeScript",
+    "name": "mughalhere/prompt-protection",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:41:53Z",
+    "url": "https://github.com/mughalhere/prompt-protection"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 54,
+    "updated_at": "2026-10-29T18:40:05Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7326,
+    "updated_at": "2026-10-29T18:39:01Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:38:35Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
     "description": "A RAG-powered document chatbot - upload your files and ask questions about them using AI. Built with FastAPI, pgvector, ",
     "id": "EmmanuelM-A/askdocumind-api",
     "language": "Python",
     "name": "EmmanuelM-A/askdocumind-api",
     "stars": 1,
-    "updated_at": "2026-10-29T18:29:38Z",
+    "updated_at": "2026-10-29T18:45:25Z",
     "url": "https://github.com/EmmanuelM-A/askdocumind-api"
+  },
+  {
+    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
+    "id": "neomjs/neo-agent-skills",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-10-29T18:42:05Z",
+    "url": "https://github.com/neomjs/neo-agent-skills"
+  },
+  {
+    "description": "Prompt-driven AI music creation with an automated listener that scores how well each track fits its theme, available as ",
+    "id": "AegeanWorks/Muse",
+    "language": "Python",
+    "name": "AegeanWorks/Muse",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:34:45Z",
+    "url": "https://github.com/AegeanWorks/Muse"
+  },
+  {
+    "description": "Gistory: A factory and keeper that trusts you with the keys. On-device, encrypted prompt history and mounts for AI workf",
+    "id": "dhaupin/gistory",
+    "language": "JavaScript",
+    "name": "dhaupin/gistory",
+    "stars": 4,
+    "updated_at": "2026-10-29T18:34:04Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "Awesome list of viral videos made with Kling 4.0: cinematic shorts, ads, anime and music videos, each linked to the crea",
+    "id": "billyhetech/awesome-kling4-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-kling4-videos",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:32:24Z",
+    "url": "https://github.com/billyhetech/awesome-kling4-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with GPT-6 Astra: code-rendered animations and 3D scenes (Canvas, Three.js, WebGL), ea",
+    "id": "billyhetech/awesome-gpt6-astra-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gpt6-astra-videos",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:32:22Z",
+    "url": "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, 3D scenes and motion graphics (Canvas, ",
+    "id": "billyhetech/awesome-gemini4-argon-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-gemini4-argon-videos",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:32:20Z",
+    "url": "https://github.com/billyhetech/awesome-gemini4-argon-videos"
+  },
+  {
+    "description": "Awesome list of 2,000+ viral videos made with Claude Opus 5.5: code-rendered animations, 3D scenes, games and explainers",
+    "id": "billyhetech/awesome-opus5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-opus5-5-videos",
+    "stars": 11,
+    "updated_at": "2026-10-29T18:32:17Z",
+    "url": "https://github.com/billyhetech/awesome-opus5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral videos made with Fable 5.5: animations, games and 3D scenes rendered entirely from code (HTML, Can",
+    "id": "billyhetech/awesome-fable5-5-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-fable5-5-videos",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:32:15Z",
+    "url": "https://github.com/billyhetech/awesome-fable5-5-videos"
+  },
+  {
+    "description": "Awesome list of viral AI videos made with Claude Opus 5.5, Fable 5.5, Gemini 4 Argon and GPT-6 Astra: 2,500+ code-render",
+    "id": "billyhetech/awesome-viral-ai-videos",
+    "language": "Python",
+    "name": "billyhetech/awesome-viral-ai-videos",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:32:13Z",
+    "url": "https://github.com/billyhetech/awesome-viral-ai-videos"
+  },
+  {
+    "description": "Foundational, battle-tested skills for AI coding agents: /rc (rule & skill crafting) and /rca (targeted root cause analy",
+    "id": "SpIvanM/golden-skills",
+    "language": "\u2014",
+    "name": "SpIvanM/golden-skills",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:31:22Z",
+    "url": "https://github.com/SpIvanM/golden-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T18:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
@@ -14,7 +203,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 226,
-    "updated_at": "2026-10-29T18:29:04Z",
+    "updated_at": "2026-10-29T18:32:52Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -25,15 +214,6 @@
     "stars": 7916,
     "updated_at": "2026-10-29T18:28:44Z",
     "url": "https://github.com/NirDiamant/Prompt_Engineering"
-  },
-  {
-    "description": "Prompt-driven AI music creation with an automated listener that scores how well each track fits its theme, available as ",
-    "id": "AegeanWorks/Muse",
-    "language": "Python",
-    "name": "AegeanWorks/Muse",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:28:16Z",
-    "url": "https://github.com/AegeanWorks/Muse"
   },
   {
     "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
@@ -52,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T18:27:54Z",
     "url": "https://github.com/kzndotsh/companion"
-  },
-  {
-    "description": "Gistory: A factory and keeper that trusts you with the keys. On-device, encrypted prompt history and mounts for AI workf",
-    "id": "dhaupin/gistory",
-    "language": "JavaScript",
-    "name": "dhaupin/gistory",
-    "stars": 4,
-    "updated_at": "2026-10-29T18:27:40Z",
-    "url": "https://github.com/dhaupin/gistory"
   },
   {
     "description": ".cursorrules \u2014 independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev",
@@ -113,7 +284,7 @@
     "language": "Python",
     "name": "Borstwerk/KI-Regeln",
     "stars": 2,
-    "updated_at": "2026-10-29T18:25:09Z",
+    "updated_at": "2026-10-29T18:37:15Z",
     "url": "https://github.com/Borstwerk/KI-Regeln"
   },
   {
@@ -140,7 +311,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T18:22:42Z",
+    "updated_at": "2026-10-29T18:44:14Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -151,15 +322,6 @@
     "stars": 21,
     "updated_at": "2026-10-29T18:22:23Z",
     "url": "https://github.com/kju4q/q-claude-skills"
-  },
-  {
-    "description": "Claude Code plugin with four stages and hooks that refuse risky commands.",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:21:58Z",
-    "url": "https://github.com/blauwtje/exo"
   },
   {
     "description": "Stop reintroducing yourself to AI. An open protocol for portable user preferences and context across Claude, Cursor, Win",
@@ -248,7 +410,7 @@
     "language": "TypeScript",
     "name": "MetaX5/DirectiveBench",
     "stars": 0,
-    "updated_at": "2026-10-29T18:30:08Z",
+    "updated_at": "2026-10-29T18:31:06Z",
     "url": "https://github.com/MetaX5/DirectiveBench"
   },
   {
@@ -270,15 +432,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T18:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ready-to-use system prompts for Agentic Code Review.",
     "id": "baz-scm/awesome-reviewers",
     "language": "Python",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T18:12:45Z",
     "url": "https://github.com/PurpleXPurple/Awesome-Prompts"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12060,
-    "updated_at": "2026-10-29T18:12:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Keeps project direction recoverable without turning planning into the project.",
-    "id": "benjaminstelzer/scoville-plan",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-plan",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:12:08Z",
-    "url": "https://github.com/benjaminstelzer/scoville-plan"
-  },
-  {
-    "description": "Keeps the engineering result visible through the process around it.",
-    "id": "benjaminstelzer/scoville-code",
-    "language": "Python",
-    "name": "benjaminstelzer/scoville-code",
-    "stars": 8,
-    "updated_at": "2026-10-29T18:12:05Z",
-    "url": "https://github.com/benjaminstelzer/scoville-code"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36716,
-    "updated_at": "2026-10-29T18:26:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The layer between your idea and your build.",
-    "id": "AtharvaK-XD/Bedrock",
-    "language": "TypeScript",
-    "name": "AtharvaK-XD/Bedrock",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:10:55Z",
-    "url": "https://github.com/AtharvaK-XD/Bedrock"
-  },
-  {
-    "description": "LLM detector for ad segments + eval harness against ~12.5k human labels. Go.",
-    "id": "bayanovea/native-ad-skip-eval",
-    "language": "Go",
-    "name": "bayanovea/native-ad-skip-eval",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:10:50Z",
-    "url": "https://github.com/bayanovea/native-ad-skip-eval"
-  },
-  {
-    "description": "The skills I use to build software with coding agents.",
-    "id": "bostonaholic/skills",
-    "language": "JavaScript",
-    "name": "bostonaholic/skills",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:27:40Z",
-    "url": "https://github.com/bostonaholic/skills"
-  },
-  {
-    "description": "Detect and rebut rationalization patterns in AI agent output",
-    "id": "hivecommons/rationguard",
-    "language": "TypeScript",
-    "name": "hivecommons/rationguard",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:07:12Z",
-    "url": "https://github.com/hivecommons/rationguard"
-  },
-  {
-    "description": "\u7ed9\u753b\u5e08\u7528\u7684\u7f8e\u672f\u8bb0\u5fc6\uff1a\u6ca1\u70b9\u540d\u8d70\u603b\u63a7\uff0c\u70b9\u540d\u8d70 9 \u4e2a\u659c\u6760\u6280\u80fd\u3002\u95ed\u73af\u5408\u683c\u7ebf \u22659.60\u3002Cursor / Claude Code / Codex",
-    "id": "mry-ship/pmem-art",
-    "language": "Python",
-    "name": "mry-ship/pmem-art",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:06:48Z",
-    "url": "https://github.com/mry-ship/pmem-art"
-  },
-  {
-    "description": "The Bible of AI \u2014 iLang Prompt Spec through the lens of Scripture. GENE is the Ten Commandments. SOUL is the soul. Daily",
-    "id": "carbonsoul/iLang-Gospel",
-    "language": "Python",
-    "name": "carbonsoul/iLang-Gospel",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:06:25Z",
-    "url": "https://github.com/carbonsoul/iLang-Gospel"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Rust",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:04:19Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Oversized bootstrap files silently truncate. Audit and trim OpenClaw bootstrap surfaces before sessions start broken.",
-    "id": "escoffier-labs/bootstrap-doctor",
-    "language": "Python",
-    "name": "escoffier-labs/bootstrap-doctor",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:04:08Z",
-    "url": "https://github.com/escoffier-labs/bootstrap-doctor"
-  },
-  {
-    "description": "German B1 writing tutor built entirely by directing a coding agent. Spec-driven, self-verifying, zero hand-written code",
-    "id": "ampaduchris/german-b1-tutor",
-    "language": "Python",
-    "name": "ampaduchris/german-b1-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-29T18:03:48Z",
-    "url": "https://github.com/ampaduchris/german-b1-tutor"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:00:33Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
-    "id": "m4bwav/cinewright",
-    "language": "Python",
-    "name": "m4bwav/cinewright",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:55:31Z",
-    "url": "https://github.com/m4bwav/cinewright"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-10-29T17:54:20Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 973,
-    "updated_at": "2026-10-29T17:53:50Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   }
 ]
