@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 14,
-    "updated_at": "2026-10-29T00:45:23Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
+    "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5",
+    "id": "EgoAlpha/prompt-in-context-learning",
+    "language": "Jupyter Notebook",
+    "name": "EgoAlpha/prompt-in-context-learning",
+    "stars": 2250,
+    "updated_at": "2026-10-29T01:00:04Z",
+    "url": "https://github.com/EgoAlpha/prompt-in-context-learning"
+  },
+  {
+    "description": "\u7ec7\u5149 Glowloom \u7684\u670d\u52a1\u4ed3\u5e93\uff1aAI \u753b\u5e03\u3001\u751f\u6210\u3001\u4e3b\u4f53\u4e0e\u7d20\u6750\u7ba1\u7406\uff0c\u5305\u542b Go \u540e\u7aef\u548c Next.js \u524d\u7aef\u3002",
+    "id": "StephenQiu30/glowloom-server",
+    "language": "Go",
+    "name": "StephenQiu30/glowloom-server",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:59:35Z",
+    "url": "https://github.com/StephenQiu30/glowloom-server"
+  },
+  {
+    "description": "Pre-send checkup for prompts: a zero-token lint tells you which of output format, constraints, acceptance criteria and c",
+    "id": "MeloFang/dsh-prompt-sharpen",
+    "language": "JavaScript",
+    "name": "MeloFang/dsh-prompt-sharpen",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:58:33Z",
+    "url": "https://github.com/MeloFang/dsh-prompt-sharpen"
+  },
+  {
+    "description": "Gistory: A factory and keeper that trusts you with the keys. On-device, encrypted prompt history and mounts for AI workf",
+    "id": "dhaupin/gistory",
+    "language": "JavaScript",
+    "name": "dhaupin/gistory",
+    "stars": 4,
+    "updated_at": "2026-10-29T00:58:17Z",
+    "url": "https://github.com/dhaupin/gistory"
+  },
+  {
+    "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. \u4e2d\u82f1\u6587\u6848\u4f8b\u5e93",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 19,
+    "updated_at": "2026-10-29T00:57:28Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -14,8 +50,71 @@
     "language": "Python",
     "name": "kyegomez/swarms",
     "stars": 7315,
-    "updated_at": "2026-10-29T00:45:11Z",
+    "updated_at": "2026-10-29T00:56:19Z",
     "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Make pictures and videos on your own computer by saying what you want. Twelve cinematic models, the same person across s",
+    "id": "VincentAZ/prompt-maker",
+    "language": "JavaScript",
+    "name": "VincentAZ/prompt-maker",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:55:39Z",
+    "url": "https://github.com/VincentAZ/prompt-maker"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4998,
+    "updated_at": "2026-10-29T00:59:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "dsh \u7834\u7532 \u00b7 DSH \u7834\u7532\u63d2\u4ef6 \u00b7 DeepSeek Harness \u7834\u7532/\u8d8a\u72f1\uff08jailbreak\uff09\u00b7 \u8bf7\u6c42\u8fb9\u754c\u6ce8\u5165 + \u4e5d\u7ef4 AE-CoT + \u4e24\u7ea7\u81ea\u52a8\u91cd\u8bd5\uff0c0 \u5904\u5bbf\u4e3b\u8865\u4e01 \u00b7 \u9600\u95e8\uff1a\u653e\u884c\u9006\u5411/\u7834\u89e3/\u6837\u672c\u5206\u6790/CTF/\u6388\u6743\u6e17\u900f \u00b7 ",
+    "id": "xqpsec/dsh-jailbreak",
+    "language": "JavaScript",
+    "name": "xqpsec/dsh-jailbreak",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:50:28Z",
+    "url": "https://github.com/xqpsec/dsh-jailbreak"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:45:50Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "252 curated Seedream 5.0 Flash prompts with preview images, grouped by use case.",
+    "id": "fujc683/awesome-seedream-5-flash-prompts",
+    "language": "\u2014",
+    "name": "fujc683/awesome-seedream-5-flash-prompts",
+    "stars": 17,
+    "updated_at": "2026-10-29T00:45:42Z",
+    "url": "https://github.com/fujc683/awesome-seedream-5-flash-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 11,
+    "updated_at": "2026-10-29T00:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 14,
+    "updated_at": "2026-10-29T00:45:23Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "A centralized repository for AI prompt engineering, featuring a curated collection of viral AI image prompts, ranked by ",
@@ -34,15 +133,6 @@
     "stars": 16,
     "updated_at": "2026-10-29T00:43:45Z",
     "url": "https://github.com/fujc683/awesome-grok-imagine-prompts"
-  },
-  {
-    "description": "Gistory: A factory and keeper that trusts you with the keys. On-device, encrypted prompt history and mounts for AI workf",
-    "id": "dhaupin/gistory",
-    "language": "JavaScript",
-    "name": "dhaupin/gistory",
-    "stars": 4,
-    "updated_at": "2026-10-29T00:42:29Z",
-    "url": "https://github.com/dhaupin/gistory"
   },
   {
     "description": "252 curated prompts with preview images, grouped by use case.",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-10-29T00:37:56Z",
+    "updated_at": "2026-10-29T00:58:28Z",
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
@@ -157,7 +247,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 4761,
+    "stars": 4772,
     "updated_at": "2026-10-29T00:34:01Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -187,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T00:30:57Z",
     "url": "https://github.com/LucasDevKid9/collab-charter"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 11,
-    "updated_at": "2026-10-29T00:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "252 curated FLUX 2 prompts with preview images, grouped by use case.",
@@ -338,7 +419,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-29T00:16:59Z",
+    "updated_at": "2026-10-29T00:58:23Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:14:38Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Python",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:14:21Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "An IT helpdesk AI agent with a guardrailed tool layer: 17 typed tools behind one chokepoint, human approval bound to the",
-    "id": "devpayoub/DeskPilot-Backend",
-    "language": "Python",
-    "name": "devpayoub/DeskPilot-Backend",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:12:38Z",
-    "url": "https://github.com/devpayoub/DeskPilot-Backend"
-  },
-  {
-    "description": "The definitive AI Toolkit for Data Engineering & Analytics. Pre-configured specialists, skills, and validation scripts f",
-    "id": "luccapinto/agentic-data-kit",
-    "language": "HTML",
-    "name": "luccapinto/agentic-data-kit",
-    "stars": 7,
-    "updated_at": "2026-10-29T00:11:44Z",
-    "url": "https://github.com/luccapinto/agentic-data-kit"
-  },
-  {
-    "description": "Modular agentic prompt library \u2014 turn a brief into production-ready software specs. Built for small context windows. By ",
-    "id": "ameedanxari/ai-prompt-library",
-    "language": "TypeScript",
-    "name": "ameedanxari/ai-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:11:24Z",
-    "url": "https://github.com/ameedanxari/ai-prompt-library"
-  },
-  {
-    "description": "DSH \u8f93\u5165\u6846\u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u70b9\u4e00\u4e0b \u2728 \u628a\u8349\u7a3f\u6539\u5199\u6210\u66f4\u6e05\u6670\u3001\u66f4\u5177\u4f53\u7684\u6307\u4ee4",
-    "id": "adcx222/dsh-enhance-prompt",
-    "language": "JavaScript",
-    "name": "adcx222/dsh-enhance-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:10:32Z",
-    "url": "https://github.com/adcx222/dsh-enhance-prompt"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:10:55Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
-    "id": "minirr890112-byte/HermesMade",
-    "language": "Shell",
-    "name": "minirr890112-byte/HermesMade",
-    "stars": 4,
-    "updated_at": "2026-10-29T00:08:36Z",
-    "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 40516,
-    "updated_at": "2026-10-29T00:07:04Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13703,
-    "updated_at": "2026-10-29T00:06:13Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
